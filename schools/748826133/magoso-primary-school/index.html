@@ -20,7 +20,7 @@
     <!-- tag css
          template=<link rel="stylesheet" href="{path}" />
          -->
-<link rel="stylesheet" href="/static/css/b945f26d34c357d02bf84b23396e5ca3ca079df3.css" />
+<link rel="stylesheet" href="/static/css/e491a8cfd126b56478e7dee525353586a8bb5a4b.css" />
 <!-- endtag css -->
     <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Lato:300,400,700,900" />
   </head>
@@ -34,9 +34,9 @@
         </a>
         <ul class="page-nav-links">
           
-            <li><a href="#school-map" title="School Map"><span>School Map</span></a></li>
+            <li><a href="/#map" title="Kibera Schools Map"><span>Kibera Schools Map</span></a></li>
           
-            <li><a href="#school-blurbs" title="Highlights"><span>Highlights</span></a></li>
+            <li><a href="/#stories" title="Highlights"><span>Highlights</span></a></li>
           
             <li><a href="/blog/#blog-posts" title="Blog"><span>Blog</span></a></li>
           
@@ -56,7 +56,7 @@
     
 
   <section id="school-top">
-    <h1>Magoso Primary School</h1>
+    <h1><a href="/#map" class="back-to-schools-map"><span>Back to schools map</span></a> Magoso Primary School</h1>
 
     
       <div id="school-photos-frame">
@@ -94,1430 +94,392 @@
   </section>
 
   <section id="school-map">
-    <header class="map-controls">
-      <ul class="controls">
-        <li id="map-main">
-          <a class="activate" href="/#map">Back to Main Map</a>
-        </li>
-        <li id="data">
-          <a class="activate" href="/data/">Data</a>
-        </li>
-      </ul>
-      <div class="social">
-        <h3>Share</h3>
-        <a href="https://twitter.com/share" class="twitter-share-button" data-url="http://schools.mapkibera.org/schools/748826133/magoso-primary-school">Tweet</a>
-        <div class="fb-like" data-href="http://schools.mapkibera.org/schools/748826133/magoso-primary-school" data-width="80" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false"></div>
-      </div>
-    </header>
     <div id="school-map-display" class="map"></div>
     <script>
-      var school = {"geometry": {"coordinates": [[36.79323, -1.310448], [36.79242, -1.30789]], "type": "MultiPoint"}, "id": null, "locations": [[36.79323, -1.310448], [36.79242, -1.30789]], "name": "Magoso Primary School", "properties": {"kenyaopendata:Boys Toilets": "1", "kenyaopendata:Costituency": "LANGATA", "kenyaopendata:District": "NAIROBI", "kenyaopendata:Division": "KIBERA", "kenyaopendata:GOK TSC Female": "0", "kenyaopendata:GOK TSC Male": "0", "kenyaopendata:Girls Toilets": "1", "kenyaopendata:Level of Education": "PRIMARY SCHOOL", "kenyaopendata:Local Authority Female": "0", "kenyaopendata:Local Authority Male": "0", "kenyaopendata:Location": "LAINI SABA", "kenyaopendata:Non-Teaching Staff Female": "2", "kenyaopendata:Non-Teaching Staff Male": "1", "kenyaopendata:Others Female": "3", "kenyaopendata:Others Male": "6", "kenyaopendata:PTA BOG Female": "0", "kenyaopendata:PTA BOG Male": "0", "kenyaopendata:Province": "NAIROBI", "kenyaopendata:Pupil Classroom Ratio": "14.9", "kenyaopendata:Pupil Teacher Ratio": "14.9", "kenyaopendata:Pupil Toilet Ratio": "67", "kenyaopendata:School Institution Type_1": "MIXED", "kenyaopendata:School Institution Type_2": "DAY ONLY", "kenyaopendata:School Institution Type_3": "ORDINARY", "kenyaopendata:Sponsor of School": "PRIVATE INDIVIDUAL", "kenyaopendata:Status of School": "PRIVATE", "kenyaopendata:Teachers Toilets": "1", "kenyaopendata:Total Boys": "", "kenyaopendata:Total Enrolment": "134", "kenyaopendata:Total Girls": "", "kenyaopendata:Total Number of Classrooms": "9", "kenyaopendata:Total Toilets": "", "kenyaopendata:official_name": "MAGOSO PRIMARY", "name": "Magoso Primary School", "osm:_timestamp": "2014-08-25T09:12:45Z", "osm:_user": "Blasio", "osm:accessibility": "foot", "osm:amenity": "school", "osm:building:levels": "0", "osm:building:material": "concrete", "osm:building:roof": "ironsheets", "osm:contact:address": "P O Box 40185 -00100, Nairobi", "osm:contact:email": "kjgmagoso@yahoo.co.uk", "osm:contact:phone": "0725712604", "osm:education:curriculum": "8_4_4", "osm:education:exam_center": "yes", "osm:education:extra_music": "yes", "osm:education:extra_sports": "yes", "osm:education:fees": "4050", "osm:education:gender_type": "mixed", "osm:education:government_registered": "mgcsd", "osm:education:management_committee": "yes", "osm:education:program_computers": "yes", "osm:education:program_counseling": "yes", "osm:education:program_description": "music and drama", "osm:education:program_feeding": "yes", "osm:education:program_orphans": "yes", "osm:education:program_other": "computer classes", "osm:education:program_scouting": "yes", "osm:education:program_specialneeds": "yes", "osm:education:pta": "yes", "osm:education:staff_female": "3", "osm:education:staff_male": "4", "osm:education:student_age_range": "2-15yrs", "osm:education:student_female": "229", "osm:education:student_male": "239", "osm:education:students": "468", "osm:education:students_female": "210", "osm:education:students_male": "158", "osm:education:teachers": "10", "osm:education:teachers_female": "2", "osm:education:teachers_male": "8", "osm:education:teachers_trained": "7", "osm:education:teachers_untrained": "6", "osm:education:type": "primary", "osm:electricity:operational_status": "often", "osm:id": "node/748826133", "osm:image:classroom": "https://0079f04f78208eb6dbf00f4be735c0a32d71c3ad.googledrive.com/host/0B8cIVKWxH2-6Ynk0MDZJUnNpdUU/Joshua/Schools/Magoso%20School/class.JPG", "osm:image:compound": "https://0079f04f78208eb6dbf00f4be735c0a32d71c3ad.googledrive.com/host/0B8cIVKWxH2-6Ynk0MDZJUnNpdUU/Joshua/Schools/Magoso%20School/assembly.JPG", "osm:image:other": "https://0079f04f78208eb6dbf00f4be735c0a32d71c3ad.googledrive.com/host/0B8cIVKWxH2-6Ynk0MDZJUnNpdUU/Joshua/Schools/Magoso%20School/building.JPG", "osm:image:outside": "https://0079f04f78208eb6dbf00f4be735c0a32d71c3ad.googledrive.com/host/0B8cIVKWxH2-6Ynk0MDZJUnNpdUU/Joshua/Schools/Magoso%20School/gate.JPG", "osm:images": "/data/images/cache/node/748826133/https0079f04f78208eb6dbf00f4be735c0a32d71c3adgoogledrivecomhost0B8cIVKWxH26Ynk0MDZJUnNpdUUJoshuaSchoolsMagoso20SchoolclassJPG/med.JPG,/data/images/cache/node/748826133/https0079f04f78208eb6dbf00f4be735c0a32d71c3adgoogledrivecomhost0B8cIVKWxH26Ynk0MDZJUnNpdUUJoshuaSchoolsMagoso20SchoolassemblyJPG/med.JPG,/data/images/cache/node/748826133/https0079f04f78208eb6dbf00f4be735c0a32d71c3adgoogledrivecomhost0B8cIVKWxH26Ynk0MDZJUnNpdUUJoshuaSchoolsMagoso20SchoolbuildingJPG/med.JPG,/data/images/cache/node/748826133/https0079f04f78208eb6dbf00f4be735c0a32d71c3adgoogledrivecomhost0B8cIVKWxH26Ynk0MDZJUnNpdUUJoshuaSchoolsMagoso20SchoolgateJPG/med.JPG", "osm:media:camera_device_number": "2", "osm:media:camera_number": "4", "osm:name": "Magoso Primary School", "osm:official_name": "MAGOSO PRIMARY", "osm:opening_hours": "Mo-Fr 08:00-17:00", "osm:operational_status": "operational", "osm:operational_status:electricity": "always", "osm:operator:name": "Lilian Akinyi", "osm:operator:type": "private", "osm:place:village": "Mashimoni", "osm:toilet:present": "yes", "photos": ["/data/images/cache/node/748826133/https0079f04f78208eb6dbf00f4be735c0a32d71c3adgoogledrivecomhost0B8cIVKWxH26Ynk0MDZJUnNpdUUJoshuaSchoolsMagoso20SchoolclassJPG/med.JPG", "/data/images/cache/node/748826133/https0079f04f78208eb6dbf00f4be735c0a32d71c3adgoogledrivecomhost0B8cIVKWxH26Ynk0MDZJUnNpdUUJoshuaSchoolsMagoso20SchoolassemblyJPG/med.JPG", "/data/images/cache/node/748826133/https0079f04f78208eb6dbf00f4be735c0a32d71c3adgoogledrivecomhost0B8cIVKWxH26Ynk0MDZJUnNpdUUJoshuaSchoolsMagoso20SchoolbuildingJPG/med.JPG", "/data/images/cache/node/748826133/https0079f04f78208eb6dbf00f4be735c0a32d71c3adgoogledrivecomhost0B8cIVKWxH26Ynk0MDZJUnNpdUUJoshuaSchoolsMagoso20SchoolgateJPG/med.JPG"]}, "selected_properties": {"kenyaopendata:Level of Education": "PRIMARY SCHOOL", "kenyaopendata:Sponsor of School": "PRIVATE INDIVIDUAL", "kenyaopendata:Total Boys": "", "kenyaopendata:Total Girls": "", "osm:education:students_female": "210", "osm:education:students_male": "158", "osm:education:teachers": "10", "osm:education:type": "primary", "osm:operator:type": "private"}, "slug": "748826133/magoso-primary-school", "type": "Feature"};
+      var school = {"geometry": {"coordinates": [[36.79323, -1.310448], [36.79242, -1.30789]], "type": "MultiPoint"}, "id": null, "locations": [[36.79323, -1.310448], [36.79242, -1.30789]], "name": "Magoso Primary School", "properties": {"kenyaopendata:Boys Toilets": "1", "kenyaopendata:Costituency": "LANGATA", "kenyaopendata:District": "NAIROBI", "kenyaopendata:Division": "KIBERA", "kenyaopendata:GOK TSC Female": "0", "kenyaopendata:GOK TSC Male": "0", "kenyaopendata:Girls Toilets": "1", "kenyaopendata:Level of Education": "PRIMARY SCHOOL", "kenyaopendata:Local Authority Female": "0", "kenyaopendata:Local Authority Male": "0", "kenyaopendata:Location": "LAINI SABA", "kenyaopendata:Non-Teaching Staff Female": "2", "kenyaopendata:Non-Teaching Staff Male": "1", "kenyaopendata:Others Female": "3", "kenyaopendata:Others Male": "6", "kenyaopendata:PTA BOG Female": "0", "kenyaopendata:PTA BOG Male": "0", "kenyaopendata:Province": "NAIROBI", "kenyaopendata:Pupil Classroom Ratio": "14.9", "kenyaopendata:Pupil Teacher Ratio": "14.9", "kenyaopendata:Pupil Toilet Ratio": "67", "kenyaopendata:School Institution Type_1": "MIXED", "kenyaopendata:School Institution Type_2": "DAY ONLY", "kenyaopendata:School Institution Type_3": "ORDINARY", "kenyaopendata:Sponsor of School": "PRIVATE INDIVIDUAL", "kenyaopendata:Status of School": "PRIVATE", "kenyaopendata:Teachers Toilets": "1", "kenyaopendata:Total Boys": "", "kenyaopendata:Total Enrolment": "134", "kenyaopendata:Total Girls": "", "kenyaopendata:Total Number of Classrooms": "9", "kenyaopendata:Total Toilets": "", "kenyaopendata:official_name": "MAGOSO PRIMARY", "name": "Magoso Primary School", "osm:_timestamp": "2015-01-03T18:36:53Z", "osm:_user": "JamesLC", "osm:accessibility": "foot", "osm:amenity": "school", "osm:building:levels": "0", "osm:building:material": "concrete", "osm:building:roof": "ironsheets", "osm:contact:address": "P O Box 40185 -00100, Nairobi", "osm:contact:email": "kjgmagoso@yahoo.co.uk", "osm:contact:phone": "0725712604", "osm:education:curriculum": "8_4_4", "osm:education:exam_center": "yes", "osm:education:extra_music": "yes", "osm:education:extra_sports": "yes", "osm:education:fees": "4050", "osm:education:gender_type": "mixed", "osm:education:government_registered": "mgcsd", "osm:education:management_committee": "yes", "osm:education:program_computers": "yes", "osm:education:program_counseling": "yes", "osm:education:program_description": "music and drama", "osm:education:program_feeding": "yes", "osm:education:program_orphans": "yes", "osm:education:program_other": "computer classes", "osm:education:program_scouting": "yes", "osm:education:program_specialneeds": "yes", "osm:education:pta": "yes", "osm:education:staff_female": "3", "osm:education:staff_male": "4", "osm:education:student_age_range": "2-15yrs", "osm:education:students": "468", "osm:education:students_female": "229", "osm:education:students_male": "239", "osm:education:teachers": "10", "osm:education:teachers_female": "2", "osm:education:teachers_male": "8", "osm:education:teachers_trained": "7", "osm:education:teachers_untrained": "6", "osm:education:type": "primary", "osm:electricity:operational_status": "often", "osm:id": "node/748826133", "osm:image:classroom": "https://0079f04f78208eb6dbf00f4be735c0a32d71c3ad.googledrive.com/host/0B8cIVKWxH2-6Ynk0MDZJUnNpdUU/Joshua/Schools/Magoso%20School/class.JPG", "osm:image:compound": "https://0079f04f78208eb6dbf00f4be735c0a32d71c3ad.googledrive.com/host/0B8cIVKWxH2-6Ynk0MDZJUnNpdUU/Joshua/Schools/Magoso%20School/assembly.JPG", "osm:image:other": "https://0079f04f78208eb6dbf00f4be735c0a32d71c3ad.googledrive.com/host/0B8cIVKWxH2-6Ynk0MDZJUnNpdUU/Joshua/Schools/Magoso%20School/building.JPG", "osm:image:outside": "https://0079f04f78208eb6dbf00f4be735c0a32d71c3ad.googledrive.com/host/0B8cIVKWxH2-6Ynk0MDZJUnNpdUU/Joshua/Schools/Magoso%20School/gate.JPG", "osm:images": "/data/images/cache/node/748826133/https0079f04f78208eb6dbf00f4be735c0a32d71c3adgoogledrivecomhost0B8cIVKWxH26Ynk0MDZJUnNpdUUJoshuaSchoolsMagoso20SchoolclassJPG/med.JPG,/data/images/cache/node/748826133/https0079f04f78208eb6dbf00f4be735c0a32d71c3adgoogledrivecomhost0B8cIVKWxH26Ynk0MDZJUnNpdUUJoshuaSchoolsMagoso20SchoolassemblyJPG/med.JPG,/data/images/cache/node/748826133/https0079f04f78208eb6dbf00f4be735c0a32d71c3adgoogledrivecomhost0B8cIVKWxH26Ynk0MDZJUnNpdUUJoshuaSchoolsMagoso20SchoolbuildingJPG/med.JPG,/data/images/cache/node/748826133/https0079f04f78208eb6dbf00f4be735c0a32d71c3adgoogledrivecomhost0B8cIVKWxH26Ynk0MDZJUnNpdUUJoshuaSchoolsMagoso20SchoolgateJPG/med.JPG", "osm:media:camera_device_number": "2", "osm:media:camera_number": "4", "osm:name": "Magoso Primary School", "osm:official_name": "MAGOSO PRIMARY", "osm:opening_hours": "Mo-Fr 08:00-17:00", "osm:operational_status": "operational", "osm:operational_status:electricity": "always", "osm:operator:name": "Lilian Akinyi", "osm:operator:type": "private", "osm:place:village": "Mashimoni", "osm:toilet:present": "yes", "photos": ["/data/images/cache/node/748826133/https0079f04f78208eb6dbf00f4be735c0a32d71c3adgoogledrivecomhost0B8cIVKWxH26Ynk0MDZJUnNpdUUJoshuaSchoolsMagoso20SchoolclassJPG/med.JPG", "/data/images/cache/node/748826133/https0079f04f78208eb6dbf00f4be735c0a32d71c3adgoogledrivecomhost0B8cIVKWxH26Ynk0MDZJUnNpdUUJoshuaSchoolsMagoso20SchoolassemblyJPG/med.JPG", "/data/images/cache/node/748826133/https0079f04f78208eb6dbf00f4be735c0a32d71c3adgoogledrivecomhost0B8cIVKWxH26Ynk0MDZJUnNpdUUJoshuaSchoolsMagoso20SchoolbuildingJPG/med.JPG", "/data/images/cache/node/748826133/https0079f04f78208eb6dbf00f4be735c0a32d71c3adgoogledrivecomhost0B8cIVKWxH26Ynk0MDZJUnNpdUUJoshuaSchoolsMagoso20SchoolgateJPG/med.JPG"]}, "selected_properties": {"kenyaopendata:Level of Education": "PRIMARY SCHOOL", "kenyaopendata:Sponsor of School": "PRIVATE INDIVIDUAL", "kenyaopendata:Total Boys": "", "kenyaopendata:Total Girls": "", "osm:education:students_female": "229", "osm:education:students_male": "239", "osm:education:teachers": "10", "osm:education:type": "primary", "osm:operator:type": "private"}, "slug": "748826133/magoso-primary-school", "type": "Feature"};
     </script>
   </section>
 
-  <section id="school-brief">
-  </section>
+
+  
+
 
   <section id="school-blurbs">
-    <div class="school-info-row header-stats">
-      <header class="school-stats">
-        <p class="source">OSM Data</p>
-        <h2>Magoso Primary School</h2>
 
-        
-        
-          <h3>368 Students</h3>
-        
-
-        <small>Location: -1.310448, 36.79323</small>
-      </header>
-      <header class="school-stats">
-        <p class="source">Kenya Open Data</p>
-        <h2>MAGOSO PRIMARY</h2>
-
-        
-        
-
-        
-          <small>Location: -1.30789, 36.79242</small>
-        
-        
-      </header>
-    </div>
-
-    
-
-<!--
-    <div class="school-info-row">
-      <div class="school-stats stats-grid">
-        
-          
-      
-      
-        <div class="cell">
-          <h4>Education Level</h4>
-          <span class="value">primary</span>
-        </div>
-      
-    
-        
-          
-      
-      
-        <div class="cell">
-          <h4>Operator</h4>
-          <span class="value">Lilian Akinyi</span>
-        </div>
-      
-    
-        
-          
-      
-      
-        <div class="cell">
-          <h4>Type of School</h4>
-          <span class="value">private</span>
-        </div>
-      
-    
-        
-          
-      
-      
-    
-        
-          
-      
-      
-        <div class="cell">
-          <h4>Government Registration</h4>
-          <span class="value">mgcsd</span>
-        </div>
-      
-    
-        
-          
-      
-      
-    
-        
-          
-      
-      
-        <div class="cell">
-          <h4>Village or ward</h4>
-          <span class="value">Mashimoni</span>
-        </div>
-      
-    
-        
-          
-      
-      
-        <div class="cell">
-          <h4>Phone</h4>
-          <span class="value">0725712604</span>
-        </div>
-      
-    
-        
-          
-      
-      
-        <div class="cell">
-          <h4>Address</h4>
-          <span class="value">P O Box 40185 -00100, Nairobi</span>
-        </div>
-      
-    
-        
-          
-      
-      
-        <div class="cell">
-          <h4>Email</h4>
-          <span class="value">kjgmagoso@yahoo.co.uk</span>
-        </div>
-      
-    
-        
-          
-      
-      
-        <div class="cell">
-          <h4>Accessibility</h4>
-          <span class="value">foot</span>
-        </div>
-      
-    
-        
-          
-      
-      
-        <div class="cell">
-          <h4>Building Material</h4>
-          <span class="value">concrete</span>
-        </div>
-      
-    
-        
-          
-      
-      
-        <div class="cell">
-          <h4>Roof Material</h4>
-          <span class="value">ironsheets</span>
-        </div>
-      
-    
-        
-          
-      
-      
-        <div class="cell">
-          <h4>Building Levels</h4>
-          <span class="value">0</span>
-        </div>
-      
-    
-        
-          
-      
-      
-    
-        
-          
-      
-      
-        <div class="cell">
-          <h4>Toilet</h4>
-          <span class="value">yes</span>
-        </div>
-      
-    
-        
-          
-      
-      
-        <div class="cell">
-          <h4>Number of Students</h4>
-          <span class="value">468</span>
-        </div>
-      
-    
-        
-          
-      
-      
-        <div class="cell">
-          <h4>Number of Male Students</h4>
-          <span class="value">239</span>
-        </div>
-      
-    
-        
-          
-      
-      
-        <div class="cell">
-          <h4>Number of Female Students</h4>
-          <span class="value">229</span>
-        </div>
-      
-    
-        
-          
-      
-      
-        <div class="cell">
-          <h4>Teachers</h4>
-          <span class="value">10</span>
-        </div>
-      
-    
-        
-          
-      
-      
-    
-        
-          
-      
-      
-        <div class="cell">
-          <h4>Management Committee</h4>
-          <span class="value">yes</span>
-        </div>
-      
-    
-        
-          
-      
-      
-    
-        
-          
-      
-      
-        <div class="cell">
-          <h4>Feeding Program</h4>
-          <span class="value">yes</span>
-        </div>
-      
-    
-        
-          
-      
-      
-    
-        
-          
-      
-      
-    
-        
-          
-      
-      
-        <div class="cell">
-          <h4>Name</h4>
-          <span class="value">Magoso Primary School</span>
-        </div>
-      
-    
-        
+    <div class="school-info-tabs">
+      <div class="data-source-tab">
+        <h2>
+          <a href="#data-source-osm" class="data-selectable data-osm selected">Open Street Maps Data</a>
+        </h2>
       </div>
-      
-        <div class="school-stats stats-grid">
-        
-          
-      
-      
-        <div class="cell">
-          <h4>Education Level</h4>
-          <span class="value">PRIMARY SCHOOL</span>
-        </div>
-      
-    
-        
-          
-      
-      
-        <div class="cell">
-          <h4>Operator</h4>
-          <span class="value">PRIVATE INDIVIDUAL</span>
-        </div>
-      
-    
-        
-          
-      
-      
-        <div class="cell">
-          <h4>Type of School</h4>
-          <span class="value">PRIVATE</span>
-        </div>
-      
-    
-        
-          
-      
-      
-    
-        
-          
-      
-      
-    
-        
-          
-      
-      
-    
-        
-          
-      
-      
-        <div class="cell">
-          <h4>Village or ward</h4>
-          <span class="value">LAINI SABA</span>
-        </div>
-      
-    
-        
-          
-      
-      
-    
-        
-          
-      
-      
-    
-        
-          
-      
-      
-    
-        
-          
-      
-      
-    
-        
-          
-      
-      
-    
-        
-          
-      
-      
-    
-        
-          
-      
-      
-    
-        
-          
-      
-      
-        <div class="cell">
-          <h4>Boarding or not</h4>
-          <span class="value">DAY ONLY</span>
-        </div>
-      
-    
-        
-          
-      
-      
-    
-        
-          
-      
-      
-        <div class="cell">
-          <h4>Number of Students</h4>
-          <span class="value">134</span>
-        </div>
-      
-    
-        
-          
-      
-      
-    
-        
-          
-      
-      
-    
-        
-          
-      
-      
-    
-        
-          
-      
-      
-    
-        
-          
-      
-      
-    
-        
-          
-      
-      
-    
-        
-          
-      
-      
-    
-        
-          
-      
-      
-    
-        
-          
-      
-      
-    
-        
-          
-      
-      
-        <div class="cell">
-          <h4>Name</h4>
-          <span class="value">MAGOSO PRIMARY</span>
-        </div>
-      
-    
-        
-        </div>
-      
-    </div>
--->
-
-    
-    <div class="school-info-row">
-            <div class="school-stats school-more-stats">
-    
-        
-        
-            <h3>Basics</h3>
-            <table>
-            
-              
-                
-                
-                <tr>
-                  <th>Education Level</th>
-                  
-                  <td>primary</td>
-                </tr>
-                
-              
-            
-              
-                
-                
-                <tr>
-                  <th>Operator</th>
-                  
-                  <td>Lilian Akinyi</td>
-                </tr>
-                
-              
-            
-              
-                
-                
-                <tr>
-                  <th>Type of School</th>
-                  
-                  <td>private</td>
-                </tr>
-                
-              
-            
-              
-                
-                
-              
-            
-              
-                
-                
-                <tr>
-                  <th>Government Registration</th>
-                  
-                  <td>mgcsd</td>
-                </tr>
-                
-              
-            
-              
-                
-                
-              
-            
-              
-                
-                
-                <tr>
-                  <th>Village or ward</th>
-                  
-                  <td>Mashimoni</td>
-                </tr>
-                
-              
-            
-              
-                
-                
-                <tr>
-                  <th>Phone</th>
-                  
-                  <td>0725712604</td>
-                </tr>
-                
-              
-            
-              
-                
-                
-                <tr>
-                  <th>Address</th>
-                  
-                  <td>P O Box 40185 -00100, Nairobi</td>
-                </tr>
-                
-              
-            
-              
-                
-                
-                <tr>
-                  <th>Email</th>
-                  
-                  <td>kjgmagoso@yahoo.co.uk</td>
-                </tr>
-                
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-            </table>
-        
-            <h3>Population</h3>
-            <table>
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-                
-                
-                <tr>
-                  <th>Number of Students</th>
-                  
-                  <td>468</td>
-                </tr>
-                
-              
-            
-              
-                
-                
-                <tr>
-                  <th>Number of Male Students</th>
-                  
-                  <td>239</td>
-                </tr>
-                
-              
-            
-              
-                
-                
-                <tr>
-                  <th>Number of Female Students</th>
-                  
-                  <td>229</td>
-                </tr>
-                
-              
-            
-              
-                
-                
-                <tr>
-                  <th>Teachers</th>
-                  
-                  <td>10</td>
-                </tr>
-                
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-            </table>
-        
-            <h3>Infrastructure</h3>
-            <table>
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-                
-                
-                <tr>
-                  <th>Accessibility</th>
-                  
-                  <td>foot</td>
-                </tr>
-                
-              
-            
-              
-                
-                
-                <tr>
-                  <th>Building Material</th>
-                  
-                  <td>concrete</td>
-                </tr>
-                
-              
-            
-              
-                
-                
-                <tr>
-                  <th>Roof Material</th>
-                  
-                  <td>ironsheets</td>
-                </tr>
-                
-              
-            
-              
-                
-                
-                <tr>
-                  <th>Building Levels</th>
-                  
-                  <td>0</td>
-                </tr>
-                
-              
-            
-              
-                
-                
-              
-            
-              
-                
-                
-                <tr>
-                  <th>Toilet</th>
-                  
-                  <td>yes</td>
-                </tr>
-                
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-            </table>
-        
-    
-            </div>
-    
-            <div class="school-stats school-more-stats">
-      
-        
-        
-            <h3>Basics</h3>
-            <table>
-            
-              
-                
-                
-                <tr>
-                  <th>Education Level</th>
-                  
-                  <td>PRIMARY SCHOOL</td>
-                </tr>
-                
-              
-            
-              
-                
-                
-                <tr>
-                  <th>Operator</th>
-                  
-                  <td>PRIVATE INDIVIDUAL</td>
-                </tr>
-                
-              
-            
-              
-                
-                
-                <tr>
-                  <th>Type of School</th>
-                  
-                  <td>PRIVATE</td>
-                </tr>
-                
-              
-            
-              
-                
-                
-              
-            
-              
-                
-                
-              
-            
-              
-                
-                
-              
-            
-              
-                
-                
-                <tr>
-                  <th>Village or ward</th>
-                  
-                  <td>LAINI SABA</td>
-                </tr>
-                
-              
-            
-              
-                
-                
-              
-            
-              
-                
-                
-              
-            
-              
-                
-                
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-            </table>
-        
-            <h3>Population</h3>
-            <table>
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-                
-                
-                <tr>
-                  <th>Number of Students</th>
-                  
-                  <td>134</td>
-                </tr>
-                
-              
-            
-              
-                
-                
-                <tr>
-                  <th>Number of Male Students</th>
-                  
-                  <td></td>
-                </tr>
-                
-              
-            
-              
-                
-                
-                <tr>
-                  <th>Number of Female Students</th>
-                  
-                  <td></td>
-                </tr>
-                
-              
-            
-              
-                
-                
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-            </table>
-        
-            <h3>Infrastructure</h3>
-            <table>
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-                
-                
-              
-            
-              
-                
-                
-              
-            
-              
-                
-                
-              
-            
-              
-                
-                
-              
-            
-              
-                
-                
-                <tr>
-                  <th>Boarding or not</th>
-                  
-                  <td>DAY ONLY</td>
-                </tr>
-                
-              
-            
-              
-                
-                
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-            </table>
-        
-    
-            </div>
-    
-    </div>
-
-    
-    <div class="school-info-row">
-      <div class="school-stats school-more-stats">
-        <h3>All Available OSM Data</h3>
-        
-      <table>
-        
-          <tr>
-            <th>education:pta</th>
-            <td>yes</td>
-          </tr>
-        
-          <tr>
-            <th>_timestamp</th>
-            <td>2014-08-25T09:12:45Z</td>
-          </tr>
-        
-          <tr>
-            <th>education:program_scouting</th>
-            <td>yes</td>
-          </tr>
-        
-          <tr>
-            <th>education:staff_male</th>
-            <td>4</td>
-          </tr>
-        
-          <tr>
-            <th>opening_hours</th>
-            <td>Mo-Fr 08:00-17:00</td>
-          </tr>
-        
-          <tr>
-            <th>education:student_age_range</th>
-            <td>2-15yrs</td>
-          </tr>
-        
-          <tr>
-            <th>education:students_female</th>
-            <td>210</td>
-          </tr>
-        
-          <tr>
-            <th>education:staff_female</th>
-            <td>3</td>
-          </tr>
-        
-          <tr>
-            <th>education:program_computers</th>
-            <td>yes</td>
-          </tr>
-        
-          <tr>
-            <th>media:camera_number</th>
-            <td>4</td>
-          </tr>
-        
-          <tr>
-            <th>amenity</th>
-            <td>school</td>
-          </tr>
-        
-          <tr>
-            <th>education:students_male</th>
-            <td>158</td>
-          </tr>
-        
-          <tr>
-            <th>electricity:operational_status</th>
-            <td>often</td>
-          </tr>
-        
-          <tr>
-            <th>education:teachers_untrained</th>
-            <td>6</td>
-          </tr>
-        
-          <tr>
-            <th>education:fees</th>
-            <td>4050</td>
-          </tr>
-        
-          <tr>
-            <th>education:program_counseling</th>
-            <td>yes</td>
-          </tr>
-        
-          <tr>
-            <th>education:program_orphans</th>
-            <td>yes</td>
-          </tr>
-        
-          <tr>
-            <th>operational_status:electricity</th>
-            <td>always</td>
-          </tr>
-        
-          <tr>
-            <th>education:gender_type</th>
-            <td>mixed</td>
-          </tr>
-        
-          <tr>
-            <th>media:camera_device_number</th>
-            <td>2</td>
-          </tr>
-        
-          <tr>
-            <th>education:teachers_trained</th>
-            <td>7</td>
-          </tr>
-        
-          <tr>
-            <th>education:curriculum</th>
-            <td>8_4_4</td>
-          </tr>
-        
-          <tr>
-            <th>_user</th>
-            <td>Blasio</td>
-          </tr>
-        
-          <tr>
-            <th>education:program_other</th>
-            <td>computer classes</td>
-          </tr>
-        
-          <tr>
-            <th>education:program_specialneeds</th>
-            <td>yes</td>
-          </tr>
-        
-          <tr>
-            <th>education:program_description</th>
-            <td>music and drama</td>
-          </tr>
-        
-          <tr>
-            <th>education:extra_sports</th>
-            <td>yes</td>
-          </tr>
-        
-          <tr>
-            <th>id</th>
-            <td>node/748826133</td>
-          </tr>
-        
-          <tr>
-            <th>education:teachers_female</th>
-            <td>2</td>
-          </tr>
-        
-          <tr>
-            <th>education:exam_center</th>
-            <td>yes</td>
-          </tr>
-        
-          <tr>
-            <th>education:extra_music</th>
-            <td>yes</td>
-          </tr>
-        
-          <tr>
-            <th>education:teachers_male</th>
-            <td>8</td>
-          </tr>
-        
-          <tr>
-            <th>official_name</th>
-            <td>MAGOSO PRIMARY</td>
-          </tr>
-        
-          <tr>
-            <th>operational_status</th>
-            <td>operational</td>
-          </tr>
-        
-      </table>
-    
+      <div class="data-source-tab">
+        <h2>
+          <a href="#data-source-kod" class="data-selectable data-kod">Kenya Open Data</a>
+        </h2>
       </div>
-      
+    </div>
+
+    <div class="school-info-data">
+      <div id="data-source-osm" class="data-selectable data-source-data data-osm selected">
         <div class="school-stats school-more-stats">
-          <h3>All Available Kenya Open Data</h3>
           
-      <table>
-        
-          <tr>
-            <th>Teachers Toilets</th>
-            <td>1</td>
-          </tr>
-        
-          <tr>
-            <th>Pupil Toilet Ratio</th>
-            <td>67</td>
-          </tr>
-        
-          <tr>
-            <th>Total Number of Classrooms</th>
-            <td>9</td>
-          </tr>
-        
-          <tr>
-            <th>GOK TSC Male</th>
-            <td>0</td>
-          </tr>
-        
-          <tr>
-            <th>Non-Teaching Staff Female</th>
-            <td>2</td>
-          </tr>
-        
-          <tr>
-            <th>Total Toilets</th>
-            <td></td>
-          </tr>
-        
-          <tr>
-            <th>Non-Teaching Staff Male</th>
-            <td>1</td>
-          </tr>
-        
-          <tr>
-            <th>PTA BOG Female</th>
-            <td>0</td>
-          </tr>
-        
-          <tr>
-            <th>Others Male</th>
-            <td>6</td>
-          </tr>
-        
-          <tr>
-            <th>GOK TSC Female</th>
-            <td>0</td>
-          </tr>
-        
-          <tr>
-            <th>Costituency</th>
-            <td>LANGATA</td>
-          </tr>
-        
-          <tr>
-            <th>Local Authority Female</th>
-            <td>0</td>
-          </tr>
-        
-          <tr>
-            <th>Girls Toilets</th>
-            <td>1</td>
-          </tr>
-        
-          <tr>
-            <th>Division</th>
-            <td>KIBERA</td>
-          </tr>
-        
-          <tr>
-            <th>Boys Toilets</th>
-            <td>1</td>
-          </tr>
-        
-          <tr>
-            <th>PTA BOG Male</th>
-            <td>0</td>
-          </tr>
-        
-          <tr>
-            <th>Province</th>
-            <td>NAIROBI</td>
-          </tr>
-        
-          <tr>
-            <th>School Institution Type_3</th>
-            <td>ORDINARY</td>
-          </tr>
-        
-          <tr>
-            <th>Pupil Teacher Ratio</th>
-            <td>14.9</td>
-          </tr>
-        
-          <tr>
-            <th>District</th>
-            <td>NAIROBI</td>
-          </tr>
-        
-          <tr>
-            <th>Pupil Classroom Ratio</th>
-            <td>14.9</td>
-          </tr>
-        
-          <tr>
-            <th>Others Female</th>
-            <td>3</td>
-          </tr>
-        
-          <tr>
-            <th>School Institution Type_1</th>
-            <td>MIXED</td>
-          </tr>
-        
-          <tr>
-            <th>Local Authority Male</th>
-            <td>0</td>
-          </tr>
-        
-      </table>
     
+      <h3>Basics</h3>
+      <div class="h-scroll-container">
+        <table>
+          <thead>
+            <tr>
+              
+                
+                  <th>Education Level</th>
+                
+              
+                
+                  <th>Operator</th>
+                
+              
+                
+                  <th>Type of School</th>
+                
+              
+                
+              
+                
+                  <th>Government Registration</th>
+                
+              
+                
+              
+                
+                  <th>Village or ward</th>
+                
+              
+                
+                  <th>Phone</th>
+                
+              
+                
+                  <th>Address</th>
+                
+              
+                
+                  <th>Email</th>
+                
+              
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              
+                
+                  <td>primary</td>
+                
+              
+                
+                  <td>Lilian Akinyi</td>
+                
+              
+                
+                  <td>private</td>
+                
+              
+                
+              
+                
+                  <td>mgcsd</td>
+                
+              
+                
+              
+                
+                  <td>Mashimoni</td>
+                
+              
+                
+                  <td>0725712604</td>
+                
+              
+                
+                  <td>P O Box 40185 -00100, Nairobi</td>
+                
+              
+                
+                  <td>kjgmagoso@yahoo.co.uk</td>
+                
+              
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    
+      <h3>Population</h3>
+      <div class="h-scroll-container">
+        <table>
+          <thead>
+            <tr>
+              
+                
+                  <th>Students</th>
+                
+              
+                
+              
+                
+              
+                
+                  <th>Teachers</th>
+                
+              
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              
+                
+                  <td>468</td>
+                
+              
+                
+              
+                
+              
+                
+                  <td>10</td>
+                
+              
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    
+      <h3>Infrastructure</h3>
+      <div class="h-scroll-container">
+        <table>
+          <thead>
+            <tr>
+              
+                
+                  <th>Accessibility</th>
+                
+              
+                
+                  <th>Building Material</th>
+                
+              
+                
+                  <th>Roof Material</th>
+                
+              
+                
+                  <th>Building Levels</th>
+                
+              
+                
+              
+                
+                  <th>Toilet</th>
+                
+              
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              
+                
+                  <td>foot</td>
+                
+              
+                
+                  <td>concrete</td>
+                
+              
+                
+                  <td>ironsheets</td>
+                
+              
+                
+                  <td>0</td>
+                
+              
+                
+              
+                
+                  <td>yes</td>
+                
+              
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    
+  
         </div>
-      
+      </div>
+      <div id="data-source-kod" class="data-selectable data-source-data data-kod">
+        
+          <div class="school-stats school-more-stats">
+            
+    
+      <h3>Basics</h3>
+      <div class="h-scroll-container">
+        <table>
+          <thead>
+            <tr>
+              
+                
+                  <th>Education Level</th>
+                
+              
+                
+                  <th>Operator</th>
+                
+              
+                
+                  <th>Type of School</th>
+                
+              
+                
+              
+                
+              
+                
+              
+                
+                  <th>Village or ward</th>
+                
+              
+                
+              
+                
+              
+                
+              
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              
+                
+                  <td>PRIMARY SCHOOL</td>
+                
+              
+                
+                  <td>PRIVATE INDIVIDUAL</td>
+                
+              
+                
+                  <td>PRIVATE</td>
+                
+              
+                
+              
+                
+              
+                
+              
+                
+                  <td>LAINI SABA</td>
+                
+              
+                
+              
+                
+              
+                
+              
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    
+      <h3>Population</h3>
+      <div class="h-scroll-container">
+        <table>
+          <thead>
+            <tr>
+              
+                
+                  <th>Students</th>
+                
+              
+                
+              
+                
+              
+                
+              
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              
+                
+                  <td>134</td>
+                
+              
+                
+              
+                
+              
+                
+              
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    
+      <h3>Infrastructure</h3>
+      <div class="h-scroll-container">
+        <table>
+          <thead>
+            <tr>
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+                  <th>Boarding or not</th>
+                
+              
+                
+              
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+                  <td>DAY ONLY</td>
+                
+              
+                
+              
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    
+  
+          </div>
+        
+      </div>
     </div>
+
+    
+
   </section>
 
   <section id="school-feedback">
@@ -1559,7 +521,7 @@
           <address>
             <dl>
               <dt class="address-email">Email</dt>
-              <dd><img src="http://mapkibera.org/kibera-email.png"/></dd>
+              <dd><a href='mailto:contact@mapkibera.org'>contact@mapkibera.org</a></dd>
             </dl>
           </address>
         </div>
@@ -1569,7 +531,7 @@
 <!-- Begin MailChimp Signup Form -->
 <link href="http://cdn-images.mailchimp.com/embedcode/slim-081711.css" rel="stylesheet" type="text/css">
 <style type="text/css">
-	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
+	#mc_embed_signup{clear:left; font:14px Helvetica,Arial,sans-serif; }
 	/* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
 	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
 </style>
@@ -1588,23 +550,21 @@
       <div class="footer-copyright">
 
         <div id="copyright">
-          <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+          <small>
+            <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0;" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /> This work is licensed under Creative Commons Attribution 4.0 International License</a>.
+          </small>
+          <p>
+            <small class='credits'>
+              Icon Credits:
+              Teacher designed by <a href="http://www.thenounproject.com/pchuchla">Piotrek Chuchla</a>, Light Bulb designed by <a href="http://www.thenounproject.com/pascual.bilotta">Pascual Bilotta</a> from the <a href="http://www.thenounproject.com">Noun Project</a>
+            </small>
+          </p>
         </div>
-
-        <ul class="footer-social-links social">
-          
-            <li><a href="https://www.facebook.com/groups/mapkibera/" class="icon-facebook" title="Facebook" target="_top">Facebook</a></li>
-          
-            <li><a href="https://twitter.com/mapkibera" class="icon-twitter" title="Twitter" target="_top">Twitter</a></li>
-          
-        </ul>
-
       </div>
-    </footer>
     <!-- tag js
          template=<script src="{path}"></script>
          -->
-<script src="/static/js/105736bf425946a63abb410cc90e18d8c16104e3.js"></script>
+<script src="/static/js/5dc5797cc0ef0c7915ab2dfe724b1e8fd75edf4d.js"></script>
 <!-- endtag js -->
     <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
   </body>

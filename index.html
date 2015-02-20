@@ -20,7 +20,7 @@
     <!-- tag css
          template=<link rel="stylesheet" href="{path}" />
          -->
-<link rel="stylesheet" href="/static/css/b945f26d34c357d02bf84b23396e5ca3ca079df3.css" />
+<link rel="stylesheet" href="/static/css/e491a8cfd126b56478e7dee525353586a8bb5a4b.css" />
 <!-- endtag css -->
     <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Lato:300,400,700,900" />
   </head>
@@ -36,7 +36,7 @@
           
             <li><a href="/#map" title="Kibera Schools Map"><span>Kibera Schools Map</span></a></li>
           
-            <li><a href="/#stats" title="Highlights"><span>Highlights</span></a></li>
+            <li><a href="/#stories" title="Highlights"><span>Highlights</span></a></li>
           
             <li><a href="/blog/#blog-posts" title="Blog"><span>Blog</span></a></li>
           
@@ -106,13 +106,8 @@
 
   <section id="map">
     <header class="map-controls">
-      <div class="accent">
-        <h2>Kibera School Map</h2>
-      </div>
+      <p>Filter schools by </p>
       <ul class="controls">
-        <li class="data">
-          <a class="activate" href="/data/">Download Data</a>
-        </li>
       </ul>
     </header>
 
@@ -121,52 +116,39 @@
 
   <section id="stats">
     <div class="content">
-      <h2>Summary Statistics</h2>
+      <h2>Summary</h2>
       <div class="stats-container">
       </div>
     </div>
   </section>
 
-<!--
   <section id="stories">
-    <h2>Stories</h2>
     <ul>
       
         <li>
-          <div class="smokeglass">
-            <h3>Story One / Gallery</h3>
-            <p>Lorem ipsum sit amet, consectetur adipiscing elit. Cras pellentesque nunc at magna.</p>
-            <a href="stories/story-1" class="button">See More</a>
-          </div>
+            <h2>Schools for Everyone</h2>
+            <img src='static/img/teacher.png'/>
+            <p>Whether you are a parent, a teacher, a school admin, or a government official, you can use this site to find out about details of schools in Kibera. We use data collected by our team and the Kenya Government.</p>
+            <p><a class="action-school-search" href='/#map'>Find Your School</a></p>
         </li>
       
         <li>
-          <div class="smokeglass">
-            <h3>Story Two / Gallery</h3>
-            <p>Description for Educators</p>
-            <a href="stories/story-2" class="button">See More</a>
-          </div>
+            <h2>Story From You and Us</h2>
+            <img src='static/img/lightbulb.png'/>
+            <p>Read our blog and find out about our progress and the latest stories of schools in Kibera. We would also love to hear from you! Comment on a school profile if you would like to share your thoughts about the schools you know.</p>
+            <p><a  href='blog/#blog-posts'>Read the Blog</a></p>
         </li>
       
         <li>
-          <div class="smokeglass">
-            <h3>Story Three / Gallery</h3>
-            <p>Description for Active Parents</p>
-            <a href="stories/story-3" class="button">See More</a>
-          </div>
-        </li>
-      
-        <li>
-          <div class="smokeglass">
-            <h3>Story Four / Gallery</h3>
-            <p>Description for Officials</p>
-            <a href="stories/story-4" class="button">See More</a>
-          </div>
+            <h2>Interested in Data?</h2>
+            <img src='static/img/data.png'/>
+            <p>You can explore the school data by downloading the datasets directly. Our main datasets come from OpenStreetMap and the Kenya government.</p>
+            <p><a  href='/data'>Visit the data</a></p>
         </li>
       
     </ul>
   </section>
--->
+
 
 
     <footer>
@@ -187,7 +169,7 @@
           <address>
             <dl>
               <dt class="address-email">Email</dt>
-              <dd><img src="http://mapkibera.org/kibera-email.png"/></dd>
+              <dd><a href='mailto:contact@mapkibera.org'>contact@mapkibera.org</a></dd>
             </dl>
           </address>
         </div>
@@ -197,7 +179,7 @@
 <!-- Begin MailChimp Signup Form -->
 <link href="http://cdn-images.mailchimp.com/embedcode/slim-081711.css" rel="stylesheet" type="text/css">
 <style type="text/css">
-	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
+	#mc_embed_signup{clear:left; font:14px Helvetica,Arial,sans-serif; }
 	/* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
 	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
 </style>
@@ -216,23 +198,21 @@
       <div class="footer-copyright">
 
         <div id="copyright">
-          <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+          <small>
+            <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0;" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /> This work is licensed under Creative Commons Attribution 4.0 International License</a>.
+          </small>
+          <p>
+            <small class='credits'>
+              Icon Credits:
+              Teacher designed by <a href="http://www.thenounproject.com/pchuchla">Piotrek Chuchla</a>, Light Bulb designed by <a href="http://www.thenounproject.com/pascual.bilotta">Pascual Bilotta</a> from the <a href="http://www.thenounproject.com">Noun Project</a>
+            </small>
+          </p>
         </div>
-
-        <ul class="footer-social-links social">
-          
-            <li><a href="https://www.facebook.com/groups/mapkibera/" class="icon-facebook" title="Facebook" target="_top">Facebook</a></li>
-          
-            <li><a href="https://twitter.com/mapkibera" class="icon-twitter" title="Twitter" target="_top">Twitter</a></li>
-          
-        </ul>
-
       </div>
-    </footer>
     <!-- tag js
          template=<script src="{path}"></script>
          -->
-<script src="/static/js/105736bf425946a63abb410cc90e18d8c16104e3.js"></script>
+<script src="/static/js/5dc5797cc0ef0c7915ab2dfe724b1e8fd75edf4d.js"></script>
 <!-- endtag js -->
     <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
   </body>

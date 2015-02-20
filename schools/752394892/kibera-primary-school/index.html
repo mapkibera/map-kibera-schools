@@ -20,7 +20,7 @@
     <!-- tag css
          template=<link rel="stylesheet" href="{path}" />
          -->
-<link rel="stylesheet" href="/static/css/b945f26d34c357d02bf84b23396e5ca3ca079df3.css" />
+<link rel="stylesheet" href="/static/css/e491a8cfd126b56478e7dee525353586a8bb5a4b.css" />
 <!-- endtag css -->
     <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Lato:300,400,700,900" />
   </head>
@@ -34,9 +34,9 @@
         </a>
         <ul class="page-nav-links">
           
-            <li><a href="#school-map" title="School Map"><span>School Map</span></a></li>
+            <li><a href="/#map" title="Kibera Schools Map"><span>Kibera Schools Map</span></a></li>
           
-            <li><a href="#school-blurbs" title="Highlights"><span>Highlights</span></a></li>
+            <li><a href="/#stories" title="Highlights"><span>Highlights</span></a></li>
           
             <li><a href="/blog/#blog-posts" title="Blog"><span>Blog</span></a></li>
           
@@ -56,7 +56,7 @@
     
 
   <section id="school-top">
-    <h1>Kibera Primary School</h1>
+    <h1><a href="/#map" class="back-to-schools-map"><span>Back to schools map</span></a> Kibera Primary School</h1>
 
     
       <div id="school-photos-frame">
@@ -88,1507 +88,408 @@
   </section>
 
   <section id="school-map">
-    <header class="map-controls">
-      <ul class="controls">
-        <li id="map-main">
-          <a class="activate" href="/#map">Back to Main Map</a>
-        </li>
-        <li id="data">
-          <a class="activate" href="/data/">Data</a>
-        </li>
-      </ul>
-      <div class="social">
-        <h3>Share</h3>
-        <a href="https://twitter.com/share" class="twitter-share-button" data-url="http://schools.mapkibera.org/schools/752394892/kibera-primary-school">Tweet</a>
-        <div class="fb-like" data-href="http://schools.mapkibera.org/schools/752394892/kibera-primary-school" data-width="80" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false"></div>
-      </div>
-    </header>
     <div id="school-map-display" class="map"></div>
     <script>
-      var school = {"geometry": {"coordinates": [[36.783868, -1.309877], [36.783362, -1.307792]], "type": "MultiPoint"}, "id": null, "locations": [[36.783868, -1.309877], [36.783362, -1.307792]], "name": "Kibera Primary School", "properties": {"kenyaopendata:Boys Toilets": "8", "kenyaopendata:Costituency": "LANGATA", "kenyaopendata:District": "NAIROBI", "kenyaopendata:Division": "KIBERA", "kenyaopendata:GOK TSC Female": "26", "kenyaopendata:GOK TSC Male": "7", "kenyaopendata:Girls Toilets": "12", "kenyaopendata:Level of Education": "PRIMARY SCHOOL", "kenyaopendata:Local Authority Female": "0", "kenyaopendata:Local Authority Male": "0", "kenyaopendata:Location": "KIBERA", "kenyaopendata:Non-Teaching Staff Female": "0", "kenyaopendata:Non-Teaching Staff Male": "2", "kenyaopendata:Others Female": "0", "kenyaopendata:Others Male": "0", "kenyaopendata:PTA BOG Female": "0", "kenyaopendata:PTA BOG Male": "0", "kenyaopendata:Province": "NAIROBI", "kenyaopendata:Pupil Classroom Ratio": "74.5", "kenyaopendata:Pupil Teacher Ratio": "72.3", "kenyaopendata:Pupil Toilet Ratio": "119.3", "kenyaopendata:School Institution Type_1": "MIXED", "kenyaopendata:School Institution Type_2": "DAY ONLY", "kenyaopendata:School Institution Type_3": "INTEGRATED", "kenyaopendata:Sponsor of School": "LOCAL GOVERNMENT AUTHORITY", "kenyaopendata:Status of School": "PUBLIC", "kenyaopendata:Teachers Toilets": "5", "kenyaopendata:Total Boys": "1117", "kenyaopendata:Total Enrolment": "2385", "kenyaopendata:Total Girls": "1268", "kenyaopendata:Total Number of Classrooms": "32", "kenyaopendata:Total Toilets": "0", "kenyaopendata:official_name": "KIBERA PRI. SCH.", "name": "Kibera Primary School", "osm:_timestamp": "2014-09-03T19:54:39Z", "osm:_user": "mikelmaron", "osm:accessibility": "big_vehicles", "osm:amenity": "school", "osm:boundary_type:Ward_boundary": "yes", "osm:building:levels": "1", "osm:building:material": "concrete,ironsheets", "osm:building:roof": "ironsheets", "osm:contact:address": "P 0 Box 211372-00505, Nairobi", "osm:contact:email": "oldkiberaprimary@gmail.com", "osm:contact:phone": "0722480530", "osm:education:curriculum": "8_4_4", "osm:education:exam_center": "yes", "osm:education:extra_drama": "yes", "osm:education:extra_music": "yes", "osm:education:extra_scouts": "yes", "osm:education:extra_sports": "yes", "osm:education:fees": "6000", "osm:education:gender_type": "mixed", "osm:education:government_registered": "moe", "osm:education:management_committee": "yes", "osm:education:program_counseling": "yes", "osm:education:program_counselling": "yes", "osm:education:program_feeding": "sponsored", "osm:education:program_scouting": "yes", "osm:education:program_special_needs": "yes", "osm:education:program_sports": "yes", "osm:education:pta": "yes", "osm:education:school_head": "Mrs.Opiyo", "osm:education:staff_female": "3", "osm:education:staff_male": "4", "osm:education:student_age_range": "7-17yrs", "osm:education:student_female": "1124", "osm:education:student_male": "927", "osm:education:students": "2051", "osm:education:teachers": "27", "osm:education:teachers_female": "20", "osm:education:teachers_male": "7", "osm:education:teachers_trained": "27", "osm:education:teachers_untrained": "3", "osm:education:tsc_employed": "27", "osm:education:type": "primary", "osm:electricity:operational_status": "sometimes", "osm:id": "node/752394892", "osm:image:classroom": "https://0079f04f78208eb6dbf00f4be735c0a32d71c3ad.googledrive.com/host/0B8cIVKWxH2-6Ynk0MDZJUnNpdUU/Jacob/Old%20Kibera%20Primary%20School/class.JPG", "osm:image:compound": "https://0079f04f78208eb6dbf00f4be735c0a32d71c3ad.googledrive.com/host/0B8cIVKWxH2-6Ynk0MDZJUnNpdUU/Jacob/Old%20Kibera%20Primary%20School/compound.JPG", "osm:image:outside": "https://0079f04f78208eb6dbf00f4be735c0a32d71c3ad.googledrive.com/host/0B8cIVKWxH2-6Ynk0MDZJUnNpdUU/Jacob/Old%20Kibera%20Primary%20School/sign%20post.JPG", "osm:images": "/data/images/cache/node/752394892/https0079f04f78208eb6dbf00f4be735c0a32d71c3adgoogledrivecomhost0B8cIVKWxH26Ynk0MDZJUnNpdUUJacobOld20Kibera20Primary20SchoolclassJPG/med.JPG,/data/images/cache/node/752394892/https0079f04f78208eb6dbf00f4be735c0a32d71c3adgoogledrivecomhost0B8cIVKWxH26Ynk0MDZJUnNpdUUJacobOld20Kibera20Primary20SchoolcompoundJPG/med.JPG,/data/images/cache/node/752394892/https0079f04f78208eb6dbf00f4be735c0a32d71c3adgoogledrivecomhost0B8cIVKWxH26Ynk0MDZJUnNpdUUJacobOld20Kibera20Primary20Schoolsign20postJPG/med.JPG", "osm:is_in:constituency": "Kibra", "osm:is_in:estate": "Karanja", "osm:is_in:ward": "Makina", "osm:name": "Kibera Primary School", "osm:official_name": "KIBERA PRI. SCH.", "osm:opening_hours": "08:00-17:00", "osm:operational_status": "operational", "osm:operational_status:electricity": "always", "osm:operator:description": "Run by government", "osm:operator:name": "Government", "osm:operator:type": "government", "osm:place:village": "Karanja", "osm:polling_station:accessibility": "big_cars", "osm:polling_station:election_year": "2013", "osm:polling_station:nearest_health_centre": "st mary\u0027s, vipawa", "osm:polling_station:nearest_police_station": "Administation police D.C camp", "osm:polling_station:source": "map_kibera_trust", "osm:polling_station:type": "public_school", "osm:registered_voters": "5582", "osm:toilet:present": "yes", "photos": ["/data/images/cache/node/752394892/https0079f04f78208eb6dbf00f4be735c0a32d71c3adgoogledrivecomhost0B8cIVKWxH26Ynk0MDZJUnNpdUUJacobOld20Kibera20Primary20SchoolclassJPG/med.JPG", "/data/images/cache/node/752394892/https0079f04f78208eb6dbf00f4be735c0a32d71c3adgoogledrivecomhost0B8cIVKWxH26Ynk0MDZJUnNpdUUJacobOld20Kibera20Primary20SchoolcompoundJPG/med.JPG", "/data/images/cache/node/752394892/https0079f04f78208eb6dbf00f4be735c0a32d71c3adgoogledrivecomhost0B8cIVKWxH26Ynk0MDZJUnNpdUUJacobOld20Kibera20Primary20Schoolsign20postJPG/med.JPG"]}, "selected_properties": {"kenyaopendata:Level of Education": "PRIMARY SCHOOL", "kenyaopendata:Sponsor of School": "LOCAL GOVERNMENT AUTHORITY", "kenyaopendata:Total Boys": "1117", "kenyaopendata:Total Girls": "1268", "osm:education:teachers": "27", "osm:education:type": "primary", "osm:operator:type": "government"}, "slug": "752394892/kibera-primary-school", "type": "Feature"};
+      var school = {"geometry": {"coordinates": [[36.783868, -1.309877], [36.783362, -1.307792]], "type": "MultiPoint"}, "id": null, "locations": [[36.783868, -1.309877], [36.783362, -1.307792]], "name": "Kibera Primary School", "properties": {"kenyaopendata:Boys Toilets": "8", "kenyaopendata:Costituency": "LANGATA", "kenyaopendata:District": "NAIROBI", "kenyaopendata:Division": "KIBERA", "kenyaopendata:GOK TSC Female": "26", "kenyaopendata:GOK TSC Male": "7", "kenyaopendata:Girls Toilets": "12", "kenyaopendata:Level of Education": "PRIMARY SCHOOL", "kenyaopendata:Local Authority Female": "0", "kenyaopendata:Local Authority Male": "0", "kenyaopendata:Location": "KIBERA", "kenyaopendata:Non-Teaching Staff Female": "0", "kenyaopendata:Non-Teaching Staff Male": "2", "kenyaopendata:Others Female": "0", "kenyaopendata:Others Male": "0", "kenyaopendata:PTA BOG Female": "0", "kenyaopendata:PTA BOG Male": "0", "kenyaopendata:Province": "NAIROBI", "kenyaopendata:Pupil Classroom Ratio": "74.5", "kenyaopendata:Pupil Teacher Ratio": "72.3", "kenyaopendata:Pupil Toilet Ratio": "119.3", "kenyaopendata:School Institution Type_1": "MIXED", "kenyaopendata:School Institution Type_2": "DAY ONLY", "kenyaopendata:School Institution Type_3": "INTEGRATED", "kenyaopendata:Sponsor of School": "LOCAL GOVERNMENT AUTHORITY", "kenyaopendata:Status of School": "PUBLIC", "kenyaopendata:Teachers Toilets": "5", "kenyaopendata:Total Boys": "1117", "kenyaopendata:Total Enrolment": "2385", "kenyaopendata:Total Girls": "1268", "kenyaopendata:Total Number of Classrooms": "32", "kenyaopendata:Total Toilets": "0", "kenyaopendata:official_name": "KIBERA PRI. SCH.", "name": "Kibera Primary School", "osm:_timestamp": "2015-01-03T18:36:31Z", "osm:_user": "JamesLC", "osm:accessibility": "big_vehicles", "osm:amenity": "school", "osm:boundary_type:Ward_boundary": "yes", "osm:building:levels": "1", "osm:building:material": "concrete,ironsheets", "osm:building:roof": "ironsheets", "osm:contact:address": "P 0 Box 211372-00505, Nairobi", "osm:contact:email": "oldkiberaprimary@gmail.com", "osm:contact:phone": "0722480530", "osm:education:curriculum": "8_4_4", "osm:education:exam_center": "yes", "osm:education:extra_drama": "yes", "osm:education:extra_music": "yes", "osm:education:extra_scouts": "yes", "osm:education:extra_sports": "yes", "osm:education:fees": "6000", "osm:education:gender_type": "mixed", "osm:education:government_registered": "moe", "osm:education:management_committee": "yes", "osm:education:program_counseling": "yes", "osm:education:program_counselling": "yes", "osm:education:program_feeding": "sponsored", "osm:education:program_scouting": "yes", "osm:education:program_special_needs": "yes", "osm:education:program_sports": "yes", "osm:education:pta": "yes", "osm:education:school_head": "Mrs.Opiyo", "osm:education:staff_female": "3", "osm:education:staff_male": "4", "osm:education:student_age_range": "7-17yrs", "osm:education:students": "2051", "osm:education:students_female": "1124", "osm:education:students_male": "927", "osm:education:teachers": "27", "osm:education:teachers_female": "20", "osm:education:teachers_male": "7", "osm:education:teachers_trained": "27", "osm:education:teachers_untrained": "3", "osm:education:tsc_employed": "27", "osm:education:type": "primary", "osm:electricity:operational_status": "sometimes", "osm:id": "node/752394892", "osm:image:classroom": "https://0079f04f78208eb6dbf00f4be735c0a32d71c3ad.googledrive.com/host/0B8cIVKWxH2-6Ynk0MDZJUnNpdUU/Jacob/Old%20Kibera%20Primary%20School/class.JPG", "osm:image:compound": "https://0079f04f78208eb6dbf00f4be735c0a32d71c3ad.googledrive.com/host/0B8cIVKWxH2-6Ynk0MDZJUnNpdUU/Jacob/Old%20Kibera%20Primary%20School/compound.JPG", "osm:image:outside": "https://0079f04f78208eb6dbf00f4be735c0a32d71c3ad.googledrive.com/host/0B8cIVKWxH2-6Ynk0MDZJUnNpdUU/Jacob/Old%20Kibera%20Primary%20School/sign%20post.JPG", "osm:images": "/data/images/cache/node/752394892/https0079f04f78208eb6dbf00f4be735c0a32d71c3adgoogledrivecomhost0B8cIVKWxH26Ynk0MDZJUnNpdUUJacobOld20Kibera20Primary20SchoolclassJPG/med.JPG,/data/images/cache/node/752394892/https0079f04f78208eb6dbf00f4be735c0a32d71c3adgoogledrivecomhost0B8cIVKWxH26Ynk0MDZJUnNpdUUJacobOld20Kibera20Primary20SchoolcompoundJPG/med.JPG,/data/images/cache/node/752394892/https0079f04f78208eb6dbf00f4be735c0a32d71c3adgoogledrivecomhost0B8cIVKWxH26Ynk0MDZJUnNpdUUJacobOld20Kibera20Primary20Schoolsign20postJPG/med.JPG", "osm:is_in:constituency": "Kibra", "osm:is_in:estate": "Karanja", "osm:is_in:ward": "Makina", "osm:name": "Kibera Primary School", "osm:official_name": "KIBERA PRI. SCH.", "osm:opening_hours": "08:00-17:00", "osm:operational_status": "operational", "osm:operational_status:electricity": "always", "osm:operator:description": "Run by government", "osm:operator:name": "Government", "osm:operator:type": "government", "osm:place:village": "Karanja", "osm:polling_station:accessibility": "big_cars", "osm:polling_station:election_year": "2013", "osm:polling_station:nearest_health_centre": "st mary\u0027s, vipawa", "osm:polling_station:nearest_police_station": "Administation police D.C camp", "osm:polling_station:source": "map_kibera_trust", "osm:polling_station:type": "public_school", "osm:registered_voters": "5582", "osm:toilet:present": "yes", "photos": ["/data/images/cache/node/752394892/https0079f04f78208eb6dbf00f4be735c0a32d71c3adgoogledrivecomhost0B8cIVKWxH26Ynk0MDZJUnNpdUUJacobOld20Kibera20Primary20SchoolclassJPG/med.JPG", "/data/images/cache/node/752394892/https0079f04f78208eb6dbf00f4be735c0a32d71c3adgoogledrivecomhost0B8cIVKWxH26Ynk0MDZJUnNpdUUJacobOld20Kibera20Primary20SchoolcompoundJPG/med.JPG", "/data/images/cache/node/752394892/https0079f04f78208eb6dbf00f4be735c0a32d71c3adgoogledrivecomhost0B8cIVKWxH26Ynk0MDZJUnNpdUUJacobOld20Kibera20Primary20Schoolsign20postJPG/med.JPG"]}, "selected_properties": {"kenyaopendata:Level of Education": "PRIMARY SCHOOL", "kenyaopendata:Sponsor of School": "LOCAL GOVERNMENT AUTHORITY", "kenyaopendata:Total Boys": "1117", "kenyaopendata:Total Girls": "1268", "osm:education:students_female": "1124", "osm:education:students_male": "927", "osm:education:teachers": "27", "osm:education:type": "primary", "osm:operator:type": "government"}, "slug": "752394892/kibera-primary-school", "type": "Feature"};
     </script>
   </section>
 
-  <section id="school-brief">
-  </section>
+
+  
+
 
   <section id="school-blurbs">
-    <div class="school-info-row header-stats">
-      <header class="school-stats">
-        <p class="source">OSM Data</p>
-        <h2>Kibera Primary School</h2>
 
-        
-        
-
-        <small>Location: -1.309877, 36.783868</small>
-      </header>
-      <header class="school-stats">
-        <p class="source">Kenya Open Data</p>
-        <h2>KIBERA PRI. SCH.</h2>
-
-        
-        
-          <h3>2385 Students</h3>
-        
-
-        
-          <small>Location: -1.307792, 36.783362</small>
-        
-        
-      </header>
-    </div>
-
-    
-
-<!--
-    <div class="school-info-row">
-      <div class="school-stats stats-grid">
-        
-          
-      
-      
-        <div class="cell">
-          <h4>Education Level</h4>
-          <span class="value">primary</span>
-        </div>
-      
-    
-        
-          
-      
-      
-        <div class="cell">
-          <h4>Operator</h4>
-          <span class="value">Government</span>
-        </div>
-      
-    
-        
-          
-      
-      
-        <div class="cell">
-          <h4>Type of School</h4>
-          <span class="value">government</span>
-        </div>
-      
-    
-        
-          
-      
-      
-        <div class="cell">
-          <h4>Operator Description</h4>
-          <span class="value">Run by government</span>
-        </div>
-      
-    
-        
-          
-      
-      
-        <div class="cell">
-          <h4>Government Registration</h4>
-          <span class="value">moe</span>
-        </div>
-      
-    
-        
-          
-      
-      
-        <div class="cell">
-          <h4>School Head</h4>
-          <span class="value">Mrs.Opiyo</span>
-        </div>
-      
-    
-        
-          
-      
-      
-        <div class="cell">
-          <h4>Village or ward</h4>
-          <span class="value">Karanja</span>
-        </div>
-      
-    
-        
-          
-      
-      
-        <div class="cell">
-          <h4>Phone</h4>
-          <span class="value">0722480530</span>
-        </div>
-      
-    
-        
-          
-      
-      
-        <div class="cell">
-          <h4>Address</h4>
-          <span class="value">P 0 Box 211372-00505, Nairobi</span>
-        </div>
-      
-    
-        
-          
-      
-      
-        <div class="cell">
-          <h4>Email</h4>
-          <span class="value">oldkiberaprimary@gmail.com</span>
-        </div>
-      
-    
-        
-          
-      
-      
-        <div class="cell">
-          <h4>Accessibility</h4>
-          <span class="value">big vehicles</span>
-        </div>
-      
-    
-        
-          
-      
-      
-        <div class="cell">
-          <h4>Building Material</h4>
-          <span class="value">concrete, ironsheets</span>
-        </div>
-      
-    
-        
-          
-      
-      
-        <div class="cell">
-          <h4>Roof Material</h4>
-          <span class="value">ironsheets</span>
-        </div>
-      
-    
-        
-          
-      
-      
-        <div class="cell">
-          <h4>Building Levels</h4>
-          <span class="value">1</span>
-        </div>
-      
-    
-        
-          
-      
-      
-    
-        
-          
-      
-      
-        <div class="cell">
-          <h4>Toilet</h4>
-          <span class="value">yes</span>
-        </div>
-      
-    
-        
-          
-      
-      
-        <div class="cell">
-          <h4>Number of Students</h4>
-          <span class="value">2051</span>
-        </div>
-      
-    
-        
-          
-      
-      
-        <div class="cell">
-          <h4>Number of Male Students</h4>
-          <span class="value">927</span>
-        </div>
-      
-    
-        
-          
-      
-      
-        <div class="cell">
-          <h4>Number of Female Students</h4>
-          <span class="value">1124</span>
-        </div>
-      
-    
-        
-          
-      
-      
-        <div class="cell">
-          <h4>Teachers</h4>
-          <span class="value">27</span>
-        </div>
-      
-    
-        
-          
-      
-      
-        <div class="cell">
-          <h4>Counseling Program</h4>
-          <span class="value">yes</span>
-        </div>
-      
-    
-        
-          
-      
-      
-        <div class="cell">
-          <h4>Management Committee</h4>
-          <span class="value">yes</span>
-        </div>
-      
-    
-        
-          
-      
-      
-    
-        
-          
-      
-      
-        <div class="cell">
-          <h4>Feeding Program</h4>
-          <span class="value">sponsored</span>
-        </div>
-      
-    
-        
-          
-      
-      
-        <div class="cell">
-          <h4>Counseling Program</h4>
-          <span class="value">yes</span>
-        </div>
-      
-    
-        
-          
-      
-      
-    
-        
-          
-      
-      
-        <div class="cell">
-          <h4>Name</h4>
-          <span class="value">Kibera Primary School</span>
-        </div>
-      
-    
-        
+    <div class="school-info-tabs">
+      <div class="data-source-tab">
+        <h2>
+          <a href="#data-source-osm" class="data-selectable data-osm selected">Open Street Maps Data</a>
+        </h2>
       </div>
-      
-        <div class="school-stats stats-grid">
-        
-          
-      
-      
-        <div class="cell">
-          <h4>Education Level</h4>
-          <span class="value">PRIMARY SCHOOL</span>
-        </div>
-      
-    
-        
-          
-      
-      
-        <div class="cell">
-          <h4>Operator</h4>
-          <span class="value">LOCAL GOVERNMENT AUTHORITY</span>
-        </div>
-      
-    
-        
-          
-      
-      
-        <div class="cell">
-          <h4>Type of School</h4>
-          <span class="value">PUBLIC</span>
-        </div>
-      
-    
-        
-          
-      
-      
-    
-        
-          
-      
-      
-    
-        
-          
-      
-      
-    
-        
-          
-      
-      
-        <div class="cell">
-          <h4>Village or ward</h4>
-          <span class="value">KIBERA</span>
-        </div>
-      
-    
-        
-          
-      
-      
-    
-        
-          
-      
-      
-    
-        
-          
-      
-      
-    
-        
-          
-      
-      
-    
-        
-          
-      
-      
-    
-        
-          
-      
-      
-    
-        
-          
-      
-      
-    
-        
-          
-      
-      
-        <div class="cell">
-          <h4>Boarding or not</h4>
-          <span class="value">DAY ONLY</span>
-        </div>
-      
-    
-        
-          
-      
-      
-    
-        
-          
-      
-      
-        <div class="cell">
-          <h4>Number of Students</h4>
-          <span class="value">2385</span>
-        </div>
-      
-    
-        
-          
-      
-      
-        <div class="cell">
-          <h4>Number of Male Students</h4>
-          <span class="value">1117</span>
-        </div>
-      
-    
-        
-          
-      
-      
-        <div class="cell">
-          <h4>Number of Female Students</h4>
-          <span class="value">1268</span>
-        </div>
-      
-    
-        
-          
-      
-      
-    
-        
-          
-      
-      
-    
-        
-          
-      
-      
-    
-        
-          
-      
-      
-    
-        
-          
-      
-      
-    
-        
-          
-      
-      
-    
-        
-          
-      
-      
-    
-        
-          
-      
-      
-        <div class="cell">
-          <h4>Name</h4>
-          <span class="value">KIBERA PRI. SCH.</span>
-        </div>
-      
-    
-        
-        </div>
-      
-    </div>
--->
-
-    
-    <div class="school-info-row">
-            <div class="school-stats school-more-stats">
-    
-        
-        
-            <h3>Basics</h3>
-            <table>
-            
-              
-                
-                
-                <tr>
-                  <th>Education Level</th>
-                  
-                  <td>primary</td>
-                </tr>
-                
-              
-            
-              
-                
-                
-                <tr>
-                  <th>Operator</th>
-                  
-                  <td>Government</td>
-                </tr>
-                
-              
-            
-              
-                
-                
-                <tr>
-                  <th>Type of School</th>
-                  
-                  <td>government</td>
-                </tr>
-                
-              
-            
-              
-                
-                
-                <tr>
-                  <th>Operator Description</th>
-                  
-                  <td>Run by government</td>
-                </tr>
-                
-              
-            
-              
-                
-                
-                <tr>
-                  <th>Government Registration</th>
-                  
-                  <td>moe</td>
-                </tr>
-                
-              
-            
-              
-                
-                
-                <tr>
-                  <th>School Head</th>
-                  
-                  <td>Mrs.Opiyo</td>
-                </tr>
-                
-              
-            
-              
-                
-                
-                <tr>
-                  <th>Village or ward</th>
-                  
-                  <td>Karanja</td>
-                </tr>
-                
-              
-            
-              
-                
-                
-                <tr>
-                  <th>Phone</th>
-                  
-                  <td>0722480530</td>
-                </tr>
-                
-              
-            
-              
-                
-                
-                <tr>
-                  <th>Address</th>
-                  
-                  <td>P 0 Box 211372-00505, Nairobi</td>
-                </tr>
-                
-              
-            
-              
-                
-                
-                <tr>
-                  <th>Email</th>
-                  
-                  <td>oldkiberaprimary@gmail.com</td>
-                </tr>
-                
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-            </table>
-        
-            <h3>Population</h3>
-            <table>
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-                
-                
-                <tr>
-                  <th>Number of Students</th>
-                  
-                  <td>2051</td>
-                </tr>
-                
-              
-            
-              
-                
-                
-                <tr>
-                  <th>Number of Male Students</th>
-                  
-                  <td>927</td>
-                </tr>
-                
-              
-            
-              
-                
-                
-                <tr>
-                  <th>Number of Female Students</th>
-                  
-                  <td>1124</td>
-                </tr>
-                
-              
-            
-              
-                
-                
-                <tr>
-                  <th>Teachers</th>
-                  
-                  <td>27</td>
-                </tr>
-                
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-            </table>
-        
-            <h3>Infrastructure</h3>
-            <table>
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-                
-                
-                <tr>
-                  <th>Accessibility</th>
-                  
-                  <td>big_vehicles</td>
-                </tr>
-                
-              
-            
-              
-                
-                
-                <tr>
-                  <th>Building Material</th>
-                  
-                  <td>concrete,ironsheets</td>
-                </tr>
-                
-              
-            
-              
-                
-                
-                <tr>
-                  <th>Roof Material</th>
-                  
-                  <td>ironsheets</td>
-                </tr>
-                
-              
-            
-              
-                
-                
-                <tr>
-                  <th>Building Levels</th>
-                  
-                  <td>1</td>
-                </tr>
-                
-              
-            
-              
-                
-                
-              
-            
-              
-                
-                
-                <tr>
-                  <th>Toilet</th>
-                  
-                  <td>yes</td>
-                </tr>
-                
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-            </table>
-        
-    
-            </div>
-    
-            <div class="school-stats school-more-stats">
-      
-        
-        
-            <h3>Basics</h3>
-            <table>
-            
-              
-                
-                
-                <tr>
-                  <th>Education Level</th>
-                  
-                  <td>PRIMARY SCHOOL</td>
-                </tr>
-                
-              
-            
-              
-                
-                
-                <tr>
-                  <th>Operator</th>
-                  
-                  <td>LOCAL GOVERNMENT AUTHORITY</td>
-                </tr>
-                
-              
-            
-              
-                
-                
-                <tr>
-                  <th>Type of School</th>
-                  
-                  <td>PUBLIC</td>
-                </tr>
-                
-              
-            
-              
-                
-                
-              
-            
-              
-                
-                
-              
-            
-              
-                
-                
-              
-            
-              
-                
-                
-                <tr>
-                  <th>Village or ward</th>
-                  
-                  <td>KIBERA</td>
-                </tr>
-                
-              
-            
-              
-                
-                
-              
-            
-              
-                
-                
-              
-            
-              
-                
-                
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-            </table>
-        
-            <h3>Population</h3>
-            <table>
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-                
-                
-                <tr>
-                  <th>Number of Students</th>
-                  
-                  <td>2385</td>
-                </tr>
-                
-              
-            
-              
-                
-                
-                <tr>
-                  <th>Number of Male Students</th>
-                  
-                  <td>1117</td>
-                </tr>
-                
-              
-            
-              
-                
-                
-                <tr>
-                  <th>Number of Female Students</th>
-                  
-                  <td>1268</td>
-                </tr>
-                
-              
-            
-              
-                
-                
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-            </table>
-        
-            <h3>Infrastructure</h3>
-            <table>
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-                
-                
-              
-            
-              
-                
-                
-              
-            
-              
-                
-                
-              
-            
-              
-                
-                
-              
-            
-              
-                
-                
-                <tr>
-                  <th>Boarding or not</th>
-                  
-                  <td>DAY ONLY</td>
-                </tr>
-                
-              
-            
-              
-                
-                
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-            </table>
-        
-    
-            </div>
-    
-    </div>
-
-    
-    <div class="school-info-row">
-      <div class="school-stats school-more-stats">
-        <h3>All Available OSM Data</h3>
-        
-      <table>
-        
-          <tr>
-            <th>education:pta</th>
-            <td>yes</td>
-          </tr>
-        
-          <tr>
-            <th>is_in:ward</th>
-            <td>Makina</td>
-          </tr>
-        
-          <tr>
-            <th>_timestamp</th>
-            <td>2014-09-03T19:54:39Z</td>
-          </tr>
-        
-          <tr>
-            <th>education:program_scouting</th>
-            <td>yes</td>
-          </tr>
-        
-          <tr>
-            <th>education:staff_male</th>
-            <td>4</td>
-          </tr>
-        
-          <tr>
-            <th>education:extra_scouts</th>
-            <td>yes</td>
-          </tr>
-        
-          <tr>
-            <th>education:tsc_employed</th>
-            <td>27</td>
-          </tr>
-        
-          <tr>
-            <th>education:student_age_range</th>
-            <td>7-17yrs</td>
-          </tr>
-        
-          <tr>
-            <th>education:staff_female</th>
-            <td>3</td>
-          </tr>
-        
-          <tr>
-            <th>education:program_sports</th>
-            <td>yes</td>
-          </tr>
-        
-          <tr>
-            <th>amenity</th>
-            <td>school</td>
-          </tr>
-        
-          <tr>
-            <th>electricity:operational_status</th>
-            <td>sometimes</td>
-          </tr>
-        
-          <tr>
-            <th>education:teachers_untrained</th>
-            <td>3</td>
-          </tr>
-        
-          <tr>
-            <th>polling_station:accessibility</th>
-            <td>big_cars</td>
-          </tr>
-        
-          <tr>
-            <th>education:fees</th>
-            <td>6000</td>
-          </tr>
-        
-          <tr>
-            <th>education:program_counseling</th>
-            <td>yes</td>
-          </tr>
-        
-          <tr>
-            <th>polling_station:nearest_health_centre</th>
-            <td>st mary&#39;s, vipawa</td>
-          </tr>
-        
-          <tr>
-            <th>is_in:estate</th>
-            <td>Karanja</td>
-          </tr>
-        
-          <tr>
-            <th>opening_hours</th>
-            <td>08:00-17:00</td>
-          </tr>
-        
-          <tr>
-            <th>operational_status:electricity</th>
-            <td>always</td>
-          </tr>
-        
-          <tr>
-            <th>education:gender_type</th>
-            <td>mixed</td>
-          </tr>
-        
-          <tr>
-            <th>is_in:constituency</th>
-            <td>Kibra</td>
-          </tr>
-        
-          <tr>
-            <th>polling_station:source</th>
-            <td>map_kibera_trust</td>
-          </tr>
-        
-          <tr>
-            <th>education:teachers_trained</th>
-            <td>27</td>
-          </tr>
-        
-          <tr>
-            <th>education:curriculum</th>
-            <td>8_4_4</td>
-          </tr>
-        
-          <tr>
-            <th>polling_station:nearest_police_station</th>
-            <td>Administation police D.C camp</td>
-          </tr>
-        
-          <tr>
-            <th>polling_station:type</th>
-            <td>public_school</td>
-          </tr>
-        
-          <tr>
-            <th>_user</th>
-            <td>mikelmaron</td>
-          </tr>
-        
-          <tr>
-            <th>boundary_type:Ward_boundary</th>
-            <td>yes</td>
-          </tr>
-        
-          <tr>
-            <th>education:extra_drama</th>
-            <td>yes</td>
-          </tr>
-        
-          <tr>
-            <th>official_name</th>
-            <td>KIBERA PRI. SCH.</td>
-          </tr>
-        
-          <tr>
-            <th>education:program_special_needs</th>
-            <td>yes</td>
-          </tr>
-        
-          <tr>
-            <th>education:extra_sports</th>
-            <td>yes</td>
-          </tr>
-        
-          <tr>
-            <th>registered_voters</th>
-            <td>5582</td>
-          </tr>
-        
-          <tr>
-            <th>id</th>
-            <td>node/752394892</td>
-          </tr>
-        
-          <tr>
-            <th>education:teachers_female</th>
-            <td>20</td>
-          </tr>
-        
-          <tr>
-            <th>polling_station:election_year</th>
-            <td>2013</td>
-          </tr>
-        
-          <tr>
-            <th>education:exam_center</th>
-            <td>yes</td>
-          </tr>
-        
-          <tr>
-            <th>education:extra_music</th>
-            <td>yes</td>
-          </tr>
-        
-          <tr>
-            <th>education:teachers_male</th>
-            <td>7</td>
-          </tr>
-        
-          <tr>
-            <th>operational_status</th>
-            <td>operational</td>
-          </tr>
-        
-      </table>
-    
+      <div class="data-source-tab">
+        <h2>
+          <a href="#data-source-kod" class="data-selectable data-kod">Kenya Open Data</a>
+        </h2>
       </div>
-      
+    </div>
+
+    <div class="school-info-data">
+      <div id="data-source-osm" class="data-selectable data-source-data data-osm selected">
         <div class="school-stats school-more-stats">
-          <h3>All Available Kenya Open Data</h3>
           
-      <table>
-        
-          <tr>
-            <th>Teachers Toilets</th>
-            <td>5</td>
-          </tr>
-        
-          <tr>
-            <th>Total Number of Classrooms</th>
-            <td>32</td>
-          </tr>
-        
-          <tr>
-            <th>GOK TSC Male</th>
-            <td>7</td>
-          </tr>
-        
-          <tr>
-            <th>Non-Teaching Staff Female</th>
-            <td>0</td>
-          </tr>
-        
-          <tr>
-            <th>Total Toilets</th>
-            <td>0</td>
-          </tr>
-        
-          <tr>
-            <th>Non-Teaching Staff Male</th>
-            <td>2</td>
-          </tr>
-        
-          <tr>
-            <th>PTA BOG Female</th>
-            <td>0</td>
-          </tr>
-        
-          <tr>
-            <th>Others Male</th>
-            <td>0</td>
-          </tr>
-        
-          <tr>
-            <th>GOK TSC Female</th>
-            <td>26</td>
-          </tr>
-        
-          <tr>
-            <th>Costituency</th>
-            <td>LANGATA</td>
-          </tr>
-        
-          <tr>
-            <th>Girls Toilets</th>
-            <td>12</td>
-          </tr>
-        
-          <tr>
-            <th>Division</th>
-            <td>KIBERA</td>
-          </tr>
-        
-          <tr>
-            <th>Boys Toilets</th>
-            <td>8</td>
-          </tr>
-        
-          <tr>
-            <th>PTA BOG Male</th>
-            <td>0</td>
-          </tr>
-        
-          <tr>
-            <th>Province</th>
-            <td>NAIROBI</td>
-          </tr>
-        
-          <tr>
-            <th>School Institution Type_3</th>
-            <td>INTEGRATED</td>
-          </tr>
-        
-          <tr>
-            <th>Pupil Teacher Ratio</th>
-            <td>72.3</td>
-          </tr>
-        
-          <tr>
-            <th>Pupil Classroom Ratio</th>
-            <td>74.5</td>
-          </tr>
-        
-          <tr>
-            <th>Pupil Toilet Ratio</th>
-            <td>119.3</td>
-          </tr>
-        
-          <tr>
-            <th>District</th>
-            <td>NAIROBI</td>
-          </tr>
-        
-          <tr>
-            <th>Local Authority Female</th>
-            <td>0</td>
-          </tr>
-        
-          <tr>
-            <th>Others Female</th>
-            <td>0</td>
-          </tr>
-        
-          <tr>
-            <th>School Institution Type_1</th>
-            <td>MIXED</td>
-          </tr>
-        
-          <tr>
-            <th>Local Authority Male</th>
-            <td>0</td>
-          </tr>
-        
-      </table>
     
+      <h3>Basics</h3>
+      <div class="h-scroll-container">
+        <table>
+          <thead>
+            <tr>
+              
+                
+                  <th>Education Level</th>
+                
+              
+                
+                  <th>Operator</th>
+                
+              
+                
+                  <th>Type of School</th>
+                
+              
+                
+                  <th>Operator Description</th>
+                
+              
+                
+                  <th>Government Registration</th>
+                
+              
+                
+                  <th>School Head</th>
+                
+              
+                
+                  <th>Village or ward</th>
+                
+              
+                
+                  <th>Phone</th>
+                
+              
+                
+                  <th>Address</th>
+                
+              
+                
+                  <th>Email</th>
+                
+              
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              
+                
+                  <td>primary</td>
+                
+              
+                
+                  <td>Government</td>
+                
+              
+                
+                  <td>government</td>
+                
+              
+                
+                  <td>Run by government</td>
+                
+              
+                
+                  <td>moe</td>
+                
+              
+                
+                  <td>Mrs.Opiyo</td>
+                
+              
+                
+                  <td>Karanja</td>
+                
+              
+                
+                  <td>0722480530</td>
+                
+              
+                
+                  <td>P 0 Box 211372-00505, Nairobi</td>
+                
+              
+                
+                  <td>oldkiberaprimary@gmail.com</td>
+                
+              
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    
+      <h3>Population</h3>
+      <div class="h-scroll-container">
+        <table>
+          <thead>
+            <tr>
+              
+                
+                  <th>Students</th>
+                
+              
+                
+              
+                
+              
+                
+                  <th>Teachers</th>
+                
+              
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              
+                
+                  <td>2051</td>
+                
+              
+                
+              
+                
+              
+                
+                  <td>27</td>
+                
+              
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    
+      <h3>Infrastructure</h3>
+      <div class="h-scroll-container">
+        <table>
+          <thead>
+            <tr>
+              
+                
+                  <th>Accessibility</th>
+                
+              
+                
+                  <th>Building Material</th>
+                
+              
+                
+                  <th>Roof Material</th>
+                
+              
+                
+                  <th>Building Levels</th>
+                
+              
+                
+              
+                
+                  <th>Toilet</th>
+                
+              
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              
+                
+                  <td>big_vehicles</td>
+                
+              
+                
+                  <td>concrete,ironsheets</td>
+                
+              
+                
+                  <td>ironsheets</td>
+                
+              
+                
+                  <td>1</td>
+                
+              
+                
+              
+                
+                  <td>yes</td>
+                
+              
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    
+  
         </div>
-      
+      </div>
+      <div id="data-source-kod" class="data-selectable data-source-data data-kod">
+        
+          <div class="school-stats school-more-stats">
+            
+    
+      <h3>Basics</h3>
+      <div class="h-scroll-container">
+        <table>
+          <thead>
+            <tr>
+              
+                
+                  <th>Education Level</th>
+                
+              
+                
+                  <th>Operator</th>
+                
+              
+                
+                  <th>Type of School</th>
+                
+              
+                
+              
+                
+              
+                
+              
+                
+                  <th>Village or ward</th>
+                
+              
+                
+              
+                
+              
+                
+              
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              
+                
+                  <td>PRIMARY SCHOOL</td>
+                
+              
+                
+                  <td>LOCAL GOVERNMENT AUTHORITY</td>
+                
+              
+                
+                  <td>PUBLIC</td>
+                
+              
+                
+              
+                
+              
+                
+              
+                
+                  <td>KIBERA</td>
+                
+              
+                
+              
+                
+              
+                
+              
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    
+      <h3>Population</h3>
+      <div class="h-scroll-container">
+        <table>
+          <thead>
+            <tr>
+              
+                
+                  <th>Students</th>
+                
+              
+                
+                  <th>Male Students</th>
+                
+              
+                
+                  <th>Female Students</th>
+                
+              
+                
+              
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              
+                
+                  <td>2385</td>
+                
+              
+                
+                  <td>1117</td>
+                
+              
+                
+                  <td>1268</td>
+                
+              
+                
+              
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    
+      <h3>Infrastructure</h3>
+      <div class="h-scroll-container">
+        <table>
+          <thead>
+            <tr>
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+                  <th>Boarding or not</th>
+                
+              
+                
+              
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+                  <td>DAY ONLY</td>
+                
+              
+                
+              
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    
+  
+          </div>
+        
+      </div>
     </div>
+
+    
+
   </section>
 
   <section id="school-feedback">
@@ -1630,7 +531,7 @@
           <address>
             <dl>
               <dt class="address-email">Email</dt>
-              <dd><img src="http://mapkibera.org/kibera-email.png"/></dd>
+              <dd><a href='mailto:contact@mapkibera.org'>contact@mapkibera.org</a></dd>
             </dl>
           </address>
         </div>
@@ -1640,7 +541,7 @@
 <!-- Begin MailChimp Signup Form -->
 <link href="http://cdn-images.mailchimp.com/embedcode/slim-081711.css" rel="stylesheet" type="text/css">
 <style type="text/css">
-	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
+	#mc_embed_signup{clear:left; font:14px Helvetica,Arial,sans-serif; }
 	/* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
 	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
 </style>
@@ -1659,23 +560,21 @@
       <div class="footer-copyright">
 
         <div id="copyright">
-          <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+          <small>
+            <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0;" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /> This work is licensed under Creative Commons Attribution 4.0 International License</a>.
+          </small>
+          <p>
+            <small class='credits'>
+              Icon Credits:
+              Teacher designed by <a href="http://www.thenounproject.com/pchuchla">Piotrek Chuchla</a>, Light Bulb designed by <a href="http://www.thenounproject.com/pascual.bilotta">Pascual Bilotta</a> from the <a href="http://www.thenounproject.com">Noun Project</a>
+            </small>
+          </p>
         </div>
-
-        <ul class="footer-social-links social">
-          
-            <li><a href="https://www.facebook.com/groups/mapkibera/" class="icon-facebook" title="Facebook" target="_top">Facebook</a></li>
-          
-            <li><a href="https://twitter.com/mapkibera" class="icon-twitter" title="Twitter" target="_top">Twitter</a></li>
-          
-        </ul>
-
       </div>
-    </footer>
     <!-- tag js
          template=<script src="{path}"></script>
          -->
-<script src="/static/js/105736bf425946a63abb410cc90e18d8c16104e3.js"></script>
+<script src="/static/js/5dc5797cc0ef0c7915ab2dfe724b1e8fd75edf4d.js"></script>
 <!-- endtag js -->
     <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
   </body>

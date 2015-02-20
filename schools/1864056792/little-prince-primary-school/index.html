@@ -20,7 +20,7 @@
     <!-- tag css
          template=<link rel="stylesheet" href="{path}" />
          -->
-<link rel="stylesheet" href="/static/css/b945f26d34c357d02bf84b23396e5ca3ca079df3.css" />
+<link rel="stylesheet" href="/static/css/e491a8cfd126b56478e7dee525353586a8bb5a4b.css" />
 <!-- endtag css -->
     <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Lato:300,400,700,900" />
   </head>
@@ -34,9 +34,9 @@
         </a>
         <ul class="page-nav-links">
           
-            <li><a href="#school-map" title="School Map"><span>School Map</span></a></li>
+            <li><a href="/#map" title="Kibera Schools Map"><span>Kibera Schools Map</span></a></li>
           
-            <li><a href="#school-blurbs" title="Highlights"><span>Highlights</span></a></li>
+            <li><a href="/#stories" title="Highlights"><span>Highlights</span></a></li>
           
             <li><a href="/blog/#blog-posts" title="Blog"><span>Blog</span></a></li>
           
@@ -56,1156 +56,432 @@
     
 
   <section id="school-top">
-    <h1>Little Prince Primary School</h1>
+    <h1><a href="/#map" class="back-to-schools-map"><span>Back to schools map</span></a> Little Prince Primary School</h1>
 
+    
+      <div id="school-photos-frame">
+        <ul>
+          
+            <li>
+              <a href="/data/images/cache/node/1864056792/https0079f04f78208eb6dbf00f4be735c0a32d71c3adgoogledrivecomhost0B8cIVKWxH26Ynk0MDZJUnNpdUUJacobLittle20prince20primary20SchoolClassjpg/med.jpg">
+                <img src="/data/images/cache/node/1864056792/https0079f04f78208eb6dbf00f4be735c0a32d71c3adgoogledrivecomhost0B8cIVKWxH26Ynk0MDZJUnNpdUUJacobLittle20prince20primary20SchoolClassjpg/med.jpg" alt="photo 1 of Little Prince Primary School" />
+              </a>
+            </li>
+          
+            <li>
+              <a href="/data/images/cache/node/1864056792/https0079f04f78208eb6dbf00f4be735c0a32d71c3adgoogledrivecomhost0B8cIVKWxH26Ynk0MDZJUnNpdUUJacobAngels20of20Hope20KiberacompoundJPG/med.JPG">
+                <img src="/data/images/cache/node/1864056792/https0079f04f78208eb6dbf00f4be735c0a32d71c3adgoogledrivecomhost0B8cIVKWxH26Ynk0MDZJUnNpdUUJacobAngels20of20Hope20KiberacompoundJPG/med.JPG" alt="photo 2 of Little Prince Primary School" />
+              </a>
+            </li>
+          
+            <li>
+              <a href="/data/images/cache/node/1864056792/https0079f04f78208eb6dbf00f4be735c0a32d71c3adgoogledrivecomhost0B8cIVKWxH26Ynk0MDZJUnNpdUUJacobLittle20prince20primary20Schooloutsidejpg/med.jpg">
+                <img src="/data/images/cache/node/1864056792/https0079f04f78208eb6dbf00f4be735c0a32d71c3adgoogledrivecomhost0B8cIVKWxH26Ynk0MDZJUnNpdUUJacobLittle20prince20primary20Schooloutsidejpg/med.jpg" alt="photo 3 of Little Prince Primary School" />
+              </a>
+            </li>
+          
+        </ul>
+        <a id="school-photos-prev" href="#previous-photos">Previous Photos</a>
+        <a id="school-photos-next" href="#next-photos">Next Photos</a>
+      </div>
     
   </section>
 
   <section id="school-map">
-    <header class="map-controls">
-      <ul class="controls">
-        <li id="map-main">
-          <a class="activate" href="/#map">Back to Main Map</a>
-        </li>
-        <li id="data">
-          <a class="activate" href="/data/">Data</a>
-        </li>
-      </ul>
-      <div class="social">
-        <h3>Share</h3>
-        <a href="https://twitter.com/share" class="twitter-share-button" data-url="http://schools.mapkibera.org/schools/1864056792/little-prince-primary-school">Tweet</a>
-        <div class="fb-like" data-href="http://schools.mapkibera.org/schools/1864056792/little-prince-primary-school" data-width="80" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false"></div>
-      </div>
-    </header>
     <div id="school-map-display" class="map"></div>
     <script>
-      var school = {"geometry": {"coordinates": [[36.7792695, -1.3080615], [36.778719, -1.305221]], "type": "MultiPoint"}, "id": null, "locations": [[36.7792695, -1.3080615], [36.778719, -1.305221]], "name": "Little Prince Primary School", "properties": {"kenyaopendata:Boys Toilets": "0", "kenyaopendata:Costituency": "LANGATA", "kenyaopendata:District": "NAIROBI", "kenyaopendata:Division": "KIBERA", "kenyaopendata:GOK TSC Female": "0", "kenyaopendata:GOK TSC Male": "0", "kenyaopendata:Girls Toilets": "0", "kenyaopendata:Level of Education": "PRIMARY SCHOOL", "kenyaopendata:Local Authority Female": "0", "kenyaopendata:Local Authority Male": "0", "kenyaopendata:Location": "KIBERA", "kenyaopendata:Non-Teaching Staff Female": "0", "kenyaopendata:Non-Teaching Staff Male": "0", "kenyaopendata:Others Female": "0", "kenyaopendata:Others Male": "0", "kenyaopendata:PTA BOG Female": "0", "kenyaopendata:PTA BOG Male": "0", "kenyaopendata:Province": "NAIROBI", "kenyaopendata:Pupil Classroom Ratio": "", "kenyaopendata:Pupil Teacher Ratio": "", "kenyaopendata:Pupil Toilet Ratio": "", "kenyaopendata:School Institution Type_1": "", "kenyaopendata:School Institution Type_2": "", "kenyaopendata:School Institution Type_3": "ORDINARY", "kenyaopendata:Sponsor of School": "PRIVATE INDIVIDUAL", "kenyaopendata:Status of School": "PRIVATE", "kenyaopendata:Teachers Toilets": "0", "kenyaopendata:Total Boys": "0", "kenyaopendata:Total Enrolment": "0", "kenyaopendata:Total Girls": "0", "kenyaopendata:Total Number of Classrooms": "0", "kenyaopendata:Total Toilets": "0", "kenyaopendata:official_name": "LITTLE PRINCE PRI SCH.", "name": "Little Prince Primary School", "osm:_timestamp": "2014-09-02T17:44:47Z", "osm:_user": "mikelmaron", "osm:addr:postcode": "00618-759,Nairobi,Kenya.", "osm:amenity": "school", "osm:contact:phone": "0721370167", "osm:education:gender_type": "mixed", "osm:education:type": "primary", "osm:id": "node/1864056792", "osm:name": "Little Prince Primary School", "osm:official_name": "LITTLE PRINCE PRI SCH.", "osm:operator:description": "Closed", "osm:place:village": "Makina", "osm:source": "Map Kibera Trust"}, "selected_properties": {"kenyaopendata:Level of Education": "PRIMARY SCHOOL", "kenyaopendata:Sponsor of School": "PRIVATE INDIVIDUAL", "kenyaopendata:Total Boys": "0", "kenyaopendata:Total Girls": "0", "osm:education:type": "primary"}, "slug": "1864056792/little-prince-primary-school", "type": "Feature"};
+      var school = {"geometry": {"coordinates": [[36.7798548, -1.3079961], [36.778719, -1.305221]], "type": "MultiPoint"}, "id": null, "locations": [[36.7798548, -1.3079961], [36.778719, -1.305221]], "name": "Little Prince Primary School", "properties": {"kenyaopendata:Boys Toilets": "0", "kenyaopendata:Costituency": "LANGATA", "kenyaopendata:District": "NAIROBI", "kenyaopendata:Division": "KIBERA", "kenyaopendata:GOK TSC Female": "0", "kenyaopendata:GOK TSC Male": "0", "kenyaopendata:Girls Toilets": "0", "kenyaopendata:Level of Education": "PRIMARY SCHOOL", "kenyaopendata:Local Authority Female": "0", "kenyaopendata:Local Authority Male": "0", "kenyaopendata:Location": "KIBERA", "kenyaopendata:Non-Teaching Staff Female": "0", "kenyaopendata:Non-Teaching Staff Male": "0", "kenyaopendata:Others Female": "0", "kenyaopendata:Others Male": "0", "kenyaopendata:PTA BOG Female": "0", "kenyaopendata:PTA BOG Male": "0", "kenyaopendata:Province": "NAIROBI", "kenyaopendata:Pupil Classroom Ratio": "", "kenyaopendata:Pupil Teacher Ratio": "", "kenyaopendata:Pupil Toilet Ratio": "", "kenyaopendata:School Institution Type_1": "", "kenyaopendata:School Institution Type_2": "", "kenyaopendata:School Institution Type_3": "ORDINARY", "kenyaopendata:Sponsor of School": "PRIVATE INDIVIDUAL", "kenyaopendata:Status of School": "PRIVATE", "kenyaopendata:Teachers Toilets": "0", "kenyaopendata:Total Boys": "0", "kenyaopendata:Total Enrolment": "0", "kenyaopendata:Total Girls": "0", "kenyaopendata:Total Number of Classrooms": "0", "kenyaopendata:Total Toilets": "0", "kenyaopendata:official_name": "LITTLE PRINCE PRI SCH.", "name": "Little Prince Primary School", "osm:_timestamp": "2015-01-03T18:36:48Z", "osm:_user": "JamesLC", "osm:accessibility": "big_vehicles", "osm:addr:postcode": "00618-759,Nairobi,Kenya.", "osm:amenity": "school", "osm:building:levels": "1", "osm:building:material": "cement_block", "osm:building:roof": "ironsheets", "osm:contact:address": "P O Box 25796-00100, Nairobi", "osm:contact:email": "littleprinceschool@gmail.com", "osm:contact:phone": "0202303472", "osm:education:committees": "School is run by Executive Comitees", "osm:education:curriculum": "8_4_4", "osm:education:exam_center": "yes", "osm:education:extra_drama": "yes", "osm:education:extra_music": "yes", "osm:education:extra_scouts": "yes", "osm:education:extra_sports": "yes", "osm:education:fees": "40000", "osm:education:gender_type": "mixed", "osm:education:government_registered": "moe", "osm:education:program_feeding": "fees", "osm:education:program_sanitary_towel": "yes", "osm:education:school_head": "Antony Maina", "osm:education:students": "259", "osm:education:students_female": "134", "osm:education:students_male": "125", "osm:education:teachers": "12", "osm:education:teachers_female": "6", "osm:education:teachers_male": "6", "osm:education:teachers_trained": "12", "osm:education:tsc_employed": "12", "osm:education:type": "primary", "osm:electricity:operational_status": "always", "osm:id": "node/1864056792", "osm:image:classroom": "https://0079f04f78208eb6dbf00f4be735c0a32d71c3ad.googledrive.com/host/0B8cIVKWxH2-6Ynk0MDZJUnNpdUU/Jacob/Little%20prince%20primary%20School/Class.jpg", "osm:image:compound": "https://0079f04f78208eb6dbf00f4be735c0a32d71c3ad.googledrive.com/host/0B8cIVKWxH2-6Ynk0MDZJUnNpdUU/Jacob/Angels%20of%20Hope%20Kibera/compound.JPG", "osm:image:outside": "https://0079f04f78208eb6dbf00f4be735c0a32d71c3ad.googledrive.com/host/0B8cIVKWxH2-6Ynk0MDZJUnNpdUU/Jacob/Little%20prince%20primary%20School/outside.jpg", "osm:images": "/data/images/cache/node/1864056792/https0079f04f78208eb6dbf00f4be735c0a32d71c3adgoogledrivecomhost0B8cIVKWxH26Ynk0MDZJUnNpdUUJacobLittle20prince20primary20SchoolClassjpg/med.jpg,/data/images/cache/node/1864056792/https0079f04f78208eb6dbf00f4be735c0a32d71c3adgoogledrivecomhost0B8cIVKWxH26Ynk0MDZJUnNpdUUJacobAngels20of20Hope20KiberacompoundJPG/med.JPG,/data/images/cache/node/1864056792/https0079f04f78208eb6dbf00f4be735c0a32d71c3adgoogledrivecomhost0B8cIVKWxH26Ynk0MDZJUnNpdUUJacobLittle20prince20primary20Schooloutsidejpg/med.jpg", "osm:name": "Little Prince Primary School", "osm:official_name": "LITTLE PRINCE PRI SCH.", "osm:operator:name": "Arch Diosis of Nairobi", "osm:operator:type": "religious", "osm:place:village": "Fort Jesus", "osm:source": "Map Kibera Trust", "osm:toilet:present": "yes", "photos": ["/data/images/cache/node/1864056792/https0079f04f78208eb6dbf00f4be735c0a32d71c3adgoogledrivecomhost0B8cIVKWxH26Ynk0MDZJUnNpdUUJacobLittle20prince20primary20SchoolClassjpg/med.jpg", "/data/images/cache/node/1864056792/https0079f04f78208eb6dbf00f4be735c0a32d71c3adgoogledrivecomhost0B8cIVKWxH26Ynk0MDZJUnNpdUUJacobAngels20of20Hope20KiberacompoundJPG/med.JPG", "/data/images/cache/node/1864056792/https0079f04f78208eb6dbf00f4be735c0a32d71c3adgoogledrivecomhost0B8cIVKWxH26Ynk0MDZJUnNpdUUJacobLittle20prince20primary20Schooloutsidejpg/med.jpg"]}, "selected_properties": {"kenyaopendata:Level of Education": "PRIMARY SCHOOL", "kenyaopendata:Sponsor of School": "PRIVATE INDIVIDUAL", "kenyaopendata:Total Boys": "0", "kenyaopendata:Total Girls": "0", "osm:education:students_female": "134", "osm:education:students_male": "125", "osm:education:teachers": "12", "osm:education:type": "primary", "osm:operator:type": "religious"}, "slug": "1864056792/little-prince-primary-school", "type": "Feature"};
     </script>
   </section>
 
-  <section id="school-brief">
-  </section>
+
+  
+
 
   <section id="school-blurbs">
-    <div class="school-info-row header-stats">
-      <header class="school-stats">
-        <p class="source">OSM Data</p>
-        <h2>Little Prince Primary School</h2>
 
-        
-        
-
-        <small>Location: -1.3080615, 36.7792695</small>
-      </header>
-      <header class="school-stats">
-        <p class="source">Kenya Open Data</p>
-        <h2>LITTLE PRINCE PRI SCH.</h2>
-
-        
-        
-
-        
-          <small>Location: -1.305221, 36.778719</small>
-        
-        
-      </header>
-    </div>
-
-    
-
-<!--
-    <div class="school-info-row">
-      <div class="school-stats stats-grid">
-        
-          
-      
-      
-        <div class="cell">
-          <h4>Education Level</h4>
-          <span class="value">primary</span>
-        </div>
-      
-    
-        
-          
-      
-      
-    
-        
-          
-      
-      
-    
-        
-          
-      
-      
-        <div class="cell">
-          <h4>Operator Description</h4>
-          <span class="value">Closed</span>
-        </div>
-      
-    
-        
-          
-      
-      
-    
-        
-          
-      
-      
-    
-        
-          
-      
-      
-        <div class="cell">
-          <h4>Village or ward</h4>
-          <span class="value">Makina</span>
-        </div>
-      
-    
-        
-          
-      
-      
-        <div class="cell">
-          <h4>Phone</h4>
-          <span class="value">0721370167</span>
-        </div>
-      
-    
-        
-          
-      
-      
-    
-        
-          
-      
-      
-    
-        
-          
-      
-      
-    
-        
-          
-      
-      
-    
-        
-          
-      
-      
-    
-        
-          
-      
-      
-    
-        
-          
-      
-      
-    
-        
-          
-      
-      
-    
-        
-          
-      
-      
-    
-        
-          
-      
-      
-    
-        
-          
-      
-      
-    
-        
-          
-      
-      
-    
-        
-          
-      
-      
-    
-        
-          
-      
-      
-    
-        
-          
-      
-      
-    
-        
-          
-      
-      
-    
-        
-          
-      
-      
-    
-        
-          
-      
-      
-    
-        
-          
-      
-      
-        <div class="cell">
-          <h4>Name</h4>
-          <span class="value">Little Prince Primary School</span>
-        </div>
-      
-    
-        
+    <div class="school-info-tabs">
+      <div class="data-source-tab">
+        <h2>
+          <a href="#data-source-osm" class="data-selectable data-osm selected">Open Street Maps Data</a>
+        </h2>
       </div>
-      
-        <div class="school-stats stats-grid">
-        
-          
-      
-      
-        <div class="cell">
-          <h4>Education Level</h4>
-          <span class="value">PRIMARY SCHOOL</span>
-        </div>
-      
-    
-        
-          
-      
-      
-        <div class="cell">
-          <h4>Operator</h4>
-          <span class="value">PRIVATE INDIVIDUAL</span>
-        </div>
-      
-    
-        
-          
-      
-      
-        <div class="cell">
-          <h4>Type of School</h4>
-          <span class="value">PRIVATE</span>
-        </div>
-      
-    
-        
-          
-      
-      
-    
-        
-          
-      
-      
-    
-        
-          
-      
-      
-    
-        
-          
-      
-      
-        <div class="cell">
-          <h4>Village or ward</h4>
-          <span class="value">KIBERA</span>
-        </div>
-      
-    
-        
-          
-      
-      
-    
-        
-          
-      
-      
-    
-        
-          
-      
-      
-    
-        
-          
-      
-      
-    
-        
-          
-      
-      
-    
-        
-          
-      
-      
-    
-        
-          
-      
-      
-    
-        
-          
-      
-      
-    
-        
-          
-      
-      
-    
-        
-          
-      
-      
-        <div class="cell">
-          <h4>Number of Students</h4>
-          <span class="value">0</span>
-        </div>
-      
-    
-        
-          
-      
-      
-        <div class="cell">
-          <h4>Number of Male Students</h4>
-          <span class="value">0</span>
-        </div>
-      
-    
-        
-          
-      
-      
-        <div class="cell">
-          <h4>Number of Female Students</h4>
-          <span class="value">0</span>
-        </div>
-      
-    
-        
-          
-      
-      
-    
-        
-          
-      
-      
-    
-        
-          
-      
-      
-    
-        
-          
-      
-      
-    
-        
-          
-      
-      
-    
-        
-          
-      
-      
-    
-        
-          
-      
-      
-    
-        
-          
-      
-      
-        <div class="cell">
-          <h4>Name</h4>
-          <span class="value">LITTLE PRINCE PRI SCH.</span>
-        </div>
-      
-    
-        
-        </div>
-      
-    </div>
--->
-
-    
-    <div class="school-info-row">
-            <div class="school-stats school-more-stats">
-    
-        
-        
-            <h3>Basics</h3>
-            <table>
-            
-              
-                
-                
-                <tr>
-                  <th>Education Level</th>
-                  
-                  <td>primary</td>
-                </tr>
-                
-              
-            
-              
-                
-                
-              
-            
-              
-                
-                
-              
-            
-              
-                
-                
-                <tr>
-                  <th>Operator Description</th>
-                  
-                  <td>Closed</td>
-                </tr>
-                
-              
-            
-              
-                
-                
-              
-            
-              
-                
-                
-              
-            
-              
-                
-                
-                <tr>
-                  <th>Village or ward</th>
-                  
-                  <td>Makina</td>
-                </tr>
-                
-              
-            
-              
-                
-                
-                <tr>
-                  <th>Phone</th>
-                  
-                  <td>0721370167</td>
-                </tr>
-                
-              
-            
-              
-                
-                
-              
-            
-              
-                
-                
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-            </table>
-        
-            <h3>Population</h3>
-            <table>
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-                
-                
-              
-            
-              
-                
-                
-              
-            
-              
-                
-                
-              
-            
-              
-                
-                
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-            </table>
-        
-            <h3>Infrastructure</h3>
-            <table>
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-                
-                
-              
-            
-              
-                
-                
-              
-            
-              
-                
-                
-              
-            
-              
-                
-                
-              
-            
-              
-                
-                
-              
-            
-              
-                
-                
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-            </table>
-        
-    
-            </div>
-    
-            <div class="school-stats school-more-stats">
-      
-        
-        
-            <h3>Basics</h3>
-            <table>
-            
-              
-                
-                
-                <tr>
-                  <th>Education Level</th>
-                  
-                  <td>PRIMARY SCHOOL</td>
-                </tr>
-                
-              
-            
-              
-                
-                
-                <tr>
-                  <th>Operator</th>
-                  
-                  <td>PRIVATE INDIVIDUAL</td>
-                </tr>
-                
-              
-            
-              
-                
-                
-                <tr>
-                  <th>Type of School</th>
-                  
-                  <td>PRIVATE</td>
-                </tr>
-                
-              
-            
-              
-                
-                
-              
-            
-              
-                
-                
-              
-            
-              
-                
-                
-              
-            
-              
-                
-                
-                <tr>
-                  <th>Village or ward</th>
-                  
-                  <td>KIBERA</td>
-                </tr>
-                
-              
-            
-              
-                
-                
-              
-            
-              
-                
-                
-              
-            
-              
-                
-                
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-            </table>
-        
-            <h3>Population</h3>
-            <table>
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-                
-                
-                <tr>
-                  <th>Number of Students</th>
-                  
-                  <td>0</td>
-                </tr>
-                
-              
-            
-              
-                
-                
-                <tr>
-                  <th>Number of Male Students</th>
-                  
-                  <td>0</td>
-                </tr>
-                
-              
-            
-              
-                
-                
-                <tr>
-                  <th>Number of Female Students</th>
-                  
-                  <td>0</td>
-                </tr>
-                
-              
-            
-              
-                
-                
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-            </table>
-        
-            <h3>Infrastructure</h3>
-            <table>
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-                
-                
-              
-            
-              
-                
-                
-              
-            
-              
-                
-                
-              
-            
-              
-                
-                
-              
-            
-              
-                
-                
-                <tr>
-                  <th>Boarding or not</th>
-                  
-                  <td></td>
-                </tr>
-                
-              
-            
-              
-                
-                
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-            </table>
-        
-    
-            </div>
-    
-    </div>
-
-    
-    <div class="school-info-row">
-      <div class="school-stats school-more-stats">
-        <h3>All Available OSM Data</h3>
-        
-      <table>
-        
-          <tr>
-            <th>_timestamp</th>
-            <td>2014-09-02T17:44:47Z</td>
-          </tr>
-        
-          <tr>
-            <th>source</th>
-            <td>Map Kibera Trust</td>
-          </tr>
-        
-          <tr>
-            <th>official_name</th>
-            <td>LITTLE PRINCE PRI SCH.</td>
-          </tr>
-        
-          <tr>
-            <th>addr:postcode</th>
-            <td>00618-759,Nairobi,Kenya.</td>
-          </tr>
-        
-          <tr>
-            <th>education:gender_type</th>
-            <td>mixed</td>
-          </tr>
-        
-          <tr>
-            <th>_user</th>
-            <td>mikelmaron</td>
-          </tr>
-        
-          <tr>
-            <th>amenity</th>
-            <td>school</td>
-          </tr>
-        
-          <tr>
-            <th>id</th>
-            <td>node/1864056792</td>
-          </tr>
-        
-      </table>
-    
+      <div class="data-source-tab">
+        <h2>
+          <a href="#data-source-kod" class="data-selectable data-kod">Kenya Open Data</a>
+        </h2>
       </div>
-      
+    </div>
+
+    <div class="school-info-data">
+      <div id="data-source-osm" class="data-selectable data-source-data data-osm selected">
         <div class="school-stats school-more-stats">
-          <h3>All Available Kenya Open Data</h3>
           
-      <table>
-        
-          <tr>
-            <th>Teachers Toilets</th>
-            <td>0</td>
-          </tr>
-        
-          <tr>
-            <th>Pupil Toilet Ratio</th>
-            <td></td>
-          </tr>
-        
-          <tr>
-            <th>Total Number of Classrooms</th>
-            <td>0</td>
-          </tr>
-        
-          <tr>
-            <th>Province</th>
-            <td>NAIROBI</td>
-          </tr>
-        
-          <tr>
-            <th>GOK TSC Male</th>
-            <td>0</td>
-          </tr>
-        
-          <tr>
-            <th>Non-Teaching Staff Female</th>
-            <td>0</td>
-          </tr>
-        
-          <tr>
-            <th>Total Toilets</th>
-            <td>0</td>
-          </tr>
-        
-          <tr>
-            <th>Non-Teaching Staff Male</th>
-            <td>0</td>
-          </tr>
-        
-          <tr>
-            <th>PTA BOG Female</th>
-            <td>0</td>
-          </tr>
-        
-          <tr>
-            <th>Others Male</th>
-            <td>0</td>
-          </tr>
-        
-          <tr>
-            <th>Costituency</th>
-            <td>LANGATA</td>
-          </tr>
-        
-          <tr>
-            <th>Local Authority Female</th>
-            <td>0</td>
-          </tr>
-        
-          <tr>
-            <th>Girls Toilets</th>
-            <td>0</td>
-          </tr>
-        
-          <tr>
-            <th>Division</th>
-            <td>KIBERA</td>
-          </tr>
-        
-          <tr>
-            <th>Boys Toilets</th>
-            <td>0</td>
-          </tr>
-        
-          <tr>
-            <th>PTA BOG Male</th>
-            <td>0</td>
-          </tr>
-        
-          <tr>
-            <th>Pupil Teacher Ratio</th>
-            <td></td>
-          </tr>
-        
-          <tr>
-            <th>GOK TSC Female</th>
-            <td>0</td>
-          </tr>
-        
-          <tr>
-            <th>Pupil Classroom Ratio</th>
-            <td></td>
-          </tr>
-        
-          <tr>
-            <th>District</th>
-            <td>NAIROBI</td>
-          </tr>
-        
-          <tr>
-            <th>School Institution Type_3</th>
-            <td>ORDINARY</td>
-          </tr>
-        
-          <tr>
-            <th>Others Female</th>
-            <td>0</td>
-          </tr>
-        
-          <tr>
-            <th>School Institution Type_1</th>
-            <td></td>
-          </tr>
-        
-          <tr>
-            <th>Local Authority Male</th>
-            <td>0</td>
-          </tr>
-        
-      </table>
     
+      <h3>Basics</h3>
+      <div class="h-scroll-container">
+        <table>
+          <thead>
+            <tr>
+              
+                
+                  <th>Education Level</th>
+                
+              
+                
+                  <th>Operator</th>
+                
+              
+                
+                  <th>Type of School</th>
+                
+              
+                
+              
+                
+                  <th>Government Registration</th>
+                
+              
+                
+                  <th>School Head</th>
+                
+              
+                
+                  <th>Village or ward</th>
+                
+              
+                
+                  <th>Phone</th>
+                
+              
+                
+                  <th>Address</th>
+                
+              
+                
+                  <th>Email</th>
+                
+              
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              
+                
+                  <td>primary</td>
+                
+              
+                
+                  <td>Arch Diosis of Nairobi</td>
+                
+              
+                
+                  <td>religious</td>
+                
+              
+                
+              
+                
+                  <td>moe</td>
+                
+              
+                
+                  <td>Antony Maina</td>
+                
+              
+                
+                  <td>Fort Jesus</td>
+                
+              
+                
+                  <td>0202303472</td>
+                
+              
+                
+                  <td>P O Box 25796-00100, Nairobi</td>
+                
+              
+                
+                  <td>littleprinceschool@gmail.com</td>
+                
+              
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    
+      <h3>Population</h3>
+      <div class="h-scroll-container">
+        <table>
+          <thead>
+            <tr>
+              
+                
+                  <th>Students</th>
+                
+              
+                
+              
+                
+              
+                
+                  <th>Teachers</th>
+                
+              
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              
+                
+                  <td>259</td>
+                
+              
+                
+              
+                
+              
+                
+                  <td>12</td>
+                
+              
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    
+      <h3>Infrastructure</h3>
+      <div class="h-scroll-container">
+        <table>
+          <thead>
+            <tr>
+              
+                
+                  <th>Accessibility</th>
+                
+              
+                
+                  <th>Building Material</th>
+                
+              
+                
+                  <th>Roof Material</th>
+                
+              
+                
+                  <th>Building Levels</th>
+                
+              
+                
+              
+                
+                  <th>Toilet</th>
+                
+              
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              
+                
+                  <td>big_vehicles</td>
+                
+              
+                
+                  <td>cement_block</td>
+                
+              
+                
+                  <td>ironsheets</td>
+                
+              
+                
+                  <td>1</td>
+                
+              
+                
+              
+                
+                  <td>yes</td>
+                
+              
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    
+  
         </div>
-      
+      </div>
+      <div id="data-source-kod" class="data-selectable data-source-data data-kod">
+        
+          <div class="school-stats school-more-stats">
+            
+    
+      <h3>Basics</h3>
+      <div class="h-scroll-container">
+        <table>
+          <thead>
+            <tr>
+              
+                
+                  <th>Education Level</th>
+                
+              
+                
+                  <th>Operator</th>
+                
+              
+                
+                  <th>Type of School</th>
+                
+              
+                
+              
+                
+              
+                
+              
+                
+                  <th>Village or ward</th>
+                
+              
+                
+              
+                
+              
+                
+              
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              
+                
+                  <td>PRIMARY SCHOOL</td>
+                
+              
+                
+                  <td>PRIVATE INDIVIDUAL</td>
+                
+              
+                
+                  <td>PRIVATE</td>
+                
+              
+                
+              
+                
+              
+                
+              
+                
+                  <td>KIBERA</td>
+                
+              
+                
+              
+                
+              
+                
+              
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    
+      <h3>Population</h3>
+      <div class="h-scroll-container">
+        <table>
+          <thead>
+            <tr>
+              
+                
+                  <th>Students</th>
+                
+              
+                
+                  <th>Male Students</th>
+                
+              
+                
+                  <th>Female Students</th>
+                
+              
+                
+              
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              
+                
+                  <td>0</td>
+                
+              
+                
+                  <td>0</td>
+                
+              
+                
+                  <td>0</td>
+                
+              
+                
+              
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    
+      <h3>Infrastructure</h3>
+      <div class="h-scroll-container">
+        <table>
+          <thead>
+            <tr>
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    
+  
+          </div>
+        
+      </div>
     </div>
+
+    
+
   </section>
 
   <section id="school-feedback">
@@ -1247,7 +523,7 @@
           <address>
             <dl>
               <dt class="address-email">Email</dt>
-              <dd><img src="http://mapkibera.org/kibera-email.png"/></dd>
+              <dd><a href='mailto:contact@mapkibera.org'>contact@mapkibera.org</a></dd>
             </dl>
           </address>
         </div>
@@ -1257,7 +533,7 @@
 <!-- Begin MailChimp Signup Form -->
 <link href="http://cdn-images.mailchimp.com/embedcode/slim-081711.css" rel="stylesheet" type="text/css">
 <style type="text/css">
-	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
+	#mc_embed_signup{clear:left; font:14px Helvetica,Arial,sans-serif; }
 	/* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
 	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
 </style>
@@ -1276,23 +552,21 @@
       <div class="footer-copyright">
 
         <div id="copyright">
-          <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+          <small>
+            <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0;" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /> This work is licensed under Creative Commons Attribution 4.0 International License</a>.
+          </small>
+          <p>
+            <small class='credits'>
+              Icon Credits:
+              Teacher designed by <a href="http://www.thenounproject.com/pchuchla">Piotrek Chuchla</a>, Light Bulb designed by <a href="http://www.thenounproject.com/pascual.bilotta">Pascual Bilotta</a> from the <a href="http://www.thenounproject.com">Noun Project</a>
+            </small>
+          </p>
         </div>
-
-        <ul class="footer-social-links social">
-          
-            <li><a href="https://www.facebook.com/groups/mapkibera/" class="icon-facebook" title="Facebook" target="_top">Facebook</a></li>
-          
-            <li><a href="https://twitter.com/mapkibera" class="icon-twitter" title="Twitter" target="_top">Twitter</a></li>
-          
-        </ul>
-
       </div>
-    </footer>
     <!-- tag js
          template=<script src="{path}"></script>
          -->
-<script src="/static/js/105736bf425946a63abb410cc90e18d8c16104e3.js"></script>
+<script src="/static/js/5dc5797cc0ef0c7915ab2dfe724b1e8fd75edf4d.js"></script>
 <!-- endtag js -->
     <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
   </body>
