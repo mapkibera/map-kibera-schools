@@ -4,8 +4,10 @@ import csv
 import os
 import geojson
 from geojson import MultiPoint
+from datetime import datetime
 import string
 from PIL import Image
+from copy import deepcopy
 
 north = -1.3000
 south = -1.3232
@@ -36,7 +38,7 @@ def url2file(url,file_name):
 
 def sync_osm():
   kibera = "36.7651,-1.3211,36.8178,-1.3009"
-  mathare = "36.8430,-1.2679,36.8790,-1.2489"
+  mathare = "36.8427,-1.2673,36.8792,-1.2479"
   url_base = "http://overpass-api.de/api/interpreter?data=[bbox];node['education:type'];out%20meta;&bbox="
   url2file(url_base + kibera,"kibera-schools-osm.xml")
   url2file(url_base + mathare,"mathare-schools-osm.xml")
@@ -113,10 +115,14 @@ def clean_osm(file):
     for osm_property in feature.properties['tags'].keys():
       properties[ "osm:" + osm_property ] = feature.properties['tags'][ osm_property ]
     properties[ "osm:_user" ] = feature.properties['meta']['user']
-    properties[ "osm:_timestamp" ] = feature.properties['meta']['timestamp']
+    properties[ "osm:_timestamp" ] = datetime.strptime(feature.properties['meta']['timestamp'],'%Y-%m-%dT%H:%M:%SZ').strftime('%Y-%m-%d')
     properties[ "osm:id" ] = feature['id'] #TODO change to "_id"?
+    properties[ "osm:location" ] = os.path.splitext(os.path.basename(file))[0].split('-')[0]
 
     feature.properties = properties
+    for prop in feature.properties.keys():
+        if prop.startswith('osm:polling_station:'):
+            feature.properties.pop(prop, None)
 
   dump = geojson.dumps(osm, sort_keys=True, indent=2)
   writefile(file,dump)
@@ -127,6 +133,8 @@ def compare_osm_kenyaopendata():
   result = {}
   result['type'] = 'FeatureCollection'
   result['features'] = []
+  kibera = deepcopy(result)
+  mathare = deepcopy(result)
 
   #TODO make sure all features in KOD are in OSM (through osmly)
   for feature in osm.features:
@@ -144,13 +152,21 @@ def compare_osm_kenyaopendata():
               feature.properties[ "kenyaopendata:" + kod_property] = kod_feature.properties[ kod_property ]
 
       if found_match == False:
-        print "WARN: OSM official_name has no match: " + feature.properties['tags']['name'] + ", " + feature.properties['tags']['official_name'] + ", " + feature['id']
+        print "WARN: OSM official_name has no match: " + feature.properties['osm:name'] + ", " + feature.properties['osm:official_name'] + ", " + feature['id']
 
     geom = MultiPoint(points)
     result['features'].append( { "type": "Feature", "properties": feature.properties, "geometry": geom })
+    if feature.properties['osm:location'] == 'kibera':
+        kibera['features'].append( { "type": "Feature", "properties": feature.properties, "geometry": geom })
+    else:
+        mathare['features'].append( { "type": "Feature", "properties": feature.properties, "geometry": geom })
 
   dump = geojson.dumps(result, sort_keys=True, indent=2)
   writefile('nairobi-combined-schools.geojson',dump)
+  dump = geojson.dumps(kibera, sort_keys=True, indent=2)
+  writefile('kibera-schools.geojson',dump)
+  dump = geojson.dumps(mathare, sort_keys=True, indent=2)
+  writefile('mathare-schools.geojson',dump)
 
 def slug_image(img_url):
   valid_chars = "%s%s" % (string.ascii_letters, string.digits)
@@ -214,7 +230,7 @@ def cache_images():
     large_images = []
     for prop in ["osm:image:classroom","osm:image:compound","osm:image:other", "osm:image:outside"]:
       if prop in feature['properties']:
-        cache_image(feature['properties']['osm:id'], feature['properties']['osm:name'], prop, feature['properties'][prop])
+        #cache_image(feature['properties']['osm:id'], feature['properties']['osm:name'], prop, feature['properties'][prop])
         image = get_image_cache(feature['properties']['osm:id'], prop, feature['properties'][prop], 'med')
         images.append(image)
         image = get_image_cache(feature['properties']['osm:id'], prop, feature['properties'][prop], 'large')
@@ -230,10 +246,14 @@ def deploy():
   os.system("ogr2ogr -f CSV nairobi-combined-schools.csv nairobi-combined-schools.geojson -lco GEOMETRY=AS_WKT")
   os.system("cp nairobi-combined-schools.geojson ../content/schools/")
   os.system("cp nairobi-combined-schools.csv ../content/download/")
+  os.system("ogr2ogr -f CSV kibera-schools.csv kibera-schools.geojson -lco GEOMETRY=AS_WKT")
+  os.system("ogr2ogr -f CSV mathare-schools.csv mathare-schools.geojson -lco GEOMETRY=AS_WKT")
+  os.system("cp kibera-schools.csv ../content/download/")
+  os.system("cp mathare-schools.csv ../content/download/")
 
 #TODO make command line configurable .. Fabric?
 #kenyaopendata()
-#filter_kenyaopendata()
+filter_kenyaopendata()
 sync_osm()
 convert2geojson()
 compare_osm_kenyaopendata()

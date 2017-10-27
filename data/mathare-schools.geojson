@@ -3,12 +3,13 @@
     {
       "geometry": {
         "coordinates": [
-          36.8556356,
-          -1.2630544
+          [
+            36.8556356,
+            -1.2630544
+          ]
         ],
-        "type": "Point"
+        "type": "MultiPoint"
       },
-      "id": "node/1038064486",
       "properties": {
         "osm:_timestamp": "2017-10-12",
         "osm:_user": "muindre",
@@ -53,12 +54,13 @@
     {
       "geometry": {
         "coordinates": [
-          36.8577145,
-          -1.2654596
+          [
+            36.8577145,
+            -1.2654596
+          ]
         ],
-        "type": "Point"
+        "type": "MultiPoint"
       },
-      "id": "node/1038103774",
       "properties": {
         "osm:_timestamp": "2017-10-12",
         "osm:_user": "muindre",
@@ -98,12 +100,13 @@
     {
       "geometry": {
         "coordinates": [
-          36.8599028,
-          -1.2625634
+          [
+            36.8599028,
+            -1.2625634
+          ]
         ],
-        "type": "Point"
+        "type": "MultiPoint"
       },
-      "id": "node/1038103776",
       "properties": {
         "osm:_timestamp": "2017-10-12",
         "osm:_user": "muindre",
@@ -156,12 +159,13 @@
     {
       "geometry": {
         "coordinates": [
-          36.8588695,
-          -1.2653874
+          [
+            36.8588695,
+            -1.2653874
+          ]
         ],
-        "type": "Point"
+        "type": "MultiPoint"
       },
-      "id": "node/1038103794",
       "properties": {
         "osm:_timestamp": "2017-10-12",
         "osm:_user": "muindre",
@@ -208,12 +212,13 @@
     {
       "geometry": {
         "coordinates": [
-          36.8542271,
-          -1.2633561
+          [
+            36.8542271,
+            -1.2633561
+          ]
         ],
-        "type": "Point"
+        "type": "MultiPoint"
       },
-      "id": "node/1100019215",
       "properties": {
         "osm:_timestamp": "2017-10-12",
         "osm:_user": "muindre",
@@ -259,12 +264,13 @@
     {
       "geometry": {
         "coordinates": [
-          36.8626015,
-          -1.2612124
+          [
+            36.8626015,
+            -1.2612124
+          ]
         ],
-        "type": "Point"
+        "type": "MultiPoint"
       },
-      "id": "node/1103092195",
       "properties": {
         "osm:_timestamp": "2017-10-12",
         "osm:_user": "muindre",
@@ -310,12 +316,13 @@
     {
       "geometry": {
         "coordinates": [
-          36.863691,
-          -1.259784
+          [
+            36.863691,
+            -1.259784
+          ]
         ],
-        "type": "Point"
+        "type": "MultiPoint"
       },
-      "id": "node/1103092338",
       "properties": {
         "osm:_timestamp": "2017-10-12",
         "osm:_user": "muindre",
@@ -359,12 +366,13 @@
     {
       "geometry": {
         "coordinates": [
-          36.8622628,
-          -1.2610939
+          [
+            36.8622628,
+            -1.2610939
+          ]
         ],
-        "type": "Point"
+        "type": "MultiPoint"
       },
-      "id": "node/1103092451",
       "properties": {
         "osm:UNESCO POI'S": "EDUCATION",
         "osm:_timestamp": "2017-10-12",
@@ -412,12 +420,13 @@
     {
       "geometry": {
         "coordinates": [
-          36.8556102,
-          -1.263157
+          [
+            36.8556102,
+            -1.263157
+          ]
         ],
-        "type": "Point"
+        "type": "MultiPoint"
       },
-      "id": "node/1109445798",
       "properties": {
         "osm:_timestamp": "2016-12-08",
         "osm:_user": "fondolucy",
@@ -464,12 +473,13 @@
     {
       "geometry": {
         "coordinates": [
-          36.8545676,
-          -1.2629151
+          [
+            36.8545676,
+            -1.2629151
+          ]
         ],
-        "type": "Point"
+        "type": "MultiPoint"
       },
-      "id": "node/1110199069",
       "properties": {
         "osm:_timestamp": "2017-10-12",
         "osm:_user": "muindre",
@@ -512,12 +522,13 @@
     {
       "geometry": {
         "coordinates": [
-          36.8561769,
-          -1.2628307
+          [
+            36.8561769,
+            -1.2628307
+          ]
         ],
-        "type": "Point"
+        "type": "MultiPoint"
       },
-      "id": "node/1110227334",
       "properties": {
         "osm:_timestamp": "2017-10-12",
         "osm:_user": "muindre",
@@ -565,12 +576,13 @@
     {
       "geometry": {
         "coordinates": [
-          36.8632328,
-          -1.2590304
+          [
+            36.8632328,
+            -1.2590304
+          ]
         ],
-        "type": "Point"
+        "type": "MultiPoint"
       },
-      "id": "node/1244198595",
       "properties": {
         "osm:_timestamp": "2017-10-12",
         "osm:_user": "muindre",
@@ -610,12 +622,13 @@
     {
       "geometry": {
         "coordinates": [
-          36.8526691,
-          -1.2652553
+          [
+            36.8526691,
+            -1.2652553
+          ]
         ],
-        "type": "Point"
+        "type": "MultiPoint"
       },
-      "id": "node/4454756893",
       "properties": {
         "osm:_timestamp": "2017-10-12",
         "osm:_user": "muindre",
@@ -663,12 +676,13 @@
     {
       "geometry": {
         "coordinates": [
-          36.8541131,
-          -1.264395
+          [
+            36.8541131,
+            -1.264395
+          ]
         ],
-        "type": "Point"
+        "type": "MultiPoint"
       },
-      "id": "node/4454756894",
       "properties": {
         "osm:_timestamp": "2017-10-12",
         "osm:_user": "muindre",
@@ -716,12 +730,13 @@
     {
       "geometry": {
         "coordinates": [
-          36.853701,
-          -1.2655997
+          [
+            36.853701,
+            -1.2655997
+          ]
         ],
-        "type": "Point"
+        "type": "MultiPoint"
       },
-      "id": "node/4454756896",
       "properties": {
         "osm:_timestamp": "2017-10-12",
         "osm:_user": "muindre",
@@ -770,12 +785,13 @@
     {
       "geometry": {
         "coordinates": [
-          36.8615596,
-          -1.2626345
+          [
+            36.8615596,
+            -1.2626345
+          ]
         ],
-        "type": "Point"
+        "type": "MultiPoint"
       },
-      "id": "node/4456606596",
       "properties": {
         "osm:_timestamp": "2017-10-12",
         "osm:_user": "muindre",
@@ -809,12 +825,13 @@
     {
       "geometry": {
         "coordinates": [
-          36.8615078,
-          -1.262763
+          [
+            36.8615078,
+            -1.262763
+          ]
         ],
-        "type": "Point"
+        "type": "MultiPoint"
       },
-      "id": "node/4456606815",
       "properties": {
         "osm:_timestamp": "2017-10-12",
         "osm:_user": "muindre",
@@ -857,12 +874,13 @@
     {
       "geometry": {
         "coordinates": [
-          36.8622982,
-          -1.2632395
+          [
+            36.8622982,
+            -1.2632395
+          ]
         ],
-        "type": "Point"
+        "type": "MultiPoint"
       },
-      "id": "node/4456611009",
       "properties": {
         "osm:_timestamp": "2017-10-12",
         "osm:_user": "muindre",
@@ -906,12 +924,13 @@
     {
       "geometry": {
         "coordinates": [
-          36.8622051,
-          -1.2632369
+          [
+            36.8622051,
+            -1.2632369
+          ]
         ],
-        "type": "Point"
+        "type": "MultiPoint"
       },
-      "id": "node/4457506593",
       "properties": {
         "osm:_timestamp": "2017-10-12",
         "osm:_user": "muindre",
@@ -961,12 +980,13 @@
     {
       "geometry": {
         "coordinates": [
-          36.8574343,
-          -1.2652951
+          [
+            36.8574343,
+            -1.2652951
+          ]
         ],
-        "type": "Point"
+        "type": "MultiPoint"
       },
-      "id": "node/4457507291",
       "properties": {
         "osm:_timestamp": "2017-10-12",
         "osm:_user": "muindre",
@@ -1013,12 +1033,13 @@
     {
       "geometry": {
         "coordinates": [
-          36.8615393,
-          -1.2626048
+          [
+            36.8615393,
+            -1.2626048
+          ]
         ],
-        "type": "Point"
+        "type": "MultiPoint"
       },
-      "id": "node/4457550090",
       "properties": {
         "osm:_timestamp": "2017-10-12",
         "osm:_user": "muindre",
@@ -1049,12 +1070,13 @@
     {
       "geometry": {
         "coordinates": [
-          36.8587707,
-          -1.2654014
+          [
+            36.8587707,
+            -1.2654014
+          ]
         ],
-        "type": "Point"
+        "type": "MultiPoint"
       },
-      "id": "node/4457763959",
       "properties": {
         "osm:_timestamp": "2017-10-12",
         "osm:_user": "muindre",
@@ -1094,12 +1116,13 @@
     {
       "geometry": {
         "coordinates": [
-          36.8630145,
-          -1.2589705
+          [
+            36.8630145,
+            -1.2589705
+          ]
         ],
-        "type": "Point"
+        "type": "MultiPoint"
       },
-      "id": "node/4461370056",
       "properties": {
         "osm:_timestamp": "2017-10-12",
         "osm:_user": "muindre",
@@ -1147,12 +1170,13 @@
     {
       "geometry": {
         "coordinates": [
-          36.8565891,
-          -1.2654989
+          [
+            36.8565891,
+            -1.2654989
+          ]
         ],
-        "type": "Point"
+        "type": "MultiPoint"
       },
-      "id": "node/4461458485",
       "properties": {
         "osm:_timestamp": "2017-10-12",
         "osm:_user": "muindre",
@@ -1197,12 +1221,13 @@
     {
       "geometry": {
         "coordinates": [
-          36.8507341,
-          -1.265323
+          [
+            36.8507341,
+            -1.265323
+          ]
         ],
-        "type": "Point"
+        "type": "MultiPoint"
       },
-      "id": "node/4461458486",
       "properties": {
         "osm:_timestamp": "2017-10-12",
         "osm:_user": "muindre",
@@ -1250,12 +1275,13 @@
     {
       "geometry": {
         "coordinates": [
-          36.8560847,
-          -1.2653146
+          [
+            36.8560847,
+            -1.2653146
+          ]
         ],
-        "type": "Point"
+        "type": "MultiPoint"
       },
-      "id": "node/4461458487",
       "properties": {
         "osm:_timestamp": "2017-10-12",
         "osm:_user": "muindre",
@@ -1302,12 +1328,13 @@
     {
       "geometry": {
         "coordinates": [
-          36.8520361,
-          -1.2656861
+          [
+            36.8520361,
+            -1.2656861
+          ]
         ],
-        "type": "Point"
+        "type": "MultiPoint"
       },
-      "id": "node/4461458488",
       "properties": {
         "osm:_timestamp": "2017-10-12",
         "osm:_user": "muindre",
@@ -1358,12 +1385,13 @@
     {
       "geometry": {
         "coordinates": [
-          36.8612471,
-          -1.2617977
+          [
+            36.8612471,
+            -1.2617977
+          ]
         ],
-        "type": "Point"
+        "type": "MultiPoint"
       },
-      "id": "node/4461494343",
       "properties": {
         "osm:_timestamp": "2017-10-12",
         "osm:_user": "muindre",
@@ -1408,12 +1436,13 @@
     {
       "geometry": {
         "coordinates": [
-          36.8638848,
-          -1.2612554
+          [
+            36.8638848,
+            -1.2612554
+          ]
         ],
-        "type": "Point"
+        "type": "MultiPoint"
       },
-      "id": "node/4461496406",
       "properties": {
         "osm:_timestamp": "2016-12-08",
         "osm:_user": "fondolucy",
@@ -1462,12 +1491,13 @@
     {
       "geometry": {
         "coordinates": [
-          36.860148,
-          -1.2630946
+          [
+            36.860148,
+            -1.2630946
+          ]
         ],
-        "type": "Point"
+        "type": "MultiPoint"
       },
-      "id": "node/4461510623",
       "properties": {
         "osm:_timestamp": "2017-10-12",
         "osm:_user": "muindre",
@@ -1509,12 +1539,13 @@
     {
       "geometry": {
         "coordinates": [
-          36.8517385,
-          -1.2651198
+          [
+            36.8517385,
+            -1.2651198
+          ]
         ],
-        "type": "Point"
+        "type": "MultiPoint"
       },
-      "id": "node/4461519044",
       "properties": {
         "osm:_timestamp": "2017-10-12",
         "osm:_user": "muindre",
@@ -1553,12 +1584,13 @@
     {
       "geometry": {
         "coordinates": [
-          36.8594739,
-          -1.2643407
+          [
+            36.8594739,
+            -1.2643407
+          ]
         ],
-        "type": "Point"
+        "type": "MultiPoint"
       },
-      "id": "node/4462892677",
       "properties": {
         "osm:_timestamp": "2017-10-12",
         "osm:_user": "muindre",
@@ -1607,12 +1639,13 @@
     {
       "geometry": {
         "coordinates": [
-          36.8578806,
-          -1.263549
+          [
+            36.8578806,
+            -1.263549
+          ]
         ],
-        "type": "Point"
+        "type": "MultiPoint"
       },
-      "id": "node/4462893659",
       "properties": {
         "osm:_timestamp": "2017-10-12",
         "osm:_user": "muindre",
@@ -1659,12 +1692,13 @@
     {
       "geometry": {
         "coordinates": [
-          36.8566363,
-          -1.2633977
+          [
+            36.8566363,
+            -1.2633977
+          ]
         ],
-        "type": "Point"
+        "type": "MultiPoint"
       },
-      "id": "node/4462920821",
       "properties": {
         "osm:_timestamp": "2017-10-12",
         "osm:_user": "muindre",
@@ -1707,12 +1741,13 @@
     {
       "geometry": {
         "coordinates": [
-          36.8559774,
-          -1.2635034
+          [
+            36.8559774,
+            -1.2635034
+          ]
         ],
-        "type": "Point"
+        "type": "MultiPoint"
       },
-      "id": "node/4462937714",
       "properties": {
         "osm:_timestamp": "2017-10-12",
         "osm:_user": "muindre",
@@ -1751,12 +1786,13 @@
     {
       "geometry": {
         "coordinates": [
-          36.8560019,
-          -1.2631431
+          [
+            36.8560019,
+            -1.2631431
+          ]
         ],
-        "type": "Point"
+        "type": "MultiPoint"
       },
-      "id": "node/4462967881",
       "properties": {
         "osm:_timestamp": "2016-12-08",
         "osm:_user": "muindre",
@@ -1800,12 +1836,13 @@
     {
       "geometry": {
         "coordinates": [
-          36.8554267,
-          -1.2627017
+          [
+            36.8554267,
+            -1.2627017
+          ]
         ],
-        "type": "Point"
+        "type": "MultiPoint"
       },
-      "id": "node/4463017734",
       "properties": {
         "osm:_timestamp": "2017-10-12",
         "osm:_user": "muindre",
@@ -1856,12 +1893,13 @@
     {
       "geometry": {
         "coordinates": [
-          36.8547371,
-          -1.2632173
+          [
+            36.8547371,
+            -1.2632173
+          ]
         ],
-        "type": "Point"
+        "type": "MultiPoint"
       },
-      "id": "node/4463082226",
       "properties": {
         "osm:_timestamp": "2017-10-12",
         "osm:_user": "muindre",
@@ -1905,12 +1943,13 @@
     {
       "geometry": {
         "coordinates": [
-          36.8562297,
-          -1.2629012
+          [
+            36.8562297,
+            -1.2629012
+          ]
         ],
-        "type": "Point"
+        "type": "MultiPoint"
       },
-      "id": "node/4464506027",
       "properties": {
         "osm:_timestamp": "2017-10-12",
         "osm:_user": "muindre",
@@ -1953,12 +1992,13 @@
     {
       "geometry": {
         "coordinates": [
-          36.8553362,
-          -1.2626503
+          [
+            36.8553362,
+            -1.2626503
+          ]
         ],
-        "type": "Point"
+        "type": "MultiPoint"
       },
-      "id": "node/4464506028",
       "properties": {
         "osm:_timestamp": "2017-10-12",
         "osm:_user": "muindre",
@@ -2003,12 +2043,13 @@
     {
       "geometry": {
         "coordinates": [
-          36.863009,
-          -1.2589984
+          [
+            36.863009,
+            -1.2589984
+          ]
         ],
-        "type": "Point"
+        "type": "MultiPoint"
       },
-      "id": "node/4464546559",
       "properties": {
         "osm:_timestamp": "2017-10-12",
         "osm:_user": "muindre",
@@ -2057,12 +2098,13 @@
     {
       "geometry": {
         "coordinates": [
-          36.8636738,
-          -1.2597997
+          [
+            36.8636738,
+            -1.2597997
+          ]
         ],
-        "type": "Point"
+        "type": "MultiPoint"
       },
-      "id": "node/4464546560",
       "properties": {
         "osm:_timestamp": "2017-10-12",
         "osm:_user": "muindre",
@@ -2109,12 +2151,13 @@
     {
       "geometry": {
         "coordinates": [
-          36.8594299,
-          -1.264352
+          [
+            36.8594299,
+            -1.264352
+          ]
         ],
-        "type": "Point"
+        "type": "MultiPoint"
       },
-      "id": "node/4464601890",
       "properties": {
         "osm:_timestamp": "2017-10-12",
         "osm:_user": "muindre",
@@ -2158,12 +2201,13 @@
     {
       "geometry": {
         "coordinates": [
-          36.8556255,
-          -1.2631221
+          [
+            36.8556255,
+            -1.2631221
+          ]
         ],
-        "type": "Point"
+        "type": "MultiPoint"
       },
-      "id": "node/4464622787",
       "properties": {
         "osm:_timestamp": "2016-12-08",
         "osm:_user": "fondolucy",
@@ -2196,12 +2240,13 @@
     {
       "geometry": {
         "coordinates": [
-          36.8578656,
-          -1.2635567
+          [
+            36.8578656,
+            -1.2635567
+          ]
         ],
-        "type": "Point"
+        "type": "MultiPoint"
       },
-      "id": "node/4464622788",
       "properties": {
         "osm:_timestamp": "2017-10-12",
         "osm:_user": "muindre",
@@ -2248,12 +2293,13 @@
     {
       "geometry": {
         "coordinates": [
-          36.8547542,
-          -1.2632227
+          [
+            36.8547542,
+            -1.2632227
+          ]
         ],
-        "type": "Point"
+        "type": "MultiPoint"
       },
-      "id": "node/4464655293",
       "properties": {
         "osm:_timestamp": "2017-10-12",
         "osm:_user": "muindre",
@@ -2297,12 +2343,13 @@
     {
       "geometry": {
         "coordinates": [
-          36.8611898,
-          -1.2617381
+          [
+            36.8611898,
+            -1.2617381
+          ]
         ],
-        "type": "Point"
+        "type": "MultiPoint"
       },
-      "id": "node/4464689391",
       "properties": {
         "osm:_timestamp": "2017-10-12",
         "osm:_user": "muindre",
@@ -2345,12 +2392,13 @@
     {
       "geometry": {
         "coordinates": [
-          36.8602793,
-          -1.2634017
+          [
+            36.8602793,
+            -1.2634017
+          ]
         ],
-        "type": "Point"
+        "type": "MultiPoint"
       },
-      "id": "node/4464711189",
       "properties": {
         "osm:_timestamp": "2017-10-12",
         "osm:_user": "muindre",
@@ -2390,12 +2438,13 @@
     {
       "geometry": {
         "coordinates": [
-          36.8582478,
-          -1.2636033
+          [
+            36.8582478,
+            -1.2636033
+          ]
         ],
-        "type": "Point"
+        "type": "MultiPoint"
       },
-      "id": "node/4465955077",
       "properties": {
         "osm:_timestamp": "2017-10-12",
         "osm:_user": "muindre",
@@ -2435,12 +2484,13 @@
     {
       "geometry": {
         "coordinates": [
-          36.8541782,
-          -1.2628952
+          [
+            36.8541782,
+            -1.2628952
+          ]
         ],
-        "type": "Point"
+        "type": "MultiPoint"
       },
-      "id": "node/4465996146",
       "properties": {
         "osm:_timestamp": "2017-10-12",
         "osm:_user": "muindre",
@@ -2486,12 +2536,13 @@
     {
       "geometry": {
         "coordinates": [
-          36.8537001,
-          -1.2628436
+          [
+            36.8537001,
+            -1.2628436
+          ]
         ],
-        "type": "Point"
+        "type": "MultiPoint"
       },
-      "id": "node/4466007970",
       "properties": {
         "osm:_timestamp": "2017-10-12",
         "osm:_user": "muindre",
@@ -2540,12 +2591,13 @@
     {
       "geometry": {
         "coordinates": [
-          36.8539548,
-          -1.2611513
+          [
+            36.8539548,
+            -1.2611513
+          ]
         ],
-        "type": "Point"
+        "type": "MultiPoint"
       },
-      "id": "node/4466069585",
       "properties": {
         "osm:_timestamp": "2016-12-08",
         "osm:_user": "muindre",
@@ -2592,12 +2644,13 @@
     {
       "geometry": {
         "coordinates": [
-          36.8571865,
-          -1.2630172
+          [
+            36.8571865,
+            -1.2630172
+          ]
         ],
-        "type": "Point"
+        "type": "MultiPoint"
       },
-      "id": "node/4467530209",
       "properties": {
         "osm:_timestamp": "2017-10-12",
         "osm:_user": "muindre",
@@ -2636,12 +2689,13 @@
     {
       "geometry": {
         "coordinates": [
-          36.8542609,
-          -1.2614441
+          [
+            36.8542609,
+            -1.2614441
+          ]
         ],
-        "type": "Point"
+        "type": "MultiPoint"
       },
-      "id": "node/4467561519",
       "properties": {
         "osm:_timestamp": "2017-10-12",
         "osm:_user": "muindre",
@@ -2691,12 +2745,13 @@
     {
       "geometry": {
         "coordinates": [
-          36.8547243,
-          -1.2613739
+          [
+            36.8547243,
+            -1.2613739
+          ]
         ],
-        "type": "Point"
+        "type": "MultiPoint"
       },
-      "id": "node/4467561520",
       "properties": {
         "osm:_timestamp": "2017-10-12",
         "osm:_user": "muindre",
@@ -2745,12 +2800,13 @@
     {
       "geometry": {
         "coordinates": [
-          36.8539063,
-          -1.2611012
+          [
+            36.8539063,
+            -1.2611012
+          ]
         ],
-        "type": "Point"
+        "type": "MultiPoint"
       },
-      "id": "node/4467561521",
       "properties": {
         "osm:_timestamp": "2017-10-12",
         "osm:_user": "muindre",
@@ -2800,12 +2856,13 @@
     {
       "geometry": {
         "coordinates": [
-          36.8569777,
-          -1.2629159
+          [
+            36.8569777,
+            -1.2629159
+          ]
         ],
-        "type": "Point"
+        "type": "MultiPoint"
       },
-      "id": "node/4467561522",
       "properties": {
         "osm:_timestamp": "2017-10-12",
         "osm:_user": "muindre",
@@ -2854,12 +2911,13 @@
     {
       "geometry": {
         "coordinates": [
-          36.8548069,
-          -1.2619297
+          [
+            36.8548069,
+            -1.2619297
+          ]
         ],
-        "type": "Point"
+        "type": "MultiPoint"
       },
-      "id": "node/4467561523",
       "properties": {
         "osm:_timestamp": "2017-10-12",
         "osm:_user": "muindre",
@@ -2904,12 +2962,13 @@
     {
       "geometry": {
         "coordinates": [
-          36.8546542,
-          -1.2613593
+          [
+            36.8546542,
+            -1.2613593
+          ]
         ],
-        "type": "Point"
+        "type": "MultiPoint"
       },
-      "id": "node/4472329843",
       "properties": {
         "osm:_timestamp": "2017-10-12",
         "osm:_user": "muindre",

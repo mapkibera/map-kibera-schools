@@ -4,8 +4,15 @@ Download the Data
 Download the data to conduct your analysis, provide your own insights, and tell your story. <a href="mailto:contact@mapkibera.org">Get in touch</a> if you have any questions.
 
 ## Open Schools Kenya Data
-* [JSON](/schools.json)
-* [CSV](/data/schools.csv)
+
+* JSON
+    * [ALL](/schools.json)
+    * [Kibera](/kibera.json)
+    * [Mathare](/mathare.json)
+* CSV
+    * [ALL](/data/schools.csv)
+    * [Kibera](/data/kibera.csv)
+    * [Mathare](/data/mathare.csv)
 
 ## Printed Map
 
@@ -14,8 +21,10 @@ Download the data to conduct your analysis, provide your own insights, and tell 
 <img width="500" src="/static/blog-images/poster.png" />
 
 ## Directly from OpenStreetMap
-* [Overpass Turbo Query](http://overpass-turbo.eu/s/7LO)
+* [Kibera Overpass Turbo Query](http://overpass-turbo.eu/s/7LO)
+* [Mathare Overpass Turbo Query](http://overpass-turbo.eu/s/rMZ)
 * [Kibera in OpenStreetMap](http://www.openstreetmap.org/#map=15/-1.3143/36.7910)
+* [Mathare in OpenStreetMap](http://www.openstreetmap.org/#map=15/-1.2580/36.8600)
 
 ## Other Data Themes
 * [Map Kibera Download](http://mapkibera.org/theme/download/)
