@@ -44,7 +44,7 @@ def closure(sources):
         ('output_info', 'compiled_code'),
     )
     filtered = []
-    conn = client.HTTPConnection(closure_domain)
+    conn = client.HTTPSConnection(closure_domain)
     for source in sources:
         print('sending {} bytes to closure api...'.format(len(source)))
         full_params = list(raw_params) + [('js_code', source)]
