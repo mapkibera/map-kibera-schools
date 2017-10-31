@@ -537,7 +537,8 @@ section#school-top {
   }
   .leaflet-popup-content-wrapper,
   .leaflet-popup-tip {
-    background: $c-smokeglass
+    background: $c-smokeglass;
+    color: $c-bright;
   }
   .leaflet-popup {
     color: $c-bright;
