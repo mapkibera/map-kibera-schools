@@ -20041,7 +20041,7 @@
         "type": "MultiPoint"
       },
       "properties": {
-        "osm:_timestamp": "2017-10-12",
+        "osm:_timestamp": "2018-02-05",
         "osm:_user": "muindre",
         "osm:accessibility": "big_vehicles",
         "osm:amenity": "school",
@@ -20055,6 +20055,7 @@
         "osm:education:gender_type": "mixed",
         "osm:education:government_registered": "APBET",
         "osm:education:management_committee": "yes",
+        "osm:education:program_sanitary_towel": "yes",
         "osm:education:school_head": "Fredrick Ogutu",
         "osm:education:students": "50",
         "osm:education:students_female": "26",

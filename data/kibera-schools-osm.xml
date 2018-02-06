@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.54.12 054bb0bb">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2018-02-02T14:40:02Z"/>
+<meta osm_base="2018-02-06T21:57:02Z"/>
 
   <bounds minlat="-1.3211000" minlon="36.7651000" maxlat="-1.3009000" maxlon="36.8178000"/>
 
@@ -12219,7 +12219,7 @@
     <tag k="place:village" v="Raila"/>
     <tag k="toilet:present" v="yes"/>
   </node>
-  <node id="5119214668" lat="-1.3187794" lon="36.7798032" version="3" timestamp="2017-10-12T09:50:22Z" changeset="52854448" uid="261050" user="muindre">
+  <node id="5119214668" lat="-1.3187794" lon="36.7798032" version="4" timestamp="2018-02-05T08:34:04Z" changeset="56078036" uid="261050" user="muindre">
     <tag k="accessibility" v="big_vehicles"/>
     <tag k="amenity" v="school"/>
     <tag k="building:material" v="ironsheets"/>
@@ -12232,6 +12232,7 @@
     <tag k="education:gender_type" v="mixed"/>
     <tag k="education:government_registered" v="APBET"/>
     <tag k="education:management_committee" v="yes"/>
+    <tag k="education:program_sanitary_towel" v="yes"/>
     <tag k="education:school_head" v="Fredrick Ogutu"/>
     <tag k="education:students" v="50"/>
     <tag k="education:students_female" v="26"/>
