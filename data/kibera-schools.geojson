@@ -1612,8 +1612,8 @@
         "kenyaopendata:Total Number of Classrooms": "4",
         "kenyaopendata:Total Toilets": "0",
         "kenyaopendata:official_name": "KISUMU NDOGO PRI SCH",
-        "osm:_timestamp": "2015-01-03",
-        "osm:_user": "JamesLC",
+        "osm:_timestamp": "2018-01-26",
+        "osm:_user": "muindre",
         "osm:accessibility": "foot",
         "osm:amenity": "school",
         "osm:building:material": "mud",
@@ -1630,6 +1630,7 @@
         "osm:education:government_registered": "mgcsd",
         "osm:education:program_feeding": "yes",
         "osm:education:program_orphans": "yes",
+        "osm:education:program_sanitary_towel": "yes",
         "osm:education:student_age_range": "3-15yrs",
         "osm:education:students": "228",
         "osm:education:students_female": "118",
@@ -3663,8 +3664,8 @@
         "kenyaopendata:Total Number of Classrooms": "8",
         "kenyaopendata:Total Toilets": "0",
         "kenyaopendata:official_name": "MASHIMONI PRI SCH.",
-        "osm:_timestamp": "2015-01-03",
-        "osm:_user": "JamesLC",
+        "osm:_timestamp": "2018-01-26",
+        "osm:_user": "muindre",
         "osm:accessibility": "foot",
         "osm:amenity": "school",
         "osm:building:levels": "0",
@@ -3683,6 +3684,7 @@
         "osm:education:program_counseling": "yes",
         "osm:education:program_feeding": "no",
         "osm:education:program_orphans": "yes",
+        "osm:education:program_sanitary_towel": "yes",
         "osm:education:program_sports": "yes",
         "osm:education:pta": "yes",
         "osm:education:staff_female": "3",
@@ -4144,50 +4146,13 @@
           [
             36.79323,
             -1.310448
-          ],
-          [
-            36.79242,
-            -1.30789
           ]
         ],
         "type": "MultiPoint"
       },
       "properties": {
-        "kenyaopendata:Boys Toilets": "1",
-        "kenyaopendata:Costituency": "LANGATA",
-        "kenyaopendata:District": "NAIROBI",
-        "kenyaopendata:Division": "KIBERA",
-        "kenyaopendata:GOK TSC Female": "0",
-        "kenyaopendata:GOK TSC Male": "0",
-        "kenyaopendata:Girls Toilets": "1",
-        "kenyaopendata:Level of Education": "PRIMARY SCHOOL",
-        "kenyaopendata:Local Authority Female": "0",
-        "kenyaopendata:Local Authority Male": "0",
-        "kenyaopendata:Location": "LAINI SABA",
-        "kenyaopendata:Non-Teaching Staff Female": "2",
-        "kenyaopendata:Non-Teaching Staff Male": "1",
-        "kenyaopendata:Others Female": "3",
-        "kenyaopendata:Others Male": "6",
-        "kenyaopendata:PTA BOG Female": "0",
-        "kenyaopendata:PTA BOG Male": "0",
-        "kenyaopendata:Province": "NAIROBI",
-        "kenyaopendata:Pupil Classroom Ratio": "14.9",
-        "kenyaopendata:Pupil Teacher Ratio": "14.9",
-        "kenyaopendata:Pupil Toilet Ratio": "67",
-        "kenyaopendata:School Institution Type_1": "MIXED",
-        "kenyaopendata:School Institution Type_2": "DAY ONLY",
-        "kenyaopendata:School Institution Type_3": "ORDINARY",
-        "kenyaopendata:Sponsor of School": "PRIVATE INDIVIDUAL",
-        "kenyaopendata:Status of School": "PRIVATE",
-        "kenyaopendata:Teachers Toilets": "1",
-        "kenyaopendata:Total Boys": "",
-        "kenyaopendata:Total Enrolment": "134",
-        "kenyaopendata:Total Girls": "",
-        "kenyaopendata:Total Number of Classrooms": "9",
-        "kenyaopendata:Total Toilets": "",
-        "kenyaopendata:official_name": "MAGOSO PRIMARY",
-        "osm:_timestamp": "2017-07-25",
-        "osm:_user": "fondolucy",
+        "osm:_timestamp": "2018-01-26",
+        "osm:_user": "muindre",
         "osm:accessibility": "foot",
         "osm:amenity": "school",
         "osm:building:levels": "0",
@@ -4210,6 +4175,7 @@
         "osm:education:program_feeding": "yes",
         "osm:education:program_orphans": "yes",
         "osm:education:program_other": "computer classes",
+        "osm:education:program_sanitary_towel": "yes",
         "osm:education:program_scouting": "yes",
         "osm:education:program_specialneeds": "yes",
         "osm:education:pta": "yes",
@@ -4235,7 +4201,6 @@
         "osm:media:camera_device_number": "2",
         "osm:media:camera_number": "4",
         "osm:name": "Magoso Primary School",
-        "osm:official_name": "MAGOSO PRIMARY",
         "osm:opening_hours": "Mo-Fr 08:00-17:00",
         "osm:operational_status": "operational",
         "osm:operational_status:electricity": "always",
@@ -4497,8 +4462,8 @@
       "geometry": {
         "coordinates": [
           [
-            36.794328,
-            -1.3184479
+            36.7943387,
+            -1.3184673
           ],
           [
             36.793682,
@@ -4541,8 +4506,8 @@
         "kenyaopendata:Total Number of Classrooms": "11",
         "kenyaopendata:Total Toilets": "0",
         "kenyaopendata:official_name": "KIBERA SILANGA BIBLE BAPTIST PRI SCH",
-        "osm:_timestamp": "2016-07-27",
-        "osm:_user": "lala jeccy",
+        "osm:_timestamp": "2017-12-20",
+        "osm:_user": "muindre",
         "osm:accessibility": "foot",
         "osm:amenity": "school",
         "osm:building:levels": "1",
@@ -6176,8 +6141,8 @@
       "geometry": {
         "coordinates": [
           [
-            36.7835726,
-            -1.3125717
+            36.7835454,
+            -1.3125141
           ],
           [
             36.782858,
@@ -6216,7 +6181,7 @@
         "kenyaopendata:Total Enrolment 2007": "264",
         "kenyaopendata:Total Teaching staff": "11",
         "kenyaopendata:official_name": "RAILA EDUCATIONAL CENTER- SEC SCH",
-        "osm:_timestamp": "2017-10-12",
+        "osm:_timestamp": "2017-10-19",
         "osm:_user": "muindre",
         "osm:accessibility": "big_vehicles",
         "osm:amenity": "school",
@@ -6642,49 +6607,12 @@
           [
             36.774904,
             -1.3121305
-          ],
-          [
-            36.774028,
-            -1.30949
           ]
         ],
         "type": "MultiPoint"
       },
       "properties": {
-        "kenyaopendata:Boys Toilets": "1",
-        "kenyaopendata:Costituency": "LANGATA",
-        "kenyaopendata:District": "NAIROBI",
-        "kenyaopendata:Division": "KIBERA",
-        "kenyaopendata:GOK TSC Female": "0",
-        "kenyaopendata:GOK TSC Male": "0",
-        "kenyaopendata:Girls Toilets": "1",
-        "kenyaopendata:Level of Education": "PRIMARY SCHOOL",
-        "kenyaopendata:Local Authority Female": "0",
-        "kenyaopendata:Local Authority Male": "0",
-        "kenyaopendata:Location": "OLYMPIC",
-        "kenyaopendata:Non-Teaching Staff Female": "0",
-        "kenyaopendata:Non-Teaching Staff Male": "2",
-        "kenyaopendata:Others Female": "2",
-        "kenyaopendata:Others Male": "2",
-        "kenyaopendata:PTA BOG Female": "0",
-        "kenyaopendata:PTA BOG Male": "0",
-        "kenyaopendata:Province": "NAIROBI",
-        "kenyaopendata:Pupil Classroom Ratio": "40.5",
-        "kenyaopendata:Pupil Teacher Ratio": "40.5",
-        "kenyaopendata:Pupil Toilet Ratio": "81",
-        "kenyaopendata:School Institution Type_1": "MIXED",
-        "kenyaopendata:School Institution Type_2": "DAY ONLY",
-        "kenyaopendata:School Institution Type_3": "INTEGRATED",
-        "kenyaopendata:Sponsor of School": "COMMUNITY",
-        "kenyaopendata:Status of School": "PRIVATE",
-        "kenyaopendata:Teachers Toilets": "0",
-        "kenyaopendata:Total Boys": "82",
-        "kenyaopendata:Total Enrolment": "162",
-        "kenyaopendata:Total Girls": "80",
-        "kenyaopendata:Total Number of Classrooms": "4",
-        "kenyaopendata:Total Toilets": "0",
-        "kenyaopendata:official_name": "JOYSPRING ED CENTER- PRI. SCH",
-        "osm:_timestamp": "2017-10-12",
+        "osm:_timestamp": "2018-01-26",
         "osm:_user": "muindre",
         "osm:accessibility": "foot",
         "osm:amenity": "school",
@@ -6708,6 +6636,7 @@
         "osm:education:program_counselling": "yes",
         "osm:education:program_feeding": "fees",
         "osm:education:program_other": "christian union and bible study",
+        "osm:education:program_sanitary_towel": "yes",
         "osm:education:pta": "no",
         "osm:education:school_head": "Albert Barasa",
         "osm:education:students": "352",
@@ -6726,7 +6655,6 @@
         "osm:image:outside": "https://0079f04f78208eb6dbf00f4be735c0a32d71c3ad.googledrive.com/host/0B8cIVKWxH2-6Ynk0MDZJUnNpdUU/Jacob/Joysprings%20Educational%20Center/Sign%20Post.JPG",
         "osm:location": "kibera",
         "osm:name": "Joysprings Educational Centre",
-        "osm:official_name": "JOYSPRING ED CENTER- PRI. SCH",
         "osm:operator:name": "Joysprings Educational Ministries",
         "osm:operator:type": "religious",
         "osm:place:village": "Kianda",
@@ -6834,8 +6762,8 @@
         "type": "MultiPoint"
       },
       "properties": {
-        "osm:_timestamp": "2015-01-03",
-        "osm:_user": "JamesLC",
+        "osm:_timestamp": "2018-01-26",
+        "osm:_user": "muindre",
         "osm:accessibility": "small_cars",
         "osm:amenity": "school",
         "osm:building:levels": "1",
@@ -6858,6 +6786,7 @@
         "osm:education:program_counselling": "yes",
         "osm:education:program_feeding": "yes",
         "osm:education:program_orphans": "yes",
+        "osm:education:program_sanitary_towel": "yes",
         "osm:education:program_scouting": "yes",
         "osm:education:program_sports": "yes",
         "osm:education:pta": "yes",
@@ -7171,7 +7100,7 @@
         "type": "MultiPoint"
       },
       "properties": {
-        "osm:_timestamp": "2017-10-12",
+        "osm:_timestamp": "2017-10-19",
         "osm:_user": "muindre",
         "osm:amenity": "school",
         "osm:building:levels": "0",
@@ -7179,7 +7108,7 @@
         "osm:building:roof": "ironsheets",
         "osm:contact:address": "P O Box 41494-00100, Nairobi",
         "osm:contact:email": "kibranuersery@gmail.com",
-        "osm:contact:phone": "072160607,0716439429",
+        "osm:contact:phone": "072160607/0716439429",
         "osm:education:curriculum": "8_4_4",
         "osm:education:extra_drama": "yes",
         "osm:education:extra_music": "yes",
@@ -7225,8 +7154,8 @@
       "geometry": {
         "coordinates": [
           [
-            36.7835541,
-            -1.3124863
+            36.7834789,
+            -1.3125775
           ],
           [
             36.782858,
@@ -7269,7 +7198,7 @@
         "kenyaopendata:Total Number of Classrooms": "10",
         "kenyaopendata:Total Toilets": "0",
         "kenyaopendata:official_name": "RAILA EDUCATIONAL CENTER-PRIMARY",
-        "osm:_timestamp": "2017-10-12",
+        "osm:_timestamp": "2017-10-19",
         "osm:_user": "muindre",
         "osm:accessibility": "big_vehicles",
         "osm:amenity": "school",
@@ -9035,58 +8964,6 @@
       "geometry": {
         "coordinates": [
           [
-            36.7948279,
-            -1.3172757
-          ]
-        ],
-        "type": "MultiPoint"
-      },
-      "properties": {
-        "osm:_timestamp": "2015-04-16",
-        "osm:_user": "Blasio",
-        "osm:accessibility": "foot",
-        "osm:amenity": "school",
-        "osm:building:levels": "1",
-        "osm:building:material": "ironsheets",
-        "osm:building:roof": "ironsheets",
-        "osm:contact:address": "P O Box 11228 -00400, Nairobi",
-        "osm:contact:email": "nairobi@kenyacoc.org",
-        "osm:contact:phone": "0711187972",
-        "osm:education:curriculum": "8_4_4",
-        "osm:education:exam_center": "no",
-        "osm:education:fees": "6000",
-        "osm:education:gender_type": "mixed",
-        "osm:education:government_registered": "mgcsd",
-        "osm:education:program_counselling": "yes",
-        "osm:education:program_feeding": "fees",
-        "osm:education:pta": "yes",
-        "osm:education:students": "200",
-        "osm:education:students_female": "102",
-        "osm:education:students_male": "98",
-        "osm:education:teachers": "9",
-        "osm:education:teachers_female": "7",
-        "osm:education:teachers_male": "2",
-        "osm:education:teachers_trained": "8",
-        "osm:education:type": "primary",
-        "osm:electricity:operational_status": "often",
-        "osm:id": "node/2923436818",
-        "osm:image:classroom": "https://0079f04f78208eb6dbf00f4be735c0a32d71c3ad.googledrive.com/host/0B8cIVKWxH2-6Ynk0MDZJUnNpdUU/Joshua/Schools/Nairobi%20Outreach%20Children%20Center/class%201.JPG",
-        "osm:image:compound": "https://0079f04f78208eb6dbf00f4be735c0a32d71c3ad.googledrive.com/host/0B8cIVKWxH2-6Ynk0MDZJUnNpdUU/Joshua/Schools/Nairobi%20Outreach%20Children%20Center/building.JPG",
-        "osm:image:other": "https://0079f04f78208eb6dbf00f4be735c0a32d71c3ad.googledrive.com/host/0B8cIVKWxH2-6Ynk0MDZJUnNpdUU/Joshua/Schools/Nairobi%20Outreach%20Children%20Center/teacher.JPG",
-        "osm:image:outside": "https://0079f04f78208eb6dbf00f4be735c0a32d71c3ad.googledrive.com/host/0B8cIVKWxH2-6Ynk0MDZJUnNpdUU/Joshua/Schools/Nairobi%20Outreach%20Children%20Center/sign%20post.JPG",
-        "osm:location": "kibera",
-        "osm:name": "Nairobi Christian Outreach Centre Academy",
-        "osm:operator:name": "Nairobi Outreach Centre",
-        "osm:operator:type": "religious",
-        "osm:place:village": "Lindi",
-        "osm:toilet:present": "yes"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          [
             36.7940822,
             -1.3168728
           ]
@@ -9142,8 +9019,8 @@
         "type": "MultiPoint"
       },
       "properties": {
-        "osm:_timestamp": "2015-01-03",
-        "osm:_user": "JamesLC",
+        "osm:_timestamp": "2018-01-26",
+        "osm:_user": "muindre",
         "osm:accessibility": "small_cars",
         "osm:amenity": "school",
         "osm:building:material": "mud",
@@ -9161,6 +9038,7 @@
         "osm:education:government_registered": "mgcsd",
         "osm:education:management_committee": "yes",
         "osm:education:program_feeding": "yes",
+        "osm:education:program_sanitary_towel": "yes",
         "osm:education:pta": "yes",
         "osm:education:students": "175",
         "osm:education:students_female": "89",
@@ -10087,29 +9965,31 @@
       "geometry": {
         "coordinates": [
           [
-            36.7838539,
-            -1.3107301
+            36.783723,
+            -1.3107015
           ]
         ],
         "type": "MultiPoint"
       },
       "properties": {
-        "osm:_timestamp": "2015-01-03",
-        "osm:_user": "JamesLC",
+        "osm:_timestamp": "2017-10-16",
+        "osm:_user": "muindre",
         "osm:accessibility": "big_vehicles",
         "osm:amenity": "school",
         "osm:building:levels": "0",
         "osm:building:material": "cement_block",
         "osm:building:roof": "ironsheets",
         "osm:contact:address": "P O Box 10369-00100, Nairobi",
-        "osm:contact:email": "japhethmutinda@yahoo.com",
+        "osm:contact:email": "greenpastureschool@yahoo.com",
         "osm:contact:phone": "0720499232",
         "osm:education:committees": "school managed by the School Board",
         "osm:education:curriculum": "8_4_4",
         "osm:education:exam_center": "no",
         "osm:education:extra_music": "yes",
         "osm:education:extra_sports": "yes",
-        "osm:education:fees": "12600",
+        "osm:education:fees_level1": "4800",
+        "osm:education:fees_level2": "4800",
+        "osm:education:fees_level3": "5400",
         "osm:education:gender_type": "mixed",
         "osm:education:government_registered": "moe",
         "osm:education:management_committee": "yes",
@@ -10129,7 +10009,7 @@
         "osm:electricity:operational_status": "always",
         "osm:id": "node/2923814193",
         "osm:location": "kibera",
-        "osm:name": "Green Pastures School",
+        "osm:name": "The Green Pastures School",
         "osm:operator:name": "Japheth Mutinda",
         "osm:operator:type": "private",
         "osm:place:village": "Karanja",
@@ -13543,8 +13423,8 @@
         "type": "MultiPoint"
       },
       "properties": {
-        "osm:_timestamp": "2015-01-03",
-        "osm:_user": "JamesLC",
+        "osm:_timestamp": "2018-01-26",
+        "osm:_user": "muindre",
         "osm:accessibility": "foot",
         "osm:amenity": "school",
         "osm:building:material": "cement_block",
@@ -13559,6 +13439,7 @@
         "osm:education:gender_type": "mixed",
         "osm:education:program_counselling": "yes",
         "osm:education:program_feeding": "yes",
+        "osm:education:program_sanitary_towel": "yes",
         "osm:education:students": "195",
         "osm:education:students_female": "96",
         "osm:education:students_male": "99",
@@ -14289,8 +14170,8 @@
         "type": "MultiPoint"
       },
       "properties": {
-        "osm:_timestamp": "2015-01-03",
-        "osm:_user": "JamesLC",
+        "osm:_timestamp": "2018-01-26",
+        "osm:_user": "muindre",
         "osm:accessibility": "small_cars",
         "osm:amenity": "school",
         "osm:building:levels": "1",
@@ -14314,6 +14195,7 @@
         "osm:education:management_committee": "yes",
         "osm:education:program_counselling": "yes",
         "osm:education:program_feeding": "fees",
+        "osm:education:program_sanitary_towel": "yes",
         "osm:education:pta": "yes",
         "osm:education:students": "310",
         "osm:education:students_female": "152",
@@ -15457,14 +15339,14 @@
       "geometry": {
         "coordinates": [
           [
-            36.8024821,
-            -1.3165816
+            36.8024526,
+            -1.316587
           ]
         ],
         "type": "MultiPoint"
       },
       "properties": {
-        "osm:_timestamp": "2017-09-29",
+        "osm:_timestamp": "2017-12-01",
         "osm:_user": "Blasio",
         "osm:accessibility": "foot",
         "osm:amenity": "school",
@@ -17324,7 +17206,7 @@
         "type": "MultiPoint"
       },
       "properties": {
-        "osm:_timestamp": "2017-10-12",
+        "osm:_timestamp": "2018-01-26",
         "osm:_user": "muindre",
         "osm:accessibility": "big_vehicles",
         "osm:amenity": "school",
@@ -17346,6 +17228,7 @@
         "osm:education:management_committee": "yes",
         "osm:education:program_counselling": "yes",
         "osm:education:program_feeding": "fees",
+        "osm:education:program_sanitary_towel": "yes",
         "osm:education:program_special_needs": "yes",
         "osm:education:pta": "yes",
         "osm:education:school_head": "Peter Seth",
@@ -17532,16 +17415,16 @@
         "kenyaopendata:Total Number of Classrooms": "11",
         "kenyaopendata:Total Toilets": "0",
         "kenyaopendata:official_name": "ST. JULIETS EDUCATION CENTRE PRI SCH.",
-        "osm:_timestamp": "2015-01-03",
-        "osm:_user": "JamesLC",
+        "osm:_timestamp": "2017-10-16",
+        "osm:_user": "muindre",
         "osm:accessibility": "foot",
         "osm:amenity": "school",
         "osm:building:levels": "1",
         "osm:building:material": "ironsheets",
         "osm:building:roof": "ironsheets",
         "osm:contact:address": "P O Box 22875-00100, Nairobi",
-        "osm:contact:email": "jaredkataka@yahoo.co.uk",
-        "osm:contact:phone": "0723496808",
+        "osm:contact:email": "stjuliet@yahoo.com",
+        "osm:contact:phone": "0725364783",
         "osm:education:committees": "School is run by the Board",
         "osm:education:curriculum": "8_4_4",
         "osm:education:exam_center": "yes",
@@ -17550,19 +17433,26 @@
         "osm:education:extra_scouts": "yes",
         "osm:education:extra_sports": "yes",
         "osm:education:fees": "3600",
+        "osm:education:fees_level4": "3600",
+        "osm:education:fees_level5": "3600",
         "osm:education:fees_optional": "200",
+        "osm:education:fees_sponsored": "yes",
         "osm:education:gender_type": "mixed",
         "osm:education:government_registered": "mgcsd",
+        "osm:education:management_committee": "yes",
         "osm:education:program_counselling": "yes",
         "osm:education:program_feeding": "sponsored",
+        "osm:education:program_sanitary_towel": "yes",
+        "osm:education:program_special_needs": "yes",
+        "osm:education:pta": "yes",
         "osm:education:school_head": "Jared Kataka",
-        "osm:education:students": "630",
-        "osm:education:students_female": "347",
-        "osm:education:students_male": "283",
-        "osm:education:teachers": "12",
-        "osm:education:teachers_female": "5",
+        "osm:education:students": "460",
+        "osm:education:students_female": "245",
+        "osm:education:students_male": "215",
+        "osm:education:teachers": "14",
+        "osm:education:teachers_female": "7",
         "osm:education:teachers_male": "7",
-        "osm:education:teachers_trained": "5",
+        "osm:education:teachers_trained": "14",
         "osm:education:tsc_employed": "0",
         "osm:education:type": "primary",
         "osm:electricity:operational_status": "always",
@@ -17573,7 +17463,7 @@
         "osm:location": "kibera",
         "osm:name": "St Juliet Education Centre",
         "osm:official_name": "ST. JULIETS EDUCATION CENTRE PRI SCH.",
-        "osm:operator:description": "Jared Kataka Shikhule",
+        "osm:operator:description": "Jared Omusula",
         "osm:operator:type": "cbo",
         "osm:place:village": "Karanja",
         "osm:toilet:present": "yes"
@@ -17591,33 +17481,42 @@
         "type": "MultiPoint"
       },
       "properties": {
-        "osm:_timestamp": "2015-01-03",
-        "osm:_user": "JamesLC",
+        "osm:_timestamp": "2017-10-16",
+        "osm:_user": "muindre",
         "osm:accessibility": "foot",
         "osm:amenity": "school",
         "osm:building:levels": "1",
         "osm:building:material": "ironsheets",
         "osm:building:roof": "ironsheets",
         "osm:contact:address": "P O Box 22875-00100, Nairobi",
-        "osm:contact:email": "jaredkataka@yahoo.co.uk",
-        "osm:contact:phone": "0723496808",
+        "osm:contact:email": "stjuliet@yahoo.com",
+        "osm:contact:phone": "0725364783",
         "osm:education:committees": "School is run by the Board",
         "osm:education:curriculum": "8_4_4",
+        "osm:education:extra_drama": "yes",
+        "osm:education:extra_music": "yes",
+        "osm:education:extra_scouts": "yes",
         "osm:education:extra_sports": "yes",
-        "osm:education:fees": "2700",
+        "osm:education:fees": "3150",
+        "osm:education:fees_level1": "3150",
+        "osm:education:fees_level2": "3150",
+        "osm:education:fees_level3": "3150",
         "osm:education:gender_type": "mixed",
         "osm:education:government_registered": "mgcsd",
-        "osm:education:management_committee": "no",
+        "osm:education:management_committee": "yes",
+        "osm:education:program_counselling": "yes",
         "osm:education:program_feeding": "sponsored",
-        "osm:education:pta": "no",
+        "osm:education:program_sanitary_towel": "yes",
+        "osm:education:program_special_needs": "yes",
+        "osm:education:pta": "yes",
         "osm:education:school_head": "Jared Kataka",
-        "osm:education:students": "121",
-        "osm:education:students_female": "64",
-        "osm:education:students_male": "57",
-        "osm:education:teachers": "4",
-        "osm:education:teachers_female": "3",
-        "osm:education:teachers_male": "1",
-        "osm:education:teachers_trained": "3",
+        "osm:education:students": "78",
+        "osm:education:students_female": "36",
+        "osm:education:students_male": "42",
+        "osm:education:teachers": "2",
+        "osm:education:teachers_female": "2",
+        "osm:education:teachers_male": "0",
+        "osm:education:teachers_trained": "2",
         "osm:education:tsc_employed": "0",
         "osm:education:type": "pre_primary",
         "osm:electricity:operational_status": "always",
@@ -17626,7 +17525,7 @@
         "osm:image:outside": "https://0079f04f78208eb6dbf00f4be735c0a32d71c3ad.googledrive.com/host/0B8cIVKWxH2-6Ynk0MDZJUnNpdUU/Jacob/St%20Juliet%20Educational%20Centre/outside.jpg",
         "osm:location": "kibera",
         "osm:name": "St Juliet Education Centre",
-        "osm:operator:description": "Jared Kataka Shikhule",
+        "osm:operator:description": "Jared Omusula",
         "osm:operator:type": "cbo",
         "osm:place:village": "Karanja",
         "osm:toilet:present": "yes"
@@ -18407,8 +18306,8 @@
         "kenyaopendata:Total Number of Classrooms": "4",
         "kenyaopendata:Total Toilets": "0",
         "kenyaopendata:official_name": "RESTORATION ACADEMY- PRI.",
-        "osm:_timestamp": "2015-01-03",
-        "osm:_user": "JamesLC",
+        "osm:_timestamp": "2018-01-26",
+        "osm:_user": "muindre",
         "osm:accessibility": "big_vehicles",
         "osm:amenity": "school",
         "osm:building:levels": "1",
@@ -18429,6 +18328,7 @@
         "osm:education:management_committee": "yes",
         "osm:education:program_counselling": "yes",
         "osm:education:program_feeding": "fees",
+        "osm:education:program_sanitary_towel": "yes",
         "osm:education:program_special_needs": "yes",
         "osm:education:pta": "yes",
         "osm:education:school_head": "Catherine Mwanzia",
@@ -20141,7 +20041,7 @@
         "type": "MultiPoint"
       },
       "properties": {
-        "osm:_timestamp": "2017-10-12",
+        "osm:_timestamp": "2018-02-05",
         "osm:_user": "muindre",
         "osm:accessibility": "big_vehicles",
         "osm:amenity": "school",
@@ -20155,6 +20055,7 @@
         "osm:education:gender_type": "mixed",
         "osm:education:government_registered": "APBET",
         "osm:education:management_committee": "yes",
+        "osm:education:program_sanitary_towel": "yes",
         "osm:education:school_head": "Fredrick Ogutu",
         "osm:education:students": "50",
         "osm:education:students_female": "26",
@@ -20893,14 +20794,14 @@
       "geometry": {
         "coordinates": [
           [
-            36.7835188,
-            -1.312514
+            36.7834868,
+            -1.3125492
           ]
         ],
         "type": "MultiPoint"
       },
       "properties": {
-        "osm:_timestamp": "2017-10-12",
+        "osm:_timestamp": "2017-10-19",
         "osm:_user": "muindre",
         "osm:accessibility": "big_vehicles",
         "osm:amenity": "school",
@@ -21289,6 +21190,205 @@
         "osm:operator:name": "Ghetto Light Youth",
         "osm:operator:type": "ngo",
         "osm:place:village": "Olympic",
+        "osm:toilet:present": "yes"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            36.7838445,
+            -1.3106932
+          ]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "osm:_timestamp": "2017-10-17",
+        "osm:_user": "muindre",
+        "osm:accessibility": "big_vehicles",
+        "osm:amenity": "school",
+        "osm:building:material": "cement_block",
+        "osm:building:roof": "ironsheets",
+        "osm:contact:address": "P O Box 10369-00100, Nairobi",
+        "osm:contact:email": "greenpastureschool@yahoo.com",
+        "osm:contact:phone": "0720499232",
+        "osm:education:committees": "school managed by the School Board",
+        "osm:education:curriculum": "8_4_4",
+        "osm:education:exam_center": "yes",
+        "osm:education:extra_music": "yes",
+        "osm:education:extra_sports": "yes",
+        "osm:education:fees_level4": "5800",
+        "osm:education:fees_level5": "6000",
+        "osm:education:gender_type": "mixed",
+        "osm:education:government_registered": "moe",
+        "osm:education:management_committee": "yes",
+        "osm:education:program_counselling": "yes",
+        "osm:education:program_feeding": "fees",
+        "osm:education:pta": "yes",
+        "osm:education:school_head": "Japheth Mutinda",
+        "osm:education:students": "596",
+        "osm:education:students_female": "256",
+        "osm:education:students_male": "340",
+        "osm:education:teachers": "25",
+        "osm:education:teachers_female": "10",
+        "osm:education:teachers_male": "15",
+        "osm:education:teachers_trained": "25",
+        "osm:education:type": "primary",
+        "osm:electricity:operational_status": "always",
+        "osm:id": "node/5170815428",
+        "osm:location": "kibera",
+        "osm:name": "The Green Pastures School",
+        "osm:operator:type": "private",
+        "osm:place:village": "Karanja",
+        "osm:toilet:present": "yes"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            36.7842852,
+            -1.3125898
+          ]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "osm:_timestamp": "2017-10-16",
+        "osm:_user": "muindre",
+        "osm:accessibility": "small_cars",
+        "osm:amenity": "school",
+        "osm:building:levels": "1",
+        "osm:building:material": "ironsheets",
+        "osm:building:roof": "ironsheets",
+        "osm:contact:address": "P O Box 53610-00200",
+        "osm:contact:email": "koplusanewhope@yahoo.com",
+        "osm:contact:phone": "0726053344",
+        "osm:education:curriculum": "8_4_4",
+        "osm:education:extra_music": "yes",
+        "osm:education:gender_type": "mixed",
+        "osm:education:management_committee": "yes",
+        "osm:education:program_counselling": "yes",
+        "osm:education:program_feeding": "feed_the_child",
+        "osm:education:school_head": "Phoebe Opiyo",
+        "osm:education:students": "58",
+        "osm:education:students_female": "32",
+        "osm:education:students_male": "26",
+        "osm:education:teachers": "2",
+        "osm:education:teachers_female": "2",
+        "osm:education:teachers_male": "0",
+        "osm:education:teachers_trained": "2",
+        "osm:education:type": "primary",
+        "osm:electricity:operational_status": "always",
+        "osm:id": "node/5170840099",
+        "osm:location": "kibera",
+        "osm:name": "New Hope Academy",
+        "osm:operator:name": "New Hope Academy",
+        "osm:operator:type": "cbo",
+        "osm:place:village": "Karanja",
+        "osm:toilet:present": "yes"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            36.7843059,
+            -1.3125871
+          ]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "osm:_timestamp": "2017-10-16",
+        "osm:_user": "muindre",
+        "osm:accessibility": "small_cars",
+        "osm:amenity": "school",
+        "osm:building:levels": "1",
+        "osm:building:material": "ironsheets",
+        "osm:building:roof": "ironsheets",
+        "osm:contact:address": "P O Box 53610-00200",
+        "osm:contact:email": "koplusanewhope@yahoo.com",
+        "osm:contact:phone": "0726053344",
+        "osm:education:curriculum": "8_4_4",
+        "osm:education:extra_music": "yes",
+        "osm:education:gender_type": "mixed",
+        "osm:education:government_registered": "mgcsd",
+        "osm:education:management_committee": "yes",
+        "osm:education:program_counselling": "yes",
+        "osm:education:program_feeding": "feed_the_child",
+        "osm:education:school_head": "Phoebe Opiyo",
+        "osm:education:students": "50",
+        "osm:education:students_female": "30",
+        "osm:education:students_male": "20",
+        "osm:education:teachers": "3",
+        "osm:education:teachers_female": "3",
+        "osm:education:teachers_male": "0",
+        "osm:education:teachers_trained": "3",
+        "osm:education:type": "pre_primary",
+        "osm:electricity:operational_status": "always",
+        "osm:id": "node/5170840100",
+        "osm:location": "kibera",
+        "osm:name": "New Hope Academy",
+        "osm:operator:name": "New Hope Academy",
+        "osm:operator:type": "cbo",
+        "osm:place:village": "Karanja",
+        "osm:toilet:present": "yes"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            36.7948279,
+            -1.3172762
+          ]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "osm:_timestamp": "2017-12-20",
+        "osm:_user": "muindre",
+        "osm:accessibility": "foot",
+        "osm:amenity": "school",
+        "osm:building:levels": "1",
+        "osm:building:material": "ironsheets",
+        "osm:building:roof": "ironsheets",
+        "osm:contact:address": "P O Box 11228 -00400, Nairobi",
+        "osm:contact:email": "nairobi@kenyacoc.org",
+        "osm:contact:phone": "0711187972",
+        "osm:education:curriculum": "8_4_4",
+        "osm:education:exam_center": "no",
+        "osm:education:fees": "6000",
+        "osm:education:gender_type": "mixed",
+        "osm:education:government_registered": "mgcsd",
+        "osm:education:program_counselling": "yes",
+        "osm:education:program_feeding": "fees",
+        "osm:education:pta": "yes",
+        "osm:education:students": "200",
+        "osm:education:students_female": "102",
+        "osm:education:students_male": "98",
+        "osm:education:teachers": "9",
+        "osm:education:teachers_female": "7",
+        "osm:education:teachers_male": "2",
+        "osm:education:teachers_trained": "8",
+        "osm:education:type": "primary",
+        "osm:electricity:operational_status": "often",
+        "osm:id": "node/5295553069",
+        "osm:image:classroom": "https://0079f04f78208eb6dbf00f4be735c0a32d71c3ad.googledrive.com/host/0B8cIVKWxH2-6Ynk0MDZJUnNpdUU/Joshua/Schools/Nairobi%20Outreach%20Children%20Center/class%201.JPG",
+        "osm:image:compound": "https://0079f04f78208eb6dbf00f4be735c0a32d71c3ad.googledrive.com/host/0B8cIVKWxH2-6Ynk0MDZJUnNpdUU/Joshua/Schools/Nairobi%20Outreach%20Children%20Center/building.JPG",
+        "osm:image:other": "https://0079f04f78208eb6dbf00f4be735c0a32d71c3ad.googledrive.com/host/0B8cIVKWxH2-6Ynk0MDZJUnNpdUU/Joshua/Schools/Nairobi%20Outreach%20Children%20Center/teacher.JPG",
+        "osm:image:outside": "https://0079f04f78208eb6dbf00f4be735c0a32d71c3ad.googledrive.com/host/0B8cIVKWxH2-6Ynk0MDZJUnNpdUU/Joshua/Schools/Nairobi%20Outreach%20Children%20Center/sign%20post.JPG",
+        "osm:location": "kibera",
+        "osm:name": "Nairobi Christian Outreach Centre Academy",
+        "osm:operator:name": "Nairobi Outreach Centre",
+        "osm:operator:type": "religious",
+        "osm:place:village": "Lindi",
         "osm:toilet:present": "yes"
       },
       "type": "Feature"
