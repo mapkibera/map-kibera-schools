@@ -10,14 +10,14 @@
       }, 
       "id": "node/1038064486", 
       "properties": {
-        "osm:_timestamp": "2016-10-26T11:33:13Z", 
-        "osm:_user": "Richard Chapia", 
+        "osm:_timestamp": "2017-10-12T19:59:57Z", 
+        "osm:_user": "muindre", 
         "osm:accessibility": "big_vehicles", 
         "osm:amenity": "school", 
         "osm:building:levels": "1", 
         "osm:building:material": "metal", 
         "osm:building:roof": "ironsheets", 
-        "osm:contact:address": "77022-00611", 
+        "osm:contact:address": "P O Box 77022-00611", 
         "osm:contact:email": "mcedocom@gmail.com", 
         "osm:contact:phone": "0729643795", 
         "osm:education:exam_center": "yes", 
@@ -31,9 +31,9 @@
         "osm:education:program_other": "enviromental and health club", 
         "osm:education:pta": "yes", 
         "osm:education:school_head": "Jacob DE", 
-        "osm:education:student_female": "74", 
-        "osm:education:student_male": "46", 
         "osm:education:students": "120", 
+        "osm:education:students_female": "74", 
+        "osm:education:students_male": "46", 
         "osm:education:teachers": "5", 
         "osm:education:teachers_female": "1", 
         "osm:education:teachers_male": "4", 
@@ -41,10 +41,29 @@
         "osm:education:type": "secondary", 
         "osm:electricity:operational_status": "sometimes", 
         "osm:id": "node/1038064486", 
-        "osm:name": "mcedo secondary school", 
+        "osm:name": "Mcedo Secondary School", 
         "osm:operator:name": "MCEDO", 
         "osm:operator:type": "cbo", 
+        "osm:place:village": "Kosovo", 
         "osm:toilet:present": "yes"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.8580037, 
+          -1.2635399
+        ], 
+        "type": "Point"
+      }, 
+      "id": "node/1038064496", 
+      "properties": {
+        "osm:_timestamp": "2011-01-18T19:56:55Z", 
+        "osm:_user": "PrimusK", 
+        "osm:amenity": "school", 
+        "osm:id": "node/1038064496", 
+        "osm:name": "Undugu Mercy care"
       }, 
       "type": "Feature"
     }, 
@@ -58,10 +77,10 @@
       }, 
       "id": "node/1038103774", 
       "properties": {
-        "osm:_timestamp": "2016-10-21T11:11:17Z", 
-        "osm:_user": "Tiany", 
+        "osm:_timestamp": "2017-10-12T19:59:58Z", 
+        "osm:_user": "muindre", 
         "osm:accessibility": "foot", 
-        "osm:amenity": "kindergarten", 
+        "osm:amenity": "school", 
         "osm:building:levels": "0", 
         "osm:building:material": "cement_block", 
         "osm:building:roof": "concrete", 
@@ -73,9 +92,9 @@
         "osm:education:government_registered": "mgcsd", 
         "osm:education:program_feeding": "no", 
         "osm:education:school_head": "Ann Wambui", 
-        "osm:education:student_female": "8", 
-        "osm:education:student_male": "16", 
         "osm:education:students": "24", 
+        "osm:education:students_female": "8", 
+        "osm:education:students_male": "16", 
         "osm:education:teachers": "2", 
         "osm:education:teachers_female": "2", 
         "osm:education:teachers_male": "0", 
@@ -96,13 +115,13 @@
       "geometry": {
         "coordinates": [
           36.8599028, 
-          -1.2625836
+          -1.2625634
         ], 
         "type": "Point"
       }, 
       "id": "node/1038103776", 
       "properties": {
-        "osm:_timestamp": "2016-10-21T08:10:51Z", 
+        "osm:_timestamp": "2017-10-12T19:59:58Z", 
         "osm:_user": "muindre", 
         "osm:accessibility": "small_cars", 
         "osm:amenity": "school", 
@@ -129,10 +148,10 @@
         "osm:education:program_sanitary_towel": "yes", 
         "osm:education:program_special_needs": "yes", 
         "osm:education:pta": "no", 
-        "osm:education:school_head": "alex onyango", 
-        "osm:education:student_female": "78", 
-        "osm:education:student_male": "94", 
+        "osm:education:school_head": "Alex Onyango", 
         "osm:education:students": "172", 
+        "osm:education:students_female": "78", 
+        "osm:education:students_male": "94", 
         "osm:education:teachers": "12", 
         "osm:education:teachers_female": "8", 
         "osm:education:teachers_male": "4", 
@@ -141,10 +160,10 @@
         "osm:education:type": "primary", 
         "osm:electricity:operational_status": "never", 
         "osm:id": "node/1038103776", 
-        "osm:name": "Bridge international school", 
-        "osm:operator:name": "bridge international academy", 
+        "osm:name": "Bridge International School", 
+        "osm:operator:name": "Bridge International Academy", 
         "osm:operator:type": "ngo", 
-        "osm:place:village": "gumba", 
+        "osm:place:village": "Gumba", 
         "osm:toilet:present": "yes"
       }, 
       "type": "Feature"
@@ -152,15 +171,15 @@
     {
       "geometry": {
         "coordinates": [
-          36.8587784, 
-          -1.2653975
+          36.8588695, 
+          -1.2653874
         ], 
         "type": "Point"
       }, 
       "id": "node/1038103794", 
       "properties": {
-        "osm:_timestamp": "2016-10-21T11:28:17Z", 
-        "osm:_user": "Tiany", 
+        "osm:_timestamp": "2017-10-12T19:59:59Z", 
+        "osm:_user": "muindre", 
         "osm:accessibility": "foot", 
         "osm:amenity": "school", 
         "osm:building:levels": "0", 
@@ -182,9 +201,9 @@
         "osm:education:program_sanitary_towel": "yes", 
         "osm:education:pta": "yes", 
         "osm:education:school_head": "Evans Uhuru", 
-        "osm:education:student_female": "103", 
-        "osm:education:student_male": "70", 
         "osm:education:students": "173", 
+        "osm:education:students_female": "103", 
+        "osm:education:students_male": "70", 
         "osm:education:teachers": "5", 
         "osm:education:teachers_female": "1", 
         "osm:education:teachers_male": "4", 
@@ -203,6 +222,276 @@
     {
       "geometry": {
         "coordinates": [
+          36.8743802, 
+          -1.2572276
+        ], 
+        "type": "Point"
+      }, 
+      "id": "node/1038172444", 
+      "properties": {
+        "osm:_timestamp": "2010-12-14T12:20:51Z", 
+        "osm:_user": "elizabeth kinyua", 
+        "osm:amenity": "school", 
+        "osm:id": "node/1038172444", 
+        "osm:name": "Heritage academy"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.8754772, 
+          -1.2610279
+        ], 
+        "type": "Point"
+      }, 
+      "id": "node/1038195562", 
+      "properties": {
+        "osm:_timestamp": "2011-01-28T09:48:18Z", 
+        "osm:_user": "PrimusK", 
+        "osm:amenity": "school", 
+        "osm:id": "node/1038195562", 
+        "osm:name": "Ndururuno Secondary School"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.8779585, 
+          -1.2577888
+        ], 
+        "type": "Point"
+      }, 
+      "id": "node/1038195571", 
+      "properties": {
+        "osm:_timestamp": "2010-12-14T12:53:50Z", 
+        "osm:_user": "elizabeth kinyua", 
+        "osm:amenity": "school", 
+        "osm:id": "node/1038195571", 
+        "osm:name": "Kariobangi Adventist Educational Centre"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.8617025, 
+          -1.2593395
+        ], 
+        "type": "Point"
+      }, 
+      "id": "node/1038202638", 
+      "properties": {
+        "osm:_timestamp": "2010-12-14T12:59:21Z", 
+        "osm:_user": "charles juma", 
+        "osm:amenity": "school", 
+        "osm:id": "node/1038202638", 
+        "osm:name": "Mathare light school"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.8631121, 
+          -1.2564123
+        ], 
+        "type": "Point"
+      }, 
+      "id": "node/1038202662", 
+      "properties": {
+        "osm:_timestamp": "2011-01-14T12:04:38Z", 
+        "osm:_user": "PrimusK", 
+        "osm:amenity": "school", 
+        "osm:id": "node/1038202662", 
+        "osm:name": "Mercy care center primary school"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.859091, 
+          -1.261432
+        ], 
+        "type": "Point"
+      }, 
+      "id": "node/1038202665", 
+      "properties": {
+        "osm:_timestamp": "2017-10-12T19:59:59Z", 
+        "osm:_user": "muindre", 
+        "osm:amenity": "school", 
+        "osm:id": "node/1038202665", 
+        "osm:name": "School"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.856356, 
+          -1.2619064
+        ], 
+        "type": "Point"
+      }, 
+      "id": "node/1038202671", 
+      "properties": {
+        "osm:_timestamp": "2011-01-14T12:04:43Z", 
+        "osm:_user": "PrimusK", 
+        "osm:amenity": "school", 
+        "osm:id": "node/1038202671", 
+        "osm:name": "Caso upendo primary school"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.8567439, 
+          -1.261703
+        ], 
+        "type": "Point"
+      }, 
+      "id": "node/1038202672", 
+      "properties": {
+        "osm:_timestamp": "2017-10-12T19:59:59Z", 
+        "osm:_user": "muindre", 
+        "osm:amenity": "school", 
+        "osm:id": "node/1038202672", 
+        "osm:name": "Myto junior academy"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.8609719, 
+          -1.2588415
+        ], 
+        "type": "Point"
+      }, 
+      "id": "node/1038202722", 
+      "properties": {
+        "osm:_timestamp": "2010-12-14T12:59:26Z", 
+        "osm:_user": "charles juma", 
+        "osm:amenity": "school", 
+        "osm:id": "node/1038202722", 
+        "osm:name": "StLlwanga zone nursery/primary school"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.8576571, 
+          -1.2622473
+        ], 
+        "type": "Point"
+      }, 
+      "id": "node/1038202725", 
+      "properties": {
+        "osm:_timestamp": "2010-12-14T12:59:26Z", 
+        "osm:_user": "charles juma", 
+        "osm:amenity": "school", 
+        "osm:id": "node/1038202725", 
+        "osm:name": "Brilliant center academy"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.8592841, 
+          -1.2622761
+        ], 
+        "type": "Point"
+      }, 
+      "id": "node/1038202744", 
+      "properties": {
+        "osm:_timestamp": "2010-12-14T12:59:27Z", 
+        "osm:_user": "charles juma", 
+        "osm:amenity": "school", 
+        "osm:id": "node/1038202744", 
+        "osm:name": "Ebenezar primary school"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.8632553, 
+          -1.2565979
+        ], 
+        "type": "Point"
+      }, 
+      "id": "node/1038202804", 
+      "properties": {
+        "osm:_timestamp": "2011-01-14T12:04:38Z", 
+        "osm:_user": "PrimusK", 
+        "osm:amenity": "school", 
+        "osm:id": "node/1038202804", 
+        "osm:name": "Mercy care center secondary school"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.8603436, 
+          -1.2613367
+        ], 
+        "type": "Point"
+      }, 
+      "id": "node/1038202813", 
+      "properties": {
+        "osm:_timestamp": "2010-12-14T12:59:29Z", 
+        "osm:_user": "charles juma", 
+        "osm:amenity": "school", 
+        "osm:id": "node/1038202813", 
+        "osm:name": "Excellent care center"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.8753828, 
+          -1.2515615
+        ], 
+        "type": "Point"
+      }, 
+      "id": "node/1038219156", 
+      "properties": {
+        "osm:_timestamp": "2010-12-14T13:28:31Z", 
+        "osm:_user": "PrimusK", 
+        "osm:amenity": "school", 
+        "osm:id": "node/1038219156", 
+        "osm:name": "Brain house academy"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.87624, 
+          -1.2509723
+        ], 
+        "type": "Point"
+      }, 
+      "id": "node/1038219177", 
+      "properties": {
+        "osm:_timestamp": "2010-12-14T13:28:33Z", 
+        "osm:_user": "PrimusK", 
+        "osm:amenity": "school", 
+        "osm:id": "node/1038219177", 
+        "osm:name": "Brain house high school"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
           36.8542271, 
           -1.2633561
         ], 
@@ -210,31 +499,31 @@
       }, 
       "id": "node/1100019215", 
       "properties": {
-        "osm:_timestamp": "2016-10-31T08:33:29Z", 
-        "osm:_user": "Richard Chapia", 
+        "osm:_timestamp": "2017-10-12T20:00:00Z", 
+        "osm:_user": "muindre", 
         "osm:accessibility": "foot", 
         "osm:amenity": "school", 
         "osm:building:levels": "1", 
         "osm:building:material": "cement_block", 
         "osm:building:roof": "ironsheets", 
-        "osm:contact:address": "PO BOX 1894-00200", 
+        "osm:contact:address": "P O BOX 1894-00200", 
         "osm:contact:email": "agerc2000@gmail.com", 
         "osm:contact:phone": "0727931548", 
         "osm:education:curriculum": "8_4_4", 
         "osm:education:extra_drama": "yes", 
         "osm:education:extra_music": "yes", 
         "osm:education:extra_sports": "yes", 
-        "osm:education:fees": "KSHS 1200 per term", 
-        "osm:education:fees_optional": "KSHS 100 per term for exams", 
+        "osm:education:fees": "1200 per term", 
+        "osm:education:fees_optional": "100 per term for exams", 
         "osm:education:gender_type": "girls_only", 
         "osm:education:government_registered": "mgcsd", 
         "osm:education:management_committee": "yes", 
         "osm:education:program_counselling": "yes", 
-        "osm:education:program_feeding": "other", 
+        "osm:education:program_feeding": "Yes", 
         "osm:education:pta": "yes", 
         "osm:education:school_head": "Mary Atieno", 
-        "osm:education:student_female": "80", 
         "osm:education:students": "80", 
+        "osm:education:students_female": "80", 
         "osm:education:teachers": "4", 
         "osm:education:teachers_female": "4", 
         "osm:education:teachers_trained": "2", 
@@ -242,11 +531,65 @@
         "osm:education:type": "primary", 
         "osm:electricity:operational_status": "sometimes", 
         "osm:id": "node/1100019215", 
-        "osm:name": "angel girls education centre", 
-        "osm:operator:description": "Agella adhiambo", 
+        "osm:name": "Angel Girls Education Centre", 
+        "osm:operator:description": "Agella Adhiambo", 
         "osm:operator:type": "private", 
         "osm:place:village": "Kosovo", 
         "osm:toilet:present": "yes"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.872227, 
+          -1.2563473
+        ], 
+        "type": "Point"
+      }, 
+      "id": "node/1101737230", 
+      "properties": {
+        "osm:_timestamp": "2011-01-13T10:40:52Z", 
+        "osm:_user": "hassanow", 
+        "osm:amenity": "school", 
+        "osm:id": "node/1101737230", 
+        "osm:name": "Faith Academy"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.8744704, 
+          -1.2586748
+        ], 
+        "type": "Point"
+      }, 
+      "id": "node/1101737249", 
+      "properties": {
+        "osm:_timestamp": "2016-04-29T11:56:38Z", 
+        "osm:_user": "Edduta", 
+        "osm:amenity": "school", 
+        "osm:id": "node/1101737249", 
+        "osm:name": "Huruma Primary School"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.8737244, 
+          -1.2573083
+        ], 
+        "type": "Point"
+      }, 
+      "id": "node/1101737253", 
+      "properties": {
+        "osm:_timestamp": "2011-01-13T10:40:53Z", 
+        "osm:_user": "hassanow", 
+        "osm:amenity": "school", 
+        "osm:id": "node/1101737253", 
+        "osm:name": "Hope Missionary School"
       }, 
       "type": "Feature"
     }, 
@@ -260,8 +603,8 @@
       }, 
       "id": "node/1103092195", 
       "properties": {
-        "osm:_timestamp": "2016-10-21T11:55:27Z", 
-        "osm:_user": "ronaldroy", 
+        "osm:_timestamp": "2017-10-12T20:00:00Z", 
+        "osm:_user": "muindre", 
         "osm:accessibility": "big_vehicles", 
         "osm:amenity": "school", 
         "osm:building:levels": "1", 
@@ -281,9 +624,9 @@
         "osm:education:program_feeding": "yes", 
         "osm:education:program_special_needs": "yes", 
         "osm:education:school_head": "Kenneth Kiliima", 
-        "osm:education:student_female": "124", 
-        "osm:education:student_male": "100", 
         "osm:education:students": "224", 
+        "osm:education:students_female": "124", 
+        "osm:education:students_male": "100", 
         "osm:education:teachers": "11", 
         "osm:education:teachers_female": "7", 
         "osm:education:teachers_male": "4", 
@@ -292,10 +635,10 @@
         "osm:education:type": "primary", 
         "osm:electricity:operational_status": "always", 
         "osm:id": "node/1103092195", 
-        "osm:name": "ST. MichaelChildren Education Center", 
+        "osm:name": "ST. Michael Children Education Center", 
         "osm:operator:name": "Community", 
         "osm:operator:type": "Cbo", 
-        "osm:place:village": "mathare mashimoni", 
+        "osm:place:village": "Mathare Mashimoni", 
         "osm:toilet:present": "no"
       }, 
       "type": "Feature"
@@ -310,14 +653,14 @@
       }, 
       "id": "node/1103092338", 
       "properties": {
-        "osm:_timestamp": "2016-10-26T08:38:12Z", 
-        "osm:_user": "Tiany", 
+        "osm:_timestamp": "2017-10-12T20:00:01Z", 
+        "osm:_user": "muindre", 
         "osm:accessibility": "foot", 
         "osm:amenity": "school", 
         "osm:building:levels": "1", 
         "osm:building:material": "wood", 
         "osm:building:roof": "ironsheets", 
-        "osm:contact:address": "225-00510 NAIROBI", 
+        "osm:contact:address": "P O Box 225-00510 Nairobi", 
         "osm:contact:email": "andulaj@yahoo.com", 
         "osm:contact:phone": "0725481011", 
         "osm:education:committees": "Church committe", 
@@ -329,9 +672,9 @@
         "osm:education:management_committee": "yes", 
         "osm:education:pta": "yes", 
         "osm:education:school_head": "Josephat Andula Okama", 
-        "osm:education:student_female": "87", 
-        "osm:education:student_male": "61", 
         "osm:education:students": "148", 
+        "osm:education:students_female": "87", 
+        "osm:education:students_male": "61", 
         "osm:education:teachers": "9", 
         "osm:education:teachers_female": "4", 
         "osm:education:teachers_male": "5", 
@@ -340,11 +683,49 @@
         "osm:education:type": "primary", 
         "osm:electricity:operational_status": "sometimes", 
         "osm:id": "node/1103092338", 
-        "osm:name": "St. Ngota's Upendo primary school", 
+        "osm:name": "St. Ngota's Upendo Primary School", 
         "osm:operator:name": "Jordan Friends Ministries", 
         "osm:operator:type": "religious", 
         "osm:place:village": "Mabatini", 
         "osm:toilet:present": "yes"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.8649389, 
+          -1.2613375
+        ], 
+        "type": "Point"
+      }, 
+      "id": "node/1103092342", 
+      "properties": {
+        "osm:OWNERS": "MINISTRY OF EDUCATION", 
+        "osm:UNESCO POI'S": "EDUCATION", 
+        "osm:_timestamp": "2017-08-21T22:59:44Z", 
+        "osm:_user": "Johnwhelan", 
+        "osm:amenity": "school", 
+        "osm:id": "node/1103092342", 
+        "osm:name": "Mathare Special Training Center"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.862644, 
+          -1.2614051
+        ], 
+        "type": "Point"
+      }, 
+      "id": "node/1103092371", 
+      "properties": {
+        "osm:_timestamp": "2016-11-14T09:08:09Z", 
+        "osm:_user": "felloh Jamuradi", 
+        "osm:amenity": "school", 
+        "osm:id": "node/1103092371", 
+        "osm:name": "Mathare Family Hope Center"
       }, 
       "type": "Feature"
     }, 
@@ -359,8 +740,8 @@
       "id": "node/1103092451", 
       "properties": {
         "osm:UNESCO POI'S": "EDUCATION", 
-        "osm:_timestamp": "2016-10-21T12:08:48Z", 
-        "osm:_user": "felloh Jamuradi", 
+        "osm:_timestamp": "2017-10-12T20:00:01Z", 
+        "osm:_user": "muindre", 
         "osm:accessibility": "foot", 
         "osm:amenity": "school", 
         "osm:building:levels": "1", 
@@ -380,9 +761,9 @@
         "osm:education:program_feeding": "yes", 
         "osm:education:program_sanitary_towel": "yes", 
         "osm:education:school_head": "Paul Opiyo", 
-        "osm:education:student_female": "47", 
-        "osm:education:student_male": "157", 
         "osm:education:students": "204", 
+        "osm:education:students_female": "47", 
+        "osm:education:students_male": "157", 
         "osm:education:teachers": "10", 
         "osm:education:teachers_female": "6", 
         "osm:education:teachers_male": "4", 
@@ -395,8 +776,44 @@
         "osm:operator:description": "association", 
         "osm:operator:name": "whynot", 
         "osm:operator:type": "cbo", 
-        "osm:place:village": "mathare mashimoni", 
+        "osm:place:village": "Mathare Mashimoni", 
         "osm:toilet:present": "yes"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.864399, 
+          -1.2594488
+        ], 
+        "type": "Point"
+      }, 
+      "id": "node/1103092472", 
+      "properties": {
+        "osm:_timestamp": "2011-01-14T11:08:48Z", 
+        "osm:_user": "hassanow", 
+        "osm:amenity": "school", 
+        "osm:id": "node/1103092472", 
+        "osm:name": "Driving School"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.8605302, 
+          -1.2593629
+        ], 
+        "type": "Point"
+      }, 
+      "id": "node/1103152621", 
+      "properties": {
+        "osm:_timestamp": "2011-02-02T15:25:33Z", 
+        "osm:_user": "PrimusK", 
+        "osm:amenity": "school", 
+        "osm:id": "node/1103152621", 
+        "osm:name": "Joy care center"
       }, 
       "type": "Feature"
     }, 
@@ -410,14 +827,14 @@
       }, 
       "id": "node/1109445798", 
       "properties": {
-        "osm:_timestamp": "2016-10-26T11:32:49Z", 
-        "osm:_user": "Richard Chapia", 
+        "osm:_timestamp": "2016-12-08T09:14:33Z", 
+        "osm:_user": "fondolucy", 
         "osm:accessibility": "big_vehicles", 
         "osm:amenity": "school", 
         "osm:building:levels": "1", 
         "osm:building:material": "cement_block", 
         "osm:building:roof": "ironsheets", 
-        "osm:contact:address": "77022-00611", 
+        "osm:contact:address": "P O Box 77022-00611 Nairobi", 
         "osm:contact:email": "mcedocom@gmail.com", 
         "osm:contact:phone": "0729643795", 
         "osm:education:curriculum": "8_4_4", 
@@ -429,7 +846,7 @@
         "osm:education:government_registered": "mgcsd", 
         "osm:education:management_committee": "yes", 
         "osm:education:program_counselling": "yes", 
-        "osm:education:program_feeding": "other", 
+        "osm:education:program_feeding": "Yes", 
         "osm:education:program_other": "Enviromental clubs and health", 
         "osm:education:pta": "yes", 
         "osm:education:school_head": "Benedict Kiage", 
@@ -461,10 +878,10 @@
       }, 
       "id": "node/1110199069", 
       "properties": {
-        "osm:_timestamp": "2016-12-06T10:35:55Z", 
+        "osm:_timestamp": "2017-10-12T20:00:02Z", 
         "osm:_user": "muindre", 
         "osm:accessibility": "big_vehicles", 
-        "osm:amenity": "kindergarten", 
+        "osm:amenity": "school", 
         "osm:building:levels": "0", 
         "osm:building:material": "cement_block", 
         "osm:building:roof": "ironsheets", 
@@ -476,10 +893,12 @@
         "osm:education:gender_type": "mixed", 
         "osm:education:government_registered": "mgcsd", 
         "osm:education:management_committee": "yes", 
-        "osm:education:program_feeding": "Kids club", 
+        "osm:education:program_feeding": "Yes", 
         "osm:education:pta": "yes", 
         "osm:education:school_head": "Mary Bakira", 
         "osm:education:students": "265", 
+        "osm:education:students_female": "130", 
+        "osm:education:students_male": "135", 
         "osm:education:teachers": "9", 
         "osm:education:teachers_female": "4", 
         "osm:education:teachers_male": "5", 
@@ -488,11 +907,65 @@
         "osm:education:type": "pre_primary", 
         "osm:electricity:operational_status": "always", 
         "osm:id": "node/1110199069", 
-        "osm:name": "Roots institute center", 
+        "osm:name": "Roots Institute Center", 
         "osm:operator:name": "Roots Institute Center", 
         "osm:operator:type": "cbo", 
         "osm:place:village": "Kosovo", 
         "osm:toilet:present": "outside_public"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.8524555, 
+          -1.2626793
+        ], 
+        "type": "Point"
+      }, 
+      "id": "node/1110199109", 
+      "properties": {
+        "osm:_timestamp": "2017-10-12T20:00:02Z", 
+        "osm:_user": "muindre", 
+        "osm:amenity": "school", 
+        "osm:id": "node/1110199109", 
+        "osm:name": "Neema worship centre"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.858029, 
+          -1.2630954
+        ], 
+        "type": "Point"
+      }, 
+      "id": "node/1110227275", 
+      "properties": {
+        "osm:_timestamp": "2017-10-12T20:00:02Z", 
+        "osm:_user": "muindre", 
+        "osm:amenity": "school", 
+        "osm:id": "node/1110227275", 
+        "osm:name": "Patmos junior school"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.8559941, 
+          -1.2632281
+        ], 
+        "type": "Point"
+      }, 
+      "id": "node/1110227315", 
+      "properties": {
+        "osm:_timestamp": "2011-01-19T10:49:21Z", 
+        "osm:_user": "PrimusK", 
+        "osm:amenity": "school", 
+        "osm:id": "node/1110227315", 
+        "osm:name": "C.A Academy"
       }, 
       "type": "Feature"
     }, 
@@ -506,14 +979,14 @@
       }, 
       "id": "node/1110227334", 
       "properties": {
-        "osm:_timestamp": "2016-11-16T08:17:29Z", 
-        "osm:_user": "Richard Chapia", 
+        "osm:_timestamp": "2017-10-12T20:00:03Z", 
+        "osm:_user": "muindre", 
         "osm:accessibility": "big_vehicles", 
         "osm:amenity": "school", 
         "osm:building:levels": "0", 
         "osm:building:material": "cement_block", 
         "osm:building:roof": "ironsheets", 
-        "osm:contact:address": "P.O Box 8097-00200Nrb", 
+        "osm:contact:address": "P O Box 8097-00200 Nairobi", 
         "osm:contact:email": "anawezaeducationcentre@yahoo.com", 
         "osm:contact:phone": "0722228199", 
         "osm:education:curriculum": "8_4_4", 
@@ -521,7 +994,7 @@
         "osm:education:extra_music": "yes", 
         "osm:education:extra_scouts": "yes", 
         "osm:education:extra_sports": "yes", 
-        "osm:education:fees": "Ksh.3600", 
+        "osm:education:fees": "3600", 
         "osm:education:gender_type": "mixed", 
         "osm:education:government_registered": "mgcsd", 
         "osm:education:management_committee": "yes", 
@@ -529,9 +1002,9 @@
         "osm:education:program_sanitary_towel": "yes", 
         "osm:education:pta": "yes", 
         "osm:education:school_head": "Vincent Okumu", 
-        "osm:education:student_female": "20", 
-        "osm:education:student_male": "25", 
         "osm:education:students": "45", 
+        "osm:education:students_female": "20", 
+        "osm:education:students_male": "25", 
         "osm:education:teachers": "3", 
         "osm:education:teachers_female": "1", 
         "osm:education:teachers_male": "2", 
@@ -551,6 +1024,887 @@
     {
       "geometry": {
         "coordinates": [
+          36.8454515, 
+          -1.2642823
+        ], 
+        "type": "Point"
+      }, 
+      "id": "node/1110239838", 
+      "properties": {
+        "osm:_timestamp": "2011-01-19T11:11:24Z", 
+        "osm:_user": "hassanow", 
+        "osm:amenity": "school", 
+        "osm:id": "node/1110239838", 
+        "osm:name": "Harvest mission"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.8434362, 
+          -1.2658062
+        ], 
+        "type": "Point"
+      }, 
+      "id": "node/1110239839", 
+      "properties": {
+        "osm:_timestamp": "2011-01-19T11:11:24Z", 
+        "osm:_user": "hassanow", 
+        "osm:amenity": "school", 
+        "osm:id": "node/1110239839", 
+        "osm:name": "St.mary community center"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.8449385, 
+          -1.2646449
+        ], 
+        "type": "Point"
+      }, 
+      "id": "node/1110239853", 
+      "properties": {
+        "osm:_timestamp": "2011-01-19T11:11:26Z", 
+        "osm:_user": "hassanow", 
+        "osm:amenity": "school", 
+        "osm:id": "node/1110239853", 
+        "osm:name": "Loving concern Education center"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.8450669, 
+          -1.2657407
+        ], 
+        "type": "Point"
+      }, 
+      "id": "node/1110239854", 
+      "properties": {
+        "osm:_timestamp": "2011-02-02T08:55:21Z", 
+        "osm:_user": "PrimusK", 
+        "osm:amenity": "school", 
+        "osm:id": "node/1110239854", 
+        "osm:name": "Funzo junior school."
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.8451595, 
+          -1.2653022
+        ], 
+        "type": "Point"
+      }, 
+      "id": "node/1110239856", 
+      "properties": {
+        "osm:_timestamp": "2011-01-19T11:11:26Z", 
+        "osm:_user": "hassanow", 
+        "osm:amenity": "school", 
+        "osm:id": "node/1110239856", 
+        "osm:name": "St Antonieta"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.8442474, 
+          -1.2641264
+        ], 
+        "type": "Point"
+      }, 
+      "id": "node/1110239860", 
+      "properties": {
+        "osm:_timestamp": "2011-01-19T11:11:27Z", 
+        "osm:_user": "hassanow", 
+        "osm:amenity": "school", 
+        "osm:id": "node/1110239860", 
+        "osm:name": "ST phillips school"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.8460009, 
+          -1.2657006
+        ], 
+        "type": "Point"
+      }, 
+      "id": "node/1110239861", 
+      "properties": {
+        "osm:_timestamp": "2011-02-02T08:55:22Z", 
+        "osm:_user": "PrimusK", 
+        "osm:amenity": "school", 
+        "osm:id": "node/1110239861", 
+        "osm:name": "ST .paul primary school"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.8451327, 
+          -1.2639563
+        ], 
+        "type": "Point"
+      }, 
+      "id": "node/1110239866", 
+      "properties": {
+        "osm:_timestamp": "2011-02-02T08:55:24Z", 
+        "osm:_user": "PrimusK", 
+        "osm:amenity": "school", 
+        "osm:id": "node/1110239866", 
+        "osm:name": "Edie nursery"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.8496297, 
+          -1.2627495
+        ], 
+        "type": "Point"
+      }, 
+      "id": "node/1110245197", 
+      "properties": {
+        "osm:_timestamp": "2017-10-12T20:00:03Z", 
+        "osm:_user": "muindre", 
+        "osm:amenity": "school", 
+        "osm:id": "node/1110245197", 
+        "osm:name": "St Ann Baby care"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.8693774, 
+          -1.2563294
+        ], 
+        "type": "Point"
+      }, 
+      "id": "node/1111451105", 
+      "properties": {
+        "osm:_timestamp": "2011-01-20T10:33:40Z", 
+        "osm:_user": "PrimusK", 
+        "osm:amenity": "school", 
+        "osm:id": "node/1111451105", 
+        "osm:name": "Little Bees School"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.8755157, 
+          -1.256899
+        ], 
+        "type": "Point"
+      }, 
+      "id": "node/1111566336", 
+      "properties": {
+        "osm:_timestamp": "2011-01-20T12:39:50Z", 
+        "osm:_user": "hassanow", 
+        "osm:amenity": "school", 
+        "osm:id": "node/1111566336", 
+        "osm:name": "Liance Driving School"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.8752499, 
+          -1.2560797
+        ], 
+        "type": "Point"
+      }, 
+      "id": "node/1111566365", 
+      "properties": {
+        "osm:_timestamp": "2011-01-20T12:39:50Z", 
+        "osm:_user": "hassanow", 
+        "osm:amenity": "school", 
+        "osm:id": "node/1111566365", 
+        "osm:name": "ARK PRIMARY SCHOOL"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.8762892, 
+          -1.2568502
+        ], 
+        "type": "Point"
+      }, 
+      "id": "node/1111566381", 
+      "properties": {
+        "osm:_timestamp": "2011-01-20T18:42:57Z", 
+        "osm:_user": "xybot", 
+        "osm:amenity": "school", 
+        "osm:id": "node/1111566381", 
+        "osm:name": "soldier OF FAITH Educational Centre"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.8753604, 
+          -1.2548157
+        ], 
+        "type": "Point"
+      }, 
+      "id": "node/1111566433", 
+      "properties": {
+        "osm:_timestamp": "2011-01-20T12:39:52Z", 
+        "osm:_user": "hassanow", 
+        "osm:amenity": "school", 
+        "osm:id": "node/1111566433", 
+        "osm:name": "THAYU YOUTH CENTER"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.8736558, 
+          -1.2493591
+        ], 
+        "type": "Point"
+      }, 
+      "id": "node/1111586829", 
+      "properties": {
+        "osm:_timestamp": "2011-01-20T12:59:05Z", 
+        "osm:_user": "PrimusK", 
+        "osm:amenity": "school", 
+        "osm:id": "node/1111586829", 
+        "osm:name": "Proposed Ruaraka Girls High School"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.8773826, 
+          -1.249742
+        ], 
+        "type": "Point"
+      }, 
+      "id": "node/1111586831", 
+      "properties": {
+        "osm:_timestamp": "2011-01-20T12:59:05Z", 
+        "osm:_user": "PrimusK", 
+        "osm:amenity": "school", 
+        "osm:id": "node/1111586831", 
+        "osm:name": "St Samuel Orphans School"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.8712953, 
+          -1.251765
+        ], 
+        "type": "Point"
+      }, 
+      "id": "node/1111586880", 
+      "properties": {
+        "osm:_timestamp": "2011-01-20T12:59:06Z", 
+        "osm:_user": "PrimusK", 
+        "osm:amenity": "school", 
+        "osm:id": "node/1111586880", 
+        "osm:name": "Precious Kids Academy"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.8766406, 
+          -1.2502923
+        ], 
+        "type": "Point"
+      }, 
+      "id": "node/1111586949", 
+      "properties": {
+        "osm:_timestamp": "2011-01-20T12:59:07Z", 
+        "osm:_user": "PrimusK", 
+        "osm:amenity": "school", 
+        "osm:id": "node/1111586949", 
+        "osm:name": "Alfa Riviera Secondary School"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.8753591, 
+          -1.2496642
+        ], 
+        "type": "Point"
+      }, 
+      "id": "node/1111587105", 
+      "properties": {
+        "osm:_timestamp": "2011-01-20T12:59:10Z", 
+        "osm:_user": "PrimusK", 
+        "osm:amenity": "school", 
+        "osm:id": "node/1111587105", 
+        "osm:name": "Mathare North Manonite"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.8767133, 
+          -1.2493365
+        ], 
+        "type": "Point"
+      }, 
+      "id": "node/1111587134", 
+      "properties": {
+        "osm:_timestamp": "2011-01-20T12:59:10Z", 
+        "osm:_user": "PrimusK", 
+        "osm:amenity": "school", 
+        "osm:id": "node/1111587134", 
+        "osm:name": "Light House Grace Academy"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.8749607, 
+          -1.2513162
+        ], 
+        "type": "Point"
+      }, 
+      "id": "node/1111587145", 
+      "properties": {
+        "osm:_timestamp": "2011-01-20T13:07:47Z", 
+        "osm:_user": "PrimusK", 
+        "osm:amenity": "school", 
+        "osm:id": "node/1111587145", 
+        "osm:name": "Kasarani Victory Academy"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.8622156, 
+          -1.2629153
+        ], 
+        "type": "Point"
+      }, 
+      "id": "node/1112885024", 
+      "properties": {
+        "osm:_timestamp": "2017-10-12T20:00:03Z", 
+        "osm:_user": "muindre", 
+        "osm:amenity": "school", 
+        "osm:id": "node/1112885024", 
+        "osm:name": "Thayu kindergaten"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.8681175, 
+          -1.259195
+        ], 
+        "type": "Point"
+      }, 
+      "id": "node/1123193291", 
+      "properties": {
+        "osm:_timestamp": "2011-01-27T09:23:50Z", 
+        "osm:_user": "PrimusK", 
+        "osm:amenity": "school", 
+        "osm:id": "node/1123193291", 
+        "osm:name": "Eden Annex Primary School"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.8677042, 
+          -1.2579513
+        ], 
+        "type": "Point"
+      }, 
+      "id": "node/1123193310", 
+      "properties": {
+        "osm:_timestamp": "2011-01-27T09:23:50Z", 
+        "osm:_user": "PrimusK", 
+        "osm:amenity": "school", 
+        "osm:id": "node/1123193310", 
+        "osm:name": "Ushindi Educational Center"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.8684274, 
+          -1.260005
+        ], 
+        "type": "Point"
+      }, 
+      "id": "node/1123193312", 
+      "properties": {
+        "osm:_timestamp": "2011-01-27T09:23:50Z", 
+        "osm:_user": "PrimusK", 
+        "osm:amenity": "school", 
+        "osm:id": "node/1123193312", 
+        "osm:name": "Ananda Manga primary school"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.8668932, 
+          -1.2579853
+        ], 
+        "type": "Point"
+      }, 
+      "id": "node/1123193326", 
+      "properties": {
+        "osm:_timestamp": "2011-01-28T08:24:44Z", 
+        "osm:_user": "PrimusK", 
+        "osm:amenity": "school", 
+        "osm:id": "node/1123193326", 
+        "osm:name": "St Rosa Academy"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.8684866, 
+          -1.2583397
+        ], 
+        "type": "Point"
+      }, 
+      "id": "node/1123193327", 
+      "properties": {
+        "osm:_timestamp": "2011-01-27T09:23:51Z", 
+        "osm:_user": "PrimusK", 
+        "osm:amenity": "school", 
+        "osm:id": "node/1123193327", 
+        "osm:name": "Power of Faith Educational Centre"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.868063, 
+          -1.258267
+        ], 
+        "type": "Point"
+      }, 
+      "id": "node/1123193346", 
+      "properties": {
+        "osm:_timestamp": "2011-01-27T09:23:51Z", 
+        "osm:_user": "PrimusK", 
+        "osm:amenity": "school", 
+        "osm:id": "node/1123193346", 
+        "osm:name": "Urban View Educational Centre"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.8680615, 
+          -1.2576567
+        ], 
+        "type": "Point"
+      }, 
+      "id": "node/1123193347", 
+      "properties": {
+        "osm:_timestamp": "2011-01-27T09:23:51Z", 
+        "osm:_user": "PrimusK", 
+        "osm:amenity": "school", 
+        "osm:id": "node/1123193347", 
+        "osm:name": "Furaha Community Center"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.8683188, 
+          -1.258656
+        ], 
+        "type": "Point"
+      }, 
+      "id": "node/1123193348", 
+      "properties": {
+        "osm:_timestamp": "2011-01-27T09:23:51Z", 
+        "osm:_user": "PrimusK", 
+        "osm:amenity": "school", 
+        "osm:id": "node/1123193348", 
+        "osm:name": "Ananda manga Academy"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.8683266, 
+          -1.2600267
+        ], 
+        "type": "Point"
+      }, 
+      "id": "node/1123193364", 
+      "properties": {
+        "osm:_timestamp": "2011-01-27T09:23:52Z", 
+        "osm:_user": "PrimusK", 
+        "osm:amenity": "school", 
+        "osm:id": "node/1123193364", 
+        "osm:name": "Eden Annex preparatory school"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.8683122, 
+          -1.2585351
+        ], 
+        "type": "Point"
+      }, 
+      "id": "node/1123193391", 
+      "properties": {
+        "osm:_timestamp": "2011-01-27T09:23:53Z", 
+        "osm:_user": "PrimusK", 
+        "osm:amenity": "school", 
+        "osm:id": "node/1123193391", 
+        "osm:name": "Elshadai Educational Centre"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.8735489, 
+          -1.2572254
+        ], 
+        "type": "Point"
+      }, 
+      "id": "node/1123201081", 
+      "properties": {
+        "osm:_timestamp": "2011-01-27T09:31:54Z", 
+        "osm:_user": "hassanow", 
+        "osm:amenity": "school", 
+        "osm:id": "node/1123201081", 
+        "osm:name": "REMNANT JUNIOR ACADEMY"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.8688152, 
+          -1.2582408
+        ], 
+        "type": "Point"
+      }, 
+      "id": "node/1123201092", 
+      "properties": {
+        "osm:_timestamp": "2011-01-27T09:31:55Z", 
+        "osm:_user": "hassanow", 
+        "osm:amenity": "school", 
+        "osm:id": "node/1123201092", 
+        "osm:name": "Urban view primary school"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.8718351, 
+          -1.258326
+        ], 
+        "type": "Point"
+      }, 
+      "id": "node/1123201101", 
+      "properties": {
+        "osm:_timestamp": "2011-01-27T09:31:55Z", 
+        "osm:_user": "hassanow", 
+        "osm:amenity": "school", 
+        "osm:id": "node/1123201101", 
+        "osm:name": "M.F.H.C Huruma Centre"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.8697736, 
+          -1.2577948
+        ], 
+        "type": "Point"
+      }, 
+      "id": "node/1123201110", 
+      "properties": {
+        "osm:_timestamp": "2011-01-27T09:31:56Z", 
+        "osm:_user": "hassanow", 
+        "osm:amenity": "school", 
+        "osm:id": "node/1123201110", 
+        "osm:name": "Winners educational centre"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.8682894, 
+          -1.2586316
+        ], 
+        "type": "Point"
+      }, 
+      "id": "node/1123201131", 
+      "properties": {
+        "osm:_timestamp": "2011-01-27T09:31:56Z", 
+        "osm:_user": "hassanow", 
+        "osm:amenity": "school", 
+        "osm:id": "node/1123201131", 
+        "osm:name": "Elshadai Educational Centre"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.8726498, 
+          -1.2568674
+        ], 
+        "type": "Point"
+      }, 
+      "id": "node/1123201151", 
+      "properties": {
+        "osm:_timestamp": "2011-01-27T09:31:57Z", 
+        "osm:_user": "hassanow", 
+        "osm:amenity": "school", 
+        "osm:id": "node/1123201151", 
+        "osm:name": "Josam Academy"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.8704697, 
+          -1.2582719
+        ], 
+        "type": "Point"
+      }, 
+      "id": "node/1123201169", 
+      "properties": {
+        "osm:_timestamp": "2011-01-27T09:31:58Z", 
+        "osm:_user": "hassanow", 
+        "osm:amenity": "school", 
+        "osm:id": "node/1123201169", 
+        "osm:name": "Genesis primary school"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.8704249, 
+          -1.2581721
+        ], 
+        "type": "Point"
+      }, 
+      "id": "node/1123201207", 
+      "properties": {
+        "osm:_timestamp": "2011-01-27T09:32:00Z", 
+        "osm:_user": "hassanow", 
+        "osm:amenity": "school", 
+        "osm:id": "node/1123201207", 
+        "osm:name": "Genesis Secondary School"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.8778661, 
+          -1.2534198
+        ], 
+        "type": "Point"
+      }, 
+      "id": "node/1123209296", 
+      "properties": {
+        "osm:_timestamp": "2011-01-27T09:42:16Z", 
+        "osm:_user": "PrimusK", 
+        "osm:amenity": "school", 
+        "osm:id": "node/1123209296", 
+        "osm:name": "Sun Flower Academy"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.8777093, 
+          -1.2537093
+        ], 
+        "type": "Point"
+      }, 
+      "id": "node/1123209300", 
+      "properties": {
+        "osm:_timestamp": "2011-01-27T09:42:17Z", 
+        "osm:_user": "PrimusK", 
+        "osm:amenity": "school", 
+        "osm:id": "node/1123209300", 
+        "osm:name": "Sunflower Nursery School"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.8769419, 
+          -1.2535507
+        ], 
+        "type": "Point"
+      }, 
+      "id": "node/1123209344", 
+      "properties": {
+        "osm:_timestamp": "2013-01-30T08:43:33Z", 
+        "osm:_user": "chairman huruma", 
+        "osm:amenity": "school", 
+        "osm:id": "node/1123209344"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.8652117, 
+          -1.2605148
+        ], 
+        "type": "Point"
+      }, 
+      "id": "node/1124602203", 
+      "properties": {
+        "osm:_timestamp": "2011-01-28T08:24:41Z", 
+        "osm:_user": "PrimusK", 
+        "osm:amenity": "school", 
+        "osm:id": "node/1124602203", 
+        "osm:name": "Bishop Kitonga Academy"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.8658781, 
+          -1.2584229
+        ], 
+        "type": "Point"
+      }, 
+      "id": "node/1124602205", 
+      "properties": {
+        "osm:_timestamp": "2011-01-28T08:24:41Z", 
+        "osm:_user": "PrimusK", 
+        "osm:amenity": "school", 
+        "osm:id": "node/1124602205", 
+        "osm:name": "Eastland complex primary"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.8664121, 
+          -1.2607992
+        ], 
+        "type": "Point"
+      }, 
+      "id": "node/1124602263", 
+      "properties": {
+        "osm:_timestamp": "2013-03-15T07:32:02Z", 
+        "osm:_user": "mickey mat", 
+        "osm:amenity": "school", 
+        "osm:id": "node/1124602263", 
+        "osm:name": "Ngei P.A.G Education Centre"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.8660194, 
+          -1.2585029
+        ], 
+        "type": "Point"
+      }, 
+      "id": "node/1124602268", 
+      "properties": {
+        "osm:_timestamp": "2011-01-28T08:24:43Z", 
+        "osm:_user": "PrimusK", 
+        "osm:amenity": "school", 
+        "osm:id": "node/1124602268", 
+        "osm:name": "Eljoy Education Centre"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.8647596, 
+          -1.2587536
+        ], 
+        "type": "Point"
+      }, 
+      "id": "node/1124602272", 
+      "properties": {
+        "osm:_timestamp": "2011-01-28T08:24:43Z", 
+        "osm:_user": "PrimusK", 
+        "osm:amenity": "school", 
+        "osm:id": "node/1124602272", 
+        "osm:name": "Pilot Educational Centre"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.8652036, 
+          -1.2604843
+        ], 
+        "type": "Point"
+      }, 
+      "id": "node/1124602279", 
+      "properties": {
+        "osm:_timestamp": "2011-01-28T08:24:43Z", 
+        "osm:_user": "PrimusK", 
+        "osm:amenity": "school", 
+        "osm:id": "node/1124602279", 
+        "osm:name": "Alliant Academy"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
           36.8632328, 
           -1.2590304
         ], 
@@ -558,8 +1912,8 @@
       }, 
       "id": "node/1244198595", 
       "properties": {
-        "osm:_timestamp": "2016-10-26T08:38:12Z", 
-        "osm:_user": "Tiany", 
+        "osm:_timestamp": "2017-10-12T20:00:03Z", 
+        "osm:_user": "muindre", 
         "osm:accessibility": "foot", 
         "osm:amenity": "school", 
         "osm:building:levels": "0", 
@@ -570,8 +1924,16 @@
         "osm:education:boarding": "no", 
         "osm:education:curriculum": "8_4_4", 
         "osm:education:gender_type": "mixed", 
-        "osm:education:government_registered": "yes", 
+        "osm:education:government_registered": "mgcsd", 
         "osm:education:pta": "yes", 
+        "osm:education:students": "0", 
+        "osm:education:students_female": "0", 
+        "osm:education:students_male": "0", 
+        "osm:education:teachers": "0", 
+        "osm:education:teachers_female": "0", 
+        "osm:education:teachers_male": "0", 
+        "osm:education:teachers_trained": "0", 
+        "osm:education:tsc_employed": "0", 
         "osm:education:type": "pre_primary", 
         "osm:electricity:operational_status": "always", 
         "osm:id": "node/1244198595", 
@@ -587,6 +1949,61 @@
     {
       "geometry": {
         "coordinates": [
+          36.865401, 
+          -1.2611822
+        ], 
+        "type": "Point"
+      }, 
+      "id": "node/2318438875", 
+      "properties": {
+        "osm:_timestamp": "2013-05-24T14:45:57Z", 
+        "osm:_user": "othuol", 
+        "osm:amenity": "school", 
+        "osm:id": "node/2318438875", 
+        "osm:name": "MATHARE SPEACIAL SCHOOL"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.8618286, 
+          -1.2618831
+        ], 
+        "type": "Point"
+      }, 
+      "id": "node/2374943971", 
+      "properties": {
+        "osm:_timestamp": "2013-07-05T12:33:08Z", 
+        "osm:_user": "othuol", 
+        "osm:amenity": "school", 
+        "osm:id": "node/2374943971", 
+        "osm:name": "Muungano Adult Education Center"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.8466349, 
+          -1.2578619
+        ], 
+        "type": "Point"
+      }, 
+      "id": "node/2510990139", 
+      "properties": {
+        "osm:_timestamp": "2013-10-28T00:01:50Z", 
+        "osm:_user": "jmwenda", 
+        "osm:amenity": "school", 
+        "osm:id": "node/2510990139", 
+        "osm:name": "Muthaiga Primary School", 
+        "osm:operator": "Public"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
           36.8526691, 
           -1.2652553
         ], 
@@ -594,31 +2011,31 @@
       }, 
       "id": "node/4454756893", 
       "properties": {
-        "osm:_timestamp": "2016-10-31T08:33:09Z", 
-        "osm:_user": "Richard Chapia", 
+        "osm:_timestamp": "2017-10-12T20:00:04Z", 
+        "osm:_user": "muindre", 
         "osm:accessibility": "big_vehicles", 
         "osm:amenity": "school", 
         "osm:building:levels": "2", 
         "osm:building:material": "cement_block", 
         "osm:building:roof": "ironsheets", 
-        "osm:contact:address": "PO BOX 71484-00622", 
+        "osm:contact:address": "P O BOX 71484-00622 Nairobi", 
         "osm:contact:email": "bondenicentre@gmail.com", 
         "osm:education:curriculum": "8_4_4", 
         "osm:education:extra_drama": "yes", 
         "osm:education:extra_music": "yes", 
         "osm:education:extra_scouts": "yes", 
         "osm:education:extra_sports": "yes", 
-        "osm:education:fees": "KSHS 1030 per term", 
+        "osm:education:fees": "1030", 
         "osm:education:gender_type": "mixed", 
         "osm:education:government_registered": "moe", 
         "osm:education:management_committee": "yes", 
         "osm:education:program_counselling": "yes", 
-        "osm:education:program_feeding": "other", 
+        "osm:education:program_feeding": "Yes", 
         "osm:education:pta": "yes", 
         "osm:education:school_head": "Kenneth Koskei", 
-        "osm:education:student_female": "472", 
-        "osm:education:student_male": "455", 
         "osm:education:students": "977", 
+        "osm:education:students_female": "472", 
+        "osm:education:students_male": "455", 
         "osm:education:teachers": "32", 
         "osm:education:teachers_female": "27", 
         "osm:education:teachers_male": "5", 
@@ -646,8 +2063,8 @@
       }, 
       "id": "node/4454756894", 
       "properties": {
-        "osm:_timestamp": "2016-10-21T10:53:29Z", 
-        "osm:_user": "Tiany", 
+        "osm:_timestamp": "2017-10-12T20:00:04Z", 
+        "osm:_user": "muindre", 
         "osm:accessibility": "small_cars", 
         "osm:amenity": "school", 
         "osm:building:levels": "0", 
@@ -669,9 +2086,9 @@
         "osm:education:program_counselling": "yes", 
         "osm:education:program_sanitary_towel": "no", 
         "osm:education:school_head": "Joyce Maina", 
-        "osm:education:student_female": "153", 
-        "osm:education:student_male": "148", 
         "osm:education:students": "301", 
+        "osm:education:students_female": "153", 
+        "osm:education:students_male": "148", 
         "osm:education:teachers": "12", 
         "osm:education:teachers_female": "7", 
         "osm:education:teachers_male": "5", 
@@ -691,6 +2108,24 @@
     {
       "geometry": {
         "coordinates": [
+          36.8531259, 
+          -1.2654021
+        ], 
+        "type": "Point"
+      }, 
+      "id": "node/4454756895", 
+      "properties": {
+        "osm:_timestamp": "2016-10-19T09:18:07Z", 
+        "osm:_user": "muindre", 
+        "osm:amenity": "school", 
+        "osm:id": "node/4454756895", 
+        "osm:name": "Forward Academy"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
           36.853701, 
           -1.2655997
         ], 
@@ -698,8 +2133,8 @@
       }, 
       "id": "node/4454756896", 
       "properties": {
-        "osm:_timestamp": "2016-10-26T09:51:56Z", 
-        "osm:_user": "Richard Chapia", 
+        "osm:_timestamp": "2017-10-12T20:00:05Z", 
+        "osm:_user": "muindre", 
         "osm:accessibility": "big_vehicles", 
         "osm:amenity": "school", 
         "osm:building:levels": "one", 
@@ -721,9 +2156,9 @@
         "osm:education:program_other": "computer", 
         "osm:education:pta": "yes", 
         "osm:education:school_head": "Josephine Alingo", 
-        "osm:education:student_female": "77", 
-        "osm:education:student_male": "82", 
         "osm:education:students": "159", 
+        "osm:education:students_female": "77", 
+        "osm:education:students_male": "82", 
         "osm:education:teachers": "12", 
         "osm:education:teachers_female": "10", 
         "osm:education:teachers_male": "2", 
@@ -732,7 +2167,7 @@
         "osm:education:type": "primary", 
         "osm:electricity:operational_status": "always", 
         "osm:id": "node/4454756896", 
-        "osm:name": "Naioth education centre", 
+        "osm:name": "Naioth Education Centre", 
         "osm:operator:description": "Run by Church", 
         "osm:operator:name": "Mathare Worship Centre", 
         "osm:operator:type": "religious", 
@@ -744,14 +2179,68 @@
     {
       "geometry": {
         "coordinates": [
-          36.8615394, 
-          -1.2626041
+          36.8528665, 
+          -1.2651094
+        ], 
+        "type": "Point"
+      }, 
+      "id": "node/4454756897", 
+      "properties": {
+        "osm:_timestamp": "2016-10-19T09:18:07Z", 
+        "osm:_user": "muindre", 
+        "osm:amenity": "school", 
+        "osm:id": "node/4454756897", 
+        "osm:name": "Valley view Academy"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.862548, 
+          -1.26128
+        ], 
+        "type": "Point"
+      }, 
+      "id": "node/4456590646", 
+      "properties": {
+        "osm:_timestamp": "2016-10-20T15:13:09Z", 
+        "osm:_user": "ronaldroy", 
+        "osm:amenity": "school", 
+        "osm:id": "node/4456590646", 
+        "osm:name": "St.micheal"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.8622945, 
+          -1.2611398
+        ], 
+        "type": "Point"
+      }, 
+      "id": "node/4456592039", 
+      "properties": {
+        "osm:_timestamp": "2017-10-12T20:00:06Z", 
+        "osm:_user": "muindre", 
+        "osm:amenity": "school", 
+        "osm:id": "node/4456592039", 
+        "osm:name": "Why Not Academy"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.8615596, 
+          -1.2626345
         ], 
         "type": "Point"
       }, 
       "id": "node/4456606596", 
       "properties": {
-        "osm:_timestamp": "2016-10-21T08:11:06Z", 
+        "osm:_timestamp": "2017-10-12T20:00:06Z", 
         "osm:_user": "muindre", 
         "osm:accessibility": "small_cars", 
         "osm:amenity": "school", 
@@ -789,8 +2278,8 @@
       }, 
       "id": "node/4456606815", 
       "properties": {
-        "osm:_timestamp": "2016-10-21T11:39:54Z", 
-        "osm:_user": "ronaldroy", 
+        "osm:_timestamp": "2017-10-12T20:00:06Z", 
+        "osm:_user": "muindre", 
         "osm:accessibility": "small_cars", 
         "osm:amenity": "school", 
         "osm:building:levels": "0", 
@@ -804,11 +2293,12 @@
         "osm:education:fees": "5400", 
         "osm:education:gender_type": "mixed", 
         "osm:education:program_counselling": "yes", 
+        "osm:education:program_feeding": "no", 
         "osm:education:pta": "yes", 
-        "osm:education:school_head": "caroline Ombewa", 
-        "osm:education:student_female": "150", 
-        "osm:education:student_male": "100", 
+        "osm:education:school_head": "Caroline Ombewa", 
         "osm:education:students": "250", 
+        "osm:education:students_female": "150", 
+        "osm:education:students_male": "100", 
         "osm:education:teachers": "7", 
         "osm:education:teachers_female": "5", 
         "osm:education:teachers_male": "2", 
@@ -818,9 +2308,9 @@
         "osm:electricity:operational_status": "sometimes", 
         "osm:id": "node/4456606815", 
         "osm:name": "Faith Celebration", 
-        "osm:operator:name": "Faith celebration Church", 
+        "osm:operator:name": "Faith Celebration Church", 
         "osm:operator:type": "religious", 
-        "osm:place:village": "Mathare no. 10", 
+        "osm:place:village": "Mathare 10", 
         "osm:toilet:present": "outside_public"
       }, 
       "type": "Feature"
@@ -828,14 +2318,14 @@
     {
       "geometry": {
         "coordinates": [
-          36.8622071, 
-          -1.2632193
+          36.8622982, 
+          -1.2632395
         ], 
         "type": "Point"
       }, 
       "id": "node/4456611009", 
       "properties": {
-        "osm:_timestamp": "2016-10-21T08:10:44Z", 
+        "osm:_timestamp": "2017-10-12T20:00:07Z", 
         "osm:_user": "muindre", 
         "osm:accessibility": "big_vehicles", 
         "osm:amenity": "school", 
@@ -852,22 +2342,23 @@
         "osm:education:gender_type": "mixed", 
         "osm:education:government_registered": "mgcsd", 
         "osm:education:program_counselling": "yes", 
-        "osm:education:program_feeding": "other", 
+        "osm:education:program_feeding": "Yes", 
         "osm:education:program_other": "Sponsorship", 
         "osm:education:program_special_needs": "yes", 
-        "osm:education:student_female": "18", 
-        "osm:education:student_male": "17", 
         "osm:education:students": "35", 
+        "osm:education:students_female": "18", 
+        "osm:education:students_male": "17", 
         "osm:education:teachers_female": "1", 
         "osm:education:teachers_male": "2", 
         "osm:education:teachers_trained": "3", 
+        "osm:education:tsc_employed": "0", 
         "osm:education:type": "secondary", 
         "osm:electricity:operational_status": "always", 
         "osm:id": "node/4456611009", 
-        "osm:name": "Aic Zion High School", 
+        "osm:name": "AIC Zion High School", 
         "osm:operator:name": "AIC Zion Church", 
         "osm:operator:type": "religious", 
-        "osm:place:village": "Mathare NO 10", 
+        "osm:place:village": "Mathare 10", 
         "osm:toilet:present": "yes"
       }, 
       "type": "Feature"
@@ -882,11 +2373,16 @@
       }, 
       "id": "node/4457506593", 
       "properties": {
-        "osm:_timestamp": "2016-10-21T08:10:34Z", 
+        "osm:_timestamp": "2017-10-12T20:00:07Z", 
         "osm:_user": "muindre", 
+        "osm:accessibility": "big_vehicles", 
         "osm:amenity": "school", 
-        "osm:contact:address": "71388-0062", 
+        "osm:building:levels": "0", 
+        "osm:building:material": "ironsheets", 
+        "osm:building:roof": "ironsheets", 
+        "osm:contact:address": "P O Box 71388-0062 Nairobi", 
         "osm:contact:email": "aicmathare@yahoo.co.uk", 
+        "osm:education:curriculum": "8_4_4", 
         "osm:education:exam_center": "yes", 
         "osm:education:extra_sports": "yes", 
         "osm:education:fees": "5400", 
@@ -899,37 +2395,40 @@
         "osm:education:gender_type": "mixed", 
         "osm:education:government_registered": "mgcsd", 
         "osm:education:program_counselling": "yes", 
-        "osm:education:program_feeding": "other", 
+        "osm:education:program_feeding": "Yes", 
         "osm:education:program_sanitary_towel": "yes", 
         "osm:education:program_special_needs": "yes", 
-        "osm:education:student_female": "198", 
-        "osm:education:student_male": "190", 
         "osm:education:students": "388", 
+        "osm:education:students_female": "198", 
+        "osm:education:students_male": "190", 
         "osm:education:teachers": "15", 
         "osm:education:teachers_female": "8", 
         "osm:education:teachers_male": "7", 
         "osm:education:teachers_trained": "15", 
+        "osm:education:tsc_employed": "0", 
         "osm:education:type": "primary", 
+        "osm:electricity:operational_status": "often", 
         "osm:id": "node/4457506593", 
         "osm:name": "AIC Zion Education Centre", 
         "osm:operator:name": "AIC Zion Church", 
         "osm:operator:type": "religious", 
-        "osm:place:village": "Mathare NO 10"
+        "osm:place:village": "Mathare 10", 
+        "osm:toilet:present": "yes"
       }, 
       "type": "Feature"
     }, 
     {
       "geometry": {
         "coordinates": [
-          36.8574039, 
-          -1.265285
+          36.8574343, 
+          -1.2652951
         ], 
         "type": "Point"
       }, 
       "id": "node/4457507291", 
       "properties": {
-        "osm:_timestamp": "2016-10-26T09:51:36Z", 
-        "osm:_user": "Richard Chapia", 
+        "osm:_timestamp": "2017-10-12T20:00:08Z", 
+        "osm:_user": "muindre", 
         "osm:accessibility": "big_vehicles", 
         "osm:amenity": "school", 
         "osm:building:levels": "0", 
@@ -952,9 +2451,9 @@
         "osm:education:program_sanitary_towel": "yes", 
         "osm:education:pta": "yes", 
         "osm:education:school_head": "Benjamin M Lazaro", 
-        "osm:education:student_female": "167", 
-        "osm:education:student_male": "121", 
         "osm:education:students": "288", 
+        "osm:education:students_female": "167", 
+        "osm:education:students_male": "121", 
         "osm:education:teachers": "9", 
         "osm:education:teachers_female": "4", 
         "osm:education:teachers_male": "5", 
@@ -979,10 +2478,10 @@
       }, 
       "id": "node/4457550090", 
       "properties": {
-        "osm:_timestamp": "2016-10-21T08:10:40Z", 
+        "osm:_timestamp": "2017-10-12T20:00:09Z", 
         "osm:_user": "muindre", 
         "osm:accessibility": "small_cars", 
-        "osm:amenity": "kindergarten", 
+        "osm:amenity": "school", 
         "osm:building:levels": "0", 
         "osm:building:material": "concrete", 
         "osm:building:roof": "ironsheets", 
@@ -999,7 +2498,7 @@
         "osm:name": "Maranatha Academy", 
         "osm:operator:name": "Maranatha Faith Assembly", 
         "osm:operator:type": "religious", 
-        "osm:place:village": "Mathare NO 10", 
+        "osm:place:village": "Mathare 10", 
         "osm:toilet:present": "yes"
       }, 
       "type": "Feature"
@@ -1014,8 +2513,8 @@
       }, 
       "id": "node/4457763959", 
       "properties": {
-        "osm:_timestamp": "2016-10-21T12:09:52Z", 
-        "osm:_user": "Richard Chapia", 
+        "osm:_timestamp": "2017-10-12T20:00:09Z", 
+        "osm:_user": "muindre", 
         "osm:accessibility": "foot", 
         "osm:amenity": "school", 
         "osm:building:levels": "0", 
@@ -1030,9 +2529,9 @@
         "osm:education:management_committee": "yes", 
         "osm:education:pta": "yes", 
         "osm:education:school_head": "Evans Uhuru", 
-        "osm:education:student_female": "40", 
-        "osm:education:student_male": "30", 
         "osm:education:students": "70", 
+        "osm:education:students_female": "40", 
+        "osm:education:students_male": "30", 
         "osm:education:teachers": "7", 
         "osm:education:teachers_female": "7", 
         "osm:education:teachers_male": "0", 
@@ -1058,14 +2557,14 @@
       }, 
       "id": "node/4461370056", 
       "properties": {
-        "osm:_timestamp": "2016-10-26T08:38:12Z", 
-        "osm:_user": "Tiany", 
+        "osm:_timestamp": "2017-10-12T20:00:09Z", 
+        "osm:_user": "muindre", 
         "osm:accessibility": "foot", 
         "osm:amenity": "school", 
         "osm:building:levels": "0", 
         "osm:building:material": "wood", 
         "osm:building:roof": "ironsheets", 
-        "osm:contact:address": "43210-00100 NAIROBI", 
+        "osm:contact:address": "P O Box 43210-00100 NAIROBI", 
         "osm:contact:email": "jumapatrick89\"yahoo.com", 
         "osm:contact:phone": "0704003016", 
         "osm:education:committees": "Board of Management", 
@@ -1079,12 +2578,12 @@
         "osm:education:gender_type": "mixed", 
         "osm:education:management_committee": "no", 
         "osm:education:program_counselling": "yes", 
-        "osm:education:program_feeding": "other", 
+        "osm:education:program_feeding": "yes", 
         "osm:education:pta": "yes", 
         "osm:education:school_head": "Patrick Buma", 
-        "osm:education:student_female": "126", 
-        "osm:education:student_male": "103", 
         "osm:education:students": "229", 
+        "osm:education:students_female": "126", 
+        "osm:education:students_male": "103", 
         "osm:education:teachers": "4", 
         "osm:education:teachers_female": "2", 
         "osm:education:teachers_male": "2", 
@@ -1110,13 +2609,13 @@
       }, 
       "id": "node/4461458485", 
       "properties": {
-        "osm:_timestamp": "2016-10-26T09:51:46Z", 
-        "osm:_user": "Richard Chapia", 
+        "osm:_timestamp": "2017-10-12T20:00:10Z", 
+        "osm:_user": "muindre", 
         "osm:accessibility": "big_vehicles", 
         "osm:amenity": "school", 
         "osm:building:material": "ironsheets", 
         "osm:building:roof": "ironsheets", 
-        "osm:contact:address": "PO BOX 42603", 
+        "osm:contact:address": "P O Box 42603 Nairobi", 
         "osm:contact:email": "codmanacademy12@yahoo.com", 
         "osm:contact:phone": "0712734424", 
         "osm:education:curriculum": "8_4_4", 
@@ -1125,16 +2624,17 @@
         "osm:education:extra_music": "yes", 
         "osm:education:extra_scouts": "yes", 
         "osm:education:extra_sports": "yes", 
-        "osm:education:fees": "KSHS 16,400", 
+        "osm:education:fees": "16400", 
         "osm:education:gender_type": "mixed", 
+        "osm:education:government_registered": "mgcsd", 
         "osm:education:management_committee": "yes", 
-        "osm:education:program_feeding": "other", 
+        "osm:education:program_feeding": "Yes", 
         "osm:education:program_sanitary_towel": "yes", 
         "osm:education:pta": "yes", 
         "osm:education:school_head": "Benjamin M. Lazaro", 
-        "osm:education:student_female": "69", 
-        "osm:education:student_male": "51", 
         "osm:education:students": "120", 
+        "osm:education:students_female": "69", 
+        "osm:education:students_male": "51", 
         "osm:education:teachers": "5", 
         "osm:education:teachers_female": "1", 
         "osm:education:teachers_male": "4", 
@@ -1142,7 +2642,6 @@
         "osm:electricity:operational_status": "often", 
         "osm:id": "node/4461458485", 
         "osm:name": "Codman Secondary School", 
-        "osm:operator:name": "Registered by ALPBET", 
         "osm:operator:type": "cbo", 
         "osm:place:village": "Mathare 3C", 
         "osm:toilet:present": "yes"
@@ -1159,14 +2658,14 @@
       }, 
       "id": "node/4461458486", 
       "properties": {
-        "osm:_timestamp": "2016-10-26T09:52:03Z", 
-        "osm:_user": "Richard Chapia", 
+        "osm:_timestamp": "2017-10-12T20:00:11Z", 
+        "osm:_user": "muindre", 
         "osm:accessibility": "big_vehicles", 
         "osm:amenity": "school", 
         "osm:building:levels": "0", 
         "osm:building:material": "cement_block", 
         "osm:building:roof": "ironsheets", 
-        "osm:contact:address": "PO BOX 42613-00100", 
+        "osm:contact:address": "P O BOX 42613-00100 Nairobi", 
         "osm:contact:email": "necieducationalcentre@gmail.com", 
         "osm:education:curriculum": "8_4_4", 
         "osm:education:exam_affiliate": "St James Feeding and Learning Centre", 
@@ -1175,16 +2674,16 @@
         "osm:education:extra_other": "Environmental Club", 
         "osm:education:extra_scouts": "yes", 
         "osm:education:extra_sports": "yes", 
-        "osm:education:fees": "KSHS 7500", 
+        "osm:education:fees": "7500", 
         "osm:education:gender_type": "mixed", 
         "osm:education:government_registered": "mgcsd", 
         "osm:education:management_committee": "yes", 
-        "osm:education:program_feeding": "others", 
+        "osm:education:program_feeding": "Yes", 
         "osm:education:pta": "yes", 
         "osm:education:school_head": "Douglas Lugadiri", 
-        "osm:education:student_female": "177", 
-        "osm:education:student_male": "266", 
         "osm:education:students": "443", 
+        "osm:education:students_female": "177", 
+        "osm:education:students_male": "266", 
         "osm:education:teachers": "14", 
         "osm:education:teachers_female": "6", 
         "osm:education:teachers_male": "8", 
@@ -1193,10 +2692,10 @@
         "osm:education:type": "primary", 
         "osm:electricity:operational_status": "never", 
         "osm:id": "node/4461458486", 
-        "osm:name": "Neci Education centre", 
+        "osm:name": "Neci Education Centre", 
         "osm:operator:name": "Neci Education Centre", 
         "osm:operator:type": "cbo", 
-        "osm:place:village": "Mathare Area 2", 
+        "osm:place:village": "Mathare Village 2", 
         "osm:toilet:present": "yes"
       }, 
       "type": "Feature"
@@ -1204,25 +2703,25 @@
     {
       "geometry": {
         "coordinates": [
-          36.8561454, 
-          -1.2652842
+          36.8560847, 
+          -1.2653146
         ], 
         "type": "Point"
       }, 
       "id": "node/4461458487", 
       "properties": {
-        "osm:_timestamp": "2016-10-26T09:52:11Z", 
-        "osm:_user": "Richard Chapia", 
+        "osm:_timestamp": "2017-10-12T20:00:11Z", 
+        "osm:_user": "muindre", 
         "osm:accessibility": "big_vehicles", 
         "osm:amenity": "school", 
         "osm:building:levels": "3", 
         "osm:building:material": "cement_block", 
         "osm:building:roof": "ironsheets", 
-        "osm:contact:address": "PO BOX 77019-00611", 
+        "osm:contact:address": "P O Box 77019-00611 Nairobi", 
         "osm:contact:email": "stjamesfeedingandlearningcenter@gmail.com", 
         "osm:contact:phone": "0706708400", 
         "osm:education:curriculum": "8_4_4", 
-        "osm:education:exam_affiliate": "Kiboro Primary school", 
+        "osm:education:exam_affiliate": "Kiboro Primary School", 
         "osm:education:extra_drama": "yes", 
         "osm:education:extra_scouts": "yes", 
         "osm:education:extra_sports": "yes", 
@@ -1230,21 +2729,22 @@
         "osm:education:government_registered": "mgcsd", 
         "osm:education:management_committee": "yes", 
         "osm:education:program_counselling": "yes", 
-        "osm:education:program_feeding": "other", 
+        "osm:education:program_feeding": "Yes", 
         "osm:education:pta": "yes", 
         "osm:education:school_head": "Peter Mutuku", 
-        "osm:education:student_female": "112", 
-        "osm:education:student_male": "100", 
         "osm:education:students": "212", 
+        "osm:education:students_female": "112", 
+        "osm:education:students_male": "100", 
         "osm:education:teachers": "11", 
         "osm:education:teachers_female": "8", 
         "osm:education:teachers_male": "3", 
         "osm:education:teachers_trained": "6", 
+        "osm:education:tsc_employed": "0", 
         "osm:education:type": "primary", 
         "osm:electricity:operational_status": "always", 
         "osm:id": "node/4461458487", 
-        "osm:name": "St James feeding and learning programme", 
-        "osm:operator:name": "St James feeding and learning programme", 
+        "osm:name": "St James Feeding and Learning Programme", 
+        "osm:operator:name": "St James Feeding and Learning Programme", 
         "osm:operator:type": "cbo", 
         "osm:place:village": "Mathare 3C", 
         "osm:toilet:present": "yes"
@@ -1261,39 +2761,40 @@
       }, 
       "id": "node/4461458488", 
       "properties": {
-        "osm:_timestamp": "2016-10-26T11:23:50Z", 
-        "osm:_user": "Richard Chapia", 
+        "osm:_timestamp": "2017-10-12T20:00:12Z", 
+        "osm:_user": "muindre", 
         "osm:accessibility": "big_vehicles", 
         "osm:amenity": "school", 
         "osm:building:levels": "3", 
         "osm:building:material": "cement_block", 
         "osm:building:roof": "concrete", 
-        "osm:contact:address": "PO BOX 16425-00610", 
+        "osm:contact:address": "P O Box 16425-00610 Nairobi", 
         "osm:contact:email": "cceomathare@gmail.com", 
         "osm:contact:phone": "0722973216", 
         "osm:education:curriculum": "8_4_4", 
-        "osm:education:exam_affiliate": "P.C.E.A Karei Primary School", 
+        "osm:education:exam_affiliate": "PCEA Karei Primary School", 
         "osm:education:extra_drama": "yes", 
         "osm:education:extra_music": "yes", 
         "osm:education:extra_other": "environmental and science club", 
         "osm:education:extra_scouts": "yes", 
         "osm:education:extra_sports": "yes", 
-        "osm:education:fees": "KSHS 9000", 
+        "osm:education:fees": "9000", 
         "osm:education:fees_optional": "feeding, exams, tour", 
         "osm:education:gender_type": "mixed", 
         "osm:education:government_registered": "mgcsd", 
         "osm:education:management_committee": "yes", 
-        "osm:education:program_feeding": "other", 
+        "osm:education:program_feeding": "Yes", 
         "osm:education:program_special_needs": "no", 
         "osm:education:pta": "yes", 
         "osm:education:school_head": "Henry L Karani", 
-        "osm:education:student_female": "62", 
-        "osm:education:student_male": "70", 
         "osm:education:students": "132", 
+        "osm:education:students_female": "62", 
+        "osm:education:students_male": "70", 
         "osm:education:teachers": "6", 
         "osm:education:teachers_female": "4", 
         "osm:education:teachers_male": "2", 
         "osm:education:teachers_trained": "5", 
+        "osm:education:tsc_employed": "0", 
         "osm:education:type": "primary", 
         "osm:electricity:operational_status": "always", 
         "osm:id": "node/4461458488", 
@@ -1308,35 +2809,36 @@
     {
       "geometry": {
         "coordinates": [
-          36.8611965, 
-          -1.261737
+          36.8612471, 
+          -1.2617977
         ], 
         "type": "Point"
       }, 
       "id": "node/4461494343", 
       "properties": {
-        "osm:_timestamp": "2016-10-26T11:25:10Z", 
-        "osm:_user": "Richard Chapia", 
+        "osm:_timestamp": "2017-10-12T20:00:13Z", 
+        "osm:_user": "muindre", 
         "osm:accessibility": "big_vehicles", 
         "osm:amenity": "school", 
         "osm:building:levels": "0", 
         "osm:building:material": "ironsheets", 
         "osm:building:roof": "ironsheets", 
-        "osm:contact:address": "P.O Box 77587-00611Nrb", 
+        "osm:contact:address": "P O Box 77587-00611, Nairobi", 
         "osm:contact:phone": "0734787100", 
         "osm:education:curriculum": "8_4_4", 
         "osm:education:exam_affiliate": "Excellent Care Centre", 
         "osm:education:extra_drama": "yes", 
         "osm:education:extra_scouts": "yes", 
         "osm:education:extra_sports": "yes", 
-        "osm:education:fees": "Ksh.2250", 
+        "osm:education:fees": "2250", 
         "osm:education:gender_type": "mixed", 
         "osm:education:program_counselling": "yes", 
+        "osm:education:program_feeding": "no", 
         "osm:education:pta": "yes", 
         "osm:education:school_head": "Adanga Kayasi", 
-        "osm:education:student_female": "80", 
-        "osm:education:student_male": "110", 
         "osm:education:students": "190", 
+        "osm:education:students_female": "80", 
+        "osm:education:students_male": "110", 
         "osm:education:teachers": "5", 
         "osm:education:teachers_female": "2", 
         "osm:education:teachers_male": "3", 
@@ -1363,14 +2865,14 @@
       }, 
       "id": "node/4461496406", 
       "properties": {
-        "osm:_timestamp": "2016-10-26T08:49:40Z", 
-        "osm:_user": "Tiany", 
+        "osm:_timestamp": "2016-12-08T10:27:13Z", 
+        "osm:_user": "fondolucy", 
         "osm:accessibility": "big_vehicles", 
         "osm:amenity": "school", 
         "osm:building:levels": "0", 
         "osm:building:material": "cement_block", 
         "osm:building:roof": "ironsheets", 
-        "osm:contact:address": "50349-00100 Nairobi", 
+        "osm:contact:address": "P O Box 50349-00100 Nairobi", 
         "osm:contact:email": "balozischool@gmail.com", 
         "osm:contact:phone": "0721818127", 
         "osm:education:committees": "board of management", 
@@ -1386,7 +2888,7 @@
         "osm:education:government_registered": "yes", 
         "osm:education:management_committee": "yes", 
         "osm:education:program_counselling": "yes", 
-        "osm:education:program_feeding": "Feeding at a small fee", 
+        "osm:education:program_feeding": "Yes", 
         "osm:education:program_sanitary_towel": "yes", 
         "osm:education:pta": "yes", 
         "osm:education:school_head": "Wamae W.W", 
@@ -1401,8 +2903,26 @@
         "osm:id": "node/4461496406", 
         "osm:name": "Balozi High School", 
         "osm:operator:type": "private", 
-        "osm:place:village": "thayu", 
+        "osm:place:village": "Thayu", 
         "osm:toilet:present": "yes"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.8619888, 
+          -1.2616307
+        ], 
+        "type": "Point"
+      }, 
+      "id": "node/4461502029", 
+      "properties": {
+        "osm:_timestamp": "2016-10-24T09:54:09Z", 
+        "osm:_user": "fondolucy", 
+        "osm:amenity": "school", 
+        "osm:id": "node/4461502029", 
+        "osm:name": "Muungano Education Center"
       }, 
       "type": "Feature"
     }, 
@@ -1416,8 +2936,8 @@
       }, 
       "id": "node/4461510623", 
       "properties": {
-        "osm:_timestamp": "2016-10-26T08:45:53Z", 
-        "osm:_user": "felloh Jamuradi", 
+        "osm:_timestamp": "2017-10-12T20:00:13Z", 
+        "osm:_user": "muindre", 
         "osm:accessibility": "big_vehicles", 
         "osm:amenity": "school", 
         "osm:building:levels": "0", 
@@ -1428,14 +2948,14 @@
         "osm:education:committees": "Has parents committee", 
         "osm:education:curriculum": "8_4_4", 
         "osm:education:extra_sports": "yes", 
-        "osm:education:fees": "ksh.1800", 
+        "osm:education:fees": "1800", 
         "osm:education:gender_type": "mixed", 
         "osm:education:program_counselling": "yes", 
         "osm:education:program_special_needs": "yes", 
         "osm:education:school_head": "Carolyne W.Muriithi", 
-        "osm:education:student_female": "35", 
-        "osm:education:student_male": "30", 
         "osm:education:students": "65", 
+        "osm:education:students_female": "35", 
+        "osm:education:students_male": "30", 
         "osm:education:teachers": "4", 
         "osm:education:teachers_female": "4", 
         "osm:education:teachers_male": "0", 
@@ -1445,9 +2965,9 @@
         "osm:electricity:operational_status": "never", 
         "osm:id": "node/4461510623", 
         "osm:name": "Fountain Preparatory School", 
-        "osm:operator:description": "Carolyne .w. Murithi", 
+        "osm:operator:description": "Carolyne .W. Murithi", 
         "osm:operator:type": "cbo", 
-        "osm:place:village": "Mathare no. 10", 
+        "osm:place:village": "Mathare 10", 
         "osm:toilet:present": "yes"
       }, 
       "type": "Feature"
@@ -1462,8 +2982,8 @@
       }, 
       "id": "node/4461519044", 
       "properties": {
-        "osm:_timestamp": "2016-10-31T08:32:46Z", 
-        "osm:_user": "Richard Chapia", 
+        "osm:_timestamp": "2017-10-12T20:00:14Z", 
+        "osm:_user": "muindre", 
         "osm:accessibility": "foot", 
         "osm:amenity": "school", 
         "osm:building:levels": "0", 
@@ -1471,22 +2991,23 @@
         "osm:building:roof": "ironsheets", 
         "osm:contact:phone": "0722824066", 
         "osm:education:curriculum": "8_4_4", 
-        "osm:education:fees": "KSHS 6300", 
+        "osm:education:fees": "6300", 
         "osm:education:gender_type": "mixed", 
         "osm:education:management_committee": "yes", 
         "osm:education:pta": "yes", 
-        "osm:education:school_head": "Zenah diana", 
-        "osm:education:student_female": "92", 
-        "osm:education:student_male": "48", 
+        "osm:education:school_head": "Zenah Diana", 
         "osm:education:students": "140", 
+        "osm:education:students_female": "92", 
+        "osm:education:students_male": "48", 
         "osm:education:teachers": "5", 
         "osm:education:teachers_female": "4", 
         "osm:education:teachers_male": "1", 
         "osm:education:teachers_trained": "5", 
+        "osm:education:tsc_employed": "0", 
         "osm:education:type": "primary", 
         "osm:electricity:operational_status": "never", 
         "osm:id": "node/4461519044", 
-        "osm:name": "Jorum education center", 
+        "osm:name": "Jorum Education Center", 
         "osm:operator:description": "Ruth Ndunge", 
         "osm:operator:type": "private", 
         "osm:place:village": "Mathare 3B", 
@@ -1497,21 +3018,21 @@
     {
       "geometry": {
         "coordinates": [
-          36.8594435, 
-          -1.2643508
+          36.8594739, 
+          -1.2643407
         ], 
         "type": "Point"
       }, 
       "id": "node/4462892677", 
       "properties": {
-        "osm:_timestamp": "2016-10-26T09:35:42Z", 
-        "osm:_user": "felloh Jamuradi", 
+        "osm:_timestamp": "2017-10-12T20:00:14Z", 
+        "osm:_user": "muindre", 
         "osm:accessibility": "big_vehicles", 
         "osm:amenity": "school", 
         "osm:building:levels": "1", 
         "osm:building:material": "ironsheets", 
         "osm:building:roof": "ironsheets", 
-        "osm:contact:address": "45603-00100Nrb", 
+        "osm:contact:address": "P O BOX 45603-00100, Nairobi", 
         "osm:contact:email": "edwardkimuyu@gmail.com", 
         "osm:contact:phone": "0728240978", 
         "osm:education:curriculum": "8_4_4", 
@@ -1520,17 +3041,17 @@
         "osm:education:extra_music": "yes", 
         "osm:education:extra_scouts": "yes", 
         "osm:education:extra_sports": "yes", 
-        "osm:education:fees": "ksh.6600", 
+        "osm:education:fees": "6600", 
         "osm:education:fees_optional": "ksh.50 for exams", 
         "osm:education:gender_type": "mixed", 
         "osm:education:management_committee": "yes", 
-        "osm:education:program_feeding": "other", 
+        "osm:education:program_feeding": "ngo", 
         "osm:education:program_other": "Skill development program", 
         "osm:education:program_sanitary_towel": "yes", 
         "osm:education:school_head": "Edward Sila", 
-        "osm:education:student_female": "160", 
-        "osm:education:student_male": "161", 
         "osm:education:students": "321", 
+        "osm:education:students_female": "160", 
+        "osm:education:students_male": "161", 
         "osm:education:teachers": "11", 
         "osm:education:teachers_female": "7", 
         "osm:education:teachers_male": "4", 
@@ -1557,14 +3078,14 @@
       }, 
       "id": "node/4462893659", 
       "properties": {
-        "osm:_timestamp": "2016-10-26T11:32:59Z", 
-        "osm:_user": "Richard Chapia", 
+        "osm:_timestamp": "2017-10-12T20:00:15Z", 
+        "osm:_user": "muindre", 
         "osm:accessibility": "foot", 
         "osm:amenity": "school", 
         "osm:building:levels": "1", 
         "osm:building:material": "ironsheets", 
         "osm:building:roof": "ironsheets", 
-        "osm:contact:address": "28646-00200 Nairobi", 
+        "osm:contact:address": "P O BOX 28646-00200, Nairobi", 
         "osm:contact:email": "patmosjuniorschool@yahoo.com", 
         "osm:contact:phone": "0706249258", 
         "osm:education:curriculum": "8_4_4", 
@@ -1575,14 +3096,14 @@
         "osm:education:fees": "3600", 
         "osm:education:fees_optional": "60 for exams", 
         "osm:education:gender_type": "mixed", 
-        "osm:education:government_registered": "yes", 
+        "osm:education:government_registered": "mgcsd", 
         "osm:education:management_committee": "yes", 
         "osm:education:program_counselling": "yes", 
         "osm:education:program_feeding": "other", 
         "osm:education:school_head": "Richard Wanjala", 
-        "osm:education:student_female": "33", 
-        "osm:education:student_male": "39", 
         "osm:education:students": "72", 
+        "osm:education:students_female": "33", 
+        "osm:education:students_male": "39", 
         "osm:education:teachers": "7", 
         "osm:education:teachers_female": "6", 
         "osm:education:teachers_male": "1", 
@@ -1601,15 +3122,15 @@
     {
       "geometry": {
         "coordinates": [
-          36.8566262, 
-          -1.2634078
+          36.8566363, 
+          -1.2633977
         ], 
         "type": "Point"
       }, 
       "id": "node/4462920821", 
       "properties": {
-        "osm:_timestamp": "2016-10-26T11:33:08Z", 
-        "osm:_user": "Richard Chapia", 
+        "osm:_timestamp": "2017-10-12T20:00:16Z", 
+        "osm:_user": "muindre", 
         "osm:accessibility": "foot", 
         "osm:amenity": "school", 
         "osm:building:levels": "0", 
@@ -1620,17 +3141,20 @@
         "osm:education:curriculum": "8_4_4", 
         "osm:education:fees": "2700", 
         "osm:education:gender_type": "mixed", 
+        "osm:education:government_registered": "mgcsd", 
         "osm:education:management_committee": "yes", 
         "osm:education:program_counselling": "yes", 
-        "osm:education:program_feeding": "other", 
+        "osm:education:program_feeding": "yes", 
         "osm:education:pta": "no", 
         "osm:education:school_head": "Anne Okutah", 
-        "osm:education:student_female": "40", 
-        "osm:education:student_male": "30", 
         "osm:education:students": "70", 
+        "osm:education:students_female": "40", 
+        "osm:education:students_male": "30", 
         "osm:education:teachers": "4", 
         "osm:education:teachers_female": "4", 
+        "osm:education:teachers_male": "0", 
         "osm:education:teachers_trained": "2", 
+        "osm:education:tsc_employed": "0", 
         "osm:education:type": "pre_primary", 
         "osm:electricity:operational_status": "never", 
         "osm:id": "node/4462920821", 
@@ -1645,15 +3169,15 @@
     {
       "geometry": {
         "coordinates": [
-          36.8560078, 
-          -1.2635135
+          36.8559774, 
+          -1.2635034
         ], 
         "type": "Point"
       }, 
       "id": "node/4462937714", 
       "properties": {
-        "osm:_timestamp": "2016-10-26T11:32:45Z", 
-        "osm:_user": "Richard Chapia", 
+        "osm:_timestamp": "2017-10-12T20:00:16Z", 
+        "osm:_user": "muindre", 
         "osm:accessibility": "big_vehicles", 
         "osm:amenity": "school", 
         "osm:building:material": "cement_block", 
@@ -1665,18 +3189,20 @@
         "osm:education:fees": "3600", 
         "osm:education:gender_type": "mixed", 
         "osm:education:management_committee": "yes", 
-        "osm:education:program_feeding": "other", 
+        "osm:education:program_feeding": "yes", 
         "osm:education:pta": "yes", 
         "osm:education:school_head": "Peter Kisia", 
         "osm:education:students": "200", 
         "osm:education:teachers": "8", 
         "osm:education:teachers_female": "8", 
+        "osm:education:teachers_male": "0", 
         "osm:education:teachers_trained": "4", 
+        "osm:education:tsc_employed": "0", 
         "osm:education:type": "pre_primary", 
         "osm:electricity:operational_status": "never", 
         "osm:id": "node/4462937714", 
         "osm:name": "Glorious Education Center", 
-        "osm:operator:name": "Glorious Celebration center", 
+        "osm:operator:name": "Glorious Celebration Center", 
         "osm:operator:type": "religious", 
         "osm:place:village": "Mathare 4B", 
         "osm:toilet:present": "yes"
@@ -1693,14 +3219,14 @@
       }, 
       "id": "node/4462967881", 
       "properties": {
-        "osm:_timestamp": "2016-10-26T11:32:41Z", 
-        "osm:_user": "Richard Chapia", 
+        "osm:_timestamp": "2016-12-08T10:02:40Z", 
+        "osm:_user": "muindre", 
         "osm:accessibility": "foot", 
         "osm:amenity": "school", 
         "osm:building:levels": "0", 
         "osm:building:material": "concrete", 
         "osm:building:roof": "ironsheets", 
-        "osm:contact:address": "77436-00611", 
+        "osm:contact:address": "P O Box 77436-00611", 
         "osm:contact:email": "pwambua230@gmail.com", 
         "osm:contact:phone": "0701351378", 
         "osm:education:curriculum": "8_4_4", 
@@ -1718,6 +3244,7 @@
         "osm:education:teachers_female": "6", 
         "osm:education:teachers_male": "3", 
         "osm:education:teachers_trained": "3", 
+        "osm:education:tsc_employed": "0", 
         "osm:education:type": "pre_primary", 
         "osm:electricity:operational_status": "always", 
         "osm:id": "node/4462967881", 
@@ -1733,14 +3260,14 @@
     {
       "geometry": {
         "coordinates": [
-          36.8553761, 
-          -1.262641
+          36.8554267, 
+          -1.2627017
         ], 
         "type": "Point"
       }, 
       "id": "node/4463017734", 
       "properties": {
-        "osm:_timestamp": "2016-12-06T09:32:29Z", 
+        "osm:_timestamp": "2017-10-12T20:00:17Z", 
         "osm:_user": "muindre", 
         "osm:accessibility": "big_vehicles", 
         "osm:amenity": "school", 
@@ -1766,9 +3293,9 @@
         "osm:education:program_counselling": "yes", 
         "osm:education:pta": "yes", 
         "osm:education:school_head": "Samuel Kilatya", 
-        "osm:education:student_female": "120", 
-        "osm:education:student_male": "130", 
         "osm:education:students": "250", 
+        "osm:education:students_female": "120", 
+        "osm:education:students_male": "130", 
         "osm:education:teachers": "9", 
         "osm:education:teachers_female": "5", 
         "osm:education:teachers_male": "4", 
@@ -1795,7 +3322,7 @@
       }, 
       "id": "node/4463082226", 
       "properties": {
-        "osm:_timestamp": "2016-12-06T10:35:51Z", 
+        "osm:_timestamp": "2017-10-12T20:00:17Z", 
         "osm:_user": "muindre", 
         "osm:accessibility": "big_vehicles", 
         "osm:amenity": "school", 
@@ -1810,11 +3337,13 @@
         "osm:education:extra_sports": "yes", 
         "osm:education:fees": "1800", 
         "osm:education:gender_type": "mixed", 
+        "osm:education:government_registered": "mgcsd", 
+        "osm:education:program_feeding": "no", 
         "osm:education:program_other": "Provide porridge", 
         "osm:education:school_head": "Zipporah Mutinda", 
-        "osm:education:student_female": "12", 
-        "osm:education:student_male": "8", 
         "osm:education:students": "20", 
+        "osm:education:students_female": "12", 
+        "osm:education:students_male": "8", 
         "osm:education:teachers": "3", 
         "osm:education:teachers_female": "2", 
         "osm:education:teachers_male": "1", 
@@ -1834,34 +3363,34 @@
     {
       "geometry": {
         "coordinates": [
-          36.8561589, 
-          -1.2628304
+          36.8562297, 
+          -1.2629012
         ], 
         "type": "Point"
       }, 
       "id": "node/4464506027", 
       "properties": {
-        "osm:_timestamp": "2016-11-16T08:17:24Z", 
-        "osm:_user": "Richard Chapia", 
+        "osm:_timestamp": "2017-10-12T20:00:18Z", 
+        "osm:_user": "muindre", 
         "osm:accessibility": "big_vehicles", 
         "osm:amenity": "school", 
         "osm:building:levels": "0", 
         "osm:building:material": "cement_block", 
         "osm:building:roof": "ironsheets", 
-        "osm:contact:address": "P.O Box 8097-00200Nrb", 
+        "osm:contact:address": "P O Box 8097-00200 Nairobi", 
         "osm:contact:email": "anawezaeducationcentre@yahoo.com", 
         "osm:contact:phone": "0722228199", 
         "osm:education:extra_sports": "yes", 
-        "osm:education:fees": "Ksh.3600", 
+        "osm:education:fees": "3600", 
         "osm:education:gender_type": "mixed", 
         "osm:education:government_registered": "mgcsd", 
         "osm:education:management_committee": "yes", 
         "osm:education:program_counselling": "yes", 
         "osm:education:pta": "yes", 
         "osm:education:school_head": "Vincent Okumu", 
-        "osm:education:student_female": "40", 
-        "osm:education:student_male": "25", 
         "osm:education:students": "65", 
+        "osm:education:students_female": "40", 
+        "osm:education:students_male": "25", 
         "osm:education:teachers": "2", 
         "osm:education:teachers_female": "2", 
         "osm:education:teachers_male": "0", 
@@ -1888,8 +3417,8 @@
       }, 
       "id": "node/4464506028", 
       "properties": {
-        "osm:_timestamp": "2016-10-26T08:02:15Z", 
-        "osm:_user": "fondolucy", 
+        "osm:_timestamp": "2017-10-12T20:00:18Z", 
+        "osm:_user": "muindre", 
         "osm:accessibility": "big_vehicles", 
         "osm:amenity": "school", 
         "osm:building:levels": "0", 
@@ -1908,9 +3437,9 @@
         "osm:education:program_counselling": "yes", 
         "osm:education:pta": "yes", 
         "osm:education:school_head": "Samuel Kilatya", 
-        "osm:education:student_female": "42", 
-        "osm:education:student_male": "37", 
         "osm:education:students": "79", 
+        "osm:education:students_female": "42", 
+        "osm:education:students_male": "37", 
         "osm:education:teachers": "3", 
         "osm:education:teachers_female": "3", 
         "osm:education:teachers_male": "0", 
@@ -1919,7 +3448,7 @@
         "osm:education:type": "pre_primary", 
         "osm:electricity:operational_status": "never", 
         "osm:id": "node/4464506028", 
-        "osm:name": "Gitathuru mission of hope", 
+        "osm:name": "Gitathuru Mission Of Hope", 
         "osm:operator:description": "Samuel Kilatya", 
         "osm:operator:type": "religious", 
         "osm:place:village": "Gitathuru", 
@@ -1937,14 +3466,14 @@
       }, 
       "id": "node/4464546559", 
       "properties": {
-        "osm:_timestamp": "2016-10-26T08:38:10Z", 
-        "osm:_user": "Tiany", 
+        "osm:_timestamp": "2018-09-13T16:00:48Z", 
+        "osm:_user": "ricaji", 
         "osm:accessibility": "foot", 
         "osm:amenity": "school", 
         "osm:building:levels": "0", 
         "osm:building:material": "wood", 
         "osm:building:roof": "ironsheets", 
-        "osm:contact:address": "43210-00100 NAIROBI", 
+        "osm:contact:address": "P O Box 43210-00100 NAIROBI", 
         "osm:contact:email": "jumapatrick89@yahoo.com", 
         "osm:contact:phone": "0704003016", 
         "osm:education:committees": "Board of Management", 
@@ -1959,21 +3488,22 @@
         "osm:education:government_registered": "mgcsd", 
         "osm:education:management_committee": "yes", 
         "osm:education:program_counselling": "yes", 
-        "osm:education:program_feeding": "other", 
+        "osm:education:program_feeding": "yes", 
         "osm:education:pta": "yes", 
         "osm:education:school_head": "Patrick Buma", 
-        "osm:education:student_female": "81", 
-        "osm:education:student_male": "75", 
         "osm:education:students": "156", 
+        "osm:education:students_female": "81", 
+        "osm:education:students_male": "75", 
         "osm:education:teachers": "4", 
         "osm:education:teachers_female": "4", 
+        "osm:education:teachers_male": "0", 
         "osm:education:teachers_trained": "0", 
         "osm:education:tsc_employed": "0", 
         "osm:education:type": "pre_primary", 
         "osm:electricity:operational_status": "never", 
         "osm:id": "node/4464546559", 
         "osm:name": "DayStar Education Center", 
-        "osm:operator:type": "Community", 
+        "osm:operator:type": "cbo", 
         "osm:place:village": "Mabatini", 
         "osm:toilet:present": "outside_public"
       }, 
@@ -1989,14 +3519,14 @@
       }, 
       "id": "node/4464546560", 
       "properties": {
-        "osm:_timestamp": "2016-10-26T08:38:11Z", 
-        "osm:_user": "Tiany", 
+        "osm:_timestamp": "2017-10-12T20:00:20Z", 
+        "osm:_user": "muindre", 
         "osm:accessibility": "foot", 
         "osm:amenity": "school", 
         "osm:building:levels": "1", 
         "osm:building:material": "wood", 
         "osm:building:roof": "ironsheets", 
-        "osm:contact:address": "225-00510 NAIROBI", 
+        "osm:contact:address": "P O Box 225-00510 NAIROBI", 
         "osm:contact:email": "andulaj@yahoo.com", 
         "osm:contact:phone": "0725481011", 
         "osm:education:committees": "Church committe", 
@@ -2011,17 +3541,18 @@
         "osm:education:program_counselling": "yes", 
         "osm:education:pta": "yes", 
         "osm:education:school_head": "Josephat Andula Okama", 
-        "osm:education:student_female": "42", 
-        "osm:education:student_male": "38", 
         "osm:education:students": "80", 
+        "osm:education:students_female": "42", 
+        "osm:education:students_male": "38", 
         "osm:education:teachers": "2", 
         "osm:education:teachers_female": "2", 
+        "osm:education:teachers_male": "0", 
         "osm:education:teachers_trained": "0", 
         "osm:education:tsc_employed": "0", 
         "osm:education:type": "pre_primary", 
         "osm:electricity:operational_status": "sometimes", 
         "osm:id": "node/4464546560", 
-        "osm:name": "St. Ngota's Upendo primary school", 
+        "osm:name": "St. Ngota's Upendo Pre_Primary School", 
         "osm:operator:name": "Jordan Friends Ministries", 
         "osm:operator:type": "religious", 
         "osm:place:village": "Mabatini", 
@@ -2039,27 +3570,28 @@
       }, 
       "id": "node/4464601890", 
       "properties": {
-        "osm:_timestamp": "2016-10-26T09:35:42Z", 
-        "osm:_user": "felloh Jamuradi", 
+        "osm:_timestamp": "2017-10-12T20:00:20Z", 
+        "osm:_user": "muindre", 
         "osm:accessibility": "big_vehicles", 
         "osm:amenity": "school", 
         "osm:building:levels": "1", 
         "osm:building:material": "ironsheets", 
         "osm:building:roof": "ironsheets", 
-        "osm:contact:address": "P.O Box 45603-00100Nrb", 
+        "osm:contact:address": "P O Box 45603-00100, Nairobi", 
         "osm:contact:email": "edwardkimuyu@gmail.com", 
         "osm:contact:phone": "0728230978", 
         "osm:education:curriculum": "8_4_4", 
         "osm:education:extra_sports": "yes", 
-        "osm:education:fees": "ksh.6600", 
+        "osm:education:fees": "6600", 
         "osm:education:gender_type": "mixed", 
+        "osm:education:government_registered": "mgcsd", 
         "osm:education:management_committee": "yes", 
         "osm:education:program_counselling": "yes", 
-        "osm:education:program_feeding": "other", 
+        "osm:education:program_feeding": "yes", 
         "osm:education:school_head": "Edward Sila", 
-        "osm:education:student_female": "124", 
-        "osm:education:student_male": "123", 
         "osm:education:students": "247", 
+        "osm:education:students_female": "124", 
+        "osm:education:students_male": "123", 
         "osm:education:teachers": "6", 
         "osm:education:teachers_female": "6", 
         "osm:education:teachers_male": "0", 
@@ -2079,6 +3611,24 @@
     {
       "geometry": {
         "coordinates": [
+          36.8573754, 
+          -1.2636012
+        ], 
+        "type": "Point"
+      }, 
+      "id": "node/4464622786", 
+      "properties": {
+        "osm:_timestamp": "2016-10-26T11:32:54Z", 
+        "osm:_user": "Richard Chapia", 
+        "osm:amenity": "school", 
+        "osm:id": "node/4464622786", 
+        "osm:name": "MCO Primary School"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
           36.8556255, 
           -1.2631221
         ], 
@@ -2086,14 +3636,14 @@
       }, 
       "id": "node/4464622787", 
       "properties": {
-        "osm:_timestamp": "2016-10-26T11:32:55Z", 
-        "osm:_user": "Richard Chapia", 
+        "osm:_timestamp": "2016-12-08T09:14:34Z", 
+        "osm:_user": "fondolucy", 
         "osm:accessibility": "big_vehicles", 
         "osm:amenity": "school", 
         "osm:building:levels": "1", 
         "osm:building:material": "cement_block", 
         "osm:building:roof": "ironsheets", 
-        "osm:contact:address": "77022-00611", 
+        "osm:contact:address": "P O Box 77022-00611 Nairobi", 
         "osm:contact:email": "mcedocom@gmail.com", 
         "osm:contact:phone": "0729643795", 
         "osm:education:curriculum": "8_4_4", 
@@ -2123,13 +3673,14 @@
       }, 
       "id": "node/4464622788", 
       "properties": {
-        "osm:_timestamp": "2016-10-26T11:33:04Z", 
-        "osm:_user": "Richard Chapia", 
+        "osm:_timestamp": "2017-10-12T20:00:21Z", 
+        "osm:_user": "muindre", 
         "osm:accessibility": "foot", 
+        "osm:amenity": "school", 
         "osm:building:levels": "1", 
         "osm:building:material": "ironsheets", 
         "osm:building:roof": "ironsheets", 
-        "osm:contact:address": "28646-00200 Nairobi", 
+        "osm:contact:address": "P O BOX 28646-00200 Nairobi", 
         "osm:contact:email": "patmosjuniorschool@yahoo.com", 
         "osm:contact:phone": "070624958", 
         "osm:education:curriculum": "8_4_4", 
@@ -2139,20 +3690,23 @@
         "osm:education:fees": "3600", 
         "osm:education:fees_optional": "60 for exams", 
         "osm:education:gender_type": "mixed", 
-        "osm:education:government_registered": "yes", 
+        "osm:education:government_registered": "mgcsd", 
         "osm:education:management_committee": "yes", 
         "osm:education:program_counselling": "yes", 
-        "osm:education:program_feeding": "other", 
+        "osm:education:program_feeding": "yes", 
         "osm:education:school_head": "Richard Wanjala", 
-        "osm:education:student_female": "17", 
-        "osm:education:student_male": "15", 
         "osm:education:students": "32", 
+        "osm:education:students_female": "17", 
+        "osm:education:students_male": "15", 
         "osm:education:teachers": "2", 
         "osm:education:teachers_female": "2", 
+        "osm:education:teachers_male": "0", 
+        "osm:education:teachers_trained": "0", 
+        "osm:education:tsc_employed": "0", 
         "osm:education:type": "pre_primary", 
         "osm:electricity:operational_status": "never", 
         "osm:id": "node/4464622788", 
-        "osm:name": "Patmos School.", 
+        "osm:name": "Patmos School", 
         "osm:operator:name": "Evangelical Gospel", 
         "osm:operator:type": "cbo", 
         "osm:place:village": "Mathare 4B", 
@@ -2170,26 +3724,28 @@
       }, 
       "id": "node/4464655293", 
       "properties": {
-        "osm:_timestamp": "2016-10-26T11:25:06Z", 
-        "osm:_user": "Richard Chapia", 
+        "osm:_timestamp": "2017-10-12T20:00:21Z", 
+        "osm:_user": "muindre", 
         "osm:accessibility": "big_vehicles", 
         "osm:amenity": "school", 
         "osm:building:levels": "1", 
         "osm:building:material": "concrete", 
         "osm:building:roof": "ironsheets", 
-        "osm:contact:address": "P.O Box 10426-00100Nrb", 
+        "osm:contact:address": "P O Box 10426-00100, Nairobi", 
         "osm:contact:email": "mutinda17@gmail.com", 
         "osm:contact:phone": "0720013878", 
         "osm:education:committees": "Has a board of management", 
         "osm:education:curriculum": "8_4_4", 
-        "osm:education:fees": "Ksh.1800", 
+        "osm:education:fees": "1800", 
         "osm:education:gender_type": "mixed", 
+        "osm:education:government_registered": "mgcsd", 
         "osm:education:program_counselling": "yes", 
+        "osm:education:program_feeding": "no", 
         "osm:education:program_other": "Provide porriadge", 
         "osm:education:school_head": "Zipporah Mutinda", 
-        "osm:education:student_female": "24", 
-        "osm:education:student_male": "29", 
         "osm:education:students": "53", 
+        "osm:education:students_female": "24", 
+        "osm:education:students_male": "29", 
         "osm:education:teachers": "1", 
         "osm:education:teachers_female": "1", 
         "osm:education:teachers_male": "0", 
@@ -2216,26 +3772,27 @@
       }, 
       "id": "node/4464689391", 
       "properties": {
-        "osm:_timestamp": "2016-10-26T11:24:57Z", 
-        "osm:_user": "Richard Chapia", 
+        "osm:_timestamp": "2017-10-12T20:00:22Z", 
+        "osm:_user": "muindre", 
         "osm:accessibility": "big_vehicles", 
         "osm:amenity": "school", 
         "osm:building:levels": "0", 
         "osm:building:material": "ironsheets", 
         "osm:building:roof": "ironsheets", 
-        "osm:contact:address": "P.O Box 77587-00611Nrb", 
+        "osm:contact:address": "P O Box 77587-00611, Nairobi", 
         "osm:contact:phone": "0734787100", 
         "osm:education:curriculum": "8_4_4", 
         "osm:education:extra_sports": "yes", 
-        "osm:education:fees": "Ksh.2250", 
+        "osm:education:fees": "2250", 
         "osm:education:gender_type": "mixed", 
         "osm:education:management_committee": "yes", 
         "osm:education:program_counselling": "yes", 
+        "osm:education:program_feeding": "no", 
         "osm:education:pta": "yes", 
         "osm:education:school_head": "Adanga Kayasi", 
-        "osm:education:student_female": "30", 
-        "osm:education:student_male": "20", 
         "osm:education:students": "50", 
+        "osm:education:students_female": "30", 
+        "osm:education:students_male": "20", 
         "osm:education:teachers": "3", 
         "osm:education:teachers_female": "3", 
         "osm:education:teachers_male": "0", 
@@ -2262,23 +3819,24 @@
       }, 
       "id": "node/4464711189", 
       "properties": {
-        "osm:_timestamp": "2016-10-26T11:25:02Z", 
-        "osm:_user": "Richard Chapia", 
+        "osm:_timestamp": "2017-10-12T20:00:22Z", 
+        "osm:_user": "muindre", 
         "osm:accessibility": "big_vehicles", 
+        "osm:amenity": "school", 
         "osm:building:levels": "0", 
         "osm:building:material": "ironsheets", 
         "osm:building:roof": "ironsheets", 
-        "osm:contact:address": "P.O Box 71283-00622Nrb", 
+        "osm:contact:address": "P O Box 71283-00622, Nairobi", 
         "osm:contact:phone": "0720638995", 
         "osm:education:extra_music": "yes", 
-        "osm:education:fees": "Ksh.5100", 
+        "osm:education:fees": "5100", 
         "osm:education:gender_type": "mixed", 
-        "osm:education:program_feeding": "other", 
+        "osm:education:program_feeding": "yes", 
         "osm:education:program_other": "Provide porriadge", 
         "osm:education:school_head": "Roselyne Wawire", 
-        "osm:education:student_female": "4", 
-        "osm:education:student_male": "4", 
         "osm:education:students": "8", 
+        "osm:education:students_female": "4", 
+        "osm:education:students_male": "4", 
         "osm:education:teachers": "2", 
         "osm:education:teachers_female": "2", 
         "osm:education:teachers_male": "0", 
@@ -2290,8 +3848,26 @@
         "osm:name": "Cross Plain School", 
         "osm:operator:description": "Roseline Wawire", 
         "osm:operator:type": "cbo", 
-        "osm:place:village": "Mathare No.10", 
+        "osm:place:village": "Mathare 10", 
         "osm:toilet:present": "yes"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.8586232, 
+          -1.2656157
+        ], 
+        "type": "Point"
+      }, 
+      "id": "node/4465952472", 
+      "properties": {
+        "osm:_timestamp": "2016-10-27T07:57:46Z", 
+        "osm:_user": "fondolucy", 
+        "osm:amenity": "school", 
+        "osm:id": "node/4465952472", 
+        "osm:name": "Mathare Community Outreach"
       }, 
       "type": "Feature"
     }, 
@@ -2305,8 +3881,8 @@
       }, 
       "id": "node/4465955077", 
       "properties": {
-        "osm:_timestamp": "2016-10-31T08:33:03Z", 
-        "osm:_user": "Richard Chapia", 
+        "osm:_timestamp": "2017-10-12T20:00:23Z", 
+        "osm:_user": "muindre", 
         "osm:accessibility": "small_cars", 
         "osm:amenity": "school", 
         "osm:building:levels": "0", 
@@ -2315,13 +3891,14 @@
         "osm:contact:phone": "0724038987", 
         "osm:education:committees": "The committee is under the church", 
         "osm:education:curriculum": "8_4_4", 
-        "osm:education:fees": "KSHS 300 per month", 
+        "osm:education:fees": "300 per month", 
         "osm:education:fees_optional": "ksh.50 for exams", 
         "osm:education:gender_type": "mixed", 
+        "osm:education:program_feeding": "no", 
         "osm:education:school_head": "Beattrice Gamba", 
-        "osm:education:student_female": "16", 
-        "osm:education:student_male": "14", 
         "osm:education:students": "30", 
+        "osm:education:students_female": "16", 
+        "osm:education:students_male": "14", 
         "osm:education:teachers": "3", 
         "osm:education:teachers_female": "2", 
         "osm:education:teachers_male": "1", 
@@ -2331,7 +3908,7 @@
         "osm:electricity:operational_status": "sometimes", 
         "osm:id": "node/4465955077", 
         "osm:name": "Maana Academy", 
-        "osm:operator:name": "P.D.C.C", 
+        "osm:operator:name": "P D C C", 
         "osm:operator:type": "religious", 
         "osm:place:village": "Mathare 4B", 
         "osm:toilet:present": "outside_public"
@@ -2348,7 +3925,7 @@
       }, 
       "id": "node/4465996146", 
       "properties": {
-        "osm:_timestamp": "2016-12-06T10:35:40Z", 
+        "osm:_timestamp": "2017-10-12T20:00:23Z", 
         "osm:_user": "muindre", 
         "osm:accessibility": "big_vehicles", 
         "osm:amenity": "school", 
@@ -2366,16 +3943,17 @@
         "osm:education:government_registered": "mgcsd", 
         "osm:education:management_committee": "yes", 
         "osm:education:program_counselling": "yes", 
-        "osm:education:program_feeding": "other", 
+        "osm:education:program_feeding": "yes", 
         "osm:education:pta": "no", 
         "osm:education:school_head": "Reagan Waithaka", 
-        "osm:education:student_female": "120", 
-        "osm:education:student_male": "150", 
         "osm:education:students": "270", 
+        "osm:education:students_female": "120", 
+        "osm:education:students_male": "150", 
         "osm:education:teachers": "5", 
         "osm:education:teachers_female": "4", 
         "osm:education:teachers_male": "1", 
         "osm:education:teachers_trained": "5", 
+        "osm:education:tsc_employed": "0", 
         "osm:education:type": "primary", 
         "osm:electricity:operational_status": "never", 
         "osm:id": "node/4465996146", 
@@ -2397,13 +3975,13 @@
       }, 
       "id": "node/4466007970", 
       "properties": {
-        "osm:_timestamp": "2016-12-06T10:35:46Z", 
+        "osm:_timestamp": "2017-10-12T20:00:24Z", 
         "osm:_user": "muindre", 
         "osm:accessibility": "big_vehicles", 
         "osm:amenity": "school", 
         "osm:building:material": "ironsheets", 
         "osm:building:roof": "ironsheets", 
-        "osm:contact:address": "PO BOX 19173-00100", 
+        "osm:contact:address": "P O BOX 19173-00100", 
         "osm:contact:email": "mabawa@yahoo.com", 
         "osm:contact:phone": "0795269681", 
         "osm:education:curriculum": "8_4_4", 
@@ -2417,12 +3995,13 @@
         "osm:education:fees_level5": "500 per month", 
         "osm:education:fees_level6": "500 per month", 
         "osm:education:gender_type": "mixed", 
+        "osm:education:government_registered": "mgcsd", 
         "osm:education:management_committee": "yes", 
         "osm:education:pta": "yes", 
         "osm:education:school_head": "Jecinter Ogola", 
-        "osm:education:student_female": "53", 
-        "osm:education:student_male": "35", 
         "osm:education:students": "88", 
+        "osm:education:students_female": "53", 
+        "osm:education:students_male": "35", 
         "osm:education:teachers": "7", 
         "osm:education:teachers_female": "5", 
         "osm:education:teachers_male": "2", 
@@ -2449,26 +4028,27 @@
       }, 
       "id": "node/4466069585", 
       "properties": {
-        "osm:_timestamp": "2016-10-31T08:45:22Z", 
-        "osm:_user": "ronaldroy", 
+        "osm:_timestamp": "2016-12-08T10:03:01Z", 
+        "osm:_user": "muindre", 
         "osm:accessibility": "big_vehicles", 
         "osm:amenity": "school", 
         "osm:building:levels": "1", 
         "osm:building:material": "concrete", 
         "osm:building:roof": "ironsheets", 
-        "osm:contact:address": "3449-001000 Nairobi", 
+        "osm:contact:address": "P O Box 3449-001000, Nairobi", 
         "osm:contact:phone": "0711667241", 
         "osm:education:curriculum": "8_4_4", 
         "osm:education:exam_affiliate": "Ngei Exams Center", 
         "osm:education:exam_center": "no", 
         "osm:education:extra_music": "yes", 
         "osm:education:extra_sports": "yes", 
-        "osm:education:fees": "kes.2700", 
+        "osm:education:fees": "2700", 
         "osm:education:fees_optional": "kes 70 for upper primary and kes 50 for lower primary for ex", 
         "osm:education:fees_sponsored": "no", 
         "osm:education:gender_type": "mixed", 
         "osm:education:government_registered": "mgcsd", 
         "osm:education:management_committee": "yes", 
+        "osm:education:program_feeding": "no", 
         "osm:education:program_other": "tusome program", 
         "osm:education:pta": "yes", 
         "osm:education:school_head": "Echesa O. Resilar", 
@@ -2492,6 +4072,24 @@
     {
       "geometry": {
         "coordinates": [
+          36.8581134, 
+          -1.2638121
+        ], 
+        "type": "Point"
+      }, 
+      "id": "node/4467499562", 
+      "properties": {
+        "osm:_timestamp": "2016-10-28T08:16:25Z", 
+        "osm:_user": "Noeel", 
+        "osm:amenity": "school", 
+        "osm:id": "node/4467499562", 
+        "osm:name": "Mathare school for girls"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
           36.8571865, 
           -1.2630172
         ], 
@@ -2499,8 +4097,8 @@
       }, 
       "id": "node/4467530209", 
       "properties": {
-        "osm:_timestamp": "2016-10-31T08:33:18Z", 
-        "osm:_user": "Richard Chapia", 
+        "osm:_timestamp": "2017-10-12T20:00:25Z", 
+        "osm:_user": "muindre", 
         "osm:accessibility": "small_cars", 
         "osm:amenity": "school", 
         "osm:building:levels": "0", 
@@ -2509,20 +4107,23 @@
         "osm:contact:phone": "0702551169", 
         "osm:education:boarding": "no", 
         "osm:education:extra_music": "yes", 
-        "osm:education:fees_level1": "KSHS 200 per month", 
-        "osm:education:fees_level2": "KSHS 500 per month", 
+        "osm:education:fees_level1": "200 per month", 
+        "osm:education:fees_level2": "500 per month", 
         "osm:education:gender_type": "mixed", 
-        "osm:education:program_feeding": "other", 
+        "osm:education:program_feeding": "yes", 
         "osm:education:school_head": "Lilian Adhiambo Ngesi", 
-        "osm:education:student_female": "13", 
-        "osm:education:student_male": "7", 
         "osm:education:students": "20", 
+        "osm:education:students_female": "13", 
+        "osm:education:students_male": "7", 
         "osm:education:teachers": "1", 
         "osm:education:teachers_female": "1", 
+        "osm:education:teachers_male": "0", 
+        "osm:education:teachers_trained": "0", 
+        "osm:education:tsc_employed": "0", 
         "osm:education:type": "pre_primary", 
         "osm:electricity:operational_status": "never", 
         "osm:id": "node/4467530209", 
-        "osm:name": "Pillar Day care", 
+        "osm:name": "Pillar Day Care", 
         "osm:operator:type": "private", 
         "osm:place:village": "Mathare 4B", 
         "osm:toilet:present": "outside_public"
@@ -2539,14 +4140,14 @@
       }, 
       "id": "node/4467561519", 
       "properties": {
-        "osm:_timestamp": "2016-12-06T09:32:24Z", 
+        "osm:_timestamp": "2017-10-12T20:00:25Z", 
         "osm:_user": "muindre", 
         "osm:accessibility": "big_vehicles", 
         "osm:amenity": "school", 
         "osm:building:levels": "1", 
         "osm:building:material": "concrete", 
         "osm:building:roof": "ironsheets", 
-        "osm:contact:address": "43881", 
+        "osm:contact:address": "P O Box 43881", 
         "osm:contact:email": "genesisjoyinst@yahoo.com", 
         "osm:contact:phone": "0724950722", 
         "osm:education:curriculum": "8_4_4", 
@@ -2560,13 +4161,13 @@
         "osm:education:government_registered": "mgcsd", 
         "osm:education:management_committee": "no", 
         "osm:education:program_counselling": "yes", 
-        "osm:education:program_feeding": "other", 
+        "osm:education:program_feeding": "yes", 
         "osm:education:program_sanitary_towel": "yes", 
         "osm:education:pta": "yes", 
         "osm:education:school_head": "Beatrice M. Mbugua", 
-        "osm:education:student_female": "105", 
-        "osm:education:student_male": "114", 
         "osm:education:students": "219", 
+        "osm:education:students_female": "105", 
+        "osm:education:students_male": "114", 
         "osm:education:teachers": "8", 
         "osm:education:teachers_female": "0", 
         "osm:education:teachers_male": "8", 
@@ -2586,21 +4187,21 @@
     {
       "geometry": {
         "coordinates": [
-          36.8546737, 
-          -1.2613638
+          36.8547243, 
+          -1.2613739
         ], 
         "type": "Point"
       }, 
       "id": "node/4467561520", 
       "properties": {
-        "osm:_timestamp": "2016-12-06T09:32:19Z", 
+        "osm:_timestamp": "2017-10-12T20:00:26Z", 
         "osm:_user": "muindre", 
         "osm:accessibility": "big_vehicles", 
         "osm:amenity": "school", 
         "osm:building:levels": "1", 
         "osm:building:material": "ironsheets", 
         "osm:building:roof": "ironsheets", 
-        "osm:contact:address": "43881", 
+        "osm:contact:address": "P O Box 43881", 
         "osm:contact:email": "genesisjoyinst@yahoo.com", 
         "osm:contact:phone": "0722381703", 
         "osm:education:curriculum": "8_4_4", 
@@ -2613,13 +4214,13 @@
         "osm:education:government_registered": "mgcsd", 
         "osm:education:management_committee": "yes", 
         "osm:education:program_counselling": "yes", 
-        "osm:education:program_feeding": "other", 
+        "osm:education:program_feeding": "yes", 
         "osm:education:program_sanitary_towel": "yes", 
         "osm:education:pta": "yes", 
         "osm:education:school_head": "Beatrice M. Mbugua", 
-        "osm:education:student_female": "146", 
-        "osm:education:student_male": "145", 
         "osm:education:students": "291", 
+        "osm:education:students_female": "146", 
+        "osm:education:students_male": "145", 
         "osm:education:teachers": "7", 
         "osm:education:teachers_female": "2", 
         "osm:education:teachers_male": "5", 
@@ -2628,7 +4229,7 @@
         "osm:education:type": "primary", 
         "osm:electricity:operational_status": "always", 
         "osm:id": "node/4467561520", 
-        "osm:name": "Genesis Joy Primary school", 
+        "osm:name": "Genesis Joy Primary School", 
         "osm:operator:description": "Beatrice M Mbugua.", 
         "osm:operator:type": "private", 
         "osm:place:village": "Gitathuru", 
@@ -2646,14 +4247,14 @@
       }, 
       "id": "node/4467561521", 
       "properties": {
-        "osm:_timestamp": "2016-10-31T08:35:49Z", 
-        "osm:_user": "ronaldroy", 
+        "osm:_timestamp": "2017-10-12T20:00:26Z", 
+        "osm:_user": "muindre", 
         "osm:accessibility": "big_vehicles", 
         "osm:amenity": "school", 
         "osm:building:levels": "1", 
         "osm:building:material": "ironsheets", 
         "osm:building:roof": "ironsheets", 
-        "osm:contact:address": "77022-00611", 
+        "osm:contact:address": "P O Box 77022-00611", 
         "osm:contact:email": "hopecompa@rocketmail.com", 
         "osm:contact:phone": "0720869269", 
         "osm:education:committees": "Board of Management", 
@@ -2661,18 +4262,19 @@
         "osm:education:exam_affiliate": "MCEDO Beijing School", 
         "osm:education:extra_other": "Child rights,Environmental and health", 
         "osm:education:extra_sports": "yes", 
-        "osm:education:fees": "ksh5400", 
+        "osm:education:fees": "5400", 
         "osm:education:fees_optional": "ksh200per term for exam", 
         "osm:education:gender_type": "mixed", 
         "osm:education:government_registered": "mgcsd", 
         "osm:education:management_committee": "yes", 
         "osm:education:program_counselling": "yes", 
+        "osm:education:program_feeding": "no", 
         "osm:education:program_sanitary_towel": "yes", 
         "osm:education:pta": "no", 
         "osm:education:school_head": "Barack", 
-        "osm:education:student_female": "149", 
-        "osm:education:student_male": "143", 
         "osm:education:students": "292", 
+        "osm:education:students_female": "149", 
+        "osm:education:students_male": "143", 
         "osm:education:teachers": "5", 
         "osm:education:teachers_female": "1", 
         "osm:education:teachers_male": "4", 
@@ -2681,7 +4283,7 @@
         "osm:education:type": "primary", 
         "osm:electricity:operational_status": "sometimes", 
         "osm:id": "node/4467561521", 
-        "osm:name": "Hope compassion center", 
+        "osm:name": "Hope Compassion Center", 
         "osm:operator:description": "Barack", 
         "osm:operator:type": "cbo", 
         "osm:toilet:arranged_name": "fresh", 
@@ -2692,21 +4294,21 @@
     {
       "geometry": {
         "coordinates": [
-          36.8569979, 
-          -1.2628855
+          36.8569777, 
+          -1.2629159
         ], 
         "type": "Point"
       }, 
       "id": "node/4467561522", 
       "properties": {
-        "osm:_timestamp": "2016-10-31T07:51:05Z", 
-        "osm:_user": "ronaldroy", 
+        "osm:_timestamp": "2017-10-12T20:00:27Z", 
+        "osm:_user": "muindre", 
         "osm:accessibility": "foot", 
         "osm:amenity": "school", 
         "osm:building:levels": "0", 
         "osm:building:material": "cement_block", 
         "osm:building:roof": "ironsheets", 
-        "osm:contact:address": "77369-00611", 
+        "osm:contact:address": "P O Box 77369-00611", 
         "osm:contact:email": "maccoschool@gmail.com", 
         "osm:contact:phone": "0727295855", 
         "osm:education:curriculum": "8_4_4", 
@@ -2714,7 +4316,7 @@
         "osm:education:extra_drama": "no", 
         "osm:education:extra_other": "Debate , environmental and health", 
         "osm:education:extra_sports": "yes", 
-        "osm:education:fees": "ksh1200", 
+        "osm:education:fees": "1200", 
         "osm:education:fees_optional": "ksh150 per term for exam", 
         "osm:education:gender_type": "mixed", 
         "osm:education:government_registered": "mgcsd", 
@@ -2723,9 +4325,9 @@
         "osm:education:program_sanitary_towel": "yes", 
         "osm:education:pta": "yes", 
         "osm:education:school_head": "Calvince Okello", 
-        "osm:education:student_female": "76", 
-        "osm:education:student_male": "50", 
         "osm:education:students": "126", 
+        "osm:education:students_female": "76", 
+        "osm:education:students_male": "50", 
         "osm:education:teachers": "6", 
         "osm:education:teachers_female": "3", 
         "osm:education:teachers_male": "3", 
@@ -2745,21 +4347,21 @@
     {
       "geometry": {
         "coordinates": [
-          36.855751, 
-          -1.2624392
+          36.8548069, 
+          -1.2619297
         ], 
         "type": "Point"
       }, 
       "id": "node/4467561523", 
       "properties": {
-        "osm:_timestamp": "2016-12-06T09:32:10Z", 
+        "osm:_timestamp": "2017-10-12T20:00:28Z", 
         "osm:_user": "muindre", 
         "osm:accessibility": "big_vehicles", 
         "osm:amenity": "school", 
         "osm:building:levels": "0", 
         "osm:building:material": "ironsheets", 
         "osm:building:roof": "ironsheets", 
-        "osm:contact:address": "77879-0622", 
+        "osm:contact:address": "P O Box 77879-0622", 
         "osm:contact:email": "pricilla2016@live.com", 
         "osm:contact:phone": "0727686676", 
         "osm:education:curriculum": "8_4_4", 
@@ -2769,13 +4371,14 @@
         "osm:education:gender_type": "mixed", 
         "osm:education:government_registered": "no", 
         "osm:education:management_committee": "no", 
-        "osm:education:program_feeding": "other", 
+        "osm:education:program_feeding": "yes", 
         "osm:education:school_head": "Jemimah Omusikoyo", 
-        "osm:education:student_female": "17", 
-        "osm:education:student_male": "7", 
         "osm:education:students": "24", 
+        "osm:education:students_female": "17", 
+        "osm:education:students_male": "7", 
         "osm:education:teachers": "1", 
         "osm:education:teachers_female": "1", 
+        "osm:education:teachers_male": "0", 
         "osm:education:teachers_trained": "1", 
         "osm:education:tsc_employed": "0", 
         "osm:education:type": "pre_primary", 
@@ -2793,6 +4396,50 @@
     {
       "geometry": {
         "coordinates": [
+          36.8538824, 
+          -1.2610915
+        ], 
+        "type": "Point"
+      }, 
+      "id": "node/4472311597", 
+      "properties": {
+        "osm:_timestamp": "2017-10-12T20:00:28Z", 
+        "osm:_user": "muindre", 
+        "osm:accessibility": "big_vehicles", 
+        "osm:amenity": "school", 
+        "osm:building:levels": "1", 
+        "osm:building:material": "concrete", 
+        "osm:building:roof": "ironsheets", 
+        "osm:contact:address": "77022-00611", 
+        "osm:contact:email": "hopecompa@rocketmail.com", 
+        "osm:contact:phone": "0720869269", 
+        "osm:education:committees": "Board of Management", 
+        "osm:education:curriculum": "8_4_4", 
+        "osm:education:extra_music": "no", 
+        "osm:education:extra_sports": "yes", 
+        "osm:education:fees": "5400", 
+        "osm:education:gender_type": "mixed", 
+        "osm:education:management_committee": "yes", 
+        "osm:education:pta": "no", 
+        "osm:education:school_head": "Barack", 
+        "osm:education:students": "102", 
+        "osm:education:students_female": "53", 
+        "osm:education:students_male": "49", 
+        "osm:education:teachers": "2", 
+        "osm:education:teachers_female": "2", 
+        "osm:education:teachers_male": "0", 
+        "osm:education:teachers_trained": "0", 
+        "osm:electricity:operational_status": "sometimes", 
+        "osm:id": "node/4472311597", 
+        "osm:name": "Hope Compassion Center", 
+        "osm:operator:description": "Barack", 
+        "osm:operator:type": "cbo"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
           36.8546542, 
           -1.2613593
         ], 
@@ -2800,14 +4447,14 @@
       }, 
       "id": "node/4472329843", 
       "properties": {
-        "osm:_timestamp": "2016-12-06T09:32:14Z", 
+        "osm:_timestamp": "2017-10-12T20:00:29Z", 
         "osm:_user": "muindre", 
         "osm:accessibility": "big_vehicles", 
-        "osm:amenity": "kindergarten", 
+        "osm:amenity": "school", 
         "osm:building:levels": "1", 
         "osm:building:material": "concrete", 
         "osm:building:roof": "ironsheets", 
-        "osm:contact:address": "43881", 
+        "osm:contact:address": "P O Box 43881", 
         "osm:contact:email": "genesisjoyinst@yahoo.com", 
         "osm:contact:phone": "0722381703", 
         "osm:education:curriculum": "8_4_4", 
@@ -2818,24 +4465,44 @@
         "osm:education:gender_type": "mixed", 
         "osm:education:government_registered": "mgcsd", 
         "osm:education:management_committee": "yes", 
-        "osm:education:program_feeding": "other", 
+        "osm:education:program_feeding": "yes", 
         "osm:education:pta": "yes", 
         "osm:education:school_head": "Beatrice M. Mbugua", 
-        "osm:education:student_female": "30", 
-        "osm:education:student_male": "20", 
         "osm:education:students": "50", 
+        "osm:education:students_female": "30", 
+        "osm:education:students_male": "20", 
         "osm:education:teachers": "3", 
         "osm:education:teachers_female": "3", 
+        "osm:education:teachers_male": "0", 
         "osm:education:teachers_trained": "0", 
         "osm:education:tsc_employed": "0", 
         "osm:education:type": "pre_primary", 
         "osm:electricity:operational_status": "always", 
         "osm:id": "node/4472329843", 
-        "osm:name": "Genesis Joy Pre school", 
+        "osm:name": "Genesis Joy Pre School", 
         "osm:operator:description": "Beatrice M Mbugua.", 
         "osm:operator:type": "private", 
         "osm:place:village": "Gitathuru", 
         "osm:toilet:present": "yes"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.8762149, 
+          -1.26264
+        ], 
+        "type": "Point"
+      }, 
+      "id": "node/5886553885", 
+      "properties": {
+        "osm:_timestamp": "2018-09-06T04:43:24Z", 
+        "osm:_user": "Traveller02", 
+        "osm:addr:street": "Juja Road", 
+        "osm:amenity": "school", 
+        "osm:id": "node/5886553885", 
+        "osm:name": "Moi Forces Academy"
       }, 
       "type": "Feature"
     }

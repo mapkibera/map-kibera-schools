@@ -37,9 +37,13 @@ def url2file(url,file_name):
 def sync_osm():
   kibera = "36.7651,-1.3211,36.8178,-1.3009"
   mathare = "36.8430,-1.2679,36.8790,-1.2489"
+  kangemi = "36.71974182128906,-1.2741373729175498,36.818275451660156,-1.225568762742616"
   url_base = "http://overpass-api.de/api/interpreter?data=[bbox];node['education:type'];out%20meta;&bbox="
   url2file(url_base + kibera,"kibera-schools-osm.xml")
+  url_base = "http://overpass-api.de/api/interpreter?data=[bbox];node[amenity='school'];out%20meta;&bbox="
   url2file(url_base + mathare,"mathare-schools-osm.xml")
+  url_base = "http://overpass-api.de/api/interpreter?data=[bbox];node[amenity='school'];out%20meta;&bbox="
+  url2file(url_base + kangemi,"kangemi-schools-osm.xml")
 
 def kenyaopendata():
   #https://www.opendata.go.ke/Education/Kenya-Secondary-Schools-2007/i6vz-a543
@@ -96,11 +100,15 @@ def convert2geojson():
   #OSM
   os.system("osmtogeojson -e kibera-schools-osm.xml > kibera-schools-osm.geojson")
   os.system("osmtogeojson -e mathare-schools-osm.xml > mathare-schools-osm.geojson")
+  os.system("osmtogeojson -e kangemi-schools-osm.xml > kangemi-schools-osm.geojson")
   clean_osm('kibera-schools-osm.geojson')
   clean_osm('mathare-schools-osm.geojson')
+  clean_osm('kangemi-schools-osm.geojson')
   osm_kibera = geojson.loads(readfile('kibera-schools-osm.geojson'))
   osm_mathare = geojson.loads(readfile('mathare-schools-osm.geojson'))
+  osm_kangemi = geojson.loads(readfile('kangemi-schools-osm.geojson'))
   osm_kibera.features.extend(osm_mathare.features)
+  osm_kibera.features.extend(osm_kangemi.features)
   dump = geojson.dumps(osm_kibera, sort_keys=True, indent=2)
   writefile('nairobi-schools-osm.geojson', dump)
 
@@ -236,7 +244,7 @@ def deploy():
 #filter_kenyaopendata()
 sync_osm()
 convert2geojson()
-compare_osm_kenyaopendata()
+#compare_osm_kenyaopendata()
 cache_images()
 deploy()
 
