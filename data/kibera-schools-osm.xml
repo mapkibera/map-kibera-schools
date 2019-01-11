@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.55.4 3079d8ea">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2018-10-16T17:10:02Z"/>
+<meta osm_base="2018-11-07T13:45:02Z"/>
 
   <bounds minlat="-1.3211000" minlon="36.7651000" maxlat="-1.3009000" maxlon="36.8178000"/>
 
@@ -2080,7 +2080,7 @@
     <tag k="place:village" v="Mashimoni"/>
     <tag k="toilet:present" v="yes"/>
   </node>
-  <node id="748804548" lat="-1.3099585" lon="36.7910807" version="12" timestamp="2018-01-26T07:13:58Z" changeset="55762564" uid="261050" user="muindre">
+  <node id="748804548" lat="-1.3107928" lon="36.7917289" version="13" timestamp="2018-10-29T08:42:29Z" changeset="63969966" uid="4873427" user="shazomojah">
     <tag k="accessibility" v="foot"/>
     <tag k="amenity" v="school"/>
     <tag k="building:levels" v="0"/>
@@ -5382,7 +5382,7 @@
     <tag k="place:village" v="Lindi"/>
     <tag k="toilet:present" v="yes"/>
   </node>
-  <node id="2923513480" lat="-1.3078152" lon="36.7902650" version="7" timestamp="2018-01-26T07:13:59Z" changeset="55762564" uid="261050" user="muindre">
+  <node id="2923513480" lat="-1.3087268" lon="36.7890821" version="8" timestamp="2018-10-29T08:42:30Z" changeset="63969966" uid="4873427" user="shazomojah">
     <tag k="accessibility" v="small_cars"/>
     <tag k="amenity" v="school"/>
     <tag k="building:material" v="mud"/>
@@ -5633,7 +5633,7 @@
     <tag k="toilet:arranged_name" v="Darajani youth group"/>
     <tag k="toilet:present" v="arranged"/>
   </node>
-  <node id="2923513489" lat="-1.3093767" lon="36.7918577" version="4" timestamp="2015-01-03T18:36:36Z" changeset="27893083" uid="555655" user="JamesLC">
+  <node id="2923513489" lat="-1.3092617" lon="36.7894960" version="5" timestamp="2018-10-29T08:42:31Z" changeset="63969966" uid="4873427" user="shazomojah">
     <tag k="accessibility" v="big_vehicles"/>
     <tag k="amenity" v="school"/>
     <tag k="building:levels" v="1"/>
@@ -5667,7 +5667,7 @@
     <tag k="place:village" v="Makina"/>
     <tag k="toilet:present" v="yes"/>
   </node>
-  <node id="2923513490" lat="-1.3094057" lon="36.7918273" version="5" timestamp="2015-01-03T18:36:37Z" changeset="27893083" uid="555655" user="JamesLC">
+  <node id="2923513490" lat="-1.3092907" lon="36.7894656" version="6" timestamp="2018-10-29T08:42:31Z" changeset="63969966" uid="4873427" user="shazomojah">
     <tag k="accessibility" v="big_vehicles"/>
     <tag k="amenity" v="school"/>
     <tag k="building:levels" v="1"/>
@@ -7869,7 +7869,7 @@
     <tag k="place:village" v="Olympic"/>
     <tag k="toilet:present" v="yes"/>
   </node>
-  <node id="2951976097" lat="-1.3067511" lon="36.7705308" version="12" timestamp="2017-10-12T09:08:00Z" changeset="52853430" uid="261050" user="muindre">
+  <node id="2951976097" lat="-1.3110533" lon="36.7819621" version="13" timestamp="2018-10-29T08:55:18Z" changeset="63970345" uid="4570042" user="Peter Agenga">
     <tag k="accessibility" v="big_vehicles"/>
     <tag k="amenity" v="school"/>
     <tag k="building:levels" v="0"/>
@@ -7910,7 +7910,7 @@
     <tag k="place:village" v="Kianda"/>
     <tag k="toilet:present" v="yes"/>
   </node>
-  <node id="2951976098" lat="-1.3069580" lon="36.7710308" version="8" timestamp="2017-10-12T09:11:05Z" changeset="52853483" uid="261050" user="muindre">
+  <node id="2951976098" lat="-1.3082260" lon="36.7719700" version="9" timestamp="2018-10-29T08:55:18Z" changeset="63970345" uid="4570042" user="Peter Agenga">
     <tag k="accessibility" v="big_vehicles"/>
     <tag k="amenity" v="school"/>
     <tag k="building:levels" v="0"/>
@@ -12002,7 +12002,7 @@
     <tag k="place:village" v="Kianda"/>
     <tag k="toilet:present" v="outside_public"/>
   </node>
-  <node id="5112495242" lat="-1.3067219" lon="36.7705662" version="3" timestamp="2017-10-12T09:11:06Z" changeset="52853483" uid="261050" user="muindre">
+  <node id="5112495242" lat="-1.3110524" lon="36.7819618" version="4" timestamp="2018-10-29T08:55:19Z" changeset="63970345" uid="4570042" user="Peter Agenga">
     <tag k="accessibility" v="big_vehicles"/>
     <tag k="amenity" v="school"/>
     <tag k="building:levels" v="0"/>
@@ -12398,7 +12398,7 @@
     <tag k="place:village" v="Raila"/>
     <tag k="toilet:present" v="yes"/>
   </node>
-  <node id="5119234548" lat="-1.3069734" lon="36.7710301" version="2" timestamp="2017-10-12T09:11:07Z" changeset="52853483" uid="261050" user="muindre">
+  <node id="5119234548" lat="-1.3082260" lon="36.7719700" version="3" timestamp="2018-10-29T08:55:19Z" changeset="63970345" uid="4570042" user="Peter Agenga">
     <tag k="accessibility" v="big_vehicles"/>
     <tag k="amenity" v="school"/>
     <tag k="building:material" v="mud,cement_block"/>

@@ -10,7 +10,7 @@
       }, 
       "id": "node/1038064486", 
       "properties": {
-        "osm:_timestamp": "2017-10-12T19:59:57Z", 
+        "osm:_timestamp": "2017-10-12", 
         "osm:_user": "muindre", 
         "osm:accessibility": "big_vehicles", 
         "osm:amenity": "school", 
@@ -41,6 +41,7 @@
         "osm:education:type": "secondary", 
         "osm:electricity:operational_status": "sometimes", 
         "osm:id": "node/1038064486", 
+        "osm:location": "mathare", 
         "osm:name": "Mcedo Secondary School", 
         "osm:operator:name": "MCEDO", 
         "osm:operator:type": "cbo", 
@@ -59,10 +60,11 @@
       }, 
       "id": "node/1038064496", 
       "properties": {
-        "osm:_timestamp": "2011-01-18T19:56:55Z", 
+        "osm:_timestamp": "2011-01-18", 
         "osm:_user": "PrimusK", 
         "osm:amenity": "school", 
         "osm:id": "node/1038064496", 
+        "osm:location": "mathare", 
         "osm:name": "Undugu Mercy care"
       }, 
       "type": "Feature"
@@ -77,7 +79,7 @@
       }, 
       "id": "node/1038103774", 
       "properties": {
-        "osm:_timestamp": "2017-10-12T19:59:58Z", 
+        "osm:_timestamp": "2017-10-12", 
         "osm:_user": "muindre", 
         "osm:accessibility": "foot", 
         "osm:amenity": "school", 
@@ -103,6 +105,7 @@
         "osm:education:type": "primary", 
         "osm:electricity:operational_status": "always", 
         "osm:id": "node/1038103774", 
+        "osm:location": "mathare", 
         "osm:name": "Inspiration Baby College", 
         "osm:operator:name": "Inspiration Centre", 
         "osm:operator:type": "religious", 
@@ -121,7 +124,7 @@
       }, 
       "id": "node/1038103776", 
       "properties": {
-        "osm:_timestamp": "2017-10-12T19:59:58Z", 
+        "osm:_timestamp": "2017-10-12", 
         "osm:_user": "muindre", 
         "osm:accessibility": "small_cars", 
         "osm:amenity": "school", 
@@ -160,6 +163,7 @@
         "osm:education:type": "primary", 
         "osm:electricity:operational_status": "never", 
         "osm:id": "node/1038103776", 
+        "osm:location": "mathare", 
         "osm:name": "Bridge International School", 
         "osm:operator:name": "Bridge International Academy", 
         "osm:operator:type": "ngo", 
@@ -178,7 +182,7 @@
       }, 
       "id": "node/1038103794", 
       "properties": {
-        "osm:_timestamp": "2017-10-12T19:59:59Z", 
+        "osm:_timestamp": "2017-10-12", 
         "osm:_user": "muindre", 
         "osm:accessibility": "foot", 
         "osm:amenity": "school", 
@@ -212,6 +216,7 @@
         "osm:education:type": "primary", 
         "osm:electricity:operational_status": "never", 
         "osm:id": "node/1038103794", 
+        "osm:location": "mathare", 
         "osm:name": "Abundant Life School", 
         "osm:operator:type": "cbo", 
         "osm:place:village": "Mathare 3C", 
@@ -229,10 +234,11 @@
       }, 
       "id": "node/1038172444", 
       "properties": {
-        "osm:_timestamp": "2010-12-14T12:20:51Z", 
+        "osm:_timestamp": "2010-12-14", 
         "osm:_user": "elizabeth kinyua", 
         "osm:amenity": "school", 
         "osm:id": "node/1038172444", 
+        "osm:location": "mathare", 
         "osm:name": "Heritage academy"
       }, 
       "type": "Feature"
@@ -247,10 +253,11 @@
       }, 
       "id": "node/1038195562", 
       "properties": {
-        "osm:_timestamp": "2011-01-28T09:48:18Z", 
+        "osm:_timestamp": "2011-01-28", 
         "osm:_user": "PrimusK", 
         "osm:amenity": "school", 
         "osm:id": "node/1038195562", 
+        "osm:location": "mathare", 
         "osm:name": "Ndururuno Secondary School"
       }, 
       "type": "Feature"
@@ -265,10 +272,11 @@
       }, 
       "id": "node/1038195571", 
       "properties": {
-        "osm:_timestamp": "2010-12-14T12:53:50Z", 
+        "osm:_timestamp": "2010-12-14", 
         "osm:_user": "elizabeth kinyua", 
         "osm:amenity": "school", 
         "osm:id": "node/1038195571", 
+        "osm:location": "mathare", 
         "osm:name": "Kariobangi Adventist Educational Centre"
       }, 
       "type": "Feature"
@@ -283,10 +291,11 @@
       }, 
       "id": "node/1038202638", 
       "properties": {
-        "osm:_timestamp": "2010-12-14T12:59:21Z", 
+        "osm:_timestamp": "2010-12-14", 
         "osm:_user": "charles juma", 
         "osm:amenity": "school", 
         "osm:id": "node/1038202638", 
+        "osm:location": "mathare", 
         "osm:name": "Mathare light school"
       }, 
       "type": "Feature"
@@ -301,10 +310,11 @@
       }, 
       "id": "node/1038202662", 
       "properties": {
-        "osm:_timestamp": "2011-01-14T12:04:38Z", 
+        "osm:_timestamp": "2011-01-14", 
         "osm:_user": "PrimusK", 
         "osm:amenity": "school", 
         "osm:id": "node/1038202662", 
+        "osm:location": "mathare", 
         "osm:name": "Mercy care center primary school"
       }, 
       "type": "Feature"
@@ -319,10 +329,11 @@
       }, 
       "id": "node/1038202665", 
       "properties": {
-        "osm:_timestamp": "2017-10-12T19:59:59Z", 
+        "osm:_timestamp": "2017-10-12", 
         "osm:_user": "muindre", 
         "osm:amenity": "school", 
         "osm:id": "node/1038202665", 
+        "osm:location": "mathare", 
         "osm:name": "School"
       }, 
       "type": "Feature"
@@ -337,10 +348,11 @@
       }, 
       "id": "node/1038202671", 
       "properties": {
-        "osm:_timestamp": "2011-01-14T12:04:43Z", 
+        "osm:_timestamp": "2011-01-14", 
         "osm:_user": "PrimusK", 
         "osm:amenity": "school", 
         "osm:id": "node/1038202671", 
+        "osm:location": "mathare", 
         "osm:name": "Caso upendo primary school"
       }, 
       "type": "Feature"
@@ -355,10 +367,11 @@
       }, 
       "id": "node/1038202672", 
       "properties": {
-        "osm:_timestamp": "2017-10-12T19:59:59Z", 
+        "osm:_timestamp": "2017-10-12", 
         "osm:_user": "muindre", 
         "osm:amenity": "school", 
         "osm:id": "node/1038202672", 
+        "osm:location": "mathare", 
         "osm:name": "Myto junior academy"
       }, 
       "type": "Feature"
@@ -373,10 +386,11 @@
       }, 
       "id": "node/1038202722", 
       "properties": {
-        "osm:_timestamp": "2010-12-14T12:59:26Z", 
+        "osm:_timestamp": "2010-12-14", 
         "osm:_user": "charles juma", 
         "osm:amenity": "school", 
         "osm:id": "node/1038202722", 
+        "osm:location": "mathare", 
         "osm:name": "StLlwanga zone nursery/primary school"
       }, 
       "type": "Feature"
@@ -391,10 +405,11 @@
       }, 
       "id": "node/1038202725", 
       "properties": {
-        "osm:_timestamp": "2010-12-14T12:59:26Z", 
+        "osm:_timestamp": "2010-12-14", 
         "osm:_user": "charles juma", 
         "osm:amenity": "school", 
         "osm:id": "node/1038202725", 
+        "osm:location": "mathare", 
         "osm:name": "Brilliant center academy"
       }, 
       "type": "Feature"
@@ -409,10 +424,11 @@
       }, 
       "id": "node/1038202744", 
       "properties": {
-        "osm:_timestamp": "2010-12-14T12:59:27Z", 
+        "osm:_timestamp": "2010-12-14", 
         "osm:_user": "charles juma", 
         "osm:amenity": "school", 
         "osm:id": "node/1038202744", 
+        "osm:location": "mathare", 
         "osm:name": "Ebenezar primary school"
       }, 
       "type": "Feature"
@@ -427,10 +443,11 @@
       }, 
       "id": "node/1038202804", 
       "properties": {
-        "osm:_timestamp": "2011-01-14T12:04:38Z", 
+        "osm:_timestamp": "2011-01-14", 
         "osm:_user": "PrimusK", 
         "osm:amenity": "school", 
         "osm:id": "node/1038202804", 
+        "osm:location": "mathare", 
         "osm:name": "Mercy care center secondary school"
       }, 
       "type": "Feature"
@@ -445,10 +462,11 @@
       }, 
       "id": "node/1038202813", 
       "properties": {
-        "osm:_timestamp": "2010-12-14T12:59:29Z", 
+        "osm:_timestamp": "2010-12-14", 
         "osm:_user": "charles juma", 
         "osm:amenity": "school", 
         "osm:id": "node/1038202813", 
+        "osm:location": "mathare", 
         "osm:name": "Excellent care center"
       }, 
       "type": "Feature"
@@ -463,10 +481,11 @@
       }, 
       "id": "node/1038219156", 
       "properties": {
-        "osm:_timestamp": "2010-12-14T13:28:31Z", 
+        "osm:_timestamp": "2010-12-14", 
         "osm:_user": "PrimusK", 
         "osm:amenity": "school", 
         "osm:id": "node/1038219156", 
+        "osm:location": "mathare", 
         "osm:name": "Brain house academy"
       }, 
       "type": "Feature"
@@ -481,10 +500,11 @@
       }, 
       "id": "node/1038219177", 
       "properties": {
-        "osm:_timestamp": "2010-12-14T13:28:33Z", 
+        "osm:_timestamp": "2010-12-14", 
         "osm:_user": "PrimusK", 
         "osm:amenity": "school", 
         "osm:id": "node/1038219177", 
+        "osm:location": "mathare", 
         "osm:name": "Brain house high school"
       }, 
       "type": "Feature"
@@ -499,7 +519,7 @@
       }, 
       "id": "node/1100019215", 
       "properties": {
-        "osm:_timestamp": "2017-10-12T20:00:00Z", 
+        "osm:_timestamp": "2017-10-12", 
         "osm:_user": "muindre", 
         "osm:accessibility": "foot", 
         "osm:amenity": "school", 
@@ -531,6 +551,7 @@
         "osm:education:type": "primary", 
         "osm:electricity:operational_status": "sometimes", 
         "osm:id": "node/1100019215", 
+        "osm:location": "mathare", 
         "osm:name": "Angel Girls Education Centre", 
         "osm:operator:description": "Agella Adhiambo", 
         "osm:operator:type": "private", 
@@ -549,10 +570,11 @@
       }, 
       "id": "node/1101737230", 
       "properties": {
-        "osm:_timestamp": "2011-01-13T10:40:52Z", 
+        "osm:_timestamp": "2011-01-13", 
         "osm:_user": "hassanow", 
         "osm:amenity": "school", 
         "osm:id": "node/1101737230", 
+        "osm:location": "mathare", 
         "osm:name": "Faith Academy"
       }, 
       "type": "Feature"
@@ -567,10 +589,11 @@
       }, 
       "id": "node/1101737249", 
       "properties": {
-        "osm:_timestamp": "2016-04-29T11:56:38Z", 
+        "osm:_timestamp": "2016-04-29", 
         "osm:_user": "Edduta", 
         "osm:amenity": "school", 
         "osm:id": "node/1101737249", 
+        "osm:location": "mathare", 
         "osm:name": "Huruma Primary School"
       }, 
       "type": "Feature"
@@ -585,10 +608,11 @@
       }, 
       "id": "node/1101737253", 
       "properties": {
-        "osm:_timestamp": "2011-01-13T10:40:53Z", 
+        "osm:_timestamp": "2011-01-13", 
         "osm:_user": "hassanow", 
         "osm:amenity": "school", 
         "osm:id": "node/1101737253", 
+        "osm:location": "mathare", 
         "osm:name": "Hope Missionary School"
       }, 
       "type": "Feature"
@@ -603,7 +627,7 @@
       }, 
       "id": "node/1103092195", 
       "properties": {
-        "osm:_timestamp": "2017-10-12T20:00:00Z", 
+        "osm:_timestamp": "2017-10-12", 
         "osm:_user": "muindre", 
         "osm:accessibility": "big_vehicles", 
         "osm:amenity": "school", 
@@ -635,6 +659,7 @@
         "osm:education:type": "primary", 
         "osm:electricity:operational_status": "always", 
         "osm:id": "node/1103092195", 
+        "osm:location": "mathare", 
         "osm:name": "ST. Michael Children Education Center", 
         "osm:operator:name": "Community", 
         "osm:operator:type": "Cbo", 
@@ -653,7 +678,7 @@
       }, 
       "id": "node/1103092338", 
       "properties": {
-        "osm:_timestamp": "2017-10-12T20:00:01Z", 
+        "osm:_timestamp": "2017-10-12", 
         "osm:_user": "muindre", 
         "osm:accessibility": "foot", 
         "osm:amenity": "school", 
@@ -683,6 +708,7 @@
         "osm:education:type": "primary", 
         "osm:electricity:operational_status": "sometimes", 
         "osm:id": "node/1103092338", 
+        "osm:location": "mathare", 
         "osm:name": "St. Ngota's Upendo Primary School", 
         "osm:operator:name": "Jordan Friends Ministries", 
         "osm:operator:type": "religious", 
@@ -703,10 +729,11 @@
       "properties": {
         "osm:OWNERS": "MINISTRY OF EDUCATION", 
         "osm:UNESCO POI'S": "EDUCATION", 
-        "osm:_timestamp": "2017-08-21T22:59:44Z", 
+        "osm:_timestamp": "2017-08-21", 
         "osm:_user": "Johnwhelan", 
         "osm:amenity": "school", 
         "osm:id": "node/1103092342", 
+        "osm:location": "mathare", 
         "osm:name": "Mathare Special Training Center"
       }, 
       "type": "Feature"
@@ -721,10 +748,11 @@
       }, 
       "id": "node/1103092371", 
       "properties": {
-        "osm:_timestamp": "2016-11-14T09:08:09Z", 
+        "osm:_timestamp": "2016-11-14", 
         "osm:_user": "felloh Jamuradi", 
         "osm:amenity": "school", 
         "osm:id": "node/1103092371", 
+        "osm:location": "mathare", 
         "osm:name": "Mathare Family Hope Center"
       }, 
       "type": "Feature"
@@ -740,7 +768,7 @@
       "id": "node/1103092451", 
       "properties": {
         "osm:UNESCO POI'S": "EDUCATION", 
-        "osm:_timestamp": "2017-10-12T20:00:01Z", 
+        "osm:_timestamp": "2017-10-12", 
         "osm:_user": "muindre", 
         "osm:accessibility": "foot", 
         "osm:amenity": "school", 
@@ -772,6 +800,7 @@
         "osm:education:type": "primary", 
         "osm:electricity:operational_status": "always", 
         "osm:id": "node/1103092451", 
+        "osm:location": "mathare", 
         "osm:name": "Why Not Academy", 
         "osm:operator:description": "association", 
         "osm:operator:name": "whynot", 
@@ -791,10 +820,11 @@
       }, 
       "id": "node/1103092472", 
       "properties": {
-        "osm:_timestamp": "2011-01-14T11:08:48Z", 
+        "osm:_timestamp": "2011-01-14", 
         "osm:_user": "hassanow", 
         "osm:amenity": "school", 
         "osm:id": "node/1103092472", 
+        "osm:location": "mathare", 
         "osm:name": "Driving School"
       }, 
       "type": "Feature"
@@ -809,10 +839,11 @@
       }, 
       "id": "node/1103152621", 
       "properties": {
-        "osm:_timestamp": "2011-02-02T15:25:33Z", 
+        "osm:_timestamp": "2011-02-02", 
         "osm:_user": "PrimusK", 
         "osm:amenity": "school", 
         "osm:id": "node/1103152621", 
+        "osm:location": "mathare", 
         "osm:name": "Joy care center"
       }, 
       "type": "Feature"
@@ -827,7 +858,7 @@
       }, 
       "id": "node/1109445798", 
       "properties": {
-        "osm:_timestamp": "2016-12-08T09:14:33Z", 
+        "osm:_timestamp": "2016-12-08", 
         "osm:_user": "fondolucy", 
         "osm:accessibility": "big_vehicles", 
         "osm:amenity": "school", 
@@ -860,6 +891,7 @@
         "osm:education:type": "primary", 
         "osm:electricity:operational_status": "sometimes", 
         "osm:id": "node/1109445798", 
+        "osm:location": "mathare", 
         "osm:name": "MCEDO Primary School", 
         "osm:operator:name": "MCEDO", 
         "osm:operator:type": "cbo", 
@@ -878,7 +910,7 @@
       }, 
       "id": "node/1110199069", 
       "properties": {
-        "osm:_timestamp": "2017-10-12T20:00:02Z", 
+        "osm:_timestamp": "2017-10-12", 
         "osm:_user": "muindre", 
         "osm:accessibility": "big_vehicles", 
         "osm:amenity": "school", 
@@ -907,6 +939,7 @@
         "osm:education:type": "pre_primary", 
         "osm:electricity:operational_status": "always", 
         "osm:id": "node/1110199069", 
+        "osm:location": "mathare", 
         "osm:name": "Roots Institute Center", 
         "osm:operator:name": "Roots Institute Center", 
         "osm:operator:type": "cbo", 
@@ -925,10 +958,11 @@
       }, 
       "id": "node/1110199109", 
       "properties": {
-        "osm:_timestamp": "2017-10-12T20:00:02Z", 
+        "osm:_timestamp": "2017-10-12", 
         "osm:_user": "muindre", 
         "osm:amenity": "school", 
         "osm:id": "node/1110199109", 
+        "osm:location": "mathare", 
         "osm:name": "Neema worship centre"
       }, 
       "type": "Feature"
@@ -943,10 +977,11 @@
       }, 
       "id": "node/1110227275", 
       "properties": {
-        "osm:_timestamp": "2017-10-12T20:00:02Z", 
+        "osm:_timestamp": "2017-10-12", 
         "osm:_user": "muindre", 
         "osm:amenity": "school", 
         "osm:id": "node/1110227275", 
+        "osm:location": "mathare", 
         "osm:name": "Patmos junior school"
       }, 
       "type": "Feature"
@@ -961,10 +996,11 @@
       }, 
       "id": "node/1110227315", 
       "properties": {
-        "osm:_timestamp": "2011-01-19T10:49:21Z", 
+        "osm:_timestamp": "2011-01-19", 
         "osm:_user": "PrimusK", 
         "osm:amenity": "school", 
         "osm:id": "node/1110227315", 
+        "osm:location": "mathare", 
         "osm:name": "C.A Academy"
       }, 
       "type": "Feature"
@@ -979,7 +1015,7 @@
       }, 
       "id": "node/1110227334", 
       "properties": {
-        "osm:_timestamp": "2017-10-12T20:00:03Z", 
+        "osm:_timestamp": "2017-10-12", 
         "osm:_user": "muindre", 
         "osm:accessibility": "big_vehicles", 
         "osm:amenity": "school", 
@@ -1013,6 +1049,7 @@
         "osm:education:type": "primary", 
         "osm:electricity:operational_status": "never", 
         "osm:id": "node/1110227334", 
+        "osm:location": "mathare", 
         "osm:name": "Anaweza Education Centre", 
         "osm:operator:description": "Vincent Okumu", 
         "osm:operator:type": "cbo", 
@@ -1031,10 +1068,11 @@
       }, 
       "id": "node/1110239838", 
       "properties": {
-        "osm:_timestamp": "2011-01-19T11:11:24Z", 
+        "osm:_timestamp": "2011-01-19", 
         "osm:_user": "hassanow", 
         "osm:amenity": "school", 
         "osm:id": "node/1110239838", 
+        "osm:location": "mathare", 
         "osm:name": "Harvest mission"
       }, 
       "type": "Feature"
@@ -1049,10 +1087,11 @@
       }, 
       "id": "node/1110239839", 
       "properties": {
-        "osm:_timestamp": "2011-01-19T11:11:24Z", 
+        "osm:_timestamp": "2011-01-19", 
         "osm:_user": "hassanow", 
         "osm:amenity": "school", 
         "osm:id": "node/1110239839", 
+        "osm:location": "mathare", 
         "osm:name": "St.mary community center"
       }, 
       "type": "Feature"
@@ -1067,10 +1106,11 @@
       }, 
       "id": "node/1110239853", 
       "properties": {
-        "osm:_timestamp": "2011-01-19T11:11:26Z", 
+        "osm:_timestamp": "2011-01-19", 
         "osm:_user": "hassanow", 
         "osm:amenity": "school", 
         "osm:id": "node/1110239853", 
+        "osm:location": "mathare", 
         "osm:name": "Loving concern Education center"
       }, 
       "type": "Feature"
@@ -1085,10 +1125,11 @@
       }, 
       "id": "node/1110239854", 
       "properties": {
-        "osm:_timestamp": "2011-02-02T08:55:21Z", 
+        "osm:_timestamp": "2011-02-02", 
         "osm:_user": "PrimusK", 
         "osm:amenity": "school", 
         "osm:id": "node/1110239854", 
+        "osm:location": "mathare", 
         "osm:name": "Funzo junior school."
       }, 
       "type": "Feature"
@@ -1103,10 +1144,11 @@
       }, 
       "id": "node/1110239856", 
       "properties": {
-        "osm:_timestamp": "2011-01-19T11:11:26Z", 
+        "osm:_timestamp": "2011-01-19", 
         "osm:_user": "hassanow", 
         "osm:amenity": "school", 
         "osm:id": "node/1110239856", 
+        "osm:location": "mathare", 
         "osm:name": "St Antonieta"
       }, 
       "type": "Feature"
@@ -1121,10 +1163,11 @@
       }, 
       "id": "node/1110239860", 
       "properties": {
-        "osm:_timestamp": "2011-01-19T11:11:27Z", 
+        "osm:_timestamp": "2011-01-19", 
         "osm:_user": "hassanow", 
         "osm:amenity": "school", 
         "osm:id": "node/1110239860", 
+        "osm:location": "mathare", 
         "osm:name": "ST phillips school"
       }, 
       "type": "Feature"
@@ -1139,10 +1182,11 @@
       }, 
       "id": "node/1110239861", 
       "properties": {
-        "osm:_timestamp": "2011-02-02T08:55:22Z", 
+        "osm:_timestamp": "2011-02-02", 
         "osm:_user": "PrimusK", 
         "osm:amenity": "school", 
         "osm:id": "node/1110239861", 
+        "osm:location": "mathare", 
         "osm:name": "ST .paul primary school"
       }, 
       "type": "Feature"
@@ -1157,10 +1201,11 @@
       }, 
       "id": "node/1110239866", 
       "properties": {
-        "osm:_timestamp": "2011-02-02T08:55:24Z", 
+        "osm:_timestamp": "2011-02-02", 
         "osm:_user": "PrimusK", 
         "osm:amenity": "school", 
         "osm:id": "node/1110239866", 
+        "osm:location": "mathare", 
         "osm:name": "Edie nursery"
       }, 
       "type": "Feature"
@@ -1175,10 +1220,11 @@
       }, 
       "id": "node/1110245197", 
       "properties": {
-        "osm:_timestamp": "2017-10-12T20:00:03Z", 
+        "osm:_timestamp": "2017-10-12", 
         "osm:_user": "muindre", 
         "osm:amenity": "school", 
         "osm:id": "node/1110245197", 
+        "osm:location": "mathare", 
         "osm:name": "St Ann Baby care"
       }, 
       "type": "Feature"
@@ -1193,10 +1239,11 @@
       }, 
       "id": "node/1111451105", 
       "properties": {
-        "osm:_timestamp": "2011-01-20T10:33:40Z", 
+        "osm:_timestamp": "2011-01-20", 
         "osm:_user": "PrimusK", 
         "osm:amenity": "school", 
         "osm:id": "node/1111451105", 
+        "osm:location": "mathare", 
         "osm:name": "Little Bees School"
       }, 
       "type": "Feature"
@@ -1211,10 +1258,11 @@
       }, 
       "id": "node/1111566336", 
       "properties": {
-        "osm:_timestamp": "2011-01-20T12:39:50Z", 
+        "osm:_timestamp": "2011-01-20", 
         "osm:_user": "hassanow", 
         "osm:amenity": "school", 
         "osm:id": "node/1111566336", 
+        "osm:location": "mathare", 
         "osm:name": "Liance Driving School"
       }, 
       "type": "Feature"
@@ -1229,10 +1277,11 @@
       }, 
       "id": "node/1111566365", 
       "properties": {
-        "osm:_timestamp": "2011-01-20T12:39:50Z", 
+        "osm:_timestamp": "2011-01-20", 
         "osm:_user": "hassanow", 
         "osm:amenity": "school", 
         "osm:id": "node/1111566365", 
+        "osm:location": "mathare", 
         "osm:name": "ARK PRIMARY SCHOOL"
       }, 
       "type": "Feature"
@@ -1247,10 +1296,11 @@
       }, 
       "id": "node/1111566381", 
       "properties": {
-        "osm:_timestamp": "2011-01-20T18:42:57Z", 
+        "osm:_timestamp": "2011-01-20", 
         "osm:_user": "xybot", 
         "osm:amenity": "school", 
         "osm:id": "node/1111566381", 
+        "osm:location": "mathare", 
         "osm:name": "soldier OF FAITH Educational Centre"
       }, 
       "type": "Feature"
@@ -1265,10 +1315,11 @@
       }, 
       "id": "node/1111566433", 
       "properties": {
-        "osm:_timestamp": "2011-01-20T12:39:52Z", 
+        "osm:_timestamp": "2011-01-20", 
         "osm:_user": "hassanow", 
         "osm:amenity": "school", 
         "osm:id": "node/1111566433", 
+        "osm:location": "mathare", 
         "osm:name": "THAYU YOUTH CENTER"
       }, 
       "type": "Feature"
@@ -1283,10 +1334,11 @@
       }, 
       "id": "node/1111586829", 
       "properties": {
-        "osm:_timestamp": "2011-01-20T12:59:05Z", 
+        "osm:_timestamp": "2011-01-20", 
         "osm:_user": "PrimusK", 
         "osm:amenity": "school", 
         "osm:id": "node/1111586829", 
+        "osm:location": "mathare", 
         "osm:name": "Proposed Ruaraka Girls High School"
       }, 
       "type": "Feature"
@@ -1301,10 +1353,11 @@
       }, 
       "id": "node/1111586831", 
       "properties": {
-        "osm:_timestamp": "2011-01-20T12:59:05Z", 
+        "osm:_timestamp": "2011-01-20", 
         "osm:_user": "PrimusK", 
         "osm:amenity": "school", 
         "osm:id": "node/1111586831", 
+        "osm:location": "mathare", 
         "osm:name": "St Samuel Orphans School"
       }, 
       "type": "Feature"
@@ -1319,10 +1372,11 @@
       }, 
       "id": "node/1111586880", 
       "properties": {
-        "osm:_timestamp": "2011-01-20T12:59:06Z", 
+        "osm:_timestamp": "2011-01-20", 
         "osm:_user": "PrimusK", 
         "osm:amenity": "school", 
         "osm:id": "node/1111586880", 
+        "osm:location": "mathare", 
         "osm:name": "Precious Kids Academy"
       }, 
       "type": "Feature"
@@ -1337,10 +1391,11 @@
       }, 
       "id": "node/1111586949", 
       "properties": {
-        "osm:_timestamp": "2011-01-20T12:59:07Z", 
+        "osm:_timestamp": "2011-01-20", 
         "osm:_user": "PrimusK", 
         "osm:amenity": "school", 
         "osm:id": "node/1111586949", 
+        "osm:location": "mathare", 
         "osm:name": "Alfa Riviera Secondary School"
       }, 
       "type": "Feature"
@@ -1355,10 +1410,11 @@
       }, 
       "id": "node/1111587105", 
       "properties": {
-        "osm:_timestamp": "2011-01-20T12:59:10Z", 
+        "osm:_timestamp": "2011-01-20", 
         "osm:_user": "PrimusK", 
         "osm:amenity": "school", 
         "osm:id": "node/1111587105", 
+        "osm:location": "mathare", 
         "osm:name": "Mathare North Manonite"
       }, 
       "type": "Feature"
@@ -1373,10 +1429,11 @@
       }, 
       "id": "node/1111587134", 
       "properties": {
-        "osm:_timestamp": "2011-01-20T12:59:10Z", 
+        "osm:_timestamp": "2011-01-20", 
         "osm:_user": "PrimusK", 
         "osm:amenity": "school", 
         "osm:id": "node/1111587134", 
+        "osm:location": "mathare", 
         "osm:name": "Light House Grace Academy"
       }, 
       "type": "Feature"
@@ -1391,10 +1448,11 @@
       }, 
       "id": "node/1111587145", 
       "properties": {
-        "osm:_timestamp": "2011-01-20T13:07:47Z", 
+        "osm:_timestamp": "2011-01-20", 
         "osm:_user": "PrimusK", 
         "osm:amenity": "school", 
         "osm:id": "node/1111587145", 
+        "osm:location": "mathare", 
         "osm:name": "Kasarani Victory Academy"
       }, 
       "type": "Feature"
@@ -1409,10 +1467,11 @@
       }, 
       "id": "node/1112885024", 
       "properties": {
-        "osm:_timestamp": "2017-10-12T20:00:03Z", 
+        "osm:_timestamp": "2017-10-12", 
         "osm:_user": "muindre", 
         "osm:amenity": "school", 
         "osm:id": "node/1112885024", 
+        "osm:location": "mathare", 
         "osm:name": "Thayu kindergaten"
       }, 
       "type": "Feature"
@@ -1427,10 +1486,11 @@
       }, 
       "id": "node/1123193291", 
       "properties": {
-        "osm:_timestamp": "2011-01-27T09:23:50Z", 
+        "osm:_timestamp": "2011-01-27", 
         "osm:_user": "PrimusK", 
         "osm:amenity": "school", 
         "osm:id": "node/1123193291", 
+        "osm:location": "mathare", 
         "osm:name": "Eden Annex Primary School"
       }, 
       "type": "Feature"
@@ -1445,10 +1505,11 @@
       }, 
       "id": "node/1123193310", 
       "properties": {
-        "osm:_timestamp": "2011-01-27T09:23:50Z", 
+        "osm:_timestamp": "2011-01-27", 
         "osm:_user": "PrimusK", 
         "osm:amenity": "school", 
         "osm:id": "node/1123193310", 
+        "osm:location": "mathare", 
         "osm:name": "Ushindi Educational Center"
       }, 
       "type": "Feature"
@@ -1463,10 +1524,11 @@
       }, 
       "id": "node/1123193312", 
       "properties": {
-        "osm:_timestamp": "2011-01-27T09:23:50Z", 
+        "osm:_timestamp": "2011-01-27", 
         "osm:_user": "PrimusK", 
         "osm:amenity": "school", 
         "osm:id": "node/1123193312", 
+        "osm:location": "mathare", 
         "osm:name": "Ananda Manga primary school"
       }, 
       "type": "Feature"
@@ -1481,10 +1543,11 @@
       }, 
       "id": "node/1123193326", 
       "properties": {
-        "osm:_timestamp": "2011-01-28T08:24:44Z", 
+        "osm:_timestamp": "2011-01-28", 
         "osm:_user": "PrimusK", 
         "osm:amenity": "school", 
         "osm:id": "node/1123193326", 
+        "osm:location": "mathare", 
         "osm:name": "St Rosa Academy"
       }, 
       "type": "Feature"
@@ -1499,10 +1562,11 @@
       }, 
       "id": "node/1123193327", 
       "properties": {
-        "osm:_timestamp": "2011-01-27T09:23:51Z", 
+        "osm:_timestamp": "2011-01-27", 
         "osm:_user": "PrimusK", 
         "osm:amenity": "school", 
         "osm:id": "node/1123193327", 
+        "osm:location": "mathare", 
         "osm:name": "Power of Faith Educational Centre"
       }, 
       "type": "Feature"
@@ -1517,10 +1581,11 @@
       }, 
       "id": "node/1123193346", 
       "properties": {
-        "osm:_timestamp": "2011-01-27T09:23:51Z", 
+        "osm:_timestamp": "2011-01-27", 
         "osm:_user": "PrimusK", 
         "osm:amenity": "school", 
         "osm:id": "node/1123193346", 
+        "osm:location": "mathare", 
         "osm:name": "Urban View Educational Centre"
       }, 
       "type": "Feature"
@@ -1535,10 +1600,11 @@
       }, 
       "id": "node/1123193347", 
       "properties": {
-        "osm:_timestamp": "2011-01-27T09:23:51Z", 
+        "osm:_timestamp": "2011-01-27", 
         "osm:_user": "PrimusK", 
         "osm:amenity": "school", 
         "osm:id": "node/1123193347", 
+        "osm:location": "mathare", 
         "osm:name": "Furaha Community Center"
       }, 
       "type": "Feature"
@@ -1553,10 +1619,11 @@
       }, 
       "id": "node/1123193348", 
       "properties": {
-        "osm:_timestamp": "2011-01-27T09:23:51Z", 
+        "osm:_timestamp": "2011-01-27", 
         "osm:_user": "PrimusK", 
         "osm:amenity": "school", 
         "osm:id": "node/1123193348", 
+        "osm:location": "mathare", 
         "osm:name": "Ananda manga Academy"
       }, 
       "type": "Feature"
@@ -1571,10 +1638,11 @@
       }, 
       "id": "node/1123193364", 
       "properties": {
-        "osm:_timestamp": "2011-01-27T09:23:52Z", 
+        "osm:_timestamp": "2011-01-27", 
         "osm:_user": "PrimusK", 
         "osm:amenity": "school", 
         "osm:id": "node/1123193364", 
+        "osm:location": "mathare", 
         "osm:name": "Eden Annex preparatory school"
       }, 
       "type": "Feature"
@@ -1589,10 +1657,11 @@
       }, 
       "id": "node/1123193391", 
       "properties": {
-        "osm:_timestamp": "2011-01-27T09:23:53Z", 
+        "osm:_timestamp": "2011-01-27", 
         "osm:_user": "PrimusK", 
         "osm:amenity": "school", 
         "osm:id": "node/1123193391", 
+        "osm:location": "mathare", 
         "osm:name": "Elshadai Educational Centre"
       }, 
       "type": "Feature"
@@ -1607,10 +1676,11 @@
       }, 
       "id": "node/1123201081", 
       "properties": {
-        "osm:_timestamp": "2011-01-27T09:31:54Z", 
+        "osm:_timestamp": "2011-01-27", 
         "osm:_user": "hassanow", 
         "osm:amenity": "school", 
         "osm:id": "node/1123201081", 
+        "osm:location": "mathare", 
         "osm:name": "REMNANT JUNIOR ACADEMY"
       }, 
       "type": "Feature"
@@ -1625,10 +1695,11 @@
       }, 
       "id": "node/1123201092", 
       "properties": {
-        "osm:_timestamp": "2011-01-27T09:31:55Z", 
+        "osm:_timestamp": "2011-01-27", 
         "osm:_user": "hassanow", 
         "osm:amenity": "school", 
         "osm:id": "node/1123201092", 
+        "osm:location": "mathare", 
         "osm:name": "Urban view primary school"
       }, 
       "type": "Feature"
@@ -1643,10 +1714,11 @@
       }, 
       "id": "node/1123201101", 
       "properties": {
-        "osm:_timestamp": "2011-01-27T09:31:55Z", 
+        "osm:_timestamp": "2011-01-27", 
         "osm:_user": "hassanow", 
         "osm:amenity": "school", 
         "osm:id": "node/1123201101", 
+        "osm:location": "mathare", 
         "osm:name": "M.F.H.C Huruma Centre"
       }, 
       "type": "Feature"
@@ -1661,10 +1733,11 @@
       }, 
       "id": "node/1123201110", 
       "properties": {
-        "osm:_timestamp": "2011-01-27T09:31:56Z", 
+        "osm:_timestamp": "2011-01-27", 
         "osm:_user": "hassanow", 
         "osm:amenity": "school", 
         "osm:id": "node/1123201110", 
+        "osm:location": "mathare", 
         "osm:name": "Winners educational centre"
       }, 
       "type": "Feature"
@@ -1679,10 +1752,11 @@
       }, 
       "id": "node/1123201131", 
       "properties": {
-        "osm:_timestamp": "2011-01-27T09:31:56Z", 
+        "osm:_timestamp": "2011-01-27", 
         "osm:_user": "hassanow", 
         "osm:amenity": "school", 
         "osm:id": "node/1123201131", 
+        "osm:location": "mathare", 
         "osm:name": "Elshadai Educational Centre"
       }, 
       "type": "Feature"
@@ -1697,10 +1771,11 @@
       }, 
       "id": "node/1123201151", 
       "properties": {
-        "osm:_timestamp": "2011-01-27T09:31:57Z", 
+        "osm:_timestamp": "2011-01-27", 
         "osm:_user": "hassanow", 
         "osm:amenity": "school", 
         "osm:id": "node/1123201151", 
+        "osm:location": "mathare", 
         "osm:name": "Josam Academy"
       }, 
       "type": "Feature"
@@ -1715,10 +1790,11 @@
       }, 
       "id": "node/1123201169", 
       "properties": {
-        "osm:_timestamp": "2011-01-27T09:31:58Z", 
+        "osm:_timestamp": "2011-01-27", 
         "osm:_user": "hassanow", 
         "osm:amenity": "school", 
         "osm:id": "node/1123201169", 
+        "osm:location": "mathare", 
         "osm:name": "Genesis primary school"
       }, 
       "type": "Feature"
@@ -1733,10 +1809,11 @@
       }, 
       "id": "node/1123201207", 
       "properties": {
-        "osm:_timestamp": "2011-01-27T09:32:00Z", 
+        "osm:_timestamp": "2011-01-27", 
         "osm:_user": "hassanow", 
         "osm:amenity": "school", 
         "osm:id": "node/1123201207", 
+        "osm:location": "mathare", 
         "osm:name": "Genesis Secondary School"
       }, 
       "type": "Feature"
@@ -1751,10 +1828,11 @@
       }, 
       "id": "node/1123209296", 
       "properties": {
-        "osm:_timestamp": "2011-01-27T09:42:16Z", 
+        "osm:_timestamp": "2011-01-27", 
         "osm:_user": "PrimusK", 
         "osm:amenity": "school", 
         "osm:id": "node/1123209296", 
+        "osm:location": "mathare", 
         "osm:name": "Sun Flower Academy"
       }, 
       "type": "Feature"
@@ -1769,10 +1847,11 @@
       }, 
       "id": "node/1123209300", 
       "properties": {
-        "osm:_timestamp": "2011-01-27T09:42:17Z", 
+        "osm:_timestamp": "2011-01-27", 
         "osm:_user": "PrimusK", 
         "osm:amenity": "school", 
         "osm:id": "node/1123209300", 
+        "osm:location": "mathare", 
         "osm:name": "Sunflower Nursery School"
       }, 
       "type": "Feature"
@@ -1787,10 +1866,11 @@
       }, 
       "id": "node/1123209344", 
       "properties": {
-        "osm:_timestamp": "2013-01-30T08:43:33Z", 
+        "osm:_timestamp": "2013-01-30", 
         "osm:_user": "chairman huruma", 
         "osm:amenity": "school", 
-        "osm:id": "node/1123209344"
+        "osm:id": "node/1123209344", 
+        "osm:location": "mathare"
       }, 
       "type": "Feature"
     }, 
@@ -1804,10 +1884,11 @@
       }, 
       "id": "node/1124602203", 
       "properties": {
-        "osm:_timestamp": "2011-01-28T08:24:41Z", 
+        "osm:_timestamp": "2011-01-28", 
         "osm:_user": "PrimusK", 
         "osm:amenity": "school", 
         "osm:id": "node/1124602203", 
+        "osm:location": "mathare", 
         "osm:name": "Bishop Kitonga Academy"
       }, 
       "type": "Feature"
@@ -1822,10 +1903,11 @@
       }, 
       "id": "node/1124602205", 
       "properties": {
-        "osm:_timestamp": "2011-01-28T08:24:41Z", 
+        "osm:_timestamp": "2011-01-28", 
         "osm:_user": "PrimusK", 
         "osm:amenity": "school", 
         "osm:id": "node/1124602205", 
+        "osm:location": "mathare", 
         "osm:name": "Eastland complex primary"
       }, 
       "type": "Feature"
@@ -1840,10 +1922,11 @@
       }, 
       "id": "node/1124602263", 
       "properties": {
-        "osm:_timestamp": "2013-03-15T07:32:02Z", 
+        "osm:_timestamp": "2013-03-15", 
         "osm:_user": "mickey mat", 
         "osm:amenity": "school", 
         "osm:id": "node/1124602263", 
+        "osm:location": "mathare", 
         "osm:name": "Ngei P.A.G Education Centre"
       }, 
       "type": "Feature"
@@ -1858,10 +1941,11 @@
       }, 
       "id": "node/1124602268", 
       "properties": {
-        "osm:_timestamp": "2011-01-28T08:24:43Z", 
+        "osm:_timestamp": "2011-01-28", 
         "osm:_user": "PrimusK", 
         "osm:amenity": "school", 
         "osm:id": "node/1124602268", 
+        "osm:location": "mathare", 
         "osm:name": "Eljoy Education Centre"
       }, 
       "type": "Feature"
@@ -1876,10 +1960,11 @@
       }, 
       "id": "node/1124602272", 
       "properties": {
-        "osm:_timestamp": "2011-01-28T08:24:43Z", 
+        "osm:_timestamp": "2011-01-28", 
         "osm:_user": "PrimusK", 
         "osm:amenity": "school", 
         "osm:id": "node/1124602272", 
+        "osm:location": "mathare", 
         "osm:name": "Pilot Educational Centre"
       }, 
       "type": "Feature"
@@ -1894,10 +1979,11 @@
       }, 
       "id": "node/1124602279", 
       "properties": {
-        "osm:_timestamp": "2011-01-28T08:24:43Z", 
+        "osm:_timestamp": "2011-01-28", 
         "osm:_user": "PrimusK", 
         "osm:amenity": "school", 
         "osm:id": "node/1124602279", 
+        "osm:location": "mathare", 
         "osm:name": "Alliant Academy"
       }, 
       "type": "Feature"
@@ -1912,7 +1998,7 @@
       }, 
       "id": "node/1244198595", 
       "properties": {
-        "osm:_timestamp": "2017-10-12T20:00:03Z", 
+        "osm:_timestamp": "2017-10-12", 
         "osm:_user": "muindre", 
         "osm:accessibility": "foot", 
         "osm:amenity": "school", 
@@ -1938,6 +2024,7 @@
         "osm:electricity:operational_status": "always", 
         "osm:id": "node/1244198595", 
         "osm:level": "0", 
+        "osm:location": "mathare", 
         "osm:name": "Maranatha Academy", 
         "osm:operator:name": "Maranatha Pioneer", 
         "osm:operator:type": "religious", 
@@ -1956,10 +2043,11 @@
       }, 
       "id": "node/2318438875", 
       "properties": {
-        "osm:_timestamp": "2013-05-24T14:45:57Z", 
+        "osm:_timestamp": "2013-05-24", 
         "osm:_user": "othuol", 
         "osm:amenity": "school", 
         "osm:id": "node/2318438875", 
+        "osm:location": "mathare", 
         "osm:name": "MATHARE SPEACIAL SCHOOL"
       }, 
       "type": "Feature"
@@ -1974,11 +2062,31 @@
       }, 
       "id": "node/2374943971", 
       "properties": {
-        "osm:_timestamp": "2013-07-05T12:33:08Z", 
+        "osm:_timestamp": "2013-07-05", 
         "osm:_user": "othuol", 
         "osm:amenity": "school", 
         "osm:id": "node/2374943971", 
+        "osm:location": "mathare", 
         "osm:name": "Muungano Adult Education Center"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.8781451, 
+          -1.2487252
+        ], 
+        "type": "Point"
+      }, 
+      "id": "node/2405854927", 
+      "properties": {
+        "osm:_timestamp": "2013-08-03", 
+        "osm:_user": "PrimusK", 
+        "osm:amenity": "school", 
+        "osm:id": "node/2405854927", 
+        "osm:location": "mathare", 
+        "osm:name": "St.Joseph secondary school"
       }, 
       "type": "Feature"
     }, 
@@ -1992,10 +2100,11 @@
       }, 
       "id": "node/2510990139", 
       "properties": {
-        "osm:_timestamp": "2013-10-28T00:01:50Z", 
+        "osm:_timestamp": "2013-10-28", 
         "osm:_user": "jmwenda", 
         "osm:amenity": "school", 
         "osm:id": "node/2510990139", 
+        "osm:location": "mathare", 
         "osm:name": "Muthaiga Primary School", 
         "osm:operator": "Public"
       }, 
@@ -2011,7 +2120,7 @@
       }, 
       "id": "node/4454756893", 
       "properties": {
-        "osm:_timestamp": "2017-10-12T20:00:04Z", 
+        "osm:_timestamp": "2017-10-12", 
         "osm:_user": "muindre", 
         "osm:accessibility": "big_vehicles", 
         "osm:amenity": "school", 
@@ -2045,6 +2154,7 @@
         "osm:electricity:operational_status": "always", 
         "osm:id": "node/4454756893", 
         "osm:level": "0", 
+        "osm:location": "mathare", 
         "osm:name": "Missions Of Hope International (bondeni)", 
         "osm:operator:name": "Missions Of Hope International", 
         "osm:operator:type": "cbo", 
@@ -2063,7 +2173,7 @@
       }, 
       "id": "node/4454756894", 
       "properties": {
-        "osm:_timestamp": "2017-10-12T20:00:04Z", 
+        "osm:_timestamp": "2017-10-12", 
         "osm:_user": "muindre", 
         "osm:accessibility": "small_cars", 
         "osm:amenity": "school", 
@@ -2097,6 +2207,7 @@
         "osm:education:type": "primary", 
         "osm:electricity:operational_status": "always", 
         "osm:id": "node/4454756894", 
+        "osm:location": "mathare", 
         "osm:name": "Destiny Junior Educational Centre", 
         "osm:operator:name": "Destiny Junior Education", 
         "osm:operator:type": "cbo", 
@@ -2115,10 +2226,11 @@
       }, 
       "id": "node/4454756895", 
       "properties": {
-        "osm:_timestamp": "2016-10-19T09:18:07Z", 
+        "osm:_timestamp": "2016-10-19", 
         "osm:_user": "muindre", 
         "osm:amenity": "school", 
         "osm:id": "node/4454756895", 
+        "osm:location": "mathare", 
         "osm:name": "Forward Academy"
       }, 
       "type": "Feature"
@@ -2133,7 +2245,7 @@
       }, 
       "id": "node/4454756896", 
       "properties": {
-        "osm:_timestamp": "2017-10-12T20:00:05Z", 
+        "osm:_timestamp": "2017-10-12", 
         "osm:_user": "muindre", 
         "osm:accessibility": "big_vehicles", 
         "osm:amenity": "school", 
@@ -2167,6 +2279,7 @@
         "osm:education:type": "primary", 
         "osm:electricity:operational_status": "always", 
         "osm:id": "node/4454756896", 
+        "osm:location": "mathare", 
         "osm:name": "Naioth Education Centre", 
         "osm:operator:description": "Run by Church", 
         "osm:operator:name": "Mathare Worship Centre", 
@@ -2186,10 +2299,11 @@
       }, 
       "id": "node/4454756897", 
       "properties": {
-        "osm:_timestamp": "2016-10-19T09:18:07Z", 
+        "osm:_timestamp": "2016-10-19", 
         "osm:_user": "muindre", 
         "osm:amenity": "school", 
         "osm:id": "node/4454756897", 
+        "osm:location": "mathare", 
         "osm:name": "Valley view Academy"
       }, 
       "type": "Feature"
@@ -2204,10 +2318,11 @@
       }, 
       "id": "node/4456590646", 
       "properties": {
-        "osm:_timestamp": "2016-10-20T15:13:09Z", 
+        "osm:_timestamp": "2016-10-20", 
         "osm:_user": "ronaldroy", 
         "osm:amenity": "school", 
         "osm:id": "node/4456590646", 
+        "osm:location": "mathare", 
         "osm:name": "St.micheal"
       }, 
       "type": "Feature"
@@ -2222,10 +2337,11 @@
       }, 
       "id": "node/4456592039", 
       "properties": {
-        "osm:_timestamp": "2017-10-12T20:00:06Z", 
+        "osm:_timestamp": "2017-10-12", 
         "osm:_user": "muindre", 
         "osm:amenity": "school", 
         "osm:id": "node/4456592039", 
+        "osm:location": "mathare", 
         "osm:name": "Why Not Academy"
       }, 
       "type": "Feature"
@@ -2240,7 +2356,7 @@
       }, 
       "id": "node/4456606596", 
       "properties": {
-        "osm:_timestamp": "2017-10-12T20:00:06Z", 
+        "osm:_timestamp": "2017-10-12", 
         "osm:_user": "muindre", 
         "osm:accessibility": "small_cars", 
         "osm:amenity": "school", 
@@ -2260,6 +2376,7 @@
         "osm:education:type": "primary", 
         "osm:electricity:operational_status": "always", 
         "osm:id": "node/4456606596", 
+        "osm:location": "mathare", 
         "osm:name": "Maranatha Academy", 
         "osm:operator:name": "Maranatha Faith Assembly", 
         "osm:operator:type": "religious", 
@@ -2278,7 +2395,7 @@
       }, 
       "id": "node/4456606815", 
       "properties": {
-        "osm:_timestamp": "2017-10-12T20:00:06Z", 
+        "osm:_timestamp": "2017-10-12", 
         "osm:_user": "muindre", 
         "osm:accessibility": "small_cars", 
         "osm:amenity": "school", 
@@ -2307,6 +2424,7 @@
         "osm:education:type": "primary", 
         "osm:electricity:operational_status": "sometimes", 
         "osm:id": "node/4456606815", 
+        "osm:location": "mathare", 
         "osm:name": "Faith Celebration", 
         "osm:operator:name": "Faith Celebration Church", 
         "osm:operator:type": "religious", 
@@ -2325,7 +2443,7 @@
       }, 
       "id": "node/4456611009", 
       "properties": {
-        "osm:_timestamp": "2017-10-12T20:00:07Z", 
+        "osm:_timestamp": "2017-10-12", 
         "osm:_user": "muindre", 
         "osm:accessibility": "big_vehicles", 
         "osm:amenity": "school", 
@@ -2355,6 +2473,7 @@
         "osm:education:type": "secondary", 
         "osm:electricity:operational_status": "always", 
         "osm:id": "node/4456611009", 
+        "osm:location": "mathare", 
         "osm:name": "AIC Zion High School", 
         "osm:operator:name": "AIC Zion Church", 
         "osm:operator:type": "religious", 
@@ -2373,7 +2492,7 @@
       }, 
       "id": "node/4457506593", 
       "properties": {
-        "osm:_timestamp": "2017-10-12T20:00:07Z", 
+        "osm:_timestamp": "2017-10-12", 
         "osm:_user": "muindre", 
         "osm:accessibility": "big_vehicles", 
         "osm:amenity": "school", 
@@ -2409,6 +2528,7 @@
         "osm:education:type": "primary", 
         "osm:electricity:operational_status": "often", 
         "osm:id": "node/4457506593", 
+        "osm:location": "mathare", 
         "osm:name": "AIC Zion Education Centre", 
         "osm:operator:name": "AIC Zion Church", 
         "osm:operator:type": "religious", 
@@ -2427,7 +2547,7 @@
       }, 
       "id": "node/4457507291", 
       "properties": {
-        "osm:_timestamp": "2017-10-12T20:00:08Z", 
+        "osm:_timestamp": "2017-10-12", 
         "osm:_user": "muindre", 
         "osm:accessibility": "big_vehicles", 
         "osm:amenity": "school", 
@@ -2461,6 +2581,7 @@
         "osm:education:type": "primary", 
         "osm:electricity:operational_status": "often", 
         "osm:id": "node/4457507291", 
+        "osm:location": "mathare", 
         "osm:name": "Codman Academy", 
         "osm:operator:type": "cbo", 
         "osm:place:village": "Mathare 3C", 
@@ -2478,7 +2599,7 @@
       }, 
       "id": "node/4457550090", 
       "properties": {
-        "osm:_timestamp": "2017-10-12T20:00:09Z", 
+        "osm:_timestamp": "2017-10-12", 
         "osm:_user": "muindre", 
         "osm:accessibility": "small_cars", 
         "osm:amenity": "school", 
@@ -2495,6 +2616,7 @@
         "osm:education:type": "pre_primary", 
         "osm:electricity:operational_status": "always", 
         "osm:id": "node/4457550090", 
+        "osm:location": "mathare", 
         "osm:name": "Maranatha Academy", 
         "osm:operator:name": "Maranatha Faith Assembly", 
         "osm:operator:type": "religious", 
@@ -2513,7 +2635,7 @@
       }, 
       "id": "node/4457763959", 
       "properties": {
-        "osm:_timestamp": "2017-10-12T20:00:09Z", 
+        "osm:_timestamp": "2017-10-12", 
         "osm:_user": "muindre", 
         "osm:accessibility": "foot", 
         "osm:amenity": "school", 
@@ -2540,6 +2662,7 @@
         "osm:education:type": "pre_primary", 
         "osm:electricity:operational_status": "never", 
         "osm:id": "node/4457763959", 
+        "osm:location": "mathare", 
         "osm:name": "Abundant Life School", 
         "osm:operator:type": "cbo", 
         "osm:place:village": "Mathare 3C", 
@@ -2557,7 +2680,7 @@
       }, 
       "id": "node/4461370056", 
       "properties": {
-        "osm:_timestamp": "2017-10-12T20:00:09Z", 
+        "osm:_timestamp": "2017-10-12", 
         "osm:_user": "muindre", 
         "osm:accessibility": "foot", 
         "osm:amenity": "school", 
@@ -2592,6 +2715,7 @@
         "osm:education:type": "primary", 
         "osm:electricity:operational_status": "never", 
         "osm:id": "node/4461370056", 
+        "osm:location": "mathare", 
         "osm:name": "DayStar Education Center", 
         "osm:operator:name": "community", 
         "osm:place:village": "Mabatini", 
@@ -2609,7 +2733,7 @@
       }, 
       "id": "node/4461458485", 
       "properties": {
-        "osm:_timestamp": "2017-10-12T20:00:10Z", 
+        "osm:_timestamp": "2017-10-12", 
         "osm:_user": "muindre", 
         "osm:accessibility": "big_vehicles", 
         "osm:amenity": "school", 
@@ -2641,6 +2765,7 @@
         "osm:education:type": "secondary", 
         "osm:electricity:operational_status": "often", 
         "osm:id": "node/4461458485", 
+        "osm:location": "mathare", 
         "osm:name": "Codman Secondary School", 
         "osm:operator:type": "cbo", 
         "osm:place:village": "Mathare 3C", 
@@ -2658,7 +2783,7 @@
       }, 
       "id": "node/4461458486", 
       "properties": {
-        "osm:_timestamp": "2017-10-12T20:00:11Z", 
+        "osm:_timestamp": "2017-10-12", 
         "osm:_user": "muindre", 
         "osm:accessibility": "big_vehicles", 
         "osm:amenity": "school", 
@@ -2692,6 +2817,7 @@
         "osm:education:type": "primary", 
         "osm:electricity:operational_status": "never", 
         "osm:id": "node/4461458486", 
+        "osm:location": "mathare", 
         "osm:name": "Neci Education Centre", 
         "osm:operator:name": "Neci Education Centre", 
         "osm:operator:type": "cbo", 
@@ -2710,7 +2836,7 @@
       }, 
       "id": "node/4461458487", 
       "properties": {
-        "osm:_timestamp": "2017-10-12T20:00:11Z", 
+        "osm:_timestamp": "2017-10-12", 
         "osm:_user": "muindre", 
         "osm:accessibility": "big_vehicles", 
         "osm:amenity": "school", 
@@ -2743,6 +2869,7 @@
         "osm:education:type": "primary", 
         "osm:electricity:operational_status": "always", 
         "osm:id": "node/4461458487", 
+        "osm:location": "mathare", 
         "osm:name": "St James Feeding and Learning Programme", 
         "osm:operator:name": "St James Feeding and Learning Programme", 
         "osm:operator:type": "cbo", 
@@ -2761,7 +2888,7 @@
       }, 
       "id": "node/4461458488", 
       "properties": {
-        "osm:_timestamp": "2017-10-12T20:00:12Z", 
+        "osm:_timestamp": "2017-10-12", 
         "osm:_user": "muindre", 
         "osm:accessibility": "big_vehicles", 
         "osm:amenity": "school", 
@@ -2798,6 +2925,7 @@
         "osm:education:type": "primary", 
         "osm:electricity:operational_status": "always", 
         "osm:id": "node/4461458488", 
+        "osm:location": "mathare", 
         "osm:name": "Community Care Educational Organization", 
         "osm:operator:name": "Community Care Educational Organization", 
         "osm:operator:type": "cbo", 
@@ -2816,7 +2944,7 @@
       }, 
       "id": "node/4461494343", 
       "properties": {
-        "osm:_timestamp": "2017-10-12T20:00:13Z", 
+        "osm:_timestamp": "2017-10-12", 
         "osm:_user": "muindre", 
         "osm:accessibility": "big_vehicles", 
         "osm:amenity": "school", 
@@ -2847,6 +2975,7 @@
         "osm:education:type": "primary", 
         "osm:electricity:operational_status": "often", 
         "osm:id": "node/4461494343", 
+        "osm:location": "mathare", 
         "osm:name": "Billgates Care Primary", 
         "osm:operator:description": "Adanga Kayasi", 
         "osm:operator:type": "cbo", 
@@ -2865,7 +2994,7 @@
       }, 
       "id": "node/4461496406", 
       "properties": {
-        "osm:_timestamp": "2016-12-08T10:27:13Z", 
+        "osm:_timestamp": "2016-12-08", 
         "osm:_user": "fondolucy", 
         "osm:accessibility": "big_vehicles", 
         "osm:amenity": "school", 
@@ -2901,6 +3030,7 @@
         "osm:education:type": "secondary", 
         "osm:electricity:operational_status": "sometimes", 
         "osm:id": "node/4461496406", 
+        "osm:location": "mathare", 
         "osm:name": "Balozi High School", 
         "osm:operator:type": "private", 
         "osm:place:village": "Thayu", 
@@ -2918,10 +3048,11 @@
       }, 
       "id": "node/4461502029", 
       "properties": {
-        "osm:_timestamp": "2016-10-24T09:54:09Z", 
+        "osm:_timestamp": "2016-10-24", 
         "osm:_user": "fondolucy", 
         "osm:amenity": "school", 
         "osm:id": "node/4461502029", 
+        "osm:location": "mathare", 
         "osm:name": "Muungano Education Center"
       }, 
       "type": "Feature"
@@ -2936,7 +3067,7 @@
       }, 
       "id": "node/4461510623", 
       "properties": {
-        "osm:_timestamp": "2017-10-12T20:00:13Z", 
+        "osm:_timestamp": "2017-10-12", 
         "osm:_user": "muindre", 
         "osm:accessibility": "big_vehicles", 
         "osm:amenity": "school", 
@@ -2964,6 +3095,7 @@
         "osm:education:type": "primary", 
         "osm:electricity:operational_status": "never", 
         "osm:id": "node/4461510623", 
+        "osm:location": "mathare", 
         "osm:name": "Fountain Preparatory School", 
         "osm:operator:description": "Carolyne .W. Murithi", 
         "osm:operator:type": "cbo", 
@@ -2982,7 +3114,7 @@
       }, 
       "id": "node/4461519044", 
       "properties": {
-        "osm:_timestamp": "2017-10-12T20:00:14Z", 
+        "osm:_timestamp": "2017-10-12", 
         "osm:_user": "muindre", 
         "osm:accessibility": "foot", 
         "osm:amenity": "school", 
@@ -3007,6 +3139,7 @@
         "osm:education:type": "primary", 
         "osm:electricity:operational_status": "never", 
         "osm:id": "node/4461519044", 
+        "osm:location": "mathare", 
         "osm:name": "Jorum Education Center", 
         "osm:operator:description": "Ruth Ndunge", 
         "osm:operator:type": "private", 
@@ -3025,7 +3158,7 @@
       }, 
       "id": "node/4462892677", 
       "properties": {
-        "osm:_timestamp": "2017-10-12T20:00:14Z", 
+        "osm:_timestamp": "2017-10-12", 
         "osm:_user": "muindre", 
         "osm:accessibility": "big_vehicles", 
         "osm:amenity": "school", 
@@ -3060,6 +3193,7 @@
         "osm:education:type": "primary", 
         "osm:electricity:operational_status": "always", 
         "osm:id": "node/4462892677", 
+        "osm:location": "mathare", 
         "osm:name": "Maji Mazuri Headstart Academy", 
         "osm:operator:description": "Edward Sila", 
         "osm:operator:type": "cbo", 
@@ -3078,7 +3212,7 @@
       }, 
       "id": "node/4462893659", 
       "properties": {
-        "osm:_timestamp": "2017-10-12T20:00:15Z", 
+        "osm:_timestamp": "2017-10-12", 
         "osm:_user": "muindre", 
         "osm:accessibility": "foot", 
         "osm:amenity": "school", 
@@ -3111,6 +3245,7 @@
         "osm:education:type": "primary", 
         "osm:electricity:operational_status": "never", 
         "osm:id": "node/4462893659", 
+        "osm:location": "mathare", 
         "osm:name": "Patmos School.", 
         "osm:operator:name": "Evangelical Gospel", 
         "osm:operator:type": "cbo", 
@@ -3129,7 +3264,7 @@
       }, 
       "id": "node/4462920821", 
       "properties": {
-        "osm:_timestamp": "2017-10-12T20:00:16Z", 
+        "osm:_timestamp": "2017-10-12", 
         "osm:_user": "muindre", 
         "osm:accessibility": "foot", 
         "osm:amenity": "school", 
@@ -3158,6 +3293,7 @@
         "osm:education:type": "pre_primary", 
         "osm:electricity:operational_status": "never", 
         "osm:id": "node/4462920821", 
+        "osm:location": "mathare", 
         "osm:name": "Recada School", 
         "osm:operator:type": "religious", 
         "osm:place:village": "Mathare 4B", 
@@ -3176,7 +3312,7 @@
       }, 
       "id": "node/4462937714", 
       "properties": {
-        "osm:_timestamp": "2017-10-12T20:00:16Z", 
+        "osm:_timestamp": "2017-10-12", 
         "osm:_user": "muindre", 
         "osm:accessibility": "big_vehicles", 
         "osm:amenity": "school", 
@@ -3201,6 +3337,7 @@
         "osm:education:type": "pre_primary", 
         "osm:electricity:operational_status": "never", 
         "osm:id": "node/4462937714", 
+        "osm:location": "mathare", 
         "osm:name": "Glorious Education Center", 
         "osm:operator:name": "Glorious Celebration Center", 
         "osm:operator:type": "religious", 
@@ -3219,7 +3356,7 @@
       }, 
       "id": "node/4462967881", 
       "properties": {
-        "osm:_timestamp": "2016-12-08T10:02:40Z", 
+        "osm:_timestamp": "2016-12-08", 
         "osm:_user": "muindre", 
         "osm:accessibility": "foot", 
         "osm:amenity": "school", 
@@ -3249,6 +3386,7 @@
         "osm:electricity:operational_status": "always", 
         "osm:id": "node/4462967881", 
         "osm:level": "0", 
+        "osm:location": "mathare", 
         "osm:name": "Christ Ambassadour Academy", 
         "osm:operator:name": "Redemeed Gospel", 
         "osm:operator:type": "religious", 
@@ -3267,7 +3405,7 @@
       }, 
       "id": "node/4463017734", 
       "properties": {
-        "osm:_timestamp": "2017-10-12T20:00:17Z", 
+        "osm:_timestamp": "2017-10-12", 
         "osm:_user": "muindre", 
         "osm:accessibility": "big_vehicles", 
         "osm:amenity": "school", 
@@ -3304,6 +3442,7 @@
         "osm:education:type": "primary", 
         "osm:electricity:operational_status": "never", 
         "osm:id": "node/4463017734", 
+        "osm:location": "mathare", 
         "osm:name": "Gitathuru Mission Of Hope", 
         "osm:operator:description": "Samuel Kilatya", 
         "osm:operator:type": "religious", 
@@ -3322,7 +3461,7 @@
       }, 
       "id": "node/4463082226", 
       "properties": {
-        "osm:_timestamp": "2017-10-12T20:00:17Z", 
+        "osm:_timestamp": "2017-10-12", 
         "osm:_user": "muindre", 
         "osm:accessibility": "big_vehicles", 
         "osm:amenity": "school", 
@@ -3352,6 +3491,7 @@
         "osm:education:type": "primary", 
         "osm:electricity:operational_status": "sometimes", 
         "osm:id": "node/4463082226", 
+        "osm:location": "mathare", 
         "osm:name": "Mathare Kosovo Salvation Army Community School", 
         "osm:operator:description": "Zipporah Mutinda", 
         "osm:operator:type": "religious", 
@@ -3370,7 +3510,7 @@
       }, 
       "id": "node/4464506027", 
       "properties": {
-        "osm:_timestamp": "2017-10-12T20:00:18Z", 
+        "osm:_timestamp": "2017-10-12", 
         "osm:_user": "muindre", 
         "osm:accessibility": "big_vehicles", 
         "osm:amenity": "school", 
@@ -3399,6 +3539,7 @@
         "osm:education:type": "pre_primary", 
         "osm:electricity:operational_status": "never", 
         "osm:id": "node/4464506027", 
+        "osm:location": "mathare", 
         "osm:name": "Anaweza Education Centre", 
         "osm:operator:description": "Vincent Okumu", 
         "osm:operator:type": "cbo", 
@@ -3417,7 +3558,7 @@
       }, 
       "id": "node/4464506028", 
       "properties": {
-        "osm:_timestamp": "2017-10-12T20:00:18Z", 
+        "osm:_timestamp": "2017-10-12", 
         "osm:_user": "muindre", 
         "osm:accessibility": "big_vehicles", 
         "osm:amenity": "school", 
@@ -3448,6 +3589,7 @@
         "osm:education:type": "pre_primary", 
         "osm:electricity:operational_status": "never", 
         "osm:id": "node/4464506028", 
+        "osm:location": "mathare", 
         "osm:name": "Gitathuru Mission Of Hope", 
         "osm:operator:description": "Samuel Kilatya", 
         "osm:operator:type": "religious", 
@@ -3466,7 +3608,7 @@
       }, 
       "id": "node/4464546559", 
       "properties": {
-        "osm:_timestamp": "2018-09-13T16:00:48Z", 
+        "osm:_timestamp": "2018-09-13", 
         "osm:_user": "ricaji", 
         "osm:accessibility": "foot", 
         "osm:amenity": "school", 
@@ -3502,6 +3644,7 @@
         "osm:education:type": "pre_primary", 
         "osm:electricity:operational_status": "never", 
         "osm:id": "node/4464546559", 
+        "osm:location": "mathare", 
         "osm:name": "DayStar Education Center", 
         "osm:operator:type": "cbo", 
         "osm:place:village": "Mabatini", 
@@ -3519,7 +3662,7 @@
       }, 
       "id": "node/4464546560", 
       "properties": {
-        "osm:_timestamp": "2017-10-12T20:00:20Z", 
+        "osm:_timestamp": "2017-10-12", 
         "osm:_user": "muindre", 
         "osm:accessibility": "foot", 
         "osm:amenity": "school", 
@@ -3552,6 +3695,7 @@
         "osm:education:type": "pre_primary", 
         "osm:electricity:operational_status": "sometimes", 
         "osm:id": "node/4464546560", 
+        "osm:location": "mathare", 
         "osm:name": "St. Ngota's Upendo Pre_Primary School", 
         "osm:operator:name": "Jordan Friends Ministries", 
         "osm:operator:type": "religious", 
@@ -3570,7 +3714,7 @@
       }, 
       "id": "node/4464601890", 
       "properties": {
-        "osm:_timestamp": "2017-10-12T20:00:20Z", 
+        "osm:_timestamp": "2017-10-12", 
         "osm:_user": "muindre", 
         "osm:accessibility": "big_vehicles", 
         "osm:amenity": "school", 
@@ -3600,6 +3744,7 @@
         "osm:education:type": "pre_primary", 
         "osm:electricity:operational_status": "always", 
         "osm:id": "node/4464601890", 
+        "osm:location": "mathare", 
         "osm:name": "Maji Mazuri Headstart Academy", 
         "osm:operator:description": "Edward Sila", 
         "osm:operator:type": "cbo", 
@@ -3618,10 +3763,11 @@
       }, 
       "id": "node/4464622786", 
       "properties": {
-        "osm:_timestamp": "2016-10-26T11:32:54Z", 
+        "osm:_timestamp": "2016-10-26", 
         "osm:_user": "Richard Chapia", 
         "osm:amenity": "school", 
         "osm:id": "node/4464622786", 
+        "osm:location": "mathare", 
         "osm:name": "MCO Primary School"
       }, 
       "type": "Feature"
@@ -3636,7 +3782,7 @@
       }, 
       "id": "node/4464622787", 
       "properties": {
-        "osm:_timestamp": "2016-12-08T09:14:34Z", 
+        "osm:_timestamp": "2016-12-08", 
         "osm:_user": "fondolucy", 
         "osm:accessibility": "big_vehicles", 
         "osm:amenity": "school", 
@@ -3655,6 +3801,7 @@
         "osm:education:type": "pre_primary", 
         "osm:electricity:operational_status": "sometimes", 
         "osm:id": "node/4464622787", 
+        "osm:location": "mathare", 
         "osm:name": "Mcedo Primary School", 
         "osm:operator:name": "MCEDO", 
         "osm:operator:type": "cbo", 
@@ -3673,7 +3820,7 @@
       }, 
       "id": "node/4464622788", 
       "properties": {
-        "osm:_timestamp": "2017-10-12T20:00:21Z", 
+        "osm:_timestamp": "2017-10-12", 
         "osm:_user": "muindre", 
         "osm:accessibility": "foot", 
         "osm:amenity": "school", 
@@ -3706,6 +3853,7 @@
         "osm:education:type": "pre_primary", 
         "osm:electricity:operational_status": "never", 
         "osm:id": "node/4464622788", 
+        "osm:location": "mathare", 
         "osm:name": "Patmos School", 
         "osm:operator:name": "Evangelical Gospel", 
         "osm:operator:type": "cbo", 
@@ -3724,7 +3872,7 @@
       }, 
       "id": "node/4464655293", 
       "properties": {
-        "osm:_timestamp": "2017-10-12T20:00:21Z", 
+        "osm:_timestamp": "2017-10-12", 
         "osm:_user": "muindre", 
         "osm:accessibility": "big_vehicles", 
         "osm:amenity": "school", 
@@ -3754,6 +3902,7 @@
         "osm:education:type": "pre_primary", 
         "osm:electricity:operational_status": "sometimes", 
         "osm:id": "node/4464655293", 
+        "osm:location": "mathare", 
         "osm:name": "Mathare Kosovo Salvation Army Community School", 
         "osm:operator:description": "Zipporah Mutinda", 
         "osm:operator:type": "religious", 
@@ -3772,7 +3921,7 @@
       }, 
       "id": "node/4464689391", 
       "properties": {
-        "osm:_timestamp": "2017-10-12T20:00:22Z", 
+        "osm:_timestamp": "2017-10-12", 
         "osm:_user": "muindre", 
         "osm:accessibility": "big_vehicles", 
         "osm:amenity": "school", 
@@ -3801,6 +3950,7 @@
         "osm:education:type": "pre_primary", 
         "osm:electricity:operational_status": "often", 
         "osm:id": "node/4464689391", 
+        "osm:location": "mathare", 
         "osm:name": "Billgates Care Primary", 
         "osm:operator:description": "Adanga Kayasi", 
         "osm:operator:type": "cbo", 
@@ -3819,7 +3969,7 @@
       }, 
       "id": "node/4464711189", 
       "properties": {
-        "osm:_timestamp": "2017-10-12T20:00:22Z", 
+        "osm:_timestamp": "2017-10-12", 
         "osm:_user": "muindre", 
         "osm:accessibility": "big_vehicles", 
         "osm:amenity": "school", 
@@ -3845,6 +3995,7 @@
         "osm:education:type": "pre_primary", 
         "osm:electricity:operational_status": "often", 
         "osm:id": "node/4464711189", 
+        "osm:location": "mathare", 
         "osm:name": "Cross Plain School", 
         "osm:operator:description": "Roseline Wawire", 
         "osm:operator:type": "cbo", 
@@ -3863,10 +4014,11 @@
       }, 
       "id": "node/4465952472", 
       "properties": {
-        "osm:_timestamp": "2016-10-27T07:57:46Z", 
+        "osm:_timestamp": "2016-10-27", 
         "osm:_user": "fondolucy", 
         "osm:amenity": "school", 
         "osm:id": "node/4465952472", 
+        "osm:location": "mathare", 
         "osm:name": "Mathare Community Outreach"
       }, 
       "type": "Feature"
@@ -3881,7 +4033,7 @@
       }, 
       "id": "node/4465955077", 
       "properties": {
-        "osm:_timestamp": "2017-10-12T20:00:23Z", 
+        "osm:_timestamp": "2017-10-12", 
         "osm:_user": "muindre", 
         "osm:accessibility": "small_cars", 
         "osm:amenity": "school", 
@@ -3907,6 +4059,7 @@
         "osm:education:type": "pre_primary", 
         "osm:electricity:operational_status": "sometimes", 
         "osm:id": "node/4465955077", 
+        "osm:location": "mathare", 
         "osm:name": "Maana Academy", 
         "osm:operator:name": "P D C C", 
         "osm:operator:type": "religious", 
@@ -3925,7 +4078,7 @@
       }, 
       "id": "node/4465996146", 
       "properties": {
-        "osm:_timestamp": "2017-10-12T20:00:23Z", 
+        "osm:_timestamp": "2017-10-12", 
         "osm:_user": "muindre", 
         "osm:accessibility": "big_vehicles", 
         "osm:amenity": "school", 
@@ -3957,6 +4110,7 @@
         "osm:education:type": "primary", 
         "osm:electricity:operational_status": "never", 
         "osm:id": "node/4465996146", 
+        "osm:location": "mathare", 
         "osm:name": "Lea Learning Center", 
         "osm:operator:name": "Lea Mathare CBO", 
         "osm:operator:type": "cbo", 
@@ -3975,7 +4129,7 @@
       }, 
       "id": "node/4466007970", 
       "properties": {
-        "osm:_timestamp": "2017-10-12T20:00:24Z", 
+        "osm:_timestamp": "2017-10-12", 
         "osm:_user": "muindre", 
         "osm:accessibility": "big_vehicles", 
         "osm:amenity": "school", 
@@ -4010,6 +4164,7 @@
         "osm:education:type": "primary", 
         "osm:electricity:operational_status": "never", 
         "osm:id": "node/4466007970", 
+        "osm:location": "mathare", 
         "osm:name": "Mabawa School", 
         "osm:operator:type": "private", 
         "osm:place:village": "Kosovo", 
@@ -4028,7 +4183,7 @@
       }, 
       "id": "node/4466069585", 
       "properties": {
-        "osm:_timestamp": "2016-12-08T10:03:01Z", 
+        "osm:_timestamp": "2016-12-08", 
         "osm:_user": "muindre", 
         "osm:accessibility": "big_vehicles", 
         "osm:amenity": "school", 
@@ -4061,6 +4216,7 @@
         "osm:education:type": "primary", 
         "osm:electricity:operational_status": "always", 
         "osm:id": "node/4466069585", 
+        "osm:location": "mathare", 
         "osm:name": "Hope Baptist Children Center", 
         "osm:operator:name": "Hope Baptist Church", 
         "osm:operator:type": "religious", 
@@ -4079,10 +4235,11 @@
       }, 
       "id": "node/4467499562", 
       "properties": {
-        "osm:_timestamp": "2016-10-28T08:16:25Z", 
+        "osm:_timestamp": "2016-10-28", 
         "osm:_user": "Noeel", 
         "osm:amenity": "school", 
         "osm:id": "node/4467499562", 
+        "osm:location": "mathare", 
         "osm:name": "Mathare school for girls"
       }, 
       "type": "Feature"
@@ -4097,7 +4254,7 @@
       }, 
       "id": "node/4467530209", 
       "properties": {
-        "osm:_timestamp": "2017-10-12T20:00:25Z", 
+        "osm:_timestamp": "2017-10-12", 
         "osm:_user": "muindre", 
         "osm:accessibility": "small_cars", 
         "osm:amenity": "school", 
@@ -4123,6 +4280,7 @@
         "osm:education:type": "pre_primary", 
         "osm:electricity:operational_status": "never", 
         "osm:id": "node/4467530209", 
+        "osm:location": "mathare", 
         "osm:name": "Pillar Day Care", 
         "osm:operator:type": "private", 
         "osm:place:village": "Mathare 4B", 
@@ -4140,7 +4298,7 @@
       }, 
       "id": "node/4467561519", 
       "properties": {
-        "osm:_timestamp": "2017-10-12T20:00:25Z", 
+        "osm:_timestamp": "2017-10-12", 
         "osm:_user": "muindre", 
         "osm:accessibility": "big_vehicles", 
         "osm:amenity": "school", 
@@ -4176,6 +4334,7 @@
         "osm:education:type": "secondary", 
         "osm:electricity:operational_status": "always", 
         "osm:id": "node/4467561519", 
+        "osm:location": "mathare", 
         "osm:name": "Genesis Joy Secondary School", 
         "osm:operator:description": "Beatrice M Mbugua", 
         "osm:operator:type": "private", 
@@ -4194,7 +4353,7 @@
       }, 
       "id": "node/4467561520", 
       "properties": {
-        "osm:_timestamp": "2017-10-12T20:00:26Z", 
+        "osm:_timestamp": "2017-10-12", 
         "osm:_user": "muindre", 
         "osm:accessibility": "big_vehicles", 
         "osm:amenity": "school", 
@@ -4229,6 +4388,7 @@
         "osm:education:type": "primary", 
         "osm:electricity:operational_status": "always", 
         "osm:id": "node/4467561520", 
+        "osm:location": "mathare", 
         "osm:name": "Genesis Joy Primary School", 
         "osm:operator:description": "Beatrice M Mbugua.", 
         "osm:operator:type": "private", 
@@ -4247,7 +4407,7 @@
       }, 
       "id": "node/4467561521", 
       "properties": {
-        "osm:_timestamp": "2017-10-12T20:00:26Z", 
+        "osm:_timestamp": "2017-10-12", 
         "osm:_user": "muindre", 
         "osm:accessibility": "big_vehicles", 
         "osm:amenity": "school", 
@@ -4283,6 +4443,7 @@
         "osm:education:type": "primary", 
         "osm:electricity:operational_status": "sometimes", 
         "osm:id": "node/4467561521", 
+        "osm:location": "mathare", 
         "osm:name": "Hope Compassion Center", 
         "osm:operator:description": "Barack", 
         "osm:operator:type": "cbo", 
@@ -4301,7 +4462,7 @@
       }, 
       "id": "node/4467561522", 
       "properties": {
-        "osm:_timestamp": "2017-10-12T20:00:27Z", 
+        "osm:_timestamp": "2017-10-12", 
         "osm:_user": "muindre", 
         "osm:accessibility": "foot", 
         "osm:amenity": "school", 
@@ -4336,6 +4497,7 @@
         "osm:education:type": "primary", 
         "osm:electricity:operational_status": "never", 
         "osm:id": "node/4467561522", 
+        "osm:location": "mathare", 
         "osm:name": "MACCO ACADEMY", 
         "osm:operator:description": "Calvonce Okello", 
         "osm:operator:type": "religious", 
@@ -4354,7 +4516,7 @@
       }, 
       "id": "node/4467561523", 
       "properties": {
-        "osm:_timestamp": "2017-10-12T20:00:28Z", 
+        "osm:_timestamp": "2017-10-12", 
         "osm:_user": "muindre", 
         "osm:accessibility": "big_vehicles", 
         "osm:amenity": "school", 
@@ -4384,6 +4546,7 @@
         "osm:education:type": "pre_primary", 
         "osm:electricity:operational_status": "sometimes", 
         "osm:id": "node/4467561523", 
+        "osm:location": "mathare", 
         "osm:name": "ACK Gitathuru Academy", 
         "osm:operator:description": "Jemimah Omusikoyo", 
         "osm:operator:type": "private", 
@@ -4403,7 +4566,7 @@
       }, 
       "id": "node/4472311597", 
       "properties": {
-        "osm:_timestamp": "2017-10-12T20:00:28Z", 
+        "osm:_timestamp": "2017-10-12", 
         "osm:_user": "muindre", 
         "osm:accessibility": "big_vehicles", 
         "osm:amenity": "school", 
@@ -4431,6 +4594,7 @@
         "osm:education:teachers_trained": "0", 
         "osm:electricity:operational_status": "sometimes", 
         "osm:id": "node/4472311597", 
+        "osm:location": "mathare", 
         "osm:name": "Hope Compassion Center", 
         "osm:operator:description": "Barack", 
         "osm:operator:type": "cbo"
@@ -4447,7 +4611,7 @@
       }, 
       "id": "node/4472329843", 
       "properties": {
-        "osm:_timestamp": "2017-10-12T20:00:29Z", 
+        "osm:_timestamp": "2017-10-12", 
         "osm:_user": "muindre", 
         "osm:accessibility": "big_vehicles", 
         "osm:amenity": "school", 
@@ -4479,6 +4643,7 @@
         "osm:education:type": "pre_primary", 
         "osm:electricity:operational_status": "always", 
         "osm:id": "node/4472329843", 
+        "osm:location": "mathare", 
         "osm:name": "Genesis Joy Pre School", 
         "osm:operator:description": "Beatrice M Mbugua.", 
         "osm:operator:type": "private", 
@@ -4497,11 +4662,12 @@
       }, 
       "id": "node/5886553885", 
       "properties": {
-        "osm:_timestamp": "2018-09-06T04:43:24Z", 
+        "osm:_timestamp": "2018-09-06", 
         "osm:_user": "Traveller02", 
         "osm:addr:street": "Juja Road", 
         "osm:amenity": "school", 
         "osm:id": "node/5886553885", 
+        "osm:location": "mathare", 
         "osm:name": "Moi Forces Academy"
       }, 
       "type": "Feature"

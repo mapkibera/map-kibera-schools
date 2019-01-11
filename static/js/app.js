@@ -13,9 +13,17 @@
   app.config = {
     map: {
       tiles: 'http://{s}.tile.openstreetmap.fr/hot/{z}/{x}/{y}.png',
-      centre: [-1.313, 36.788],
-      zoom: 15,
+      centre: [-1.293, 36.817],
+      zoom: 13,
       localZoom: 17
+    },
+    Mathare: {
+      centre: [-1.262, 36.858],
+      zoom: 16
+    },
+    Kibera: {
+      centre: [-1.313, 36.788],
+      zoom: 15
     },
     marker: {
       radius: 5
@@ -29,18 +37,23 @@
   app.pages.home = function home() {
     var schools = new app.models.Schools();
 
-    var mapfilters = this.mapfilters = (new app.views.MapFilters({
-      el: $('#map .controls'),
-      schools: schools
-    })).render();
-    new app.views.MapAllSchools({
+    var mapAllSchools = new app.views.MapAllSchools({
       el: $('#map .map'),
       collection: schools
-    }).render();
-    new app.views.SchoolsStats({
+    });
+    var mapfilters = this.mapfilters = new app.views.MapFilters({
+      el: $('#map .controls'),
+      schools: schools,
+      map: mapAllSchools.map
+    });
+    var schoolsStats = new app.views.SchoolsStats({
       el: $('#stats .stats-container'),
       collection: schools
-    }).render();
+    });
+
+    mapfilters.render();
+    mapAllSchools.render();
+    schoolsStats.render();
 
     u.eachNode(document.querySelectorAll('.action-school-search'), function(s) {
       s.addEventListener('click', function() {

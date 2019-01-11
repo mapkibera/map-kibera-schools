@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.55.4 3079d8ea">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2018-10-16T17:09:02Z"/>
+<meta osm_base="2018-11-07T13:45:02Z"/>
 
-  <bounds minlat="-1.2679000" minlon="36.8430000" maxlat="-1.2489000" maxlon="36.8790000"/>
+  <bounds minlat="-1.2673000" minlon="36.8427000" maxlat="-1.2479000" maxlon="36.8792000"/>
 
   <node id="1038064486" lat="-1.2630544" lon="36.8556356" version="8" timestamp="2017-10-12T19:59:57Z" changeset="52870724" uid="261050" user="muindre">
     <tag k="accessibility" v="big_vehicles"/>
@@ -740,6 +740,10 @@
   <node id="2374943971" lat="-1.2618831" lon="36.8618286" version="1" timestamp="2013-07-05T12:33:08Z" changeset="16835557" uid="429920" user="othuol">
     <tag k="amenity" v="school"/>
     <tag k="name" v="Muungano Adult Education Center"/>
+  </node>
+  <node id="2405854927" lat="-1.2487252" lon="36.8781451" version="1" timestamp="2013-08-03T10:12:14Z" changeset="17202101" uid="232642" user="PrimusK">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="St.Joseph secondary school"/>
   </node>
   <node id="2510990139" lat="-1.2578619" lon="36.8466349" version="1" timestamp="2013-10-28T00:01:50Z" changeset="18576987" uid="192021" user="jmwenda">
     <tag k="amenity" v="school"/>
