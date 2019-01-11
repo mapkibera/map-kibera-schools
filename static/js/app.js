@@ -25,6 +25,10 @@
       centre: [-1.313, 36.788],
       zoom: 15
     },
+    Kangemi: {
+      centre: [-1.2573, 36.7757],
+      zoom: 14
+    },
     marker: {
       radius: 5
     },
