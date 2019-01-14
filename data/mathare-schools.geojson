@@ -1326,12 +1326,13 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2011-01-20", 
-        "osm:_user": "hassanow", 
+        "osm:_timestamp": "2018-12-03", 
+        "osm:_user": "Humus015", 
         "osm:amenity": "school", 
         "osm:id": "node/1111566365", 
         "osm:location": "mathare", 
-        "osm:name": "ARK PRIMARY SCHOOL"
+        "osm:name": "ARK PRIMARY SCHOOL", 
+        "osm:name:it": "Ark"
       }, 
       "type": "Feature"
     }, 
@@ -1866,12 +1867,13 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2011-01-27", 
-        "osm:_user": "hassanow", 
+        "osm:_timestamp": "2018-12-03", 
+        "osm:_user": "Humus015", 
         "osm:amenity": "school", 
         "osm:id": "node/1123201169", 
         "osm:location": "mathare", 
-        "osm:name": "Genesis primary school"
+        "osm:name": "Genesis primary school", 
+        "osm:name:it": "Genesis"
       }, 
       "type": "Feature"
     }, 
@@ -4852,8 +4854,10 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2013-07-18", 
-        "osm:_user": "GO_OSM", 
+        "osm:_timestamp": "2018-12-17", 
+        "osm:_user": "DingoKG", 
+        "osm:addr:city": "Nairobi", 
+        "osm:addr:street": "Kipande Road", 
         "osm:amenity": "school", 
         "osm:id": "node/30402763", 
         "osm:location": "kangemi", 
@@ -5050,21 +5054,20 @@
       "geometry": {
         "coordinates": [
           [
-            36.7746848, 
-            -1.271275
+            36.7743101, 
+            -1.2717053
           ]
         ], 
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2018-03-19", 
+        "osm:_timestamp": "2018-12-17", 
         "osm:_user": "DingoKG", 
         "osm:addr:city": "Nairobi", 
         "osm:addr:street": "Mbabane road", 
         "osm:amenity": "school", 
         "osm:id": "node/5327992069", 
-        "osm:location": "kangemi", 
-        "osm:name": "Nairobi International School"
+        "osm:location": "kangemi"
       }, 
       "type": "Feature"
     }, 
@@ -5389,9 +5392,10 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2018-09-19", 
-        "osm:_user": "shazomojah", 
+        "osm:_timestamp": "2018-12-05", 
+        "osm:_user": "muindre", 
         "osm:amenity": "school", 
+        "osm:education:type": "pre_primary", 
         "osm:id": "node/5915968850", 
         "osm:location": "kangemi", 
         "osm:name": "Alpha Kindergaten"
@@ -5486,8 +5490,8 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2018-10-18", 
-        "osm:_user": "shazomojah", 
+        "osm:_timestamp": "2018-11-19", 
+        "osm:_user": "muindre", 
         "osm:accessibility": "small_cars,big_vehicles,foot", 
         "osm:amenity": "school", 
         "osm:building:classrooms": "1", 
@@ -5498,7 +5502,7 @@
         "osm:education:bom_employed": "yes", 
         "osm:education:bom_how_many": "1", 
         "osm:education:curriculum": "2_6_3_3_3", 
-        "osm:education:exam_affiliate": "0", 
+        "osm:education:exam_affiliate": "none", 
         "osm:education:exam_center": "no", 
         "osm:education:extra_drama": "no", 
         "osm:education:extra_music": "no", 
@@ -5554,8 +5558,8 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2018-10-18", 
-        "osm:_user": "shazomojah", 
+        "osm:_timestamp": "2018-11-19", 
+        "osm:_user": "muindre", 
         "osm:accessibility": "small_cars,big_vehicles,foot", 
         "osm:amenity": "school", 
         "osm:building:classrooms": "22", 
@@ -5565,7 +5569,6 @@
         "osm:contact:address": "29039-00625", 
         "osm:contact:email": "None", 
         "osm:contact:phone": "0722493775", 
-        "osm:education:boarding": "no", 
         "osm:education:bom_employed": "yes", 
         "osm:education:bom_how_many": "14", 
         "osm:education:curriculum": "8_4_4", 
@@ -5653,9 +5656,10 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2018-09-19", 
-        "osm:_user": "shazomojah", 
+        "osm:_timestamp": "2018-12-05", 
+        "osm:_user": "muindre", 
         "osm:amenity": "school", 
+        "osm:education:type": "secondary", 
         "osm:id": "node/5915968855", 
         "osm:location": "kangemi", 
         "osm:name": "Kabete Vet Lab Secondary School"
@@ -5923,8 +5927,8 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2018-10-30", 
-        "osm:_user": "fondolucy", 
+        "osm:_timestamp": "2018-12-04", 
+        "osm:_user": "muindre", 
         "osm:accessibility": "big_vehicles", 
         "osm:amenity": "school", 
         "osm:building:classrooms": "3", 
@@ -5967,6 +5971,7 @@
         "osm:education:students": "68", 
         "osm:education:students_female": "30", 
         "osm:education:students_male": "38", 
+        "osm:education:teachers": "3", 
         "osm:education:teachers_female": "3", 
         "osm:education:teachers_male": "0", 
         "osm:education:teachers_trained": "3", 
@@ -6078,8 +6083,8 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2018-10-18", 
-        "osm:_user": "fondolucy", 
+        "osm:_timestamp": "2018-12-04", 
+        "osm:_user": "muindre", 
         "osm:accessibility": "small_cars,foot", 
         "osm:amenity": "school", 
         "osm:building:classrooms": "3", 
@@ -6122,6 +6127,7 @@
         "osm:education:students": "25", 
         "osm:education:students_female": "18", 
         "osm:education:students_male": "7", 
+        "osm:education:teachers": "4", 
         "osm:education:teachers_female": "2", 
         "osm:education:teachers_male": "2", 
         "osm:education:teachers_trained": "2", 
@@ -6381,8 +6387,8 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2018-10-17", 
-        "osm:_user": "Peter Agenga", 
+        "osm:_timestamp": "2018-11-19", 
+        "osm:_user": "muindre", 
         "osm:accessibility": "big_vehicles,foot,small_cars", 
         "osm:amenity": "school", 
         "osm:building:classrooms": "5", 
@@ -6392,7 +6398,8 @@
         "osm:contact:address": "1455-0060", 
         "osm:contact:email": "oasisschool1455@gmail.com", 
         "osm:contact:phone": "0723490176", 
-        "osm:education:bom_employed": "1", 
+        "osm:education:bom_employed": "yes", 
+        "osm:education:bom_how_many": "1", 
         "osm:education:curriculum": "8_4_4", 
         "osm:education:exam_center": "yes", 
         "osm:education:extra_drama": "yes", 
@@ -6414,11 +6421,11 @@
         "osm:education:mean_score": "3.6", 
         "osm:education:nemis_code": "yes", 
         "osm:education:operate_as": "day_school", 
-        "osm:education:other": "Christian_union", 
         "osm:education:program_counselling": "yes", 
         "osm:education:program_feeding": "yes", 
         "osm:education:program_feeding_description": "school_fees", 
         "osm:education:program_orphans": "no", 
+        "osm:education:program_other": "Christian_union", 
         "osm:education:program_sanitary_towel": "yes", 
         "osm:education:program_special_needs": "yes", 
         "osm:education:pta": "yes", 
@@ -6440,10 +6447,10 @@
         "osm:name": "Oasis Mixed Secondary", 
         "osm:operator:description": "Godfrey Ochieng Oriato", 
         "osm:operator:type": "private", 
+        "osm:toilet:present": "yes", 
         "osm:toilets:female": "7", 
         "osm:toilets:handwashing": "yes", 
         "osm:toilets:male": "3", 
-        "osm:toilets:present": "yes", 
         "osm:toilets:teachers": "2", 
         "osm:water:source": "tap"
       }, 
@@ -6460,8 +6467,8 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2018-10-24", 
-        "osm:_user": "Peter Agenga", 
+        "osm:_timestamp": "2018-11-13", 
+        "osm:_user": "muindre", 
         "osm:accessibility": "foot", 
         "osm:amenity": "school", 
         "osm:building:classrooms": "5", 
@@ -6520,10 +6527,10 @@
         "osm:name": "Oasis Primary School", 
         "osm:operator:description": "Oasis primary", 
         "osm:operator:type": "cbo", 
+        "osm:toilet:present": "yes", 
         "osm:toilets:female": "2", 
         "osm:toilets:handwashing": "yes", 
         "osm:toilets:male": "2", 
-        "osm:toilets:present": "yes", 
         "osm:toilets:teachers": "2", 
         "osm:water:source": "tap"
       }, 
@@ -6618,8 +6625,8 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2018-10-17", 
-        "osm:_user": "Peter Agenga", 
+        "osm:_timestamp": "2018-11-13", 
+        "osm:_user": "muindre", 
         "osm:accessibility": "small_cars,foot", 
         "osm:amenity": "school", 
         "osm:building:classrooms": "6", 
@@ -6677,10 +6684,10 @@
         "osm:name": "Joyland Schools", 
         "osm:operator:description": "Reuben Makokha", 
         "osm:operator:type": "cbo", 
+        "osm:toilet:present": "yes", 
         "osm:toilets:female": "2", 
         "osm:toilets:handwashing": "yes", 
         "osm:toilets:male": "2", 
-        "osm:toilets:present": "yes", 
         "osm:toilets:teachers": "2", 
         "osm:water:source": "tap"
       }, 
@@ -6775,10 +6782,9 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2018-10-24", 
-        "osm:_user": "Peter Agenga", 
+        "osm:_timestamp": "2018-11-13", 
+        "osm:_user": "muindre", 
         "osm:accessibility": "small_cars,foot", 
-        "osm:admission:fee": "300", 
         "osm:amenity": "school", 
         "osm:building:levels": "1", 
         "osm:building:material": "cement_block", 
@@ -6796,6 +6802,7 @@
         "osm:education:extra_scouts": "no", 
         "osm:education:extra_sports": "yes", 
         "osm:education:fees": "yes", 
+        "osm:education:fees_admission": "300", 
         "osm:education:fees_exam": "100", 
         "osm:education:fees_level2": "2400", 
         "osm:education:fees_level3": "0", 
@@ -7238,8 +7245,8 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2018-10-25", 
-        "osm:_user": "Peter Agenga", 
+        "osm:_timestamp": "2018-12-04", 
+        "osm:_user": "muindre", 
         "osm:accessibility": "big_vehicles,foot,small_cars", 
         "osm:amenity": "school", 
         "osm:building:classrooms": "5", 
@@ -7272,9 +7279,9 @@
         "osm:education:program_special_needs": "yes", 
         "osm:education:pta": "no", 
         "osm:education:school_head": "Betty Akubalo", 
-        "osm:education:students": "65", 
-        "osm:education:students_female": "5", 
-        "osm:education:students_male": "5", 
+        "osm:education:students": "45", 
+        "osm:education:students_female": "0", 
+        "osm:education:students_male": "0", 
         "osm:education:teachers": "3", 
         "osm:education:teachers_female": "2", 
         "osm:education:teachers_male": "1", 
@@ -7289,8 +7296,8 @@
         "osm:name": "Doravera Education Centre", 
         "osm:operator:description": "Doravera", 
         "osm:operator:type": "cbo", 
-        "osm:toilet:arranged": "plot", 
-        "osm:toilet:present": "no", 
+        "osm:toilet:arranged_name": "plot", 
+        "osm:toilet:present": "arranged", 
         "osm:toilets:handwashing": "yes", 
         "osm:water:source": "tap"
       }, 
@@ -7520,14 +7527,14 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2018-10-25", 
-        "osm:_user": "Peter Agenga", 
+        "osm:_timestamp": "2018-11-13", 
+        "osm:_user": "muindre", 
         "osm:accessibility": "big_vehicles,foot,small_cars", 
         "osm:amenity": "school", 
         "osm:building:classrooms": "3", 
         "osm:building:levels": "0", 
         "osm:building:material": "concrete", 
-        "osm:building:roof": "asbetos", 
+        "osm:building:roof": "asbestos", 
         "osm:contact:address": "13526-00100", 
         "osm:contact:phone": "0724813561", 
         "osm:education:bom_employed": "yes", 
@@ -7594,8 +7601,8 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2018-10-25", 
-        "osm:_user": "Peter Agenga", 
+        "osm:_timestamp": "2018-11-13", 
+        "osm:_user": "muindre", 
         "osm:accessibility": "big_vehicles,foot,small_cars", 
         "osm:amenity": "school", 
         "osm:building:classrooms": "3", 
@@ -7617,7 +7624,7 @@
         "osm:education:fees": "yes", 
         "osm:education:fees_admission": "500", 
         "osm:education:fees_exam": "200", 
-        "osm:education:fees_level": "3000", 
+        "osm:education:fees_level1": "3000", 
         "osm:education:fees_lunch": "600", 
         "osm:education:fees_per_year": "3000", 
         "osm:education:gender_type": "mixed", 
@@ -7747,8 +7754,8 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2018-10-25", 
-        "osm:_user": "Peter Agenga", 
+        "osm:_timestamp": "2018-12-04", 
+        "osm:_user": "muindre", 
         "osm:accessibility": "big_vehicles,foot,small_cars", 
         "osm:amenity": "school", 
         "osm:building:classrooms": "3", 
@@ -7758,7 +7765,6 @@
         "osm:contact:address": "none", 
         "osm:contact:email": "bettyakubalo@gmail.com", 
         "osm:contact:phone": "0727721636", 
-        "osm:education:boarding": "no", 
         "osm:education:bom_employed": "no", 
         "osm:education:bom_how_many": "0", 
         "osm:education:curriculum": "8_4_4,2_6_3_3_3", 
@@ -7789,9 +7795,9 @@
         "osm:education:program_special_needs": "yes", 
         "osm:education:pta": "no", 
         "osm:education:school_head": "Betty Akubalo", 
-        "osm:education:students": "65", 
-        "osm:education:students_female": "5", 
-        "osm:education:students_male": "5", 
+        "osm:education:students": "20", 
+        "osm:education:students_female": "0", 
+        "osm:education:students_male": "0", 
         "osm:education:teachers": "4", 
         "osm:education:teachers_female": "3", 
         "osm:education:teachers_male": "1", 
@@ -7806,10 +7812,10 @@
         "osm:name": "Doravera Education Centre", 
         "osm:operator:description": "Doravera Education Centre", 
         "osm:operator:type": "cbo", 
-        "osm:toilet:arranged": "Plot", 
-        "osm:toilet:handwashing": "yes", 
+        "osm:toilet:arranged_name": "Plot", 
         "osm:toilet:present": "arranged", 
         "osm:toilets:female": "1", 
+        "osm:toilets:handwashing": "yes", 
         "osm:toilets:male": "1", 
         "osm:toilets:teachers": "1", 
         "osm:water:source": "tap"
@@ -7827,8 +7833,8 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2018-10-25", 
-        "osm:_user": "Peter Agenga", 
+        "osm:_timestamp": "2018-11-13", 
+        "osm:_user": "muindre", 
         "osm:accessibility": "big_vehicles,foot,small_cars", 
         "osm:amenity": "school", 
         "osm:building:classrooms": "2", 
@@ -7886,8 +7892,8 @@
         "osm:name": "Bethel Community Development Centre", 
         "osm:operator:description": "Bethel Community Development Centre", 
         "osm:operator:type": "cbo", 
-        "osm:toilet:arranged": "plot", 
-        "osm:toilet:present": "no", 
+        "osm:toilet:arranged_name": "plot", 
+        "osm:toilet:present": "arranged", 
         "osm:toilets:female": "1", 
         "osm:toilets:handwashing": "yes", 
         "osm:toilets:male": "1", 
@@ -7907,8 +7913,8 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2018-10-25", 
-        "osm:_user": "Peter Agenga", 
+        "osm:_timestamp": "2018-12-04", 
+        "osm:_user": "muindre", 
         "osm:accessibility": "big_vehicles,foot,small_cars", 
         "osm:amenity": "school", 
         "osm:building:levels": "0", 
@@ -7949,6 +7955,7 @@
         "osm:education:students": "45", 
         "osm:education:students_female": "23", 
         "osm:education:students_male": "22", 
+        "osm:education:teachers": "7", 
         "osm:education:teachers_female": "7", 
         "osm:education:teachers_male": "0", 
         "osm:education:teachers_trained": "3", 
@@ -7962,8 +7969,8 @@
         "osm:name": "Bethel Community Development Centre", 
         "osm:operator:description": "Bethel Community Development Centre", 
         "osm:operator:type": "cbo", 
-        "osm:toilet:arranged": "plot", 
-        "osm:toilet:present": "no", 
+        "osm:toilet:arranged_name": "plot", 
+        "osm:toilet:present": "arranged", 
         "osm:toilets:female": "1", 
         "osm:toilets:handwashing": "yes", 
         "osm:toilets:male": "1", 
@@ -7983,8 +7990,8 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2018-10-18", 
-        "osm:_user": "kamirisam", 
+        "osm:_timestamp": "2018-11-13", 
+        "osm:_user": "muindre", 
         "osm:accessibility": "small_cars,big_vehicles,foot", 
         "osm:amenity": "school", 
         "osm:building:levels": "0", 
@@ -7993,7 +8000,8 @@
         "osm:contact:address": "23594-00625", 
         "osm:contact:email": "carehome2002@yahoo.com", 
         "osm:contact:phone": "0722829212", 
-        "osm:education:bom_employed": "2", 
+        "osm:education:bom_employed": "yes", 
+        "osm:education:bom_how_many": "2", 
         "osm:education:curriculum": "2_6_3_3_3", 
         "osm:education:exam_center": "yes", 
         "osm:education:extra_drama": "no", 
@@ -8054,7 +8062,7 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2018-10-26", 
+        "osm:_timestamp": "2018-12-04", 
         "osm:_user": "muindre", 
         "osm:accessibility": "small_cars,big_vehicles,foot", 
         "osm:amenity": "school", 
@@ -8090,6 +8098,7 @@
         "osm:education:students": "150", 
         "osm:education:students_female": "76", 
         "osm:education:students_male": "74", 
+        "osm:education:teachers": "4", 
         "osm:education:teachers_female": "3", 
         "osm:education:teachers_male": "1", 
         "osm:education:teachers_trained": "4", 
@@ -8433,8 +8442,8 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2018-10-26", 
-        "osm:_user": "fondolucy", 
+        "osm:_timestamp": "2018-11-19", 
+        "osm:_user": "muindre", 
         "osm:accessibility": "foot", 
         "osm:amenity": "school", 
         "osm:building:classrooms": "8", 
@@ -8472,7 +8481,6 @@
         "osm:education:operate_as": "day_school", 
         "osm:education:program_counselling": "yes", 
         "osm:education:program_feeding": "no", 
-        "osm:education:program_feeding_description": "None", 
         "osm:education:program_orphans": "yes", 
         "osm:education:program_sanitary_towel": "yes", 
         "osm:education:program_special_needs": "yes", 
@@ -8517,8 +8525,8 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2018-10-26", 
-        "osm:_user": "fondolucy", 
+        "osm:_timestamp": "2018-11-19", 
+        "osm:_user": "muindre", 
         "osm:accessibility": "foot", 
         "osm:amenity": "school", 
         "osm:building:classrooms": "2", 
@@ -8555,7 +8563,6 @@
         "osm:education:operate_as": "day_school", 
         "osm:education:program_counselling": "yes", 
         "osm:education:program_feeding": "no", 
-        "osm:education:program_feeding_description": "no", 
         "osm:education:program_orphans": "yes", 
         "osm:education:program_sanitary_towel": "no", 
         "osm:education:program_special_needs": "no", 
@@ -8921,10 +8928,11 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2018-10-18", 
-        "osm:_user": "fondolucy", 
+        "osm:_timestamp": "2018-12-05", 
+        "osm:_user": "muindre", 
         "osm:accessibility": "big_vehicles", 
         "osm:amenity": "school", 
+        "osm:education:type": "pre_primary", 
         "osm:id": "node/5926195778", 
         "osm:location": "kangemi", 
         "osm:name": "Bletag Kindergaten"
@@ -10267,12 +10275,13 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2018-10-18", 
+        "osm:_timestamp": "2018-12-05", 
         "osm:_user": "muindre", 
         "osm:accessibility": "small_cars,big_vehicles,foot", 
         "osm:amenity": "school", 
         "osm:building:material": "cement_block", 
         "osm:building:roof": "iron_sheet", 
+        "osm:education:type": "primary", 
         "osm:id": "node/5926218254", 
         "osm:location": "kangemi", 
         "osm:name": "Old Kihumbuini Primary School", 
@@ -10908,8 +10917,8 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2018-10-24", 
-        "osm:_user": "shazomojah", 
+        "osm:_timestamp": "2018-12-04", 
+        "osm:_user": "muindre", 
         "osm:accessibility": "small_cars,foot", 
         "osm:amenity": "school", 
         "osm:building:classrooms": "2", 
@@ -10950,6 +10959,7 @@
         "osm:education:students": "62", 
         "osm:education:students_female": "24", 
         "osm:education:students_male": "38", 
+        "osm:education:teachers": "2", 
         "osm:education:teachers_female": "2", 
         "osm:education:teachers_male": "0", 
         "osm:education:teachers_trained": "2", 
@@ -11046,26 +11056,6 @@
         "osm:toilets:male": "2", 
         "osm:toilets:teachers": "0", 
         "osm:water:source": "tap"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          [
-            36.7427151, 
-            -1.2696877
-          ]
-        ], 
-        "type": "MultiPoint"
-      }, 
-      "properties": {
-        "osm:_timestamp": "2018-09-24", 
-        "osm:_user": "Nyaega Orina", 
-        "osm:amenity": "school", 
-        "osm:id": "node/5926218266", 
-        "osm:location": "kangemi", 
-        "osm:name": "Teravic Education Center"
       }, 
       "type": "Feature"
     }, 
@@ -11309,8 +11299,8 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2018-10-25", 
-        "osm:_user": "Peter Agenga", 
+        "osm:_timestamp": "2018-11-13", 
+        "osm:_user": "muindre", 
         "osm:accessibility": "small_cars,big_vehicles,foot", 
         "osm:amenity": "school", 
         "osm:building:classrooms": "6", 
@@ -11320,7 +11310,8 @@
         "osm:contact:address": "4340-00100", 
         "osm:contact:email": "none", 
         "osm:contact:phone": "0726551360,0704183892", 
-        "osm:education:bom_employed": "0", 
+        "osm:education:bom_employed": "yes", 
+        "osm:education:bom_how_many": "6", 
         "osm:education:curriculum": "2_6_3_3_3", 
         "osm:education:exam_affiliate": "None", 
         "osm:education:exam_center": "no", 
@@ -11360,7 +11351,6 @@
         "osm:education:teachers_female": "6", 
         "osm:education:teachers_male": "0", 
         "osm:education:teachers_trained": "6", 
-        "osm:education:tsc_employed": "6", 
         "osm:education:type": "pre_primary", 
         "osm:electricity:operational_status": "always", 
         "osm:id": "node/5926355907", 
@@ -11388,8 +11378,8 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2018-10-26", 
-        "osm:_user": "Peter Agenga", 
+        "osm:_timestamp": "2018-11-13", 
+        "osm:_user": "muindre", 
         "osm:accessibility": "small_cars,big_vehicles,foot", 
         "osm:amenity": "school", 
         "osm:building:classrooms": "8", 
@@ -11439,7 +11429,7 @@
         "osm:education:teachers_female": "10", 
         "osm:education:teachers_male": "1", 
         "osm:education:teachers_trained": "11", 
-        "osm:education:tsc_employed": "0", 
+        "osm:education:type": "primary", 
         "osm:electricity:operational_status": "always", 
         "osm:id": "node/5926355908", 
         "osm:image:classroom": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1537517771817.jpg", 
@@ -11449,7 +11439,6 @@
         "osm:name": "Angaza Buena Vista", 
         "osm:operator:description": "Esther Njeri Kimani", 
         "osm:operator:type": "private", 
-        "osm:school": "primary", 
         "osm:toilet:present": "yes", 
         "osm:toilets:female": "3", 
         "osm:toilets:handwashing": "yes", 
@@ -11550,8 +11539,8 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2018-10-25", 
-        "osm:_user": "Peter Agenga", 
+        "osm:_timestamp": "2018-11-13", 
+        "osm:_user": "muindre", 
         "osm:accessibility": "big_vehicles,foot,small_cars", 
         "osm:amenity": "school", 
         "osm:building:classrooms": "2", 
@@ -11600,7 +11589,6 @@
         "osm:education:teachers_female": "1", 
         "osm:education:teachers_male": "0", 
         "osm:education:teachers_trained": "1", 
-        "osm:education:tsc_employed": "0", 
         "osm:education:type": "pre_primary", 
         "osm:electricity:operational_status": "always", 
         "osm:id": "node/5926355910", 
@@ -11713,8 +11701,8 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2018-10-30", 
-        "osm:_user": "Peter Agenga", 
+        "osm:_timestamp": "2018-11-13", 
+        "osm:_user": "muindre", 
         "osm:accessibility": "small_cars,big_vehicles,foot", 
         "osm:amenity": "school", 
         "osm:building:classrooms": "9", 
@@ -11767,7 +11755,6 @@
         "osm:education:teachers_female": "14", 
         "osm:education:teachers_male": "5", 
         "osm:education:teachers_trained": "19", 
-        "osm:education:tsc_employed": "0", 
         "osm:education:type": "primary", 
         "osm:electricity:operational_status": "sometimes", 
         "osm:id": "node/5926355912", 
@@ -12036,7 +12023,7 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2018-11-01", 
+        "osm:_timestamp": "2018-12-04", 
         "osm:_user": "muindre", 
         "osm:accessibility": "small_cars,big_vehicles,foot", 
         "osm:amenity": "school", 
@@ -12083,10 +12070,10 @@
         "osm:education:students": "138", 
         "osm:education:students_female": "78", 
         "osm:education:students_male": "60", 
-        "osm:education:teachers": "13", 
+        "osm:education:teachers": "12", 
         "osm:education:teachers_female": "7", 
         "osm:education:teachers_male": "5", 
-        "osm:education:teachers_trained": "13", 
+        "osm:education:teachers_trained": "12", 
         "osm:education:type": "primary", 
         "osm:electricity:operational_status": "always", 
         "osm:id": "node/5926355917", 
@@ -12195,8 +12182,8 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2018-10-18", 
-        "osm:_user": "Peter Agenga", 
+        "osm:_timestamp": "2018-11-13", 
+        "osm:_user": "muindre", 
         "osm:accessibility": "small_cars,big_vehicles,foot", 
         "osm:amenity": "school", 
         "osm:building:classrooms": "15", 
@@ -12219,13 +12206,12 @@
         "osm:education:fees": "yes", 
         "osm:education:fees_admission": "400", 
         "osm:education:fees_exam": "300", 
-        "osm:education:fees_level1": "none", 
         "osm:education:fees_level2": "12900", 
         "osm:education:fees_level3": "12900", 
         "osm:education:fees_lunch": "0", 
         "osm:education:fees_other": "medical_100", 
         "osm:education:fees_per_year": "12900", 
-        "osm:education:fees_trip": "none", 
+        "osm:education:fees_trip": "0", 
         "osm:education:gender_type": "mixed", 
         "osm:education:government_grants": "no", 
         "osm:education:government_registered": "moe", 
@@ -12655,7 +12641,7 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2018-10-26", 
+        "osm:_timestamp": "2018-11-13", 
         "osm:_user": "muindre", 
         "osm:accessibility": "small_cars,big_vehicles,foot", 
         "osm:amenity": "school", 
@@ -12706,7 +12692,6 @@
         "osm:education:teachers_female": "2", 
         "osm:education:teachers_male": "0", 
         "osm:education:teachers_trained": "2", 
-        "osm:education:tsc_employed": "0", 
         "osm:education:type": "vocational", 
         "osm:electricity:operational_status": "always", 
         "osm:id": "node/5926387118", 
@@ -13271,7 +13256,7 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2018-10-26", 
+        "osm:_timestamp": "2018-12-04", 
         "osm:_user": "muindre", 
         "osm:accessibility": "small_cars,big_vehicles,foot", 
         "osm:amenity": "school", 
@@ -13310,7 +13295,7 @@
         "osm:education:students": "31", 
         "osm:education:students_female": "12", 
         "osm:education:students_male": "19", 
-        "osm:education:teachers": "4", 
+        "osm:education:teachers": "3", 
         "osm:education:teachers_female": "3", 
         "osm:education:teachers_trained": "1", 
         "osm:education:type": "pre_primary", 
@@ -13480,73 +13465,6 @@
         "osm:toilets:handwashing": "yes", 
         "osm:toilets:male": "1", 
         "osm:toilets:teachers": "2", 
-        "osm:water:source": "tap"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          [
-            36.7568561, 
-            -1.2591794
-          ]
-        ], 
-        "type": "MultiPoint"
-      }, 
-      "properties": {
-        "osm:_timestamp": "2018-10-19", 
-        "osm:_user": "kamirisam", 
-        "osm:accessibility": "small_cars,big_vehicles,foot", 
-        "osm:amenity": "school", 
-        "osm:building:classrooms": "2", 
-        "osm:building:levels": "0", 
-        "osm:building:material": "wood,iron_sheet", 
-        "osm:building:roof": "iron_sheet", 
-        "osm:contact:address": "None", 
-        "osm:contact:email": "robadiba@gmail.com", 
-        "osm:contact:phone": "0721430863", 
-        "osm:education:bom_employed": "yes", 
-        "osm:education:bom_how_many": "1", 
-        "osm:education:curriculum": "2_6_3_3_3", 
-        "osm:education:exam_center": "no", 
-        "osm:education:fees": "sponsored", 
-        "osm:education:fees_admission": "0", 
-        "osm:education:fees_lunch": "0", 
-        "osm:education:gender_type": "mixed", 
-        "osm:education:government_grants": "no", 
-        "osm:education:government_registered": "no", 
-        "osm:education:management_committee": "yes", 
-        "osm:education:mean_score": "None", 
-        "osm:education:nemis_code": "no", 
-        "osm:education:operate_as": "day_school", 
-        "osm:education:program_counselling": "no", 
-        "osm:education:program_feeding": "central_feeding", 
-        "osm:education:program_orphans": "yes", 
-        "osm:education:program_special_needs": "yes", 
-        "osm:education:pta": "no", 
-        "osm:education:school_head": "Mr. Bonaya Diba", 
-        "osm:education:students": "35", 
-        "osm:education:students_female": "20", 
-        "osm:education:students_male": "15", 
-        "osm:education:teachers": "1", 
-        "osm:education:teachers_female": "1", 
-        "osm:education:teachers_trained": "1", 
-        "osm:education:type": "pre_primary", 
-        "osm:electricity:operational_status": "always", 
-        "osm:id": "node/5933550400", 
-        "osm:image:classroom": "1537876392423.jpg", 
-        "osm:image:compound": "1537876450823.jpg", 
-        "osm:image:sign_post": "1537876472118.jpg", 
-        "osm:location": "kangemi", 
-        "osm:name": "Khan Preparatory Centre", 
-        "osm:operator:description": "Taweed Mosque Kibagare", 
-        "osm:operator:type": "religious", 
-        "osm:toilet:present": "yes", 
-        "osm:toilets:female": "1", 
-        "osm:toilets:handwashing": "yes", 
-        "osm:toilets:male": "1", 
-        "osm:toilets:teachers": "1", 
         "osm:water:source": "tap"
       }, 
       "type": "Feature"
@@ -13992,8 +13910,8 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2018-10-30", 
-        "osm:_user": "kamirisam", 
+        "osm:_timestamp": "2018-12-04", 
+        "osm:_user": "muindre", 
         "osm:accessibility": "small_cars,big_vehicles,foot", 
         "osm:amenity": "school", 
         "osm:building:classrooms": "11", 
@@ -14039,7 +13957,7 @@
         "osm:education:students_male": "86", 
         "osm:education:teachers": "8", 
         "osm:education:teachers_female": "4", 
-        "osm:education:teachers_male": "41", 
+        "osm:education:teachers_male": "4", 
         "osm:education:teachers_trained": "8", 
         "osm:education:type": "primary", 
         "osm:electricity:operational_status": "always", 
@@ -14297,8 +14215,8 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2018-10-25", 
-        "osm:_user": "shazomojah", 
+        "osm:_timestamp": "2018-12-04", 
+        "osm:_user": "muindre", 
         "osm:accessibility": "small_cars,foot", 
         "osm:amenity": "school", 
         "osm:building:classrooms": "1", 
@@ -14340,6 +14258,7 @@
         "osm:education:students": "15", 
         "osm:education:students_female": "5", 
         "osm:education:students_male": "10", 
+        "osm:education:teachers": "2", 
         "osm:education:teachers_female": "2", 
         "osm:education:teachers_male": "0", 
         "osm:education:teachers_trained": "2", 
@@ -14517,7 +14436,7 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2018-11-01", 
+        "osm:_timestamp": "2018-11-16", 
         "osm:_user": "muindre", 
         "osm:accessibility": "small_cars,foot", 
         "osm:amenity": "school", 
@@ -14570,7 +14489,7 @@
         "osm:image:compound": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1537514428636.jpg", 
         "osm:image:sign_post": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1537514984654.jpg", 
         "osm:location": "kangemi", 
-        "osm:name": "Sweeet Angels School", 
+        "osm:name": "Sweet Angels School", 
         "osm:operator:description": "Sweet Angels School", 
         "osm:operator:type": "cbo", 
         "osm:toilet:present": "yes", 
@@ -14985,7 +14904,7 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2018-10-25", 
+        "osm:_timestamp": "2018-11-13", 
         "osm:_user": "muindre", 
         "osm:accessibility": "small_cars,big_vehicles,foot", 
         "osm:amenity": "school", 
@@ -14997,7 +14916,7 @@
         "osm:education:type": "pre_primary", 
         "osm:id": "node/5933622816", 
         "osm:location": "kangemi", 
-        "osm:name": "Old Kihumbuini Pre_School", 
+        "osm:name": "Old Kihumbuini Pre-School", 
         "osm:operator:description": "Government of Kenya", 
         "osm:operator:type": "government"
       }, 
@@ -15087,132 +15006,6 @@
       "geometry": {
         "coordinates": [
           [
-            36.8141372, 
-            -1.2536254
-          ]
-        ], 
-        "type": "MultiPoint"
-      }, 
-      "properties": {
-        "osm:_timestamp": "2018-10-25", 
-        "osm:_user": "shazomojah", 
-        "osm:accessibility": "foot", 
-        "osm:amenity": "school", 
-        "osm:building:classrooms": "1", 
-        "osm:building:levels": "0", 
-        "osm:building:material": "iron_sheet", 
-        "osm:building:roof": "iron_sheet", 
-        "osm:contact:address": "16774-00620", 
-        "osm:contact:email": "emilymukiri24@gmail.com", 
-        "osm:contact:phone": "0722626374", 
-        "osm:education:bom_employed": "no", 
-        "osm:education:bom_how_many": "0", 
-        "osm:education:curriculum": "2_6_3_3_3", 
-        "osm:education:exam_affiliate": "none", 
-        "osm:education:exam_center": "no", 
-        "osm:education:extra_drama": "no", 
-        "osm:education:extra_music": "no", 
-        "osm:education:extra_scouts": "no", 
-        "osm:education:extra_sports": "yes", 
-        "osm:education:fees": "yes", 
-        "osm:education:fees_admission": "0", 
-        "osm:education:fees_exam": "0", 
-        "osm:education:fees_lunch": "0", 
-        "osm:education:fees_per_year": "6000", 
-        "osm:education:gender_type": "mixed", 
-        "osm:education:government_grants": "no", 
-        "osm:education:government_registered": "mgcsd", 
-        "osm:education:management_committee": "no", 
-        "osm:education:nemis_code": "no", 
-        "osm:education:operate_as": "day_school", 
-        "osm:education:program_counselling": "yes", 
-        "osm:education:program_feeding": "yes", 
-        "osm:education:program_feeding_description": "school_fees", 
-        "osm:education:program_orphans": "no", 
-        "osm:education:program_sanitary_towel": "no", 
-        "osm:education:program_special_needs": "no", 
-        "osm:education:pta": "no", 
-        "osm:education:school_head": "Rosemary Mahungu", 
-        "osm:education:students": "40", 
-        "osm:education:students_female": "20", 
-        "osm:education:students_male": "20", 
-        "osm:education:teachers": "2", 
-        "osm:education:teachers_female": "2", 
-        "osm:education:teachers_male": "0", 
-        "osm:education:teachers_trained": "2", 
-        "osm:education:type": "pre_primary", 
-        "osm:electricity:operational_status": "sometimes", 
-        "osm:id": "node/5933652689", 
-        "osm:image:classroom": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1537951235138.jpg", 
-        "osm:image:compound": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1537951429841.jpg", 
-        "osm:image:sign_post": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1537951346795.jpg", 
-        "osm:location": "kangemi", 
-        "osm:name": "Little Saints Pre-School", 
-        "osm:operator:description": "Private", 
-        "osm:operator:type": "private", 
-        "osm:toilet:present": "yes", 
-        "osm:toilets:female": "2", 
-        "osm:toilets:handwashing": "yes", 
-        "osm:toilets:male": "2", 
-        "osm:toilets:teachers": "2", 
-        "osm:water:source": "tap"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          [
-            36.8126725, 
-            -1.2537237
-          ]
-        ], 
-        "type": "MultiPoint"
-      }, 
-      "properties": {
-        "osm:_timestamp": "2018-10-25", 
-        "osm:_user": "shazomojah", 
-        "osm:accessibility": "small_cars,big_vehicles,foot", 
-        "osm:amenity": "school", 
-        "osm:building:levels": "0", 
-        "osm:building:material": "concrete", 
-        "osm:building:roof": "iron_sheet", 
-        "osm:contact:phone": "0722615105", 
-        "osm:education:curriculum": "2_6_3_3_3", 
-        "osm:education:exam_center": "no", 
-        "osm:education:extra_drama": "no", 
-        "osm:education:extra_music": "no", 
-        "osm:education:extra_scouts": "no", 
-        "osm:education:extra_sports": "no", 
-        "osm:education:fees": "yes", 
-        "osm:education:gender_type": "mixed", 
-        "osm:education:government_grants": "no", 
-        "osm:education:government_registered": "no", 
-        "osm:education:management_committee": "no", 
-        "osm:education:nemis_code": "no", 
-        "osm:education:operate_as": "day_school", 
-        "osm:education:program_counselling": "no", 
-        "osm:education:program_feeding": "no", 
-        "osm:education:program_orphans": "no", 
-        "osm:education:program_sanitary_towel": "no", 
-        "osm:education:program_special_needs": "no", 
-        "osm:education:pta": "no", 
-        "osm:education:type": "pre_primary", 
-        "osm:id": "node/5933652690", 
-        "osm:location": "kangemi", 
-        "osm:name": "Deep Sea Nursery School", 
-        "osm:operator:description": "Catholic Church", 
-        "osm:operator:type": "religious", 
-        "osm:toilet:present": "yes", 
-        "osm:toilets:handwashing": "yes", 
-        "osm:water:source": "water_tank"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          [
             36.7520439, 
             -1.2715901
           ]
@@ -15284,15 +15077,15 @@
       "geometry": {
         "coordinates": [
           [
-            36.7523293, 
-            -1.2714927
+            36.7520126, 
+            -1.2716093
           ]
         ], 
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2018-10-24", 
-        "osm:_user": "kamirisam", 
+        "osm:_timestamp": "2018-11-19", 
+        "osm:_user": "muindre", 
         "osm:accessibility": "small_cars,big_vehicles,foot", 
         "osm:amenity": "school", 
         "osm:building:classrooms": "3", 
@@ -15318,7 +15111,8 @@
         "osm:education:nemis_code": "no", 
         "osm:education:operate_as": "day_school", 
         "osm:education:program_counselling": "yes", 
-        "osm:education:program_feeding": "sponsored", 
+        "osm:education:program_feeding": "yes", 
+        "osm:education:program_feeding_description": "sponsored", 
         "osm:education:program_orphans": "yes", 
         "osm:education:program_sanitary_towel": "no", 
         "osm:education:program_special_needs": "yes", 
@@ -15353,92 +15147,15 @@
       "geometry": {
         "coordinates": [
           [
-            36.7532191, 
-            -1.2674641
+            36.7525542, 
+            -1.2673593
           ]
         ], 
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2018-10-24", 
-        "osm:_user": "kamirisam", 
-        "osm:accessibility": "small_cars,big_vehicles,foot", 
-        "osm:amenity": "school", 
-        "osm:building:classrooms": "9", 
-        "osm:building:levels": "2", 
-        "osm:building:material": "iron_sheet,concrete", 
-        "osm:building:roof": "iron_sheet", 
-        "osm:contact:address": "23326-00625", 
-        "osm:contact:phone": "0711494025", 
-        "osm:education:bom_employed": "yes", 
-        "osm:education:bom_how_many": "9", 
-        "osm:education:curriculum": "8_4_4,2_6_3_3_3", 
-        "osm:education:exam_center": "yes", 
-        "osm:education:extra_drama": "no", 
-        "osm:education:extra_music": "no", 
-        "osm:education:extra_other": "Debate Journalism", 
-        "osm:education:extra_scouts": "yes", 
-        "osm:education:extra_sports": "yes", 
-        "osm:education:fees": "yes", 
-        "osm:education:fees_admission": "1000", 
-        "osm:education:fees_exam": "150", 
-        "osm:education:fees_lunch": "0", 
-        "osm:education:fees_per_year": "18000", 
-        "osm:education:fees_trip": "800", 
-        "osm:education:gender_type": "mixed", 
-        "osm:education:government_grants": "no", 
-        "osm:education:government_registered": "APBET", 
-        "osm:education:management_committee": "yes", 
-        "osm:education:mean_score": "315", 
-        "osm:education:nemis_code": "yes", 
-        "osm:education:operate_as": "day_school", 
-        "osm:education:program_counselling": "yes", 
-        "osm:education:program_feeding": "school_fees", 
-        "osm:education:program_orphans": "yes", 
-        "osm:education:program_other": "UNICEF", 
-        "osm:education:program_sanitary_towel": "no", 
-        "osm:education:program_special_needs": "no", 
-        "osm:education:pta": "yes", 
-        "osm:education:school_head": "Wilter Obara", 
-        "osm:education:students": "217", 
-        "osm:education:students_female": "72", 
-        "osm:education:students_male": "145", 
-        "osm:education:teachers": "9", 
-        "osm:education:teachers_female": "5", 
-        "osm:education:teachers_male": "4", 
-        "osm:education:teachers_trained": "9", 
-        "osm:education:type": "primary", 
-        "osm:electricity:operational_status": "always", 
-        "osm:id": "node/5933652694", 
-        "osm:image:classroom": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1537865429462.jpg", 
-        "osm:image:compound": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1537866122377.jpg", 
-        "osm:image:sign_post": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1537866130560.jpg", 
-        "osm:location": "kangemi", 
-        "osm:name": "Kangemi Seventh Day Adventist School", 
-        "osm:operator:description": "Kangemi seventh day Adventist Church", 
-        "osm:operator:type": "religious", 
-        "osm:toilet:present": "yes", 
-        "osm:toilets:female": "2", 
-        "osm:toilets:handwashing": "yes", 
-        "osm:toilets:male": "2", 
-        "osm:toilets:teachers": "2", 
-        "osm:water:source": "tap"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          [
-            36.752555, 
-            -1.2673589
-          ]
-        ], 
-        "type": "MultiPoint"
-      }, 
-      "properties": {
-        "osm:_timestamp": "2018-10-30", 
-        "osm:_user": "Peter Agenga", 
+        "osm:_timestamp": "2018-11-16", 
+        "osm:_user": "muindre", 
         "osm:accessibility": "small_cars,big_vehicles,foot", 
         "osm:amenity": "school", 
         "osm:building:classrooms": "8", 
@@ -15449,7 +15166,7 @@
         "osm:contact:phone": "0723395313", 
         "osm:education:bom_employed": "yes", 
         "osm:education:bom_how_many": "7", 
-        "osm:education:curriculum": "8_4_4 ,2_6_3_3_3", 
+        "osm:education:curriculum": "8_4_4,2_6_3_3_3", 
         "osm:education:exam_affiliate": "SDA School", 
         "osm:education:exam_center": "no", 
         "osm:education:extra_drama": "yes", 
@@ -15502,15 +15219,15 @@
       "geometry": {
         "coordinates": [
           [
-            36.7531401, 
-            -1.2675472
+            36.7531415, 
+            -1.2675479
           ]
         ], 
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2018-10-30", 
-        "osm:_user": "fondolucy", 
+        "osm:_timestamp": "2018-11-16", 
+        "osm:_user": "muindre", 
         "osm:accessibility": "small_cars,big_vehicles,foot", 
         "osm:amenity": "school", 
         "osm:building:classrooms": "3", 
@@ -15536,12 +15253,12 @@
         "osm:education:fees_trip": "1000", 
         "osm:education:gender_type": "mixed", 
         "osm:education:government_grants": "no", 
-        "osm:education:government_registere": "yes", 
         "osm:education:government_registered": "APBET", 
         "osm:education:management_committee": "yes", 
         "osm:education:nemis_code": "no", 
         "osm:education:operate_as": "day_school", 
         "osm:education:program_counselling": "yes", 
+        "osm:education:program_feeding": "yes", 
         "osm:education:program_feeding_description": "school_fees", 
         "osm:education:program_orphans": "yes", 
         "osm:education:program_sanitary_towel": "no", 
@@ -15578,210 +15295,15 @@
       "geometry": {
         "coordinates": [
           [
-            36.8133039, 
-            -1.2533431
+            36.7526169, 
+            -1.267371
           ]
         ], 
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2018-10-30", 
-        "osm:_user": "fondolucy", 
-        "osm:accessibility": "foot", 
-        "osm:amenity": "school", 
-        "osm:building:classrooms": "1", 
-        "osm:building:levels": "0", 
-        "osm:building:material": "iron_sheet", 
-        "osm:building:roof": "iron_sheet", 
-        "osm:contact:address": "0", 
-        "osm:contact:email": "None", 
-        "osm:contact:phone": "0721739813", 
-        "osm:education:bom_employed": "yes", 
-        "osm:education:bom_how_many": "1", 
-        "osm:education:curriculum": "8_4_4", 
-        "osm:education:exam_center": "no", 
-        "osm:education:extra_drama": "no", 
-        "osm:education:extra_music": "no", 
-        "osm:education:extra_scouts": "no", 
-        "osm:education:extra_sports": "yes", 
-        "osm:education:fees": "yes", 
-        "osm:education:fees_lunch": "20", 
-        "osm:education:fees_per_year": "1500", 
-        "osm:education:gender_type": "mixed", 
-        "osm:education:government_grants": "no", 
-        "osm:education:government_registered": "mgcsd", 
-        "osm:education:management_committee": "no", 
-        "osm:education:nemis_code": "no", 
-        "osm:education:operate_as": "day_school", 
-        "osm:education:program_counselling": "yes", 
-        "osm:education:program_feeding": "yes", 
-        "osm:education:program_feeding_description": "school_fees", 
-        "osm:education:program_orphans": "no", 
-        "osm:education:program_sanitary_towel": "no", 
-        "osm:education:program_special_needs": "no", 
-        "osm:education:pta": "no", 
-        "osm:education:school_head": "Rose Gakumo", 
-        "osm:education:students": "36", 
-        "osm:education:students_female": "13", 
-        "osm:education:students_male": "23", 
-        "osm:education:teachers": "1", 
-        "osm:education:teachers_female": "1", 
-        "osm:education:teachers_male": "0", 
-        "osm:education:teachers_trained": "1", 
-        "osm:education:type": "pre_primary", 
-        "osm:electricity:operational_status": "never", 
-        "osm:id": "node/5933652697", 
-        "osm:image:classroom": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1537949925402.jpg", 
-        "osm:image:compound": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1537950073146.jpg", 
-        "osm:image:sign_post": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1537949901718.jpg", 
-        "osm:location": "kangemi", 
-        "osm:name": "Dashiki Learning Centre", 
-        "osm:operator:description": "Dashiki Learning Centre", 
-        "osm:operator:type": "cbo", 
-        "osm:toilet:arranged_name": "Consolata Toilet Projet", 
-        "osm:toilet:present": "arranged", 
-        "osm:toilets:handwashing": "yes", 
-        "osm:water:source": "tap"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          [
-            36.8141372, 
-            -1.2536254
-          ]
-        ], 
-        "type": "MultiPoint"
-      }, 
-      "properties": {
-        "osm:_timestamp": "2018-10-30", 
-        "osm:_user": "Peter Agenga", 
-        "osm:accessibility": "foot", 
-        "osm:amenity": "school", 
-        "osm:building:classrooms": "1", 
-        "osm:building:levels": "0", 
-        "osm:building:material": "iron_sheet", 
-        "osm:building:roof": "iron_sheet", 
-        "osm:contact:address": "16774-00620", 
-        "osm:contact:email": "emilymukiri24@gmail.com", 
-        "osm:contact:phone": "0722626374", 
-        "osm:education:bom_employed": "no", 
-        "osm:education:curriculum": "2_6_3_3_3", 
-        "osm:education:exam_affiliate": "none", 
-        "osm:education:exam_center": "no", 
-        "osm:education:extra_drama": "no", 
-        "osm:education:extra_music": "no", 
-        "osm:education:extra_scouts": "no", 
-        "osm:education:extra_sports": "yes", 
-        "osm:education:fees": "yes", 
-        "osm:education:fees_admission": "0", 
-        "osm:education:fees_exam": "0", 
-        "osm:education:fees_lunch": "0", 
-        "osm:education:fees_per_year": "6000", 
-        "osm:education:gender_type": "mixed", 
-        "osm:education:government_grants": "no", 
-        "osm:education:government_registered": "mgcsd", 
-        "osm:education:management_committee": "no", 
-        "osm:education:nemis_code": "no", 
-        "osm:education:operate_as": "day_school", 
-        "osm:education:program_counselling": "yes", 
-        "osm:education:program_feeding": "school_fees", 
-        "osm:education:program_orphans": "no", 
-        "osm:education:program_sanitary_towel": "no", 
-        "osm:education:program_special_needs": "no", 
-        "osm:education:pta": "no", 
-        "osm:education:school_head": "Rosemary Mahungu", 
-        "osm:education:students": "40", 
-        "osm:education:students_female": "20", 
-        "osm:education:students_male": "20", 
-        "osm:education:teachers": "2", 
-        "osm:education:teachers_female": "2", 
-        "osm:education:teachers_male": "0", 
-        "osm:education:teachers_trained": "2", 
-        "osm:education:type": "pre_primary", 
-        "osm:electricity:operational_status": "sometimes", 
-        "osm:id": "node/5933652804", 
-        "osm:image:classroom": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1537951235138.jpg", 
-        "osm:image:compound": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1537951429841.jpg", 
-        "osm:image:sign_post": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1537951346795.jpg", 
-        "osm:location": "kangemi", 
-        "osm:name": "Little Saints Pre School", 
-        "osm:operator:description": "Private", 
-        "osm:operator:type": "private", 
-        "osm:toilet:present": "yes", 
-        "osm:toilets:female": "2", 
-        "osm:toilets:handwashing": "yes", 
-        "osm:toilets:male": "2", 
-        "osm:toilets:teachers": "2", 
-        "osm:water:source": "tap"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          [
-            36.8126725, 
-            -1.2537237
-          ]
-        ], 
-        "type": "MultiPoint"
-      }, 
-      "properties": {
-        "osm:_timestamp": "2018-10-24", 
-        "osm:_user": "fondolucy", 
-        "osm:accessibility": "small_cars,big_vehicles,foot", 
-        "osm:amenity": "school", 
-        "osm:building:levels": "0", 
-        "osm:building:material": "concrete", 
-        "osm:building:roof": "iron_sheet", 
-        "osm:contact:phone": "0722615105", 
-        "osm:education:curriculum": "2_6_3_3_3", 
-        "osm:education:exam_center": "no", 
-        "osm:education:extra_drama": "no", 
-        "osm:education:extra_music": "no", 
-        "osm:education:extra_scouts": "no", 
-        "osm:education:extra_sports": "no", 
-        "osm:education:fees": "yes", 
-        "osm:education:gender_type": "mixed", 
-        "osm:education:government_grants": "no", 
-        "osm:education:government_registered": "no", 
-        "osm:education:management_committee": "no", 
-        "osm:education:nemis_code": "no", 
-        "osm:education:operate_as": "day_school", 
-        "osm:education:program_counselling": "no", 
-        "osm:education:program_feeding": "no", 
-        "osm:education:program_orphans": "no", 
-        "osm:education:program_sanitary_towel": "no", 
-        "osm:education:program_special_needs": "no", 
-        "osm:education:pta": "no", 
-        "osm:education:type": "pre_primary", 
-        "osm:id": "node/5933652805", 
-        "osm:location": "kangemi", 
-        "osm:name": "Deep Sea Nursery School", 
-        "osm:operator:description": "Catholic Church", 
-        "osm:operator:type": "religious", 
-        "osm:toilet:present": "yes", 
-        "osm:toilets:handwashing": "yes", 
-        "osm:water:source": "water_tank"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          [
-            36.7526161, 
-            -1.2673734
-          ]
-        ], 
-        "type": "MultiPoint"
-      }, 
-      "properties": {
-        "osm:_timestamp": "2018-10-24", 
-        "osm:_user": "kamirisam", 
+        "osm:_timestamp": "2018-11-16", 
+        "osm:_user": "muindre", 
         "osm:accessibility": "small_cars,big_vehicles,foot", 
         "osm:amenity": "school", 
         "osm:building:classrooms": "3", 
@@ -15842,84 +15364,15 @@
       "geometry": {
         "coordinates": [
           [
-            36.7523293, 
-            -1.2714927
+            36.7532194, 
+            -1.2674648
           ]
         ], 
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2018-10-25", 
-        "osm:_user": "fondolucy", 
-        "osm:accessibility": "small_cars,big_vehicles,foot", 
-        "osm:amenity": "school", 
-        "osm:building:classrooms": "3", 
-        "osm:building:levels": "1", 
-        "osm:building:material": "iron_sheet", 
-        "osm:building:roof": "iron_sheet", 
-        "osm:contact:address": "28300-00100", 
-        "osm:contact:email": "victormuganda@gmail.com", 
-        "osm:contact:phone": "0715221301", 
-        "osm:education:bom_employed": "yes", 
-        "osm:education:bom_how_many": "3", 
-        "osm:education:curriculum": "2_6_3_3_3", 
-        "osm:education:exam_center": "no", 
-        "osm:education:extra_drama": "no", 
-        "osm:education:extra_music": "no", 
-        "osm:education:extra_scouts": "no", 
-        "osm:education:extra_sports": "no", 
-        "osm:education:fees": "sponsored", 
-        "osm:education:gender_type": "mixed", 
-        "osm:education:government_grants": "no", 
-        "osm:education:government_registered": "moe", 
-        "osm:education:management_committee": "yes", 
-        "osm:education:nemis_code": "no", 
-        "osm:education:operate_as": "day_school", 
-        "osm:education:program_counselling": "yes", 
-        "osm:education:program_feeding": "yes", 
-        "osm:education:program_orphans": "yes", 
-        "osm:education:program_sanitary_towel": "no", 
-        "osm:education:program_special_needs": "yes", 
-        "osm:education:pta": "yes", 
-        "osm:education:school_head": "Sangalo Kasaya Victor", 
-        "osm:education:students": "70", 
-        "osm:education:students_female": "30", 
-        "osm:education:students_male": "40", 
-        "osm:education:teachers": "3", 
-        "osm:education:teachers_female": "3", 
-        "osm:education:teachers_trained": "3", 
-        "osm:education:type": "pre_primary", 
-        "osm:electricity:operational_status": "sometimes", 
-        "osm:id": "node/5933652808", 
-        "osm:image:classroom": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1537870585017.jpg", 
-        "osm:image:compound": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1537870610879.jpg", 
-        "osm:image:sign_post": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1537871002615.jpg", 
-        "osm:location": "kangemi", 
-        "osm:name": "Wisedorme Multi-Purpose Centre School", 
-        "osm:operator:description": "Wisedorme Multi-Purpose Center School", 
-        "osm:operator:type": "cbo", 
-        "osm:toilet:present": "yes", 
-        "osm:toilets:female": "2", 
-        "osm:toilets:handwashing": "yes", 
-        "osm:toilets:male": "2", 
-        "osm:toilets:teachers": "1", 
-        "osm:water:source": "water_tank"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          [
-            36.7532191, 
-            -1.2674641
-          ]
-        ], 
-        "type": "MultiPoint"
-      }, 
-      "properties": {
-        "osm:_timestamp": "2018-10-25", 
-        "osm:_user": "shazomojah", 
+        "osm:_timestamp": "2018-11-16", 
+        "osm:_user": "muindre", 
         "osm:accessibility": "small_cars,big_vehicles,foot", 
         "osm:amenity": "school", 
         "osm:building:classrooms": "9", 
@@ -15980,154 +15433,6 @@
         "osm:toilets:female": "2", 
         "osm:toilets:handwashing": "yes", 
         "osm:toilets:male": "2", 
-        "osm:toilets:teachers": "2", 
-        "osm:water:source": "tap"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          [
-            36.752555, 
-            -1.2673589
-          ]
-        ], 
-        "type": "MultiPoint"
-      }, 
-      "properties": {
-        "osm:_timestamp": "2018-10-22", 
-        "osm:_user": "shazomojah", 
-        "osm:accessibility": "small_cars,big_vehicles,foot", 
-        "osm:amenity": "school", 
-        "osm:building:classrooms": "8", 
-        "osm:building:levels": "0", 
-        "osm:building:material": "iron_sheet", 
-        "osm:building:roof": "iron_sheet", 
-        "osm:contact:address": "168-00625", 
-        "osm:contact:phone": "0723395313", 
-        "osm:education:bom_employed": "yes", 
-        "osm:education:bom_how_many": "7", 
-        "osm:education:curriculum": "8_4_4,2_6_3_3_3", 
-        "osm:education:exam_affiliate": "Sda school", 
-        "osm:education:exam_center": "no", 
-        "osm:education:extra_drama": "yes", 
-        "osm:education:extra_music": "yes", 
-        "osm:education:extra_other": "Debate", 
-        "osm:education:extra_scouts": "yes", 
-        "osm:education:extra_sports": "yes", 
-        "osm:education:fees": "yes", 
-        "osm:education:fees_per_year": "18000", 
-        "osm:education:gender_type": "mixed", 
-        "osm:education:government_grants": "no", 
-        "osm:education:government_registered": "APBET", 
-        "osm:education:management_committee": "yes", 
-        "osm:education:nemis_code": "yes", 
-        "osm:education:operate_as": "day_school", 
-        "osm:education:program_counselling": "yes", 
-        "osm:education:program_feeding": "no", 
-        "osm:education:program_orphans": "no", 
-        "osm:education:program_sanitary_towel": "no", 
-        "osm:education:program_special_needs": "yes", 
-        "osm:education:pta": "yes", 
-        "osm:education:school_head": "Celestine Wajoya", 
-        "osm:education:students": "100", 
-        "osm:education:students_female": "49", 
-        "osm:education:students_male": "51", 
-        "osm:education:teachers": "7", 
-        "osm:education:teachers_female": "6", 
-        "osm:education:teachers_male": "1", 
-        "osm:education:teachers_trained": "7", 
-        "osm:education:type": "primary", 
-        "osm:electricity:operational_status": "always", 
-        "osm:id": "node/5933652810", 
-        "osm:image:classroom": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1537873158700.jpg", 
-        "osm:image:compound": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1537873387191.jpg", 
-        "osm:image:sign_post": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1537873408925.jpg", 
-        "osm:location": "kangemi", 
-        "osm:name": "True Vision Education Center", 
-        "osm:operator:description": "True Vision Education Center", 
-        "osm:operator:type": "cbo", 
-        "osm:toilet:present": "yes", 
-        "osm:toilets:female": "2", 
-        "osm:toilets:handwashing": "yes", 
-        "osm:toilets:male": "2", 
-        "osm:toilets:teachers": "2", 
-        "osm:water:source": "tap"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          [
-            36.7531401, 
-            -1.2675472
-          ]
-        ], 
-        "type": "MultiPoint"
-      }, 
-      "properties": {
-        "osm:_timestamp": "2018-10-25", 
-        "osm:_user": "shazomojah", 
-        "osm:accessibility": "small_cars,big_vehicles,foot", 
-        "osm:amenity": "school", 
-        "osm:building:classrooms": "3", 
-        "osm:building:levels": "2", 
-        "osm:building:material": "concrete", 
-        "osm:building:roof": "iron_sheet", 
-        "osm:contact:address": "23326-00625", 
-        "osm:contact:phone": "0711494025", 
-        "osm:education:bom_employed": "yes", 
-        "osm:education:bom_how_many": "3", 
-        "osm:education:curriculum": "2_6_3_3_3", 
-        "osm:education:exam_center": "no", 
-        "osm:education:extra_drama": "no", 
-        "osm:education:extra_music": "no", 
-        "osm:education:extra_scouts": "no", 
-        "osm:education:extra_sports": "yes", 
-        "osm:education:fees": "yes", 
-        "osm:education:fees_admission": "1000", 
-        "osm:education:fees_exam": "100", 
-        "osm:education:fees_lunch": "0", 
-        "osm:education:fees_other": "Graduation fee 800", 
-        "osm:education:fees_per_year": "15000", 
-        "osm:education:fees_trip": "1000", 
-        "osm:education:gender_type": "mixed", 
-        "osm:education:government_grants": "no", 
-        "osm:education:government_registered": "APBET", 
-        "osm:education:management_committee": "yes", 
-        "osm:education:nemis_code": "no", 
-        "osm:education:operate_as": "day_school", 
-        "osm:education:program_counselling": "yes", 
-        "osm:education:program_feeding": "yes", 
-        "osm:education:program_feeding_description": "school_fees", 
-        "osm:education:program_orphans": "yes", 
-        "osm:education:program_sanitary_towel": "no", 
-        "osm:education:program_special_needs": "no", 
-        "osm:education:pta": "yes", 
-        "osm:education:school_head": "Wilter Obara", 
-        "osm:education:students": "106", 
-        "osm:education:students_female": "45", 
-        "osm:education:students_male": "61", 
-        "osm:education:teachers": "3", 
-        "osm:education:teachers_female": "3", 
-        "osm:education:teachers_male": "0", 
-        "osm:education:teachers_trained": "3", 
-        "osm:education:type": "pre_primary", 
-        "osm:electricity:operational_status": "always", 
-        "osm:id": "node/5933652811", 
-        "osm:image:classroom": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1537865485955.jpg", 
-        "osm:image:compound": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1537865531057.jpg", 
-        "osm:image:sign_post": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1537866093443.jpg", 
-        "osm:location": "kangemi", 
-        "osm:name": "Kangemi Seventh Day Adventist School", 
-        "osm:operator:description": "Kangemi seventh day Adventist Church", 
-        "osm:operator:type": "religious", 
-        "osm:toilet:present": "yes", 
-        "osm:toilets:female": "1", 
-        "osm:toilets:handwashing": "yes", 
-        "osm:toilets:male": "1", 
         "osm:toilets:teachers": "2", 
         "osm:water:source": "tap"
       }, 
@@ -16216,8 +15521,8 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2018-10-30", 
-        "osm:_user": "fondolucy", 
+        "osm:_timestamp": "2018-11-19", 
+        "osm:_user": "muindre", 
         "osm:accessibility": "big_vehicles", 
         "osm:amenity": "school", 
         "osm:building:classrooms": "1", 
@@ -16252,7 +15557,6 @@
         "osm:education:operate_as": "day_school", 
         "osm:education:program_counselling": "yes", 
         "osm:education:program_feeding": "no", 
-        "osm:education:program_feeding_description": "no", 
         "osm:education:program_orphans": "no", 
         "osm:education:program_sanitary_towel": "no", 
         "osm:education:program_special_needs": "no", 
@@ -16527,8 +15831,8 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2018-10-30", 
-        "osm:_user": "fondolucy", 
+        "osm:_timestamp": "2018-12-17", 
+        "osm:_user": "mueschel", 
         "osm:accessibility": "big_vehicles,foot", 
         "osm:amenity": "school", 
         "osm:building:classrooms": "2", 
@@ -16574,7 +15878,7 @@
         "osm:education:students": "10", 
         "osm:education:students_female": "3", 
         "osm:education:students_male": "7", 
-        "osm:education:teachers": "2", 
+        "osm:education:teachers": "4", 
         "osm:education:teachers_female": "1", 
         "osm:education:teachers_male": "1", 
         "osm:education:teachers_trained": "2", 
@@ -18075,8 +17379,8 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2018-10-30", 
-        "osm:_user": "kamirisam", 
+        "osm:_timestamp": "2018-12-04", 
+        "osm:_user": "muindre", 
         "osm:accessibility": "small_cars,big_vehicles,foot", 
         "osm:amenity": "school", 
         "osm:building:classrooms": "8", 
@@ -18098,7 +17402,7 @@
         "osm:education:fees": "yes", 
         "osm:education:fees_admission": "200", 
         "osm:education:fees_exam": "0", 
-        "osm:education:fees_level": "7500", 
+        "osm:education:fees_level2": "7500", 
         "osm:education:fees_level3": "7500", 
         "osm:education:fees_lunch": "0", 
         "osm:education:fees_other": "trip_fees_depends_on_destination", 
@@ -18120,7 +17424,7 @@
         "osm:education:program_special_needs": "no", 
         "osm:education:pta": "yes", 
         "osm:education:school_head": "Patrick Aluda", 
-        "osm:education:students": "250", 
+        "osm:education:students": "260", 
         "osm:education:students_female": "114", 
         "osm:education:students_male": "146", 
         "osm:education:teachers": "10", 
@@ -18812,8 +18116,8 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2018-10-19", 
-        "osm:_user": "shazomojah", 
+        "osm:_timestamp": "2018-11-19", 
+        "osm:_user": "muindre", 
         "osm:accessibility": "small_cars,big_vehicles,foot", 
         "osm:amenity": "school", 
         "osm:building:classrooms": "1", 
@@ -18849,7 +18153,6 @@
         "osm:education:operate_as": "day_school", 
         "osm:education:program_counselling": "yes", 
         "osm:education:program_feeding": "central_feeding", 
-        "osm:education:program_feeding_description": "none", 
         "osm:education:program_orphans": "yes", 
         "osm:education:program_other": "none", 
         "osm:education:program_sanitary_towel": "no", 
@@ -18893,8 +18196,8 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2018-10-30", 
-        "osm:_user": "kamirisam", 
+        "osm:_timestamp": "2018-11-19", 
+        "osm:_user": "muindre", 
         "osm:accessibility": "small_cars,big_vehicles,foot", 
         "osm:amenity": "school", 
         "osm:building:classrooms": "9", 
@@ -18931,7 +18234,6 @@
         "osm:education:operate_as": "day_school", 
         "osm:education:program_counselling": "yes", 
         "osm:education:program_feeding": "central_feeding", 
-        "osm:education:program_feeding_description": "none", 
         "osm:education:program_orphans": "yes", 
         "osm:education:program_sanitary_towel": "no", 
         "osm:education:program_special_needs": "no", 
@@ -18974,8 +18276,8 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2018-10-30", 
-        "osm:_user": "kamirisam", 
+        "osm:_timestamp": "2018-12-17", 
+        "osm:_user": "mueschel", 
         "osm:accessibility": "small_cars,big_vehicles,foot", 
         "osm:amenity": "school", 
         "osm:building:classrooms": "3", 
@@ -19012,7 +18314,6 @@
         "osm:education:operate_as": "day_school", 
         "osm:education:program_counselling": "no", 
         "osm:education:program_feeding": "central_feeding", 
-        "osm:education:program_feeding_description": "none", 
         "osm:education:program_orphans": "yes", 
         "osm:education:program_sanitary_towel": "no", 
         "osm:education:program_special_needs": "no", 
@@ -19021,7 +18322,7 @@
         "osm:education:students": "100", 
         "osm:education:students_female": "60", 
         "osm:education:students_male": "40", 
-        "osm:education:teachers": "1", 
+        "osm:education:teachers": "2", 
         "osm:education:teachers_female": "2", 
         "osm:education:teachers_male": "0", 
         "osm:education:teachers_trained": "1", 
@@ -19055,8 +18356,8 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2018-10-30", 
-        "osm:_user": "Peter Agenga", 
+        "osm:_timestamp": "2018-11-19", 
+        "osm:_user": "muindre", 
         "osm:accessibility": "small_cars,big_vehicles,foot", 
         "osm:amenity": "school", 
         "osm:building:classrooms": "2", 
@@ -19091,7 +18392,6 @@
         "osm:education:operate_as": "day_school", 
         "osm:education:program_counselling": "no", 
         "osm:education:program_feeding": "central_feeding", 
-        "osm:education:program_feeding_description": "none", 
         "osm:education:program_orphans": "no", 
         "osm:education:program_other": "sponsorship_to_pupils", 
         "osm:education:program_sanitary_towel": "no", 
@@ -19134,8 +18434,8 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2018-10-25", 
-        "osm:_user": "Peter Agenga", 
+        "osm:_timestamp": "2018-11-19", 
+        "osm:_user": "muindre", 
         "osm:accessibility": "small_cars,big_vehicles,foot", 
         "osm:amenity": "school", 
         "osm:building:classrooms": "2", 
@@ -19172,7 +18472,6 @@
         "osm:education:operate_as": "day_school", 
         "osm:education:program_counselling": "none", 
         "osm:education:program_feeding": "central_feeding", 
-        "osm:education:program_feeding_description": "none", 
         "osm:education:program_orphans": "no", 
         "osm:education:program_other": "sponsorship_of_pupils", 
         "osm:education:program_sanitary_towel": "no", 
@@ -19291,60 +18590,15 @@
       "geometry": {
         "coordinates": [
           [
-            36.7465286, 
-            -1.2396733
+            36.7468768, 
+            -1.2394815
           ]
         ], 
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2018-10-18", 
-        "osm:_user": "fondolucy", 
-        "osm:accessibility": "big_vehicles", 
-        "osm:amenity": "school", 
-        "osm:building:material": "cement_block", 
-        "osm:building:roof": "iron_sheet", 
-        "osm:education:bom_employed": "yes", 
-        "osm:education:curriculum": "8_4_4,2_6_3_3_3", 
-        "osm:education:exam_center": "yes", 
-        "osm:education:fees": "free_education", 
-        "osm:education:gender_type": "mixed", 
-        "osm:education:government_grants": "yes", 
-        "osm:education:government_registered": "moe", 
-        "osm:education:management_committee": "yes", 
-        "osm:education:mean_score": "None", 
-        "osm:education:nemis_code": "yes", 
-        "osm:education:operate_as": "day_school", 
-        "osm:education:program_feeding": "yes", 
-        "osm:education:program_feeding_description": "feed_the_child", 
-        "osm:education:school_head": "Margret Onyando", 
-        "osm:education:tsc_employed": "yes", 
-        "osm:education:type": "primary", 
-        "osm:id": "node/5948144500", 
-        "osm:image:sign_post": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1538382724322.jpg", 
-        "osm:location": "kangemi", 
-        "osm:name": "Lower Kabete Primary School", 
-        "osm:operator:description": "Government of Kenya", 
-        "osm:operator:type": "government", 
-        "osm:toilet:present": "yes", 
-        "osm:toilets:handwashing": "yes", 
-        "osm:water:source": "tap"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          [
-            36.7463272, 
-            -1.2397078
-          ]
-        ], 
-        "type": "MultiPoint"
-      }, 
-      "properties": {
-        "osm:_timestamp": "2018-10-30", 
-        "osm:_user": "fondolucy", 
+        "osm:_timestamp": "2018-12-30", 
+        "osm:_user": "Ido Marom", 
         "osm:accessibility": "big_vehicles", 
         "osm:amenity": "school", 
         "osm:building:material": "cement_block", 
@@ -20026,15 +19280,15 @@
       "geometry": {
         "coordinates": [
           [
-            36.8141372, 
-            -1.2536254
+            36.8141414, 
+            -1.2536573
           ]
         ], 
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2018-10-30", 
-        "osm:_user": "fondolucy", 
+        "osm:_timestamp": "2018-11-16", 
+        "osm:_user": "muindre", 
         "osm:accessibility": "foot", 
         "osm:amenity": "school", 
         "osm:building:classrooms": "1", 
@@ -20176,15 +19430,15 @@
       "geometry": {
         "coordinates": [
           [
-            36.8126725, 
-            -1.2537237
+            36.8126753, 
+            -1.2537293
           ]
         ], 
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2018-10-30", 
-        "osm:_user": "fondolucy", 
+        "osm:_timestamp": "2018-11-16", 
+        "osm:_user": "muindre", 
         "osm:accessibility": "small_cars,big_vehicles,foot", 
         "osm:amenity": "school", 
         "osm:building:classrooms": "3", 
@@ -20231,92 +19485,15 @@
         "osm:electricity:operational_status": "always", 
         "osm:id": "node/5948174015", 
         "osm:location": "kangemi", 
-        "osm:name": "Deep-sea Nursery School", 
+        "osm:name": "Deep-Sea Nursery School", 
         "osm:operator:description": "Catholic Church", 
         "osm:operator:type": "religious", 
         "osm:toilet:present": "yes", 
-        "osm:toilet:teachers": "0", 
-        "osm:toilets:female": "0", 
-        "osm:toilets:handwashing": "yes", 
-        "osm:toilets:male": "0", 
-        "osm:water:source": "water_tank"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          [
-            36.8133039, 
-            -1.2533431
-          ]
-        ], 
-        "type": "MultiPoint"
-      }, 
-      "properties": {
-        "osm:_timestamp": "2018-10-30", 
-        "osm:_user": "fondolucy", 
-        "osm:accessibility": "foot", 
-        "osm:amenity": "school", 
-        "osm:building:classrooms": "1", 
-        "osm:building:levels": "0", 
-        "osm:building:material": "iron_sheet", 
-        "osm:building:roof": "iron_sheet", 
-        "osm:contact:address": "0", 
-        "osm:contact:email": "None", 
-        "osm:contact:phone": "0721739813", 
-        "osm:education:bom_employed": "yes", 
-        "osm:education:bom_how_many": "1", 
-        "osm:education:curriculum": "8_4_4", 
-        "osm:education:exam_center": "no", 
-        "osm:education:extra_drama": "no", 
-        "osm:education:extra_music": "no", 
-        "osm:education:extra_scouts": "no", 
-        "osm:education:extra_sports": "yes", 
-        "osm:education:fees": "yes", 
-        "osm:education:fees_admission": "0", 
-        "osm:education:fees_exam": "0", 
-        "osm:education:fees_lunch": "20", 
-        "osm:education:fees_per_year": "1500", 
-        "osm:education:fees_trip": "0", 
-        "osm:education:gender_type": "mixed", 
-        "osm:education:government_grants": "no", 
-        "osm:education:government_registered": "moe", 
-        "osm:education:management_committee": "no", 
-        "osm:education:nemis_code": "no", 
-        "osm:education:operate_as": "day_school", 
-        "osm:education:program_counselling": "yes", 
-        "osm:education:program_feeding": "yes", 
-        "osm:education:program_feeding_description": "school_fees", 
-        "osm:education:program_orphans": "no", 
-        "osm:education:program_sanitary_towel": "no", 
-        "osm:education:program_special_needs": "no", 
-        "osm:education:school_head": "Rose Gakumo", 
-        "osm:education:students": "36", 
-        "osm:education:students_female": "13", 
-        "osm:education:students_male": "23", 
-        "osm:education:teachers": "1", 
-        "osm:education:teachers_female": "1", 
-        "osm:education:teachers_male": "0", 
-        "osm:education:teachers_trained": "1", 
-        "osm:education:type": "pre_primary", 
-        "osm:electricity:operational_status": "never", 
-        "osm:id": "node/5948174021", 
-        "osm:image:classroom": "1537949925402.jpg", 
-        "osm:image:compound": "1537950073146.jpg", 
-        "osm:image:sign_post": "1537949901718.jpg", 
-        "osm:location": "kangemi", 
-        "osm:name": "Dashiki Learning Centre", 
-        "osm:operator:description": "Dashiki Learning Centre", 
-        "osm:operator:type": "cbo", 
-        "osm:pta": "no", 
-        "osm:toilet:arranged_name": "Consolata Toilet Projet", 
-        "osm:toilet:present": "arranged", 
         "osm:toilets:female": "0", 
         "osm:toilets:handwashing": "yes", 
         "osm:toilets:male": "0", 
         "osm:toilets:teachers": "0", 
-        "osm:water:source": "tap"
+        "osm:water:source": "water_tank"
       }, 
       "type": "Feature"
     }, 
@@ -20554,16 +19731,17 @@
       "geometry": {
         "coordinates": [
           [
-            36.7549047, 
-            -1.2638577
+            36.7548853, 
+            -1.2642437
           ]
         ], 
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2018-10-02", 
-        "osm:_user": "shazomojah", 
+        "osm:_timestamp": "2018-12-05", 
+        "osm:_user": "muindre", 
         "osm:amenity": "school", 
+        "osm:education:type": "pre_primary", 
         "osm:id": "node/5948174101", 
         "osm:location": "kangemi", 
         "osm:name": "Fairmile School"
@@ -20581,9 +19759,10 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2018-10-02", 
-        "osm:_user": "shazomojah", 
+        "osm:_timestamp": "2018-12-05", 
+        "osm:_user": "muindre", 
         "osm:amenity": "school", 
+        "osm:education:type": "secondary", 
         "osm:id": "node/5948174102", 
         "osm:location": "kangemi", 
         "osm:name": "Kianda School"
@@ -20678,8 +19857,8 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2018-10-25", 
-        "osm:_user": "shazomojah", 
+        "osm:_timestamp": "2018-11-13", 
+        "osm:_user": "muindre", 
         "osm:accessibility": "small_cars,big_vehicles,foot", 
         "osm:amenity": "school", 
         "osm:building:classrooms": "2", 
@@ -20723,7 +19902,6 @@
         "osm:education:teachers_female": "2", 
         "osm:education:teachers_male": "0", 
         "osm:education:teachers_trained": "2", 
-        "osm:education:tsc_employed": "0", 
         "osm:education:type": "pre_primary", 
         "osm:electricity:operational_status": "always", 
         "osm:id": "node/5948174106", 
@@ -21178,8 +20356,8 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2018-10-19", 
-        "osm:_user": "Peter Agenga", 
+        "osm:_timestamp": "2018-11-13", 
+        "osm:_user": "muindre", 
         "osm:accessibility": "small_cars,big_vehicles,foot", 
         "osm:amenity": "school", 
         "osm:building:classrooms": "8", 
@@ -21231,8 +20409,6 @@
         "osm:education:teachers_female": "1", 
         "osm:education:teachers_male": "5", 
         "osm:education:teachers_trained": "2", 
-        "osm:education:tsc_employed": "none", 
-        "osm:education:tsc_how_many": "0", 
         "osm:education:type": "primary", 
         "osm:electricity:operational_status": "sometimes", 
         "osm:id": "node/5948282116", 
@@ -21339,15 +20515,15 @@
       "geometry": {
         "coordinates": [
           [
-            36.7522367, 
-            -1.2716617
+            36.7522506, 
+            -1.2716575
           ]
         ], 
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2018-10-25", 
-        "osm:_user": "Peter Agenga", 
+        "osm:_timestamp": "2018-11-19", 
+        "osm:_user": "muindre", 
         "osm:accessibility": "small_cars,big_vehicles,foot", 
         "osm:amenity": "school", 
         "osm:building:classrooms": "4", 
@@ -21384,7 +20560,6 @@
         "osm:education:operate_as": "day_school", 
         "osm:education:program_counselling": "yes", 
         "osm:education:program_feeding": "central_feeding", 
-        "osm:education:program_feeding_description": "none", 
         "osm:education:program_orphans": "yes", 
         "osm:education:program_other": "none", 
         "osm:education:program_sanitary_towel": "no", 
@@ -21398,8 +20573,6 @@
         "osm:education:teachers_female": "1", 
         "osm:education:teachers_male": "3", 
         "osm:education:teachers_trained": "1", 
-        "osm:education:tsc_employed": "none", 
-        "osm:education:tsc_how_many": "0", 
         "osm:education:type": "primary", 
         "osm:electricity:operational_status": "always", 
         "osm:id": "node/5948282120", 
@@ -21430,8 +20603,8 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2018-10-18", 
-        "osm:_user": "Peter Agenga", 
+        "osm:_timestamp": "2018-11-19", 
+        "osm:_user": "muindre", 
         "osm:accessibility": "small_cars,big_vehicles,foot", 
         "osm:amenity": "school", 
         "osm:building:classrooms": "3", 
@@ -21468,7 +20641,6 @@
         "osm:education:operate_as": "day_school", 
         "osm:education:program_counselling": "yes", 
         "osm:education:program_feeding": "central_feeding", 
-        "osm:education:program_feeding_description": "none", 
         "osm:education:program_orphans": "yes", 
         "osm:education:program_other": "sponsorship", 
         "osm:education:program_sanitary_towel": "no", 
@@ -21482,8 +20654,6 @@
         "osm:education:teachers_female": "3", 
         "osm:education:teachers_male": "1", 
         "osm:education:teachers_trained": "2", 
-        "osm:education:tsc_employed": "none", 
-        "osm:education:tsc_how_many": "0", 
         "osm:education:type": "pre_primary", 
         "osm:electricity:operational_status": "always", 
         "osm:id": "node/5948282121", 
@@ -21514,8 +20684,8 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2018-10-30", 
-        "osm:_user": "Peter Agenga", 
+        "osm:_timestamp": "2018-11-19", 
+        "osm:_user": "muindre", 
         "osm:accessibility": "small_cars,big_vehicles,foot", 
         "osm:amenity": "school", 
         "osm:building:classrooms": "8", 
@@ -21552,7 +20722,6 @@
         "osm:education:operate_as": "day_school", 
         "osm:education:program_counselling": "yes", 
         "osm:education:program_feeding": "central_feeding", 
-        "osm:education:program_feeding_description": "none", 
         "osm:education:program_orphans": "yes", 
         "osm:education:program_other": "none", 
         "osm:education:program_sanitary_towel": "no", 
@@ -21566,8 +20735,6 @@
         "osm:education:teachers_female": "7", 
         "osm:education:teachers_male": "2", 
         "osm:education:teachers_trained": "5", 
-        "osm:education:tsc_employed": "none", 
-        "osm:education:tsc_how_many": "0", 
         "osm:education:type": "primary", 
         "osm:electricity:operational_status": "always", 
         "osm:id": "node/5948282122", 
@@ -21598,8 +20765,8 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2018-10-25", 
-        "osm:_user": "Peter Agenga", 
+        "osm:_timestamp": "2018-11-19", 
+        "osm:_user": "muindre", 
         "osm:accessibility": "small_cars,big_vehicles,foot", 
         "osm:amenity": "school", 
         "osm:building:classrooms": "2", 
@@ -21629,14 +20796,13 @@
         "osm:education:fees_trip": "0", 
         "osm:education:gender_type": "mixed", 
         "osm:education:government_grants": "no", 
-        "osm:education:government_registered": "yes", 
+        "osm:education:government_registered": "moe", 
         "osm:education:management_committee": "no", 
         "osm:education:mean_score": "none", 
         "osm:education:nemis_code": "yes", 
         "osm:education:operate_as": "day_school", 
         "osm:education:program_counselling": "yes", 
         "osm:education:program_feeding": "central_feeding", 
-        "osm:education:program_feeding_description": "none", 
         "osm:education:program_orphans": "yes", 
         "osm:education:program_other": "none", 
         "osm:education:program_sanitary_towel": "no", 
@@ -21650,8 +20816,6 @@
         "osm:education:teachers_female": "2", 
         "osm:education:teachers_male": "0", 
         "osm:education:teachers_trained": "2", 
-        "osm:education:tsc_employed": "none", 
-        "osm:education:tsc_how_many": "0", 
         "osm:education:type": "pre_primary", 
         "osm:electricity:operational_status": "always", 
         "osm:id": "node/5948282123", 
@@ -22081,8 +21245,8 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2018-10-30", 
-        "osm:_user": "fondolucy", 
+        "osm:_timestamp": "2018-11-13", 
+        "osm:_user": "muindre", 
         "osm:accessibility": "small_cars,big_vehicles,foot", 
         "osm:amenity": "school", 
         "osm:building:classrooms": "0", 
@@ -22092,6 +21256,8 @@
         "osm:contact:address": "40419-00100", 
         "osm:contact:email": "admin@taaleemulislaam.com", 
         "osm:contact:phone": "0732778866", 
+        "osm:education:bom_employed": "yes", 
+        "osm:education:bom_how_many": "4", 
         "osm:education:curriculum": "gcse", 
         "osm:education:exam_center": "no", 
         "osm:education:extra_drama": "no", 
@@ -22126,8 +21292,6 @@
         "osm:education:teachers_trained": "4", 
         "osm:education:tsc_employed": "no", 
         "osm:education:type": "pre_primary", 
-        "osm:education_bom_employed": "yes", 
-        "osm:education_bom_how_many": "4", 
         "osm:electricity:operational_status": "always", 
         "osm:id": "node/5948376940", 
         "osm:image:classroom": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1538382275398.jpg", 
@@ -22393,8 +21557,8 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2018-10-30", 
-        "osm:_user": "kamirisam", 
+        "osm:_timestamp": "2018-12-05", 
+        "osm:_user": "muindre", 
         "osm:accessibility": "small_cars,big_vehicles,foot", 
         "osm:amenity": "school", 
         "osm:building:material": "cement_block", 
@@ -22403,7 +21567,8 @@
         "osm:education:fees": "free_education", 
         "osm:education:gender_type": "mixed", 
         "osm:education:government_grants": "yes", 
-        "osm:education:government_registered": "yes", 
+        "osm:education:government_registered": "moe", 
+        "osm:education:type": "primary", 
         "osm:id": "node/5953218907", 
         "osm:location": "kangemi", 
         "osm:name": "Westlands Primary School", 
@@ -22491,81 +21656,6 @@
       "geometry": {
         "coordinates": [
           [
-            36.8141372, 
-            -1.2536254
-          ]
-        ], 
-        "type": "MultiPoint"
-      }, 
-      "properties": {
-        "osm:_timestamp": "2018-10-24", 
-        "osm:_user": "fondolucy", 
-        "osm:accessibility": "foot", 
-        "osm:amenity": "school", 
-        "osm:building:classrooms": "1", 
-        "osm:building:levels": "0", 
-        "osm:building:material": "iron_sheet", 
-        "osm:building:roof": "iron_sheet", 
-        "osm:contact:address": "16774-00620", 
-        "osm:contact:email": "emilymukiri24@gmail.com", 
-        "osm:contact:phone": "722626374", 
-        "osm:education:bom_employed": "no", 
-        "osm:education:curriculum": "2_6_3_3_3", 
-        "osm:education:exam_center": "no", 
-        "osm:education:extra_drama": "no", 
-        "osm:education:extra_music": "no", 
-        "osm:education:extra_scouts": "no", 
-        "osm:education:extra_sports": "yes", 
-        "osm:education:fees": "yes", 
-        "osm:education:fees_admission": "0", 
-        "osm:education:fees_exam": "0", 
-        "osm:education:fees_lunch": "0", 
-        "osm:education:fees_per_year": "6000", 
-        "osm:education:fees_trip": "0", 
-        "osm:education:gender_type": "mixed", 
-        "osm:education:government_grants": "no", 
-        "osm:education:government_registered": "mgcsd", 
-        "osm:education:management_committee": "no", 
-        "osm:education:nemis_code": "no", 
-        "osm:education:operate_as": "day_school", 
-        "osm:education:program_counselling": "yes", 
-        "osm:education:program_feeding": "yes", 
-        "osm:education:program_feeding_description": "school_fees", 
-        "osm:education:program_orphans": "no", 
-        "osm:education:program_sanitary_towel": "no", 
-        "osm:education:program_special_needs": "no", 
-        "osm:education:pta": "no", 
-        "osm:education:school_head": "Rosemary Mahungu", 
-        "osm:education:students": "40", 
-        "osm:education:students_female": "20", 
-        "osm:education:students_male": "20", 
-        "osm:education:teachers": "2", 
-        "osm:education:teachers_female": "2", 
-        "osm:education:teachers_male": "0", 
-        "osm:education:teachers_trained": "2", 
-        "osm:education:type": "pre_primary", 
-        "osm:electricity:operational_status": "sometimes", 
-        "osm:id": "node/5953268875", 
-        "osm:image:classroom": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1537951235138.jpg", 
-        "osm:image:compound": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1537951429841.jpg", 
-        "osm:image:sign_post": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1537951346795.jpg", 
-        "osm:location": "kangemi", 
-        "osm:name": "Little Saints Pre-School", 
-        "osm:operator:description": "Private", 
-        "osm:operator:type": "private", 
-        "osm:toilet:present": "yes", 
-        "osm:toilets:female": "2", 
-        "osm:toilets:handwashing": "yes", 
-        "osm:toilets:male": "2", 
-        "osm:toilets:teachers": "2", 
-        "osm:water:source": "tap"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          [
             36.816685, 
             -1.256
           ]
@@ -22641,154 +21731,6 @@
       "geometry": {
         "coordinates": [
           [
-            36.8126725, 
-            -1.2537237
-          ]
-        ], 
-        "type": "MultiPoint"
-      }, 
-      "properties": {
-        "osm:_timestamp": "2018-10-22", 
-        "osm:_user": "shazomojah", 
-        "osm:accessibility": "small_cars,big_vehicles,foot", 
-        "osm:amenity": "school", 
-        "osm:building:classrooms": "3", 
-        "osm:building:levels": "0", 
-        "osm:building:material": "concrete", 
-        "osm:building:roof": "iron_sheet", 
-        "osm:contact:address": "0", 
-        "osm:contact:email": "None", 
-        "osm:contact:phone": "722615105", 
-        "osm:education:bom_employed": "no", 
-        "osm:education:curriculum": "2_6_3_3_3", 
-        "osm:education:exam_center": "no", 
-        "osm:education:extra_drama": "no", 
-        "osm:education:extra_music": "no", 
-        "osm:education:extra_scouts": "no", 
-        "osm:education:extra_sports": "no", 
-        "osm:education:fees": "yes", 
-        "osm:education:fees_admission": "0", 
-        "osm:education:fees_exam": "0", 
-        "osm:education:fees_lunch": "0", 
-        "osm:education:fees_per_year": "0", 
-        "osm:education:fees_trip": "0", 
-        "osm:education:gender_type": "mixed", 
-        "osm:education:government_grants": "no", 
-        "osm:education:government_registered": "no", 
-        "osm:education:management_committee": "no", 
-        "osm:education:nemis_code": "no", 
-        "osm:education:operate_as": "day_school", 
-        "osm:education:program_counselling": "no", 
-        "osm:education:program_feeding": "no", 
-        "osm:education:program_orphans": "no", 
-        "osm:education:program_sanitary_towel": "no", 
-        "osm:education:program_special_needs": "no", 
-        "osm:education:pta": "no", 
-        "osm:education:school_head": "Not applicable", 
-        "osm:education:students": "0", 
-        "osm:education:students_female": "0", 
-        "osm:education:students_male": "0", 
-        "osm:education:teachers": "0", 
-        "osm:education:teachers_female": "0", 
-        "osm:education:teachers_male": "0", 
-        "osm:education:teachers_trained": "0", 
-        "osm:education:type": "pre_primary", 
-        "osm:electricity:operational_status": "always", 
-        "osm:id": "node/5953268877", 
-        "osm:location": "kangemi", 
-        "osm:name": "Deep-sea Nursery School", 
-        "osm:operator:description": "Catholic Church", 
-        "osm:operator:type": "religious", 
-        "osm:toilet:present": "yes", 
-        "osm:toilets:female": "0", 
-        "osm:toilets:handwashing": "yes", 
-        "osm:toilets:male": "0", 
-        "osm:toilets:teachers": "0", 
-        "osm:water:source": "water_tank"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          [
-            36.8133039, 
-            -1.2533431
-          ]
-        ], 
-        "type": "MultiPoint"
-      }, 
-      "properties": {
-        "osm:_timestamp": "2018-10-24", 
-        "osm:_user": "fondolucy", 
-        "osm:accessibility": "foot", 
-        "osm:amenity": "school", 
-        "osm:building:classrooms": "1", 
-        "osm:building:levels": "0", 
-        "osm:building:material": "iron_sheet", 
-        "osm:building:roof": "iron_sheet", 
-        "osm:contact:address": "0", 
-        "osm:contact:email": "None", 
-        "osm:contact:phone": "721739813", 
-        "osm:education:bom_employed": "yes", 
-        "osm:education:bom_how_many": "1", 
-        "osm:education:curriculum": "8_4_4", 
-        "osm:education:exam_center": "no", 
-        "osm:education:extra_drama": "no", 
-        "osm:education:extra_music": "no", 
-        "osm:education:extra_scouts": "no", 
-        "osm:education:extra_sports": "yes", 
-        "osm:education:fees": "yes", 
-        "osm:education:fees_admission": "0", 
-        "osm:education:fees_exam": "0", 
-        "osm:education:fees_lunch": "20", 
-        "osm:education:fees_per_year": "1500", 
-        "osm:education:fees_trip": "0", 
-        "osm:education:gender_type": "mixed", 
-        "osm:education:government_grants": "no", 
-        "osm:education:government_registered": "mgcsd", 
-        "osm:education:management_committee": "no", 
-        "osm:education:nemis_code": "no", 
-        "osm:education:operate_as": "day_school", 
-        "osm:education:program_counselling": "yes", 
-        "osm:education:program_feeding": "yes", 
-        "osm:education:program_feeding_description": "school_fees", 
-        "osm:education:program_orphans": "no", 
-        "osm:education:program_sanitary_towel": "no", 
-        "osm:education:program_special_needs": "no", 
-        "osm:education:pta": "no", 
-        "osm:education:school_head": "Rose Gakumo", 
-        "osm:education:students": "36", 
-        "osm:education:students_female": "13", 
-        "osm:education:students_male": "23", 
-        "osm:education:teachers": "1", 
-        "osm:education:teachers_female": "1", 
-        "osm:education:teachers_male": "0", 
-        "osm:education:teachers_trained": "1", 
-        "osm:education:type": "pre_primary", 
-        "osm:electricity:operational_status": "never", 
-        "osm:id": "node/5953268883", 
-        "osm:image:classroom": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1537949925402.jpg", 
-        "osm:image:compound": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1537950073146.jpg", 
-        "osm:image:sign_post": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1537949901718.jpg", 
-        "osm:location": "kangemi", 
-        "osm:name": "Dashiki Learning Centre", 
-        "osm:operator:description": "Dashiki Learning Centre", 
-        "osm:operator:type": "cbo", 
-        "osm:toilet:arranged_name": "Consolata Toilet Projet", 
-        "osm:toilet:present": "arranged", 
-        "osm:toilets:female": "0", 
-        "osm:toilets:handwashing": "yes", 
-        "osm:toilets:male": "0", 
-        "osm:toilets:teachers": "0", 
-        "osm:water:source": "tap"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          [
             36.7445419, 
             -1.2734888
           ]
@@ -22796,8 +21738,8 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2018-10-30", 
-        "osm:_user": "fondolucy", 
+        "osm:_timestamp": "2018-11-19", 
+        "osm:_user": "muindre", 
         "osm:accessibility": "big_vehicles", 
         "osm:amenity": "school", 
         "osm:building:material": "wood,iron_sheet", 
@@ -22831,7 +21773,6 @@
         "osm:education:operate_as": "day_school", 
         "osm:education:program_counselling": "yes", 
         "osm:education:program_feeding": "no", 
-        "osm:education:program_feeding_description": "no", 
         "osm:education:program_orphans": "yes", 
         "osm:education:program_sanitary_towel": "no", 
         "osm:education:program_special_needs": "yes", 
@@ -22873,8 +21814,8 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2018-10-18", 
-        "osm:_user": "fondolucy", 
+        "osm:_timestamp": "2018-11-19", 
+        "osm:_user": "muindre", 
         "osm:accessibility": "big_vehicles,foot", 
         "osm:amenity": "school", 
         "osm:building:material": "wood,iron_sheet", 
@@ -22908,7 +21849,6 @@
         "osm:education:operate_as": "day_school", 
         "osm:education:program_counselling": "yes", 
         "osm:education:program_feeding": "no", 
-        "osm:education:program_feeding_description": "no", 
         "osm:education:program_orphans": "yes", 
         "osm:education:program_sanitary_towel": "no", 
         "osm:education:program_special_needs": "yes", 

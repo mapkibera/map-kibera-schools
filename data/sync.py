@@ -26,9 +26,11 @@ def writefile(file_name, buf):
   myFile.close()
 
 def url2file(url,file_name):
-  req = urllib2.Request(url)
   try:
+    req = urllib2.Request(url)
     rsp = urllib2.urlopen(req)
+  except ValueError:
+    return
   except urllib2.HTTPError, err:
     print str(err.code) + " " + url
     return
@@ -263,9 +265,9 @@ def deploy():
 #TODO make command line configurable .. Fabric?
 #kenyaopendata()
 #filter_kenyaopendata()
-#sync_osm()
-#convert2geojson()
-#compare_osm_kenyaopendata()
+sync_osm()
+convert2geojson()
+compare_osm_kenyaopendata()
 cache_images()
 deploy()
 

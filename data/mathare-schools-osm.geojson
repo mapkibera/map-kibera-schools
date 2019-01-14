@@ -1277,12 +1277,13 @@
       }, 
       "id": "node/1111566365", 
       "properties": {
-        "osm:_timestamp": "2011-01-20", 
-        "osm:_user": "hassanow", 
+        "osm:_timestamp": "2018-12-03", 
+        "osm:_user": "Humus015", 
         "osm:amenity": "school", 
         "osm:id": "node/1111566365", 
         "osm:location": "mathare", 
-        "osm:name": "ARK PRIMARY SCHOOL"
+        "osm:name": "ARK PRIMARY SCHOOL", 
+        "osm:name:it": "Ark"
       }, 
       "type": "Feature"
     }, 
@@ -1790,12 +1791,13 @@
       }, 
       "id": "node/1123201169", 
       "properties": {
-        "osm:_timestamp": "2011-01-27", 
-        "osm:_user": "hassanow", 
+        "osm:_timestamp": "2018-12-03", 
+        "osm:_user": "Humus015", 
         "osm:amenity": "school", 
         "osm:id": "node/1123201169", 
         "osm:location": "mathare", 
-        "osm:name": "Genesis primary school"
+        "osm:name": "Genesis primary school", 
+        "osm:name:it": "Genesis"
       }, 
       "type": "Feature"
     }, 

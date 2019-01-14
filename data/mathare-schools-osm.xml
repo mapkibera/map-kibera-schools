@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="Overpass API 0.7.55.4 3079d8ea">
+<osm version="0.6" generator="Overpass API 0.7.55.5 2ca3f387">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2018-11-07T13:45:02Z"/>
+<meta osm_base="2019-01-14T16:49:02Z"/>
 
   <bounds minlat="-1.2673000" minlon="36.8427000" maxlat="-1.2479000" maxlon="36.8792000"/>
 
@@ -552,9 +552,10 @@
     <tag k="amenity" v="school"/>
     <tag k="name" v="Liance Driving School"/>
   </node>
-  <node id="1111566365" lat="-1.2560797" lon="36.8752499" version="1" timestamp="2011-01-20T12:39:50Z" changeset="7030067" uid="261848" user="hassanow">
+  <node id="1111566365" lat="-1.2560797" lon="36.8752499" version="2" timestamp="2018-12-03T06:12:30Z" changeset="65113705" uid="3252237" user="Humus015">
     <tag k="amenity" v="school"/>
     <tag k="name" v="ARK PRIMARY SCHOOL"/>
+    <tag k="name:it" v="Ark"/>
   </node>
   <node id="1111566381" lat="-1.2568502" lon="36.8762892" version="2" timestamp="2011-01-20T18:42:57Z" changeset="7033101" uid="70696" user="xybot">
     <tag k="amenity" v="school"/>
@@ -660,9 +661,10 @@
     <tag k="amenity" v="school"/>
     <tag k="name" v="Josam Academy"/>
   </node>
-  <node id="1123201169" lat="-1.2582719" lon="36.8704697" version="1" timestamp="2011-01-27T09:31:58Z" changeset="7101547" uid="261848" user="hassanow">
+  <node id="1123201169" lat="-1.2582719" lon="36.8704697" version="2" timestamp="2018-12-03T06:12:29Z" changeset="65113705" uid="3252237" user="Humus015">
     <tag k="amenity" v="school"/>
     <tag k="name" v="Genesis primary school"/>
+    <tag k="name:it" v="Genesis"/>
   </node>
   <node id="1123201207" lat="-1.2581721" lon="36.8704249" version="1" timestamp="2011-01-27T09:32:00Z" changeset="7101547" uid="261848" user="hassanow">
     <tag k="amenity" v="school"/>
