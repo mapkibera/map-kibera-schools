@@ -204,21 +204,21 @@ def cache_image(osm_id, osm_name, img_type, img_url):
       #print "orig image error " + cache_dir + 'orig' + fileExtension
       return
 
-    size = 300, 225
-    if not os.path.exists(cache_dir + 'med' + fileExtension):
+    size = 1200, 900
+    if not os.path.exists(cache_dir + 'large' + fileExtension): 
       try:
         im.thumbnail(size)
-        im.save(cache_dir + 'med' + fileExtension)
+        im.save(cache_dir + 'large' + fileExtension)
       except KeyError:
         print "IMAGE ERROR,unknown extension," + osm_name + ",http://www.osm.org/" + osm_id + "," + img_type + "," + img_url
         #print "unknown extension error " + cache_dir + 'med' + fileExtension
         return
 
-    size = 1200, 900
-    if not os.path.exists(cache_dir + 'large' + fileExtension):
+    size = 300, 225
+    if not os.path.exists(cache_dir + 'med' + fileExtension):
       try:
         im.thumbnail(size)
-        im.save(cache_dir + 'large' + fileExtension)
+        im.save(cache_dir + 'med' + fileExtension)
       except KeyError:
         print "IMAGE ERROR,unknown extension," + osm_name + ",http://www.osm.org/" + osm_id + "," + img_type + "," + img_url
         #print "unknown extension error " + cache_dir + 'med' + fileExtension
@@ -265,10 +265,10 @@ def deploy():
 #TODO make command line configurable .. Fabric?
 #kenyaopendata()
 #filter_kenyaopendata()
-sync_osm()
-convert2geojson()
-compare_osm_kenyaopendata()
-cache_images()
+#sync_osm()
+#convert2geojson()
+#compare_osm_kenyaopendata()
+#cache_images()
 deploy()
 
 #TODO generate statistics on each run of comparison results
