@@ -41,13 +41,13 @@ def url2file(url,file_name):
 def sync_osm():
   kibera = "36.7651,-1.3211,36.8178,-1.3009"
   mathare = "36.8430,-1.2679,36.8790,-1.2489"
-  kangemi = "36.71974182128906,-1.2741373729175498,36.818275451660156,-1.225568762742616"
+  kangemi = "36.71167,-1.28065,36.82926,-1.20960"
   mathare = "36.8427,-1.2673,36.8792,-1.2479"
   url_base = "http://overpass-api.de/api/interpreter?data=[bbox];node['education:type'];out%20meta;&bbox="
   url2file(url_base + kibera,"kibera-schools-osm.xml")
   url_base = "http://overpass-api.de/api/interpreter?data=[bbox];node[amenity='school'];out%20meta;&bbox="
   url2file(url_base + mathare,"mathare-schools-osm.xml")
-  url_base = "http://overpass-api.de/api/interpreter?data=[bbox];node[amenity='school'];out%20meta;&bbox="
+  url_base = "http://overpass-api.de/api/interpreter?data=[bbox];node[amenity='school'](newer:'2018-10-08T00:00:00Z');out%20meta;&bbox="
   url2file(url_base + kangemi,"kangemi-schools-osm.xml")
 
 def kenyaopendata():
@@ -205,7 +205,7 @@ def cache_image(osm_id, osm_name, img_type, img_url):
       return
 
     size = 1200, 900
-    if not os.path.exists(cache_dir + 'large' + fileExtension): 
+    if not os.path.exists(cache_dir + 'large' + fileExtension):
       try:
         im.thumbnail(size)
         im.save(cache_dir + 'large' + fileExtension)
@@ -265,9 +265,9 @@ def deploy():
 #TODO make command line configurable .. Fabric?
 #kenyaopendata()
 #filter_kenyaopendata()
-#sync_osm()
-#convert2geojson()
-#compare_osm_kenyaopendata()
+sync_osm()
+convert2geojson()
+compare_osm_kenyaopendata()
 #cache_images()
 deploy()
 

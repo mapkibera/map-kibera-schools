@@ -2095,26 +2095,6 @@
     {
       "geometry": {
         "coordinates": [
-          36.8466349, 
-          -1.2578619
-        ], 
-        "type": "Point"
-      }, 
-      "id": "node/2510990139", 
-      "properties": {
-        "osm:_timestamp": "2013-10-28", 
-        "osm:_user": "jmwenda", 
-        "osm:amenity": "school", 
-        "osm:id": "node/2510990139", 
-        "osm:location": "mathare", 
-        "osm:name": "Muthaiga Primary School", 
-        "osm:operator": "Public"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
           36.8526691, 
           -1.2652553
         ], 
@@ -4671,6 +4651,48 @@
         "osm:id": "node/5886553885", 
         "osm:location": "mathare", 
         "osm:name": "Moi Forces Academy"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.8591526, 
+          -1.2519026
+        ], 
+        "type": "Point"
+      }, 
+      "id": "node/6224915188", 
+      "properties": {
+        "osm:_timestamp": "2019-01-21", 
+        "osm:_user": "DingoKG", 
+        "osm:addr:city": "Nairobi", 
+        "osm:addr:street": "Thika Road", 
+        "osm:amenity": "school", 
+        "osm:id": "node/6224915188", 
+        "osm:location": "mathare", 
+        "osm:name": "St Benedict Primary School"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.8496189, 
+          -1.2599099
+        ], 
+        "type": "Point"
+      }, 
+      "id": "node/6247215817", 
+      "properties": {
+        "osm:_timestamp": "2019-01-30", 
+        "osm:_user": "DingoKG", 
+        "osm:addr:city": "Nairobi", 
+        "osm:addr:postcode": "P.O Box 43881, Nairobi City", 
+        "osm:amenity": "school", 
+        "osm:id": "node/6247215817", 
+        "osm:location": "mathare", 
+        "osm:name": "Genesis Joy Secondary School"
       }, 
       "type": "Feature"
     }
