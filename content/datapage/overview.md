@@ -21,13 +21,13 @@ Download the data to conduct your analysis, provide your own insights, and tell 
 <img width="500" src="/static/blog-images/poster.png" />
 
 ## Directly from OpenStreetMap
-* [Kibera Overpass Turbo Query](http://overpass-turbo.eu/s/7LO)
-* [Mathare Overpass Turbo Query](http://overpass-turbo.eu/s/rMZ)
-* [Kibera in OpenStreetMap](http://www.openstreetmap.org/#map=15/-1.3143/36.7910)
-* [Mathare in OpenStreetMap](http://www.openstreetmap.org/#map=15/-1.2580/36.8600)
+* [Kibera Overpass Turbo Query](https://overpass-turbo.eu/s/7LO)
+* [Mathare Overpass Turbo Query](https://overpass-turbo.eu/s/rMZ)
+* [Kibera in OpenStreetMap](https://www.openstreetmap.org/#map=15/-1.3143/36.7910)
+* [Mathare in OpenStreetMap](https://www.openstreetmap.org/#map=15/-1.2580/36.8600)
 
 ## Other Data Themes
-* [Map Kibera Download](http://mapkibera.org/theme/download/)
+* [Map Kibera Download](https://mapkibera.org/theme/download/)
 
 Share Your Data
 ==========
@@ -37,4 +37,4 @@ We welcome your updates and new data sources. [Please shared some details with u
 License
 =======
 
-Open Schools Kenya Data is free to use for any purpose, licensed  [ODbL](http://opendatacommons.org/licenses/odbl/). All we ask is that you credit OpenStreetMap and Map Kibera Trust, and make your changes available under ODbL as well.
+Open Schools Kenya Data is free to use for any purpose, licensed  [ODbL](https://opendatacommons.org/licenses/odbl/). All we ask is that you credit OpenStreetMap and Map Kibera Trust, and make your changes available under ODbL as well.
