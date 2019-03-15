@@ -726,7 +726,7 @@ section#school-top {
     & > li {
       $box-width: $width-full / 2;
       display: inline-block;
-      width: $box-width;
+      max-width: $box-width;
       margin: $pad-v $pad-h;
       font-size: $t-med;  // END WARNING.
 
