@@ -96,6 +96,34 @@
 
 
 @media screen and (max-width: $width-med) {
+  $map-control-h: 2rem;
+  .map-controls {
+    height: $map-control-h;
+    line-height: $map-control-h;
+    p {
+      display: none;
+    }
+    .controls {
+      & > li {
+        & > .activate {
+          height: $map-control-h;
+          min-width: $width-map-control * 2 / 3;
+          padding: 0 $pad-v-thin;
+        }
+        a {
+          background: $c-smokeglass;
+          color: $c-bright;
+          font-size: $t-small;
+        }
+      }
+    }
+  }
+  .map-controls .controls > li.active {
+    & > .map-control-dropdown {
+      top: $map-control-h;
+    }
+  }
+
   #stats {
     background: $c-smokeglass;
     border-width: 0;
