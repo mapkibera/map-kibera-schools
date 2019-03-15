@@ -687,8 +687,8 @@ section#school-top {
 #stats {
   z-index: $layer-mhigh;
   position: absolute;
-  left: 50%;
-  margin: -($height-map - $pad-v) ($width-full/2 - $width-accent-box) 0;
+  right: $pad-v-thin;
+  margin: -($height-map - $pad-v) 0 0;
   width: $width-accent-box;
   padding: $pad-v-thin;
   background: $c-bg;
