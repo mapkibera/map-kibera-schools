@@ -92,3 +92,30 @@
     }
   }
 }
+
+
+@media screen and (max-width: $width-med) {
+  #stats {
+    background: $c-smokeglass;
+    border-width: 0;
+    color: $c-bright;
+    height: 2rem;
+    left: 0;
+    margin: -2rem 0 0;
+    padding: 0;
+    position: absolute;
+    width: 100%;
+    z-index: $layer-mhigh;
+
+    h2 {
+      display: none;
+    }
+
+    h3 {
+      display: inline-block;
+      font: inherit;
+      line-height: 2rem;
+      margin: 0 0 0 $pad-v-thin;
+    }
+  }
+}
