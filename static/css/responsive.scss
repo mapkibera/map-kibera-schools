@@ -215,4 +215,29 @@
       margin: 0 0 0 $pad-v-thin;
     }
   }
+
+  #stories {
+    & > ul > li > img {
+      padding: $pad-v-thin;
+    }
+  }
+
+  .org-credits {
+    img {
+      margin: 0.5em;
+    }
+  }
+
+  .footer-copyright {
+    text-align: left;
+    text-align-last: left;
+    padding: 1em;
+    a img {
+      height: 1.5em;
+      margin: 0;
+    }
+    &:after {
+      display: none;
+    }
+  }
 }
