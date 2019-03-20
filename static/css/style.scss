@@ -39,6 +39,13 @@
     }
   }
 
+  label[for="nav-expand"] {
+    display: none;
+  }
+  #nav-expand {
+    display: none;
+  }
+
   .page-nav-links {
     @include list-reset;
     display: inline-block;

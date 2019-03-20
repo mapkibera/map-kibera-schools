@@ -6,6 +6,16 @@
     .social {
       display: none;
     }
+    .page-nav-links {
+      a {
+        padding-left: $pad-v-thin / 2;
+        padding-right: $pad-v-thin / 2;
+
+        &:before {
+          display: none;
+        }
+      }
+    }
   }
 
   .videos-slider {
@@ -96,6 +106,64 @@
 
 
 @media screen and (max-width: $width-med) {
+  #page-header {
+    height: auto;
+    min-height: $height-stickyhead;
+    width: 100%;
+    position: relative;
+
+    &:before {
+      display: none;
+    }
+
+    label[for="nav-expand"] {
+      color: $c-accent;
+      display: inline-block;
+      padding: $pad-v-thin $pad-h $pad-v-thin $pad-v-thin;
+      position: absolute;
+      right: 0;
+    }
+    #nav-expand {
+      display: block;
+      @include visually-hidden;
+    }
+    .org-header {
+      @include visually-hidden;
+    }
+    #nav-expand:checked {
+      & + nav .page-nav-links {
+        @include un-visually-hidden;
+      }
+      & ~ .org-header {
+        @include un-visually-hidden;
+        position: relative;
+        margin: 0 0 $pad-v-thin + $pad-h-gap $pad-h-thin + $pad-h-gap;
+      }
+    }
+
+    nav {
+      .page-nav-links {
+        @include visually-hidden;
+        display: block;
+        padding: $pad-v-thin 0 0;
+
+        &, li {
+          display: block;
+        }
+        li {
+          a {
+            padding: $pad-h-gap $pad-h-thin;
+            margin-bottom: $pad-h-gap;
+          }
+        }
+      }
+    }
+  }
+
+  #videos {
+    margin-top: $pad-v-thin;
+  }
+
   $map-control-h: 2rem;
   .map-controls {
     height: $map-control-h;

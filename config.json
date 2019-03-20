@@ -33,7 +33,7 @@
         "views/profile-data.js",
         "main.js"
       ],
-      "filters": ["concat", "closure"]
+      "filters": ["concat"]
     },
     "css": {
       "prefix": "static/css",
