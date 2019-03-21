@@ -11,44 +11,8 @@
 
 {% block content %}
 
-  <section id="videos">
-    <ul class="videos-slider clear-fix">
-      {% for video in content.videos %}
-        <li id="video-{{ loop.index }}" class="slide {{ 'selected' if loop.first }}">
-          <div class="video">
-            <a
-              {% if video.youtubeid %}
-                href="https://www.youtube.com/watch?v={{ video.youtubeid }}"
-                data-youtubeid="{{ video.youtubeid }}"
-              {% elif video.url %}
-                href="{{ video.url }}"
-              {% else %}
-                {# hacky way to indicate an error #}
-                {{ video_missing_youtubeid_or_url[''] }}
-              {% endif %} >
-              <img class="video-screenshot"
-                src="{{ video.image or url_for('static', filename='img/kibera-screenshot.jpg') }}"
-                alt="Kibera video thumbnail"
-                title="{{ video.title }}" />
-            </a>
-          </div>
-          <div class="video-meta">
-            <h2>{{ video.title }}</h2>
-            <p>{{ video.description }}</p>
-          </div>
-        </li>
-      {% endfor %}
-    </ul>
-    <nav class="videos-pager">
-      {% for video in content.videos %}
-        <li>
-          <a href="#video-{{ loop.index }}" class="{{ 'selected' if loop.first }}" title="switch to video: {{ video.title }}">{{ video.title }}</a>
-        </li>
-      {% endfor %}
-    </nav>
-  </section>
-
   <section id="map">
+    <h1>Schools map</h1>
     <header class="map-controls">
       <p>Filter schools by </p>
       <ul class="controls">
