@@ -234,6 +234,15 @@
     }
   }
 
+  section#school-top {
+    margin-top: $pad-v;
+
+    #school-photos-frame {
+      width: 100%;
+      overflow-x: auto;
+    }
+  }
+
   .footer-meta > div {
     display: block;
     padding: 0 $pad-h;

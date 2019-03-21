@@ -312,28 +312,6 @@ section#school-top {
         // border: 3px solid $c-outline;
       }
     }
-    #school-photos-prev,
-    #school-photos-next {
-      display: block;
-      position: absolute;
-      top: 50%;
-      height: 0;
-      width: 0;
-      margin-top: -$height-frame-prevnext / 2;
-      font-size: 0;
-      border: 0 solid transparent;
-      border-width: $height-frame-prevnext/2 $width-frame-prevnext;
-    }
-    #school-photos-prev {
-      left: -($width-frame-prevnext + $control-space);
-      border-left-width: 0;
-      border-right-color: $c-outline;
-    }
-    #school-photos-next {
-      right: -($width-frame-prevnext + $control-space);
-      border-right-width: 0;
-      border-left-color: $c-outline;
-    }
   }
 }
 
