@@ -633,6 +633,12 @@ section#school-top {
   td {
     padding: 0 $pad-h-thin;
   }
+
+  .school-stats h3 small {
+    display: inline-block;
+    margin-left: $pad-h-thin / 2;
+    font-style: italic;
+  }
 }
 
 .h-scroll-container {
