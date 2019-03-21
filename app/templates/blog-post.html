@@ -15,13 +15,19 @@
     <article class="blog-post">
 
       {% if post.photo %}
-        <div class='teaser' style='background-image:url({{ post.photo }})'></div>
-      {% endif %}
+        <div class='teaser' style='background-image:url({{ post.photo }})'>
+          <header>
+            <h2>{{ post.title }}</h2>
+            <p><strong>By {{ post.author }} <time datetime="{{ post.date.isoformat() }}"> on {{ post.date.isoformat() }}</time></strong></p>
+          </header>
+        </div>
+      {% else %}
 
       <header>
         <h2>{{ post.title }}</h2>
         <p><strong>By {{ post.author }} <time datetime="{{ post.date.isoformat() }}"> on {{ post.date.isoformat() }}</time></strong></p>
       </header>
+      {% endif %}
 
       <div class="post-content">
         {{ post.content }}

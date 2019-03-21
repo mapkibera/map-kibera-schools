@@ -827,22 +827,28 @@ section#school-top {
     }
   }
 }
+#one-blog-post {
+  margin-top: 0;
+}
 #one-blog-post .blog-post {
-  padding: 1em 0 3em;
-  .teaser {
-    height: $height-map-small+50;
-    opacity:0.2;
+  padding: 0 0 3em;
+  .teaser { 
+    background-position: 50% 30%;
+    background-size: cover;
+    padding-top: $height-map-small;
+    header {
+      background: $c-brightglass;
+    }
   }
   header {
-    height: $height-map-small/2;
-    margin-top:- $height-map-small/2;
-    padding:$pad-v-thin;
+    padding: 1px $pad-h-thin;
     text-align: center;
-    h1 {
-      margin: 0.25em 0;
+    h2 {
       font-size: $t-big;
-      font-weight: $t-light;
-      color: $c-accent2;
+      margin: 0.5em 0;
+    }
+    p {
+      margin-top: 0;
     }
   }
   .post-content {

@@ -313,6 +313,34 @@
     }
   }
 
+  #one-blog-post {
+    .blog-post {
+      margin-top: 0;
+      width: 100%;
+
+      .teaser {
+        padding-top: $height-map-small / 2;
+      }
+
+      header h2 {
+        line-height: $line-tight;
+      }
+
+      .post-content {
+        margin: 0;
+        width: 100%;
+
+        line-height: $line-tight;
+
+        img {
+          height: auto;
+          max-width: 100%;
+          width: auto;
+        }
+      }
+    }
+  }
+
   .footer-meta > div {
     display: block;
     padding: 0 $pad-h;
