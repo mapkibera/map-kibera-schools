@@ -341,8 +341,22 @@
     }
   }
 
+  #data-overview,
+  #about-overview {
+    line-height: $line-tight;
+    padding-top: 0;
+    width: 100%;
+    h1 {
+      line-height: $line-tight;
+    }
+    img {
+      max-width: 100%;
+    }
+  }
+
   .footer-meta > div {
     display: block;
+    line-height: $line-tight;
     padding: 0 $pad-h;
     width: auto;
   }
