@@ -166,20 +166,28 @@
 
   $map-control-h: 2rem;
   .map-controls {
-    height: $map-control-h;
+    // height: $map-control-h;
+    background: $c-smokeglass;
+    height: auto;
     line-height: $map-control-h;
     p {
-      display: none;
+      color: $c-accent;
+      line-height: $map-control-h;
+      margin: 0;
+      padding: 0 $pad-v-thin / 2 0 $pad-v-thin;
+      .longer {
+        display: none;
+      }
     }
     .controls {
+      display: inline;
       & > li {
         & > .activate {
           height: $map-control-h;
-          min-width: $width-map-control * 2 / 3;
+          min-width: 0;
           padding: 0 $pad-v-thin;
         }
         a {
-          background: $c-smokeglass;
           color: $c-bright;
           font-size: $t-small;
         }
@@ -189,7 +197,12 @@
   .map-controls .controls > li.active {
     & > .map-control-dropdown {
       top: $map-control-h;
+      z-index: $layer-top;
     }
+  }
+
+  .map {
+    height: 400px;
   }
 
   #stats {
