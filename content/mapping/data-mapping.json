@@ -66,14 +66,14 @@
       "osm": "osm:contact:email",
       "kenyaopendata": null,
       "group": "Basics"
-    }, 
+    },
     {
       "name": "Gender",
       "osm": "osm:education:gender_type",
       "kenyaopendata": "kenyaopendata:School Institution Type_1",
       "kenyaopendata2": "kenyaopendata:Girls/Boys/Mixed",
       "group": "Basics"
-    }, 
+    },
     {
       "name": "Accessibility",
       "osm": "osm:accessibility",
@@ -119,19 +119,19 @@
     },
     {
       "name": "Boys Toilets",
-      "osm": null,
+      "osm": "osm:toilets:male",
       "kenyaopendata": "kenyaopendata:Boys Toilets",
       "group": "Infrastructure"
     },
     {
       "name": "Girls Toilet",
-      "osm": null,
+      "osm": "osm:toilets:female",
       "kenyaopendata": "kenyaopendata:Girls Toilets",
       "group": "Infrastructure"
     },
     {
       "name": "Teachers Toilet",
-      "osm": null,
+      "osm": "osm:toilets:teachers",
       "kenyaopendata": "kenyaopendata:Teachers Toilets",
       "group": "Infrastructure"
     },
@@ -298,13 +298,13 @@
       "osm": "osm:education:fees_level5",
       "kenyaopendata": null,
       "group": "Fees"
-    }, 
+    },
     {
       "name": "Fees Level 6 (yearly)",
       "osm": "osm:education:fees_level6",
       "kenyaopendata": null,
       "group": "Fees"
-    }, 
+    },
     {
       "name": "Fees Optional (yearly)",
       "osm": "osm:education:fees_optional",
