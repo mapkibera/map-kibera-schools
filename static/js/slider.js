@@ -1,4 +1,9 @@
 (function activateSlider() {
+  var w = Math.max(document.documentElement.clientWidth, window.innerWidth || 0);
+  if (w < 800) {  // see variables.scss
+    // don't show slider on mobile
+    return;
+  }
   var sliderContainer = document.getElementById('videos');
   if (!sliderContainer) { return; }  // fail fast
   u.on(sliderContainer, 'click', function(evt) {
