@@ -1,4 +1,6 @@
 (function(app) {
+  var w = Math.max(document.documentElement.clientWidth, window.innerWidth || 0);
+  var zoomAdjust = w < 800 ? -1 : 0;
 
   // get serious
   window.app = app;
@@ -14,20 +16,20 @@
     map: {
       tiles: 'https://{s}.tile.openstreetmap.fr/hot/{z}/{x}/{y}.png',
       centre: [-1.293, 36.817],
-      zoom: 13,
+      zoom: 13 + zoomAdjust,
       localZoom: 17
     },
     Mathare: {
       centre: [-1.262, 36.858],
-      zoom: 16
+      zoom: 16 + zoomAdjust
     },
     Kibera: {
       centre: [-1.313, 36.788],
-      zoom: 15
+      zoom: 15 + zoomAdjust
     },
     Kangemi: {
-      centre: [-1.2573, 36.7757],
-      zoom: 14
+      centre: [-1.2525, 36.7425],
+      zoom: 14 + zoomAdjust
     },
     marker: {
       radius: 5
