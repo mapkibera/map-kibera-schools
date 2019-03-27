@@ -1,20 +1,19 @@
 [
-  { "title": "Kangemi Schools Mapping",
-    "description": " ",
+  { "title": "Kangemi Schools Mapping Begins",
+    "description": "Youth from Kangemi learn to map their area schools with Map Kibera and OpenStreetMap",
     "youtubeid": "2VJEXKLkp9E",
     "image": "/static/blog-images/kangemi-video.png"
+  },
+  { "title": "Kangemi Schools Map Distribution",
+    "description": "The Map Kibera team distributes the printed copy of the Kangemi schools map to Kangemi Schools and government officials.",
+    "youtubeid": "MXxtf08MDh4",
+    "image": "/static/blog-images/kangemi-2-video.png"
   },
   {
     "title": "Mapping the marginalised: leaving no one behind in Kibera",
     "description": "Kibera, the most populous slum in Nairobi (and East Africa), once appeared as a blank space on most maps because it was considered an illegal settlement.",
     "url": "/blog/20150811-mapping-the-marginalized/",
     "image": "/static/blog-images/kibera-sdg.jpg"
-  },
-  {
-    "title": "Education in Kibera - a video for the Open Schools Kenya project",
-    "description": " ",
-    "youtubeid": "YL-L3pEf6Jg",
-    "image": "/static/blog-images/education-video.png"
   },
   {
     "title": "Launch of OpenSchoolsKenya",
