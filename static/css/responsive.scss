@@ -185,11 +185,18 @@
         & > .activate {
           height: $map-control-h;
           min-width: 0;
-          padding: 0 $pad-v-thin;
+          padding: 0 $pad-v-thin 2rem;
         }
         a {
           color: $c-bright;
           font-size: $t-small;
+        }
+        &.filtering {
+          padding-right: 32px;
+          .clear-filter {
+            z-index: auto;
+            height: $map-control-h;
+          }
         }
       }
     }
