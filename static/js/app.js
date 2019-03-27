@@ -28,7 +28,7 @@
       zoom: 15 + zoomAdjust
     },
     Kangemi: {
-      centre: [-1.2525, 36.7425],
+      centre: [-1.2574, 36.7427],
       zoom: 14 + zoomAdjust
     },
     marker: {
