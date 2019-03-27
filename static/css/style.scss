@@ -39,6 +39,13 @@
     }
   }
 
+  label[for="nav-expand"] {
+    display: none;
+  }
+  #nav-expand {
+    display: none;
+  }
+
   .page-nav-links {
     @include list-reset;
     display: inline-block;
@@ -305,28 +312,6 @@ section#school-top {
         // border: 3px solid $c-outline;
       }
     }
-    #school-photos-prev,
-    #school-photos-next {
-      display: block;
-      position: absolute;
-      top: 50%;
-      height: 0;
-      width: 0;
-      margin-top: -$height-frame-prevnext / 2;
-      font-size: 0;
-      border: 0 solid transparent;
-      border-width: $height-frame-prevnext/2 $width-frame-prevnext;
-    }
-    #school-photos-prev {
-      left: -($width-frame-prevnext + $control-space);
-      border-left-width: 0;
-      border-right-color: $c-outline;
-    }
-    #school-photos-next {
-      right: -($width-frame-prevnext + $control-space);
-      border-right-width: 0;
-      border-left-color: $c-outline;
-    }
   }
 }
 
@@ -381,8 +366,6 @@ section#school-top {
       display: inline-block;
       vertical-align: top;
     }
-  } 
-  .controls {
     @include list-reset;
     // font-size: 0;
 
@@ -650,6 +633,12 @@ section#school-top {
   td {
     padding: 0 $pad-h-thin;
   }
+
+  .school-stats h3 small {
+    display: inline-block;
+    margin-left: $pad-h-thin / 2;
+    font-style: italic;
+  }
 }
 
 .h-scroll-container {
@@ -687,8 +676,8 @@ section#school-top {
 #stats {
   z-index: $layer-mhigh;
   position: absolute;
-  left: 50%;
-  margin: -($height-map - $pad-v) ($width-full/2 - $width-accent-box) 0;
+  right: $pad-v-thin;
+  margin: -($height-map - $pad-v) 0 0;
   width: $width-accent-box;
   padding: $pad-v-thin;
   background: $c-bg;
@@ -726,7 +715,7 @@ section#school-top {
     & > li {
       $box-width: $width-full / 2;
       display: inline-block;
-      width: $box-width;
+      max-width: $box-width;
       margin: $pad-v $pad-h;
       font-size: $t-med;  // END WARNING.
 
@@ -838,22 +827,28 @@ section#school-top {
     }
   }
 }
+#one-blog-post {
+  margin-top: 0;
+}
 #one-blog-post .blog-post {
-  padding: 1em 0 3em;
-  .teaser {
-    height: $height-map-small+50;
-    opacity:0.2;
+  padding: 0 0 3em;
+  .teaser { 
+    background-position: 50% 30%;
+    background-size: cover;
+    padding-top: $height-map-small;
+    header {
+      background: $c-brightglass;
+    }
   }
   header {
-    height: $height-map-small/2;
-    margin-top:- $height-map-small/2;
-    padding:$pad-v-thin;
+    padding: 1px $pad-h-thin;
     text-align: center;
-    h1 {
-      margin: 0.25em 0;
+    h2 {
       font-size: $t-big;
-      font-weight: $t-light;
-      color: $c-accent2;
+      margin: 0.5em 0;
+    }
+    p {
+      margin-top: 0;
     }
   }
   .post-content {

@@ -30,47 +30,47 @@
   };
 
   var startScroll = function startScroll() {
-    var href = this.attributes.href.nodeValue.toString(),
-        url = href.substr(0, href.indexOf('#')),
-        id = href.substr(href.indexOf('#')+1),
-        target = document.getElementById(id),
-        startY = getCurrentScroll(),
-        targetY = getTargetOffsetFromTop(target);
+    // var href = this.attributes.href.nodeValue.toString(),
+    //     url = href.substr(0, href.indexOf('#')),
+    //     id = href.substr(href.indexOf('#')+1),
+    //     target = document.getElementById(id),
+    //     startY = getCurrentScroll(),
+    //     targetY = getTargetOffsetFromTop(target);
 
-    window.isAutoScrolling = true;
-    stepScroll(startY, targetY, moveFrequency);
-    if(window.history && typeof window.history.pushState == 'function') {
-      window.history.pushState({}, undefined, url+'#'+id);// Change URL for modern browser
-    }
-    return false;
+    // window.isAutoScrolling = true;
+    // stepScroll(startY, targetY, moveFrequency);
+    // if(window.history && typeof window.history.pushState == 'function') {
+    //   window.history.pushState({}, undefined, url+'#'+id);// Change URL for modern browser
+    // }
+    // return false;
   };
 
-  var stepScroll = function scrollStep(startY, targetY, t) {
-    if (scrollDuration - t < moveFrequency) {
-      window.setTimeout(window.scrollTo, scrollDuration - t, 0, targetY);
-      window.isAutoScrolling = false;
-    } else {
-      var normalized = t / scrollDuration;
-      var eased = easingFunc(normalized);
-      var realTarget = (targetY - startY) * eased + startY;
-      window.scrollTo(0, realTarget);
-      var nextT = t + moveFrequency;
-      window.setTimeout(scrollStep, moveFrequency, startY, targetY, nextT);
-    }
-  };
+  // var stepScroll = function scrollStep(startY, targetY, t) {
+  //   if (scrollDuration - t < moveFrequency) {
+  //     window.setTimeout(window.scrollTo, scrollDuration - t, 0, targetY);
+  //     window.isAutoScrolling = false;
+  //   } else {
+  //     var normalized = t / scrollDuration;
+  //     var eased = easingFunc(normalized);
+  //     var realTarget = (targetY - startY) * eased + startY;
+  //     window.scrollTo(0, realTarget);
+  //     var nextT = t + moveFrequency;
+  //     window.setTimeout(scrollStep, moveFrequency, startY, targetY, nextT);
+  //   }
+  // };
 
-  var easingFunc = function ease(x) {
-    // take a value x between zero and one
-    // returns another value y, where
-    //   if x == 0, then y == 0
-    //   if x == 1, then y == 1
-    // this implementation uses a sine curve.
-    var scaled_x = x * Math.PI;
-    var curved = Math.cos(scaled_x);
-    var scaled_y = -curved * 0.5;  // cos range is 1..-1
-    var shifted_y = scaled_y + 0.5;
-    return shifted_y;
-  };
+  // var easingFunc = function ease(x) {
+  //   // take a value x between zero and one
+  //   // returns another value y, where
+  //   //   if x == 0, then y == 0
+  //   //   if x == 1, then y == 1
+  //   // this implementation uses a sine curve.
+  //   var scaled_x = x * Math.PI;
+  //   var curved = Math.cos(scaled_x);
+  //   var scaled_y = -curved * 0.5;  // cos range is 1..-1
+  //   var shifted_y = scaled_y + 0.5;
+  //   return shifted_y;
+  // };
 
   var getTargetOffsetFromTop = function getTargetOffsetFromTop(e) {
     var top = headerOffset * -1;

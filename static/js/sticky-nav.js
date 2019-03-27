@@ -1,7 +1,7 @@
 (function initStickyNav() {
   var rootPath = window.location.pathname;
   var scrollTargetQuery = 'body > section';
-  smoothScroll(scrollTargetQuery);
+  // smoothScroll(scrollTargetQuery);
   var targetElsMaybe = document.querySelectorAll(scrollTargetQuery),
       targetEls = [];
   for (var i=0; i<targetElsMaybe.length; i++) {

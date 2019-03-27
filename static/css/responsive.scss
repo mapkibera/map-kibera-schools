@@ -6,6 +6,16 @@
     .social {
       display: none;
     }
+    .page-nav-links {
+      a {
+        padding-left: $pad-v-thin / 2;
+        padding-right: $pad-v-thin / 2;
+
+        &:before {
+          display: none;
+        }
+      }
+    }
   }
 
   .videos-slider {
@@ -15,6 +25,7 @@
     }
     .video,
     .video-screenshot {
+      max-width: 100%;
       min-width: 100%;
     }
     .video:before {
@@ -89,6 +100,303 @@
     text-align: center;
     & > div {
       text-align: left;
+    }
+  }
+}
+
+
+@media screen and (max-width: $width-med) {
+  #page-header {
+    height: auto;
+    min-height: $height-stickyhead;
+    width: 100%;
+    position: relative;
+
+    &:before {
+      display: none;
+    }
+
+    label[for="nav-expand"] {
+      color: $c-accent;
+      display: inline-block;
+      padding: $pad-v-thin $pad-h $pad-v-thin $pad-v-thin;
+      position: absolute;
+      right: 0;
+    }
+    #nav-expand {
+      display: block;
+      @include visually-hidden;
+    }
+    .org-header {
+      @include visually-hidden;
+    }
+    #nav-expand:checked {
+      & + nav .page-nav-links {
+        @include un-visually-hidden;
+      }
+      & ~ .org-header {
+        @include un-visually-hidden;
+        position: relative;
+        margin: 0 0 $pad-v-thin + $pad-h-gap $pad-h-thin + $pad-h-gap;
+      }
+    }
+
+    nav {
+      .page-nav-links {
+        @include visually-hidden;
+        display: block;
+        padding: $pad-v-thin 0 0;
+
+        &, li {
+          display: block;
+        }
+        li {
+          a {
+            padding: $pad-h-gap $pad-h-thin;
+            margin-bottom: $pad-h-gap;
+          }
+        }
+      }
+    }
+  }
+
+  #videos {
+    display: none;
+  }
+
+  $map-control-h: 2rem;
+  .map-controls {
+    // height: $map-control-h;
+    background: $c-smokeglass;
+    height: auto;
+    line-height: $map-control-h;
+    p {
+      color: $c-accent;
+      line-height: $map-control-h;
+      margin: 0;
+      padding: 0 $pad-v-thin / 2 0 $pad-v-thin;
+      .longer {
+        display: none;
+      }
+    }
+    .controls {
+      display: inline;
+      & > li {
+        & > .activate {
+          height: $map-control-h;
+          min-width: 0;
+          padding: 0 $pad-v-thin 2rem;
+        }
+        a {
+          color: $c-bright;
+          font-size: $t-small;
+        }
+        &.filtering {
+          padding-right: 32px;
+          .clear-filter {
+            z-index: auto;
+            height: $map-control-h;
+          }
+        }
+      }
+    }
+  }
+  .map-controls .controls > li.active {
+    & > .map-control-dropdown {
+      top: $map-control-h;
+      z-index: $layer-top;
+    }
+  }
+
+  .map {
+    height: 400px;
+  }
+
+  #stats {
+    background: $c-smokeglass;
+    border-width: 0;
+    color: $c-bright;
+    height: 2rem;
+    left: 0;
+    margin: -2rem 0 0;
+    padding: 0;
+    position: absolute;
+    width: 100%;
+    z-index: $layer-mhigh;
+
+    h2 {
+      display: none;
+    }
+
+    h3 {
+      display: inline-block;
+      font: inherit;
+      line-height: 2rem;
+      margin: 0 0 0 $pad-v-thin;
+    }
+  }
+
+  #stories {
+    & > ul > li {
+      font-size: 16px;
+      h2 {
+        margin-top: $pad-v;
+      }
+      a {
+        display: inline-block;
+        padding-bottom: 10px;
+        padding-top: 6px;
+        margin-bottom: 1em;
+      }
+      & > img {
+        padding: 0;
+      }
+    }
+  }
+
+  section#school-top {
+    margin-top: $pad-v;
+
+    #school-photos-frame {
+      width: 100%;
+      overflow-x: auto;
+    }
+  }
+
+  .school-info-tabs {
+    font-size: 0;  // no space gap (make sure font gets set on a)
+    line-height: $t-small - 2px;
+
+    h2 {
+      font-size: $t-small;  // do not remove (parent is font size 0)
+      margin: 0;
+      a {
+        border-width: 0;
+        margin: 0 0 0 2px;
+        padding: 0.2em 0.3em;
+      }
+    }
+  }
+
+  .school-info-data {
+    table {
+      line-height: $line-tight * 0.9;
+    }
+    tr:nth-child(2n) {
+      background: $c-bg;
+    }
+    table.data {
+      width: 100%;
+    }
+    th, td {
+      padding-bottom: 0.3em;
+      padding-top: 0.3em;
+    }
+    td {
+      padding-left: $pad-h-thin / 2;
+      padding-right: 0;
+    }
+    th {
+      padding-left: 0;
+      padding-right: $pad-h-thin / 2;
+      white-space: normal;
+    }
+  }
+
+  #blog-posts {
+    padding-top: 0;
+    .blog-post {
+      width: auto;
+      & > img:first-child {
+        max-width: 100%;
+        float: none;
+      }
+      & > img:first-child ~ * {
+        margin-left: 0;
+      }
+      .post-content {
+        line-height: $line-tight;
+        margin-top: 0;
+        width: auto;
+        header {
+          margin-top: 0;
+          h2 {
+            font-size: $t-med;
+            line-height: $line-tight;
+            margin: 0.5em 0;
+          }
+          p {
+            font-size: $t-small;
+          }
+        }
+      }
+    }
+  }
+
+  #one-blog-post {
+    .blog-post {
+      margin-top: 0;
+      width: 100%;
+
+      .teaser {
+        padding-top: $height-map-small / 2;
+      }
+
+      header h2 {
+        line-height: $line-tight;
+      }
+
+      .post-content {
+        margin: 0;
+        width: 100%;
+
+        line-height: $line-tight;
+
+        img {
+          height: auto;
+          max-width: 100%;
+          width: auto;
+        }
+      }
+    }
+  }
+
+  #data-overview,
+  #about-overview {
+    line-height: $line-tight;
+    padding-top: 0;
+    width: 100%;
+    h1 {
+      line-height: $line-tight;
+    }
+    img {
+      max-width: 100%;
+    }
+  }
+
+  .footer-meta > div {
+    display: block;
+    line-height: $line-tight;
+    padding: 0 $pad-h;
+    width: auto;
+  }
+
+  .org-credits {
+    img {
+      margin: 0.5em;
+    }
+  }
+
+  .footer-copyright {
+    text-align: left;
+    text-align-last: left;
+    padding: 1em;
+    a img {
+      height: 1.5em;
+      margin: 0;
+    }
+    &:after {
+      display: none;
     }
   }
 }
