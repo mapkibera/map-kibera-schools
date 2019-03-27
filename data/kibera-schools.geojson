@@ -2061,27 +2061,6 @@
       "geometry": {
         "coordinates": [
           [
-            36.7725816, 
-            -1.3090593
-          ]
-        ], 
-        "type": "MultiPoint"
-      }, 
-      "properties": {
-        "osm:_timestamp": "2010-08-31", 
-        "osm:_user": "ebrelsford", 
-        "osm:amenity": "library", 
-        "osm:education:type": "library", 
-        "osm:id": "node/612008779", 
-        "osm:location": "kibera", 
-        "osm:name": "G.A.A. Kibera Community Library"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          [
             36.7984839, 
             -1.3172255
           ]
@@ -2809,27 +2788,6 @@
         "osm:operator:type": "religious", 
         "osm:place:village": "Laini Saba", 
         "osm:toilet:present": "yes"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          [
-            36.7946037, 
-            -1.3107304
-          ]
-        ], 
-        "type": "MultiPoint"
-      }, 
-      "properties": {
-        "osm:_timestamp": "2010-08-31", 
-        "osm:_user": "ebrelsford", 
-        "osm:amenity": "library", 
-        "osm:education:type": "library", 
-        "osm:id": "node/612011372", 
-        "osm:location": "kibera", 
-        "osm:name": "Christ the King Library"
       }, 
       "type": "Feature"
     }, 
@@ -6771,8 +6729,8 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2018-01-26", 
-        "osm:_user": "muindre", 
+        "osm:_timestamp": "2019-03-27", 
+        "osm:_user": "ricaji", 
         "osm:accessibility": "small_cars", 
         "osm:amenity": "school", 
         "osm:building:levels": "1", 
@@ -6820,7 +6778,7 @@
         "osm:opening_hours": "06:00-18:00", 
         "osm:operational_status": "operational", 
         "osm:operational_status:electricity": "always", 
-        "osm:operator:type": "ngo_international", 
+        "osm:operator:type": "ngo", 
         "osm:place:village": "Karanja", 
         "osm:toilet:present": "yes"
       }, 
@@ -8172,8 +8130,8 @@
       "geometry": {
         "coordinates": [
           [
-            36.7663865, 
-            -1.3019198
+            36.7660645, 
+            -1.3015411
           ], 
           [
             36.765673, 
@@ -8216,8 +8174,8 @@
         "kenyaopendata:Total Number of Classrooms": "24", 
         "kenyaopendata:Total Toilets": "0", 
         "kenyaopendata:official_name": "JAMUHURI PRY", 
-        "osm:_timestamp": "2015-04-14", 
-        "osm:_user": "fondolucy", 
+        "osm:_timestamp": "2019-03-05", 
+        "osm:_user": "cRaIgalLAn", 
         "osm:accessibility": "big_vehicles", 
         "osm:amenity": "school", 
         "osm:boundary_type:Ward_boundary": "yes", 
@@ -9893,8 +9851,8 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2015-01-03", 
-        "osm:_user": "JamesLC", 
+        "osm:_timestamp": "2019-03-27", 
+        "osm:_user": "ricaji", 
         "osm:accessibility": "small_cars", 
         "osm:amenity": "school", 
         "osm:building:material": "cement_block", 
@@ -9924,7 +9882,7 @@
         "osm:id": "node/2923513500", 
         "osm:location": "kibera", 
         "osm:name": "Stara Rescue Centre School", 
-        "osm:operator:type": "ngo_international", 
+        "osm:operator:type": "ngo", 
         "osm:place:village": "Karanja", 
         "osm:toilet:present": "yes"
       }, 
@@ -10569,8 +10527,8 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2015-04-15", 
-        "osm:_user": "fondolucy", 
+        "osm:_timestamp": "2019-03-04", 
+        "osm:_user": "b-jazz-bot", 
         "osm:accessibility": "big_vehicles", 
         "osm:amenity": "school", 
         "osm:building": "school", 
@@ -10611,7 +10569,7 @@
         "osm:operator:type": "private", 
         "osm:place:village": "Soweto West", 
         "osm:toilet:present": "yes", 
-        "osm:website": "http://chnstcatherine.com"
+        "osm:website": "https://chnstcatherine.com/"
       }, 
       "type": "Feature"
     }, 
@@ -13447,8 +13405,8 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2018-01-26", 
-        "osm:_user": "muindre", 
+        "osm:_timestamp": "2019-03-27", 
+        "osm:_user": "ricaji", 
         "osm:accessibility": "foot", 
         "osm:amenity": "school", 
         "osm:building:material": "cement_block", 
@@ -13478,7 +13436,7 @@
         "osm:image:outside": "https://0079f04f78208eb6dbf00f4be735c0a32d71c3ad.googledrive.com/host/0B8cIVKWxH2-6Ynk0MDZJUnNpdUU/Schools%20Steve/The%20Global%20One%20Kibera%20School/Establishment.JPG", 
         "osm:location": "kibera", 
         "osm:name": "Global One Kibera School", 
-        "osm:operator:type": "ngo_international", 
+        "osm:operator:type": "ngo", 
         "osm:place:village": "Gatwekera", 
         "osm:toilet:arranged_name": "pee poo", 
         "osm:toilet:present": "arranged"

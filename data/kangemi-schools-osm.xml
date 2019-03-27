@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.55.5 2ca3f387">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2019-02-06T16:26:02Z"/>
+<meta osm_base="2019-03-27T19:33:02Z"/>
 
   <bounds minlat="-1.2806500" minlon="36.7116700" maxlat="-1.2096000" maxlon="36.8292600"/>
 
@@ -304,14 +304,78 @@
     <tag k="toilets:teachers" v="1"/>
     <tag k="water:source" v="water_tank"/>
   </node>
-  <node id="5915968852" lat="-1.2633492" lon="36.7315583" version="10" timestamp="2018-11-19T10:36:05Z" changeset="64649780" uid="261050" user="muindre">
+  <node id="5915968850" lat="-1.2636650" lon="36.7321150" version="4" timestamp="2019-03-05T08:39:43Z" changeset="67795562" uid="261050" user="muindre">
+    <tag k="amenity" v="school"/>
+    <tag k="education:type" v="pre_primary"/>
+    <tag k="name" v="Alpha Kindergaten"/>
+  </node>
+  <node id="5915968851" lat="-1.2630942" lon="36.7324742" version="12" timestamp="2019-03-05T09:08:44Z" changeset="67796417" uid="261050" user="muindre">
+    <tag k="amenity" v="school"/>
+    <tag k="building:classrooms" v="4"/>
+    <tag k="building:levels" v="0"/>
+    <tag k="building:material" v="iron_sheet"/>
+    <tag k="building:roof" v="iron_sheet"/>
+    <tag k="contact:address" v="12768-00100"/>
+    <tag k="contact:email" v="dimeces@gmail.com"/>
+    <tag k="contact:phone" v="+254202392842,0728693861/0736631262"/>
+    <tag k="education:bom_employed" v="yes"/>
+    <tag k="education:bom_how_many" v="8"/>
+    <tag k="education:curriculum" v="8_4_4"/>
+    <tag k="education:exam_center" v="yes"/>
+    <tag k="education:extra_drama" v="yes"/>
+    <tag k="education:extra_music" v="no"/>
+    <tag k="education:extra_other" v="Worldlife Journalism"/>
+    <tag k="education:extra_scouts" v="yes"/>
+    <tag k="education:extra_sports" v="yes"/>
+    <tag k="education:fees" v="yes"/>
+    <tag k="education:fees_admission" v="0"/>
+    <tag k="education:fees_exam" v="0"/>
+    <tag k="education:fees_lunch" v="0"/>
+    <tag k="education:fees_other" v="Trip_fee_is_paid_when_a_trip _is_organized."/>
+    <tag k="education:fees_per_year" v="29000"/>
+    <tag k="education:fees_trip" v="0"/>
+    <tag k="education:gender_type" v="mixed"/>
+    <tag k="education:government_grants" v="no"/>
+    <tag k="education:government_registered" v="moe"/>
+    <tag k="education:management_committee" v="yes"/>
+    <tag k="education:mean_score" v="0"/>
+    <tag k="education:nemis_code" v="yes"/>
+    <tag k="education:operate_as" v="day_school"/>
+    <tag k="education:program_counselling" v="yes"/>
+    <tag k="education:program_feeding" v="yes"/>
+    <tag k="education:program_feeding_description" v="school_fees"/>
+    <tag k="education:program_orphans" v="yes"/>
+    <tag k="education:program_sanitary_towel" v="no"/>
+    <tag k="education:program_special_needs" v="yes"/>
+    <tag k="education:pta" v="yes"/>
+    <tag k="education:school_head" v="CS Makhanu"/>
+    <tag k="education:students" v="95"/>
+    <tag k="education:students_female" v="46"/>
+    <tag k="education:students_male" v="49"/>
+    <tag k="education:teachers" v="9"/>
+    <tag k="education:teachers_female" v="2"/>
+    <tag k="education:teachers_male" v="7"/>
+    <tag k="education:teachers_trained" v="9"/>
+    <tag k="education:type" v="secondary"/>
+    <tag k="electricity:operational_status" v="never"/>
+    <tag k="image:classroom" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1537271542068.jpg"/>
+    <tag k="image:compound" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1537271705276.jpg"/>
+    <tag k="name" v="Divine Mercy School"/>
+    <tag k="operator:description" v="Bro. John Bonface"/>
+    <tag k="operator:type" v="cbo"/>
+    <tag k="toilet:present" v="yes"/>
+    <tag k="toilets:female" v="3"/>
+    <tag k="toilets:handwashing" v="yes"/>
+    <tag k="toilets:male" v="2"/>
+    <tag k="toilets:teachers" v="2"/>
+    <tag k="water:source" v="tap"/>
+  </node>
+  <node id="5915968852" lat="-1.2633492" lon="36.7315583" version="11" timestamp="2019-03-09T22:37:45Z" changeset="67973679" uid="118021" user="maggot27">
     <tag k="accessibility" v="small_cars,big_vehicles,foot"/>
     <tag k="amenity" v="school"/>
     <tag k="building:classrooms" v="1"/>
     <tag k="building:material" v="iron_sheet"/>
     <tag k="building:roof" v="iron_sheet"/>
-    <tag k="contact:address" v="0"/>
-    <tag k="contact:email" v="0"/>
     <tag k="education:bom_employed" v="yes"/>
     <tag k="education:bom_how_many" v="1"/>
     <tag k="education:curriculum" v="2_6_3_3_3"/>
@@ -3003,10 +3067,8 @@
     <tag k="toilets:teachers" v="1"/>
     <tag k="water:source" v="tap"/>
   </node>
-  <node id="5926090739" lat="-1.2557006" lon="36.7241139" version="12" timestamp="2019-02-01T13:46:16Z" changeset="66833789" uid="6318104" user="DingoKG">
+  <node id="5926090739" lat="-1.2557006" lon="36.7241139" version="13" timestamp="2019-03-05T08:40:08Z" changeset="67795562" uid="261050" user="muindre">
     <tag k="accessibility" v="big_vehicles,foot"/>
-    <tag k="addr:city" v="Nairobi"/>
-    <tag k="addr:street" v="Kapenguria Road"/>
     <tag k="amenity" v="school"/>
     <tag k="building:classrooms" v="7"/>
     <tag k="building:levels" v="0"/>
@@ -3060,6 +3122,71 @@
     <tag k="image:compound" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1537523951515.jpg"/>
     <tag k="name" v="Ack St Mary's School Kabete"/>
     <tag k="operator:description" v="Ack St Mary's Church"/>
+    <tag k="operator:type" v="religious"/>
+    <tag k="toilet:arranged_name" v="None"/>
+    <tag k="toilet:present" v="yes"/>
+    <tag k="toilets:female" v="3"/>
+    <tag k="toilets:handwashing" v="yes"/>
+    <tag k="toilets:male" v="3"/>
+    <tag k="toilets:teachers" v="3"/>
+    <tag k="water:source" v="tap"/>
+  </node>
+  <node id="5926090740" lat="-1.2557425" lon="36.7239383" version="14" timestamp="2019-03-05T08:39:46Z" changeset="67795562" uid="261050" user="muindre">
+    <tag k="accessibility" v="big_vehicles,foot"/>
+    <tag k="amenity" v="school"/>
+    <tag k="building:classrooms" v="8"/>
+    <tag k="building:levels" v="2"/>
+    <tag k="building:material" v="cement_block"/>
+    <tag k="building:roof" v="iron_sheet"/>
+    <tag k="contact:address" v="29190-00625"/>
+    <tag k="contact:email" v="Veewahu@gmail.com"/>
+    <tag k="contact:phone" v="0706297110"/>
+    <tag k="education:bom_employed" v="no"/>
+    <tag k="education:curriculum" v="8_4_4"/>
+    <tag k="education:exam_affiliate" v="None"/>
+    <tag k="education:exam_center" v="yes"/>
+    <tag k="education:extra_drama" v="yes"/>
+    <tag k="education:extra_music" v="yes"/>
+    <tag k="education:extra_other" v="Swimming"/>
+    <tag k="education:extra_scouts" v="yes"/>
+    <tag k="education:extra_sports" v="yes"/>
+    <tag k="education:fees" v="yes"/>
+    <tag k="education:fees_admission" v="500"/>
+    <tag k="education:fees_exam" v="200"/>
+    <tag k="education:fees_level1" v="0"/>
+    <tag k="education:fees_level2" v="0"/>
+    <tag k="education:fees_level3" v="0"/>
+    <tag k="education:fees_lunch" v="0"/>
+    <tag k="education:fees_per_year" v="26700"/>
+    <tag k="education:fees_trip" v="0"/>
+    <tag k="education:gender_type" v="mixed"/>
+    <tag k="education:government_grants" v="no"/>
+    <tag k="education:government_registered" v="moe"/>
+    <tag k="education:management_committee" v="no"/>
+    <tag k="education:mean_score" v="0"/>
+    <tag k="education:nemis_code" v="no"/>
+    <tag k="education:operate_as" v="day_school"/>
+    <tag k="education:program_counselling" v="yes"/>
+    <tag k="education:program_feeding" v="yes"/>
+    <tag k="education:program_feeding_description" v="school_fees"/>
+    <tag k="education:program_orphans" v="yes"/>
+    <tag k="education:program_sanitary_towel" v="yes"/>
+    <tag k="education:program_special_needs" v="yes"/>
+    <tag k="education:pta" v="yes"/>
+    <tag k="education:school_head" v="Veronica wahu"/>
+    <tag k="education:students" v="202"/>
+    <tag k="education:students_female" v="99"/>
+    <tag k="education:students_male" v="103"/>
+    <tag k="education:teachers" v="10"/>
+    <tag k="education:teachers_female" v="5"/>
+    <tag k="education:teachers_male" v="5"/>
+    <tag k="education:teachers_trained" v="10"/>
+    <tag k="education:tsc_employed" v="no"/>
+    <tag k="education:type" v="primary"/>
+    <tag k="electricity:operational_status" v="always"/>
+    <tag k="image:compound" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1537524021811.jpg"/>
+    <tag k="name" v="Ack St Mary's School Kabete"/>
+    <tag k="operator:description" v="Ack st Mary's Church"/>
     <tag k="operator:type" v="religious"/>
     <tag k="toilet:arranged_name" v="None"/>
     <tag k="toilet:present" v="yes"/>
@@ -3588,6 +3715,192 @@
     <tag k="toilets:teachers" v="1"/>
     <tag k="water:source" v="water_tank"/>
   </node>
+  <node id="5926195781" lat="-1.2641833" lon="36.7360833" version="12" timestamp="2019-03-05T08:39:48Z" changeset="67795562" uid="261050" user="muindre">
+    <tag k="accessibility" v="small_cars,big_vehicles,foot"/>
+    <tag k="amenity" v="school"/>
+    <tag k="building:classrooms" v="4"/>
+    <tag k="building:levels" v="0"/>
+    <tag k="building:material" v="iron_sheet"/>
+    <tag k="building:roof" v="iron_sheet"/>
+    <tag k="contact:address" v="194-00625"/>
+    <tag k="contact:email" v="petalseducationcentre@gmail.com"/>
+    <tag k="contact:phone" v="0723424120"/>
+    <tag k="education:bom_employed" v="yes"/>
+    <tag k="education:bom_how_many" v="3"/>
+    <tag k="education:curriculum" v="8_4_4"/>
+    <tag k="education:exam_center" v="yes"/>
+    <tag k="education:extra_drama" v="yes"/>
+    <tag k="education:extra_music" v="yes"/>
+    <tag k="education:extra_other" v="Debate,Cu,Environmental day"/>
+    <tag k="education:extra_scouts" v="yes"/>
+    <tag k="education:extra_sports" v="yes"/>
+    <tag k="education:fees" v="yes"/>
+    <tag k="education:fees_admission" v="900"/>
+    <tag k="education:fees_exam" v="300"/>
+    <tag k="education:fees_lunch" v="800"/>
+    <tag k="education:fees_per_year" v="14500"/>
+    <tag k="education:fees_trip" v="0"/>
+    <tag k="education:gender_type" v="mixed"/>
+    <tag k="education:government_grants" v="no"/>
+    <tag k="education:government_registered" v="APBET"/>
+    <tag k="education:management_committee" v="yes"/>
+    <tag k="education:mean_score" v="233"/>
+    <tag k="education:nemis_code" v="yes"/>
+    <tag k="education:operate_as" v="day_school"/>
+    <tag k="education:program_counselling" v="yes"/>
+    <tag k="education:program_feeding" v="central_feeding"/>
+    <tag k="education:program_orphans" v="yes"/>
+    <tag k="education:program_sanitary_towel" v="no"/>
+    <tag k="education:program_special_needs" v="no"/>
+    <tag k="education:pta" v="yes"/>
+    <tag k="education:school_head" v="Mr.Allan Sabwa"/>
+    <tag k="education:students" v="89"/>
+    <tag k="education:students_female" v="45"/>
+    <tag k="education:students_male" v="44"/>
+    <tag k="education:teachers" v="4"/>
+    <tag k="education:teachers_female" v="1"/>
+    <tag k="education:teachers_male" v="3"/>
+    <tag k="education:teachers_trained" v="3"/>
+    <tag k="education:type" v="secondary"/>
+    <tag k="electricity:operational_status" v="never"/>
+    <tag k="image:classroom" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1537434642099.jpg"/>
+    <tag k="image:compound" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1537434666645.jpg"/>
+    <tag k="image:sign_post" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1537434692793.jpg"/>
+    <tag k="name" v="Petals Education Centre"/>
+    <tag k="operator:description" v="Petals group"/>
+    <tag k="operator:type" v="cbo"/>
+    <tag k="toilet:present" v="yes"/>
+    <tag k="toilets:female" v="1"/>
+    <tag k="toilets:handwashing" v="yes"/>
+    <tag k="toilets:male" v="1"/>
+    <tag k="toilets:teachers" v="1"/>
+    <tag k="water:source" v="tap"/>
+  </node>
+  <node id="5926195782" lat="-1.2642500" lon="36.7360033" version="11" timestamp="2019-03-05T08:39:50Z" changeset="67795562" uid="261050" user="muindre">
+    <tag k="accessibility" v="small_cars,big_vehicles,foot"/>
+    <tag k="amenity" v="school"/>
+    <tag k="building:classrooms" v="7"/>
+    <tag k="building:levels" v="0"/>
+    <tag k="building:material" v="iron_sheet"/>
+    <tag k="building:roof" v="iron_sheet"/>
+    <tag k="contact:address" v="194-00625"/>
+    <tag k="contact:email" v="petalseducationcentre@gmail.com"/>
+    <tag k="contact:phone" v="0723424120"/>
+    <tag k="education:bom_employed" v="yes"/>
+    <tag k="education:bom_how_many" v="3"/>
+    <tag k="education:curriculum" v="8_4_4,2_6_3_3_3"/>
+    <tag k="education:exam_affiliate" v="Kanyolosha Primary School"/>
+    <tag k="education:exam_center" v="no"/>
+    <tag k="education:extra_drama" v="yes"/>
+    <tag k="education:extra_music" v="yes"/>
+    <tag k="education:extra_other" v="PPI,Debate,Library lessons"/>
+    <tag k="education:extra_scouts" v="yes"/>
+    <tag k="education:extra_sports" v="yes"/>
+    <tag k="education:fees" v="yes"/>
+    <tag k="education:fees_exam" v="100"/>
+    <tag k="education:fees_level2" v="7800"/>
+    <tag k="education:fees_level3" v="7800"/>
+    <tag k="education:fees_lunch" v="0"/>
+    <tag k="education:fees_per_year" v="7800"/>
+    <tag k="education:fees_trip" v="500"/>
+    <tag k="education:gender_type" v="mixed"/>
+    <tag k="education:government_grants" v="no"/>
+    <tag k="education:government_registered" v="APBET"/>
+    <tag k="education:management_committee" v="yes"/>
+    <tag k="education:mean_score" v="188.8"/>
+    <tag k="education:nemis_code" v="yes"/>
+    <tag k="education:operate_as" v="day_school"/>
+    <tag k="education:program_counselling" v="yes"/>
+    <tag k="education:program_feeding" v="central_feeding"/>
+    <tag k="education:program_orphans" v="yes"/>
+    <tag k="education:program_sanitary_towel" v="no"/>
+    <tag k="education:program_special_needs" v="no"/>
+    <tag k="education:pta" v="yes"/>
+    <tag k="education:school_head" v="Mr.Allan Sabwa"/>
+    <tag k="education:students" v="50"/>
+    <tag k="education:students_female" v="30"/>
+    <tag k="education:students_male" v="20"/>
+    <tag k="education:teachers" v="7"/>
+    <tag k="education:teachers_female" v="3"/>
+    <tag k="education:teachers_male" v="4"/>
+    <tag k="education:teachers_trained" v="3"/>
+    <tag k="education:type" v="primary"/>
+    <tag k="electricity:operational_status" v="never"/>
+    <tag k="image:classroom" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1537435024811.jpg"/>
+    <tag k="image:compound" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1537435058583.jpg"/>
+    <tag k="image:sign_post" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1537435075783.jpg"/>
+    <tag k="name" v="Petals Education Centre"/>
+    <tag k="operator:description" v="Petals group"/>
+    <tag k="operator:type" v="cbo"/>
+    <tag k="toilet:present" v="yes"/>
+    <tag k="toilets:female" v="1"/>
+    <tag k="toilets:handwashing" v="yes"/>
+    <tag k="toilets:male" v="1"/>
+    <tag k="toilets:teachers" v="1"/>
+    <tag k="water:source" v="tap"/>
+  </node>
+  <node id="5926195783" lat="-1.2642544" lon="36.7360139" version="9" timestamp="2019-03-05T08:39:52Z" changeset="67795562" uid="261050" user="muindre">
+    <tag k="accessibility" v="small_cars,big_vehicles,foot"/>
+    <tag k="amenity" v="school"/>
+    <tag k="building:classrooms" v="1"/>
+    <tag k="building:levels" v="0"/>
+    <tag k="building:material" v="iron_sheet"/>
+    <tag k="building:roof" v="iron_sheet"/>
+    <tag k="contact:address" v="194-00625"/>
+    <tag k="contact:email" v="petalseducationcentre@gmail.com"/>
+    <tag k="contact:phone" v="0723424120"/>
+    <tag k="education:bom_employed" v="yes"/>
+    <tag k="education:bom_how_many" v="1"/>
+    <tag k="education:curriculum" v="2_6_3_3_3"/>
+    <tag k="education:exam_center" v="yes"/>
+    <tag k="education:extra_drama" v="no"/>
+    <tag k="education:extra_music" v="yes"/>
+    <tag k="education:extra_other" v="Pastrol program Instruction"/>
+    <tag k="education:extra_scouts" v="no"/>
+    <tag k="education:extra_sports" v="yes"/>
+    <tag k="education:fees" v="yes"/>
+    <tag k="education:fees_admission" v="300"/>
+    <tag k="education:fees_exam" v="100"/>
+    <tag k="education:fees_level1" v="6000"/>
+    <tag k="education:fees_lunch" v="0"/>
+    <tag k="education:fees_per_year" v="6000"/>
+    <tag k="education:fees_trip" v="500"/>
+    <tag k="education:gender_type" v="mixed"/>
+    <tag k="education:government_grants" v="no"/>
+    <tag k="education:government_registered" v="APBET"/>
+    <tag k="education:management_committee" v="yes"/>
+    <tag k="education:mean_score" v="100.2"/>
+    <tag k="education:nemis_code" v="yes"/>
+    <tag k="education:operate_as" v="day_school"/>
+    <tag k="education:program_counselling" v="no"/>
+    <tag k="education:program_feeding" v="central_feeding"/>
+    <tag k="education:program_orphans" v="yes"/>
+    <tag k="education:program_sanitary_towel" v="no"/>
+    <tag k="education:program_special_needs" v="no"/>
+    <tag k="education:pta" v="yes"/>
+    <tag k="education:school_head" v="Mr.Allan Sabwa"/>
+    <tag k="education:students" v="23"/>
+    <tag k="education:students_female" v="10"/>
+    <tag k="education:students_male" v="13"/>
+    <tag k="education:teachers" v="1"/>
+    <tag k="education:teachers_female" v="1"/>
+    <tag k="education:teachers_male" v="0"/>
+    <tag k="education:teachers_trained" v="1"/>
+    <tag k="education:type" v="pre_primary"/>
+    <tag k="electricity:operational_status" v="never"/>
+    <tag k="image:classroom" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1537435132457.jpg"/>
+    <tag k="image:compound" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1537435144698.jpg"/>
+    <tag k="image:sign_post" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1537435160348.jpg"/>
+    <tag k="name" v="Petals Education Centre"/>
+    <tag k="operator:description" v="Petals Group"/>
+    <tag k="operator:type" v="cbo"/>
+    <tag k="toilet:present" v="yes"/>
+    <tag k="toilets:female" v="1"/>
+    <tag k="toilets:handwashing" v="yes"/>
+    <tag k="toilets:male" v="1"/>
+    <tag k="toilets:teachers" v="1"/>
+    <tag k="water:source" v="tap"/>
+  </node>
   <node id="5926218136" lat="-1.2632450" lon="36.7515706" version="9" timestamp="2018-10-18T08:07:02Z" changeset="63635661" uid="7574833" user="kamirisam">
     <tag k="accessibility" v="foot"/>
     <tag k="amenity" v="school"/>
@@ -3960,7 +4273,7 @@
     <tag k="toilets:teachers" v="1"/>
     <tag k="water:source" v="tap"/>
   </node>
-  <node id="5926218142" lat="-1.2626283" lon="36.7391419" version="9" timestamp="2018-10-18T08:23:54Z" changeset="63636049" uid="7574833" user="kamirisam">
+  <node id="5926218142" lat="-1.2626283" lon="36.7391419" version="10" timestamp="2019-02-08T19:02:28Z" changeset="67033896" uid="316172" user="ricaji">
     <tag k="accessibility" v="foot"/>
     <tag k="amenity" v="school"/>
     <tag k="building:classrooms" v="2"/>
@@ -4011,7 +4324,7 @@
     <tag k="image:classroom" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1537428934077.jpg"/>
     <tag k="image:compound" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1537428943845.jpg"/>
     <tag k="image:sign_post" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1537428955086.jpg"/>
-    <tag k="name" v="Execellent Foundation School"/>
+    <tag k="name" v="Excellent Foundation School"/>
     <tag k="operator:description" v="Privately managed"/>
     <tag k="operator:type" v="cbo"/>
     <tag k="toilet:present" v="yes"/>
@@ -14937,6 +15250,60 @@
     <tag k="toilets:teachers" v="1"/>
     <tag k="water:source" v="tap"/>
   </node>
+  <node id="6249035797" lat="-1.2634065" lon="36.7316515" version="3" timestamp="2019-03-05T08:39:55Z" changeset="67795562" uid="261050" user="muindre">
+    <tag k="accessibility" v="small_cars,big_vehicles,foot"/>
+    <tag k="amenity" v="school"/>
+    <tag k="building:classrooms" v="1"/>
+    <tag k="building:levels" v="0"/>
+    <tag k="building:material" v="concrete"/>
+    <tag k="building:roof" v="iron_sheet"/>
+    <tag k="contact:phone" v="0756522651"/>
+    <tag k="education:bom_employed" v="yes"/>
+    <tag k="education:bom_how_many" v="1"/>
+    <tag k="education:curriculum" v="2-6-3-3-3"/>
+    <tag k="education:exam_center" v="no"/>
+    <tag k="education:extra_drama" v="no"/>
+    <tag k="education:extra_music" v="no"/>
+    <tag k="education:extra_scouts" v="yes"/>
+    <tag k="education:extra_sports" v="no"/>
+    <tag k="education:fees" v="yes"/>
+    <tag k="education:fees_admission" v="500"/>
+    <tag k="education:fees_level1" v="12000"/>
+    <tag k="education:fees_per_year" v="12000"/>
+    <tag k="education:gender_type" v="mixed"/>
+    <tag k="education:government_grants" v="no"/>
+    <tag k="education:government_registered" v="moe"/>
+    <tag k="education:management_committee" v="yes"/>
+    <tag k="education:nemis_code" v="yes"/>
+    <tag k="education:operate_as" v="day_school"/>
+    <tag k="education:program_counselling" v="yes"/>
+    <tag k="education:program_feeding" v="yes"/>
+    <tag k="education:program_feeding_description" v="school_fees"/>
+    <tag k="education:program_orphans" v="no"/>
+    <tag k="education:program_special_needs" v="no"/>
+    <tag k="education:pta" v="yes"/>
+    <tag k="education:school_head" v="Pastor Wekesa"/>
+    <tag k="education:students" v="3"/>
+    <tag k="education:students_female" v="2"/>
+    <tag k="education:students_male" v="1"/>
+    <tag k="education:teachers" v="1"/>
+    <tag k="education:teachers_female" v="1"/>
+    <tag k="education:teachers_male" v="0"/>
+    <tag k="education:teachers_trained" v="0"/>
+    <tag k="education:type" v="pre_primary"/>
+    <tag k="electricity:operational_status" v="always"/>
+    <tag k="image:classroom" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1262458261192.jpg"/>
+    <tag k="image:compound" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1262458317112.jpg"/>
+    <tag k="name" v="Kabete Friends Pre-Primary"/>
+    <tag k="operator:description" v="Kabete Friends Church Quakers"/>
+    <tag k="operator:type" v="religious"/>
+    <tag k="toilet:present" v="yes"/>
+    <tag k="toilets:female" v="1"/>
+    <tag k="toilets:handwashing" v="yes"/>
+    <tag k="toilets:male" v="1"/>
+    <tag k="toilets:teachers" v="1"/>
+    <tag k="water:source" v="tap"/>
+  </node>
   <node id="6249035798" lat="-1.2665717" lon="36.7455403" version="1" timestamp="2019-01-31T10:43:04Z" changeset="66797563" uid="261050" user="muindre">
     <tag k="accessibility" v="small_cars,big_vehicles,foot"/>
     <tag k="amenity" v="school"/>
@@ -15468,12 +15835,6 @@
     <tag k="toilets:male" v="1"/>
     <tag k="toilets:teachers" v="1"/>
     <tag k="water:source" v="tap"/>
-  </node>
-  <node id="6251635124" lat="-1.2601449" lon="36.7137515" version="1" timestamp="2019-02-01T13:46:15Z" changeset="66833789" uid="6318104" user="DingoKG">
-    <tag k="addr:city" v="Kikuyu"/>
-    <tag k="addr:street" v="Uthiru Gichagi Road"/>
-    <tag k="amenity" v="school"/>
-    <tag k="name" v="Uthiru Girls High School"/>
   </node>
   <node id="6257453161" lat="-1.2402743" lon="36.7638014" version="1" timestamp="2019-02-04T09:20:49Z" changeset="66897346" uid="6318104" user="DingoKG">
     <tag k="addr:city" v="Nairobi"/>

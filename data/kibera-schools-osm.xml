@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.55.5 2ca3f387">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2019-02-06T16:26:02Z"/>
+<meta osm_base="2019-03-27T19:33:02Z"/>
 
   <bounds minlat="-1.3211000" minlon="36.7651000" maxlat="-1.3009000" maxlon="36.8178000"/>
 
@@ -1167,11 +1167,6 @@
     <tag k="place:village" v="Kianda"/>
     <tag k="source" v="Map Kibera Trust"/>
   </node>
-  <node id="612008779" lat="-1.3090593" lon="36.7725816" version="3" timestamp="2010-08-31T15:36:28Z" changeset="5646495" uid="19239" user="ebrelsford">
-    <tag k="amenity" v="library"/>
-    <tag k="education:type" v="library"/>
-    <tag k="name" v="G.A.A. Kibera Community Library"/>
-  </node>
   <node id="612008786" lat="-1.3172255" lon="36.7984839" version="9" timestamp="2014-08-22T09:39:08Z" changeset="24927908" uid="261009" user="Blasio">
     <tag k="accessibility" v="foot"/>
     <tag k="amenity" v="school"/>
@@ -1607,11 +1602,6 @@
     <tag k="operator:type" v="religious"/>
     <tag k="place:village" v="Laini Saba"/>
     <tag k="toilet:present" v="yes"/>
-  </node>
-  <node id="612011372" lat="-1.3107304" lon="36.7946037" version="2" timestamp="2010-08-31T15:39:03Z" changeset="5646495" uid="19239" user="ebrelsford">
-    <tag k="amenity" v="library"/>
-    <tag k="education:type" v="library"/>
-    <tag k="name" v="Christ the King Library"/>
   </node>
   <node id="662794312" lat="-1.3114729" lon="36.7926348" version="15" timestamp="2017-07-25T10:06:34Z" changeset="50552722" uid="265690" user="fondolucy">
     <tag k="accessibility" v="foot"/>
@@ -4002,7 +3992,7 @@
     <tag k="place:village" v="Makina"/>
     <tag k="toilet:present" v="yes"/>
   </node>
-  <node id="775535480" lat="-1.3118512" lon="36.7858678" version="9" timestamp="2018-01-26T07:41:07Z" changeset="55763092" uid="261050" user="muindre">
+  <node id="775535480" lat="-1.3118512" lon="36.7858678" version="10" timestamp="2019-03-27T15:59:58Z" changeset="68591909" uid="316172" user="ricaji">
     <tag k="accessibility" v="small_cars"/>
     <tag k="amenity" v="school"/>
     <tag k="building:levels" v="1"/>
@@ -4048,7 +4038,7 @@
     <tag k="opening_hours" v="06:00-18:00"/>
     <tag k="operational_status" v="operational"/>
     <tag k="operational_status:electricity" v="always"/>
-    <tag k="operator:type" v="ngo_international"/>
+    <tag k="operator:type" v="ngo"/>
     <tag k="place:village" v="Karanja"/>
     <tag k="toilet:present" v="yes"/>
   </node>
@@ -4889,7 +4879,7 @@
     <tag k="polling_station:type" v="school"/>
     <tag k="polling_station:type_description" v="Its a private school"/>
   </node>
-  <node id="2066040973" lat="-1.3019198" lon="36.7663865" version="17" timestamp="2015-04-14T07:47:07Z" changeset="30205535" uid="265690" user="fondolucy">
+  <node id="2066040973" lat="-1.3015411" lon="36.7660645" version="18" timestamp="2019-03-05T20:49:51Z" changeset="67821363" uid="338627" user="cRaIgalLAn">
     <tag k="accessibility" v="big_vehicles"/>
     <tag k="amenity" v="school"/>
     <tag k="boundary_type:Ward_boundary" v="yes"/>
@@ -5973,7 +5963,7 @@
     <tag k="toilet:arranged_name" v="Riziki public toilet"/>
     <tag k="toilet:present" v="arranged"/>
   </node>
-  <node id="2923513500" lat="-1.3116774" lon="36.7862338" version="4" timestamp="2015-01-03T18:38:09Z" changeset="27893083" uid="555655" user="JamesLC">
+  <node id="2923513500" lat="-1.3116774" lon="36.7862338" version="5" timestamp="2019-03-27T15:58:44Z" changeset="68591857" uid="316172" user="ricaji">
     <tag k="accessibility" v="small_cars"/>
     <tag k="amenity" v="school"/>
     <tag k="building:material" v="cement_block"/>
@@ -6001,7 +5991,7 @@
     <tag k="education:type" v="pre_primary"/>
     <tag k="electricity:operational_status" v="always"/>
     <tag k="name" v="Stara Rescue Centre School"/>
-    <tag k="operator:type" v="ngo_international"/>
+    <tag k="operator:type" v="ngo"/>
     <tag k="place:village" v="Karanja"/>
     <tag k="toilet:present" v="yes"/>
   </node>
@@ -6399,7 +6389,7 @@
     <tag k="place:village" v="Soweto West"/>
     <tag k="toilet:present" v="yes"/>
   </node>
-  <node id="2923815708" lat="-1.3154273" lon="36.7752276" version="15" timestamp="2015-04-15T08:26:50Z" changeset="30230069" uid="265690" user="fondolucy">
+  <node id="2923815708" lat="-1.3154273" lon="36.7752276" version="16" timestamp="2019-03-04T03:24:43Z" changeset="67752638" uid="9451067" user="b-jazz-bot">
     <tag k="accessibility" v="big_vehicles"/>
     <tag k="amenity" v="school"/>
     <tag k="building" v="school"/>
@@ -6438,7 +6428,7 @@
     <tag k="operator:type" v="private"/>
     <tag k="place:village" v="Soweto West"/>
     <tag k="toilet:present" v="yes"/>
-    <tag k="website" v="http://chnstcatherine.com"/>
+    <tag k="website" v="https://chnstcatherine.com/"/>
   </node>
   <node id="2923815712" lat="-1.3117815" lon="36.7751284" version="12" timestamp="2017-10-12T09:36:02Z" changeset="52854077" uid="261050" user="muindre">
     <tag k="accessibility" v="big_vehicles"/>
@@ -8147,7 +8137,7 @@
     <tag k="place:village" v="Gatwekera"/>
     <tag k="toilet:present" v="yes"/>
   </node>
-  <node id="2952187223" lat="-1.3148942" lon="36.7810067" version="5" timestamp="2018-01-26T07:29:52Z" changeset="55762867" uid="261050" user="muindre">
+  <node id="2952187223" lat="-1.3148942" lon="36.7810067" version="6" timestamp="2019-03-27T14:40:18Z" changeset="68589195" uid="316172" user="ricaji">
     <tag k="accessibility" v="foot"/>
     <tag k="amenity" v="school"/>
     <tag k="building:material" v="cement_block"/>
@@ -8175,7 +8165,7 @@
     <tag k="image:other" v="https://0079f04f78208eb6dbf00f4be735c0a32d71c3ad.googledrive.com/host/0B8cIVKWxH2-6Ynk0MDZJUnNpdUU/Schools%20Steve/The%20Global%20One%20Kibera%20School/Sign.JPG"/>
     <tag k="image:outside" v="https://0079f04f78208eb6dbf00f4be735c0a32d71c3ad.googledrive.com/host/0B8cIVKWxH2-6Ynk0MDZJUnNpdUU/Schools%20Steve/The%20Global%20One%20Kibera%20School/Establishment.JPG"/>
     <tag k="name" v="Global One Kibera School"/>
-    <tag k="operator:type" v="ngo_international"/>
+    <tag k="operator:type" v="ngo"/>
     <tag k="place:village" v="Gatwekera"/>
     <tag k="toilet:arranged_name" v="pee poo"/>
     <tag k="toilet:present" v="arranged"/>
