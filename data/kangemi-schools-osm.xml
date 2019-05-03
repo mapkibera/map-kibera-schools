@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="Overpass API 0.7.55.5 2ca3f387">
+<osm version="0.6" generator="Overpass API 0.7.55.7 8b86ff77">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2019-03-27T19:33:02Z"/>
+<meta osm_base="2019-05-03T14:25:02Z"/>
 
   <bounds minlat="-1.2806500" minlon="36.7116700" maxlat="-1.2096000" maxlon="36.8292600"/>
 
@@ -12446,7 +12446,7 @@
     <tag k="toilets:teachers" v="2"/>
     <tag k="water:source" v="tap"/>
   </node>
-  <node id="5948174014" lat="-1.2560000" lon="36.8166850" version="4" timestamp="2018-10-30T10:13:34Z" changeset="64006052" uid="265690" user="fondolucy">
+  <node id="5948174014" lat="-1.2560040" lon="36.8167259" version="5" timestamp="2019-03-28T08:25:25Z" changeset="68616245" uid="9225265" user="Oltrarno">
     <tag k="accessibility" v="small_cars,big_vehicles,foot"/>
     <tag k="amenity" v="school"/>
     <tag k="building:classrooms" v="1"/>
@@ -14368,7 +14368,7 @@
     <tag k="toilets:teachers" v="2"/>
     <tag k="water:source" v="water_tank"/>
   </node>
-  <node id="5953268876" lat="-1.2560000" lon="36.8166850" version="6" timestamp="2018-10-30T11:29:58Z" changeset="64008247" uid="265690" user="fondolucy">
+  <node id="5953268876" lat="-1.2559906" lon="36.8166937" version="7" timestamp="2019-03-28T08:25:26Z" changeset="68616245" uid="9225265" user="Oltrarno">
     <tag k="accessibility" v="small_cars,big_vehicles,foot"/>
     <tag k="amenity" v="school"/>
     <tag k="building:classrooms" v="1"/>

@@ -15759,15 +15759,15 @@
     {
       "geometry": {
         "coordinates": [
-          36.816685, 
-          -1.256
+          36.8167259, 
+          -1.256004
         ], 
         "type": "Point"
       }, 
       "id": "node/5948174014", 
       "properties": {
-        "osm:_timestamp": "2018-10-30", 
-        "osm:_user": "fondolucy", 
+        "osm:_timestamp": "2019-03-28", 
+        "osm:_user": "Oltrarno", 
         "osm:accessibility": "small_cars,big_vehicles,foot", 
         "osm:amenity": "school", 
         "osm:building:classrooms": "1", 
@@ -18191,15 +18191,15 @@
     {
       "geometry": {
         "coordinates": [
-          36.816685, 
-          -1.256
+          36.8166937, 
+          -1.2559906
         ], 
         "type": "Point"
       }, 
       "id": "node/5953268876", 
       "properties": {
-        "osm:_timestamp": "2018-10-30", 
-        "osm:_user": "fondolucy", 
+        "osm:_timestamp": "2019-03-28", 
+        "osm:_user": "Oltrarno", 
         "osm:accessibility": "small_cars,big_vehicles,foot", 
         "osm:amenity": "school", 
         "osm:building:classrooms": "1", 
