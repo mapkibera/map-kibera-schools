@@ -21,7 +21,7 @@
     },
     Mathare: {
       centre: [-1.262, 36.858],
-      zoom: 16 + zoomAdjust
+      zoom: 15 + zoomAdjust
     },
     Kibera: {
       centre: [-1.313, 36.788],
