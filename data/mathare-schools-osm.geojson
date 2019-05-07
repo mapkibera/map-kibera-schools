@@ -293,25 +293,6 @@
     {
       "geometry": {
         "coordinates": [
-          36.8754772, 
-          -1.2610279
-        ], 
-        "type": "Point"
-      }, 
-      "id": "node/1038195562", 
-      "properties": {
-        "osm:_timestamp": "2011-01-28", 
-        "osm:_user": "PrimusK", 
-        "osm:amenity": "school", 
-        "osm:id": "node/1038195562", 
-        "osm:location": "mathare", 
-        "osm:name": "Ndururuno Secondary School"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
           36.8779585, 
           -1.2577888
         ], 
@@ -629,25 +610,6 @@
     {
       "geometry": {
         "coordinates": [
-          36.8744704, 
-          -1.2586748
-        ], 
-        "type": "Point"
-      }, 
-      "id": "node/1101737249", 
-      "properties": {
-        "osm:_timestamp": "2016-04-29", 
-        "osm:_user": "Edduta", 
-        "osm:amenity": "school", 
-        "osm:id": "node/1101737249", 
-        "osm:location": "mathare", 
-        "osm:name": "Huruma Primary School"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
           36.8737244, 
           -1.2573083
         ], 
@@ -806,27 +768,6 @@
         "osm:toilets:male": "1", 
         "osm:toilets:teachers": "1", 
         "osm:waste:garbage_disposal": "always"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          36.8649389, 
-          -1.2613375
-        ], 
-        "type": "Point"
-      }, 
-      "id": "node/1103092342", 
-      "properties": {
-        "osm:OWNERS": "MINISTRY OF EDUCATION", 
-        "osm:UNESCO POI'S": "EDUCATION", 
-        "osm:_timestamp": "2017-08-21", 
-        "osm:_user": "Johnwhelan", 
-        "osm:amenity": "school", 
-        "osm:id": "node/1103092342", 
-        "osm:location": "mathare", 
-        "osm:name": "Mathare Special Training Center"
       }, 
       "type": "Feature"
     }, 
@@ -1707,25 +1648,6 @@
     {
       "geometry": {
         "coordinates": [
-          36.8680615, 
-          -1.2576567
-        ], 
-        "type": "Point"
-      }, 
-      "id": "node/1123193347", 
-      "properties": {
-        "osm:_timestamp": "2011-01-27", 
-        "osm:_user": "PrimusK", 
-        "osm:amenity": "school", 
-        "osm:id": "node/1123193347", 
-        "osm:location": "mathare", 
-        "osm:name": "Furaha Community Center"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
           36.8683188, 
           -1.258656
         ], 
@@ -1758,25 +1680,6 @@
         "osm:id": "node/1123193364", 
         "osm:location": "mathare", 
         "osm:name": "Eden Annex preparatory school"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          36.8683122, 
-          -1.2585351
-        ], 
-        "type": "Point"
-      }, 
-      "id": "node/1123193391", 
-      "properties": {
-        "osm:_timestamp": "2011-01-27", 
-        "osm:_user": "PrimusK", 
-        "osm:amenity": "school", 
-        "osm:id": "node/1123193391", 
-        "osm:location": "mathare", 
-        "osm:name": "Elshadai Educational Centre"
       }, 
       "type": "Feature"
     }, 
@@ -1859,25 +1762,6 @@
     {
       "geometry": {
         "coordinates": [
-          36.8682894, 
-          -1.2586316
-        ], 
-        "type": "Point"
-      }, 
-      "id": "node/1123201131", 
-      "properties": {
-        "osm:_timestamp": "2011-01-27", 
-        "osm:_user": "hassanow", 
-        "osm:amenity": "school", 
-        "osm:id": "node/1123201131", 
-        "osm:location": "mathare", 
-        "osm:name": "Elshadai Educational Centre"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
           36.8726498, 
           -1.2568674
         ], 
@@ -1904,12 +1788,12 @@
       }, 
       "id": "node/1123201169", 
       "properties": {
-        "osm:_timestamp": "2018-12-03", 
-        "osm:_user": "Humus015", 
+        "osm:_timestamp": "2019-05-07", 
+        "osm:_user": "muindre", 
         "osm:amenity": "school", 
         "osm:id": "node/1123201169", 
         "osm:location": "mathare", 
-        "osm:name": "Genesis primary school", 
+        "osm:name": "Genesis Primary School", 
         "osm:name:it": "Genesis"
       }, 
       "type": "Feature"
@@ -1930,25 +1814,6 @@
         "osm:id": "node/1123201207", 
         "osm:location": "mathare", 
         "osm:name": "Genesis Secondary School"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          36.8778661, 
-          -1.2534198
-        ], 
-        "type": "Point"
-      }, 
-      "id": "node/1123209296", 
-      "properties": {
-        "osm:_timestamp": "2011-01-27", 
-        "osm:_user": "PrimusK", 
-        "osm:amenity": "school", 
-        "osm:id": "node/1123209296", 
-        "osm:location": "mathare", 
-        "osm:name": "Sun Flower Academy"
       }, 
       "type": "Feature"
     }, 
@@ -2030,44 +1895,6 @@
     {
       "geometry": {
         "coordinates": [
-          36.8664121, 
-          -1.2607992
-        ], 
-        "type": "Point"
-      }, 
-      "id": "node/1124602263", 
-      "properties": {
-        "osm:_timestamp": "2013-03-15", 
-        "osm:_user": "mickey mat", 
-        "osm:amenity": "school", 
-        "osm:id": "node/1124602263", 
-        "osm:location": "mathare", 
-        "osm:name": "Ngei P.A.G Education Centre"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          36.8660194, 
-          -1.2585029
-        ], 
-        "type": "Point"
-      }, 
-      "id": "node/1124602268", 
-      "properties": {
-        "osm:_timestamp": "2011-01-28", 
-        "osm:_user": "PrimusK", 
-        "osm:amenity": "school", 
-        "osm:id": "node/1124602268", 
-        "osm:location": "mathare", 
-        "osm:name": "Eljoy Education Centre"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
           36.8647596, 
           -1.2587536
         ], 
@@ -2106,14 +1933,14 @@
     {
       "geometry": {
         "coordinates": [
-          36.8632328, 
-          -1.2590304
+          36.8632182, 
+          -1.2590554
         ], 
         "type": "Point"
       }, 
       "id": "node/1244198595", 
       "properties": {
-        "osm:_timestamp": "2017-10-12", 
+        "osm:_timestamp": "2019-05-07", 
         "osm:_user": "muindre", 
         "osm:accessibility": "foot", 
         "osm:amenity": "school", 
@@ -2151,34 +1978,15 @@
     {
       "geometry": {
         "coordinates": [
-          36.865401, 
-          -1.2611822
-        ], 
-        "type": "Point"
-      }, 
-      "id": "node/2318438875", 
-      "properties": {
-        "osm:_timestamp": "2013-05-24", 
-        "osm:_user": "othuol", 
-        "osm:amenity": "school", 
-        "osm:id": "node/2318438875", 
-        "osm:location": "mathare", 
-        "osm:name": "MATHARE SPEACIAL SCHOOL"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          36.8618286, 
-          -1.2618831
+          36.861983, 
+          -1.2616417
         ], 
         "type": "Point"
       }, 
       "id": "node/2374943971", 
       "properties": {
-        "osm:_timestamp": "2013-07-05", 
-        "osm:_user": "othuol", 
+        "osm:_timestamp": "2019-05-07", 
+        "osm:_user": "muindre", 
         "osm:amenity": "school", 
         "osm:id": "node/2374943971", 
         "osm:location": "mathare", 
@@ -2526,18 +2334,18 @@
     {
       "geometry": {
         "coordinates": [
-          36.8615078, 
-          -1.262763
+          36.8614925, 
+          -1.2627787
         ], 
         "type": "Point"
       }, 
       "id": "node/4456606815", 
       "properties": {
-        "osm:_timestamp": "2019-05-02", 
+        "osm:_timestamp": "2019-05-07", 
         "osm:_user": "muindre", 
         "osm:accessibility": "foot", 
         "osm:amenity": "school", 
-        "osm:barrier": "gate", 
+        "osm:barrier:gate": "yes", 
         "osm:building:classrooms": "7", 
         "osm:building:levels": "0", 
         "osm:building:material": "ironsheets", 
@@ -3231,25 +3039,6 @@
         "osm:operator:type": "private", 
         "osm:place:village": "Thayu", 
         "osm:toilet:present": "yes"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          36.8619888, 
-          -1.2616307
-        ], 
-        "type": "Point"
-      }, 
-      "id": "node/4461502029", 
-      "properties": {
-        "osm:_timestamp": "2016-10-24", 
-        "osm:_user": "fondolucy", 
-        "osm:amenity": "school", 
-        "osm:id": "node/4461502029", 
-        "osm:location": "mathare", 
-        "osm:name": "Muungano Education Center"
       }, 
       "type": "Feature"
     }, 
@@ -4891,7 +4680,7 @@
       }, 
       "id": "node/4472311597", 
       "properties": {
-        "osm:_timestamp": "2017-10-12", 
+        "osm:_timestamp": "2019-05-07", 
         "osm:_user": "muindre", 
         "osm:accessibility": "big_vehicles", 
         "osm:amenity": "school", 
@@ -4917,6 +4706,7 @@
         "osm:education:teachers_female": "2", 
         "osm:education:teachers_male": "0", 
         "osm:education:teachers_trained": "0", 
+        "osm:education:type": "pre_primary", 
         "osm:electricity:operational_status": "sometimes", 
         "osm:id": "node/4472311597", 
         "osm:location": "mathare", 
@@ -5417,25 +5207,6 @@
     {
       "geometry": {
         "coordinates": [
-          36.865512, 
-          -1.259711
-        ], 
-        "type": "Point"
-      }, 
-      "id": "node/6445077902", 
-      "properties": {
-        "osm:_timestamp": "2019-05-03", 
-        "osm:_user": "muindre", 
-        "osm:amenity": "school", 
-        "osm:id": "node/6445077902", 
-        "osm:location": "mathare", 
-        "osm:name": "Sancare Preparatory School"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
           36.870453, 
           -1.258249
         ], 
@@ -5584,25 +5355,6 @@
         "osm:id": "node/6445077906", 
         "osm:location": "mathare", 
         "osm:name": "Mogra Star Primary And Secondary Schools"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          36.871562, 
-          -1.255753
-        ], 
-        "type": "Point"
-      }, 
-      "id": "node/6445077907", 
-      "properties": {
-        "osm:_timestamp": "2019-05-03", 
-        "osm:_user": "muindre", 
-        "osm:amenity": "school", 
-        "osm:id": "node/6445077907", 
-        "osm:location": "mathare", 
-        "osm:name": "Mary Rosana Academy"
       }, 
       "type": "Feature"
     }, 
@@ -6349,14 +6101,14 @@
     {
       "geometry": {
         "coordinates": [
-          36.868154, 
-          -1.257808
+          36.8680843, 
+          -1.2576873
         ], 
         "type": "Point"
       }, 
       "id": "node/6445081198", 
       "properties": {
-        "osm:_timestamp": "2019-05-03", 
+        "osm:_timestamp": "2019-05-07", 
         "osm:_user": "muindre", 
         "osm:accessibility": "small_cars,foot,big_vehicles", 
         "osm:amenity": "school", 
@@ -6388,7 +6140,7 @@
         "osm:id": "node/6445081198", 
         "osm:internet_access": "yes", 
         "osm:location": "mathare", 
-        "osm:name": "Furaha Comminty Centre", 
+        "osm:name": "Furaha Community Centre", 
         "osm:operator:type": "ngo", 
         "osm:room:kitchen": "yes", 
         "osm:room:staff": "yes", 
@@ -7068,14 +6820,14 @@
     {
       "geometry": {
         "coordinates": [
-          36.874106, 
-          -1.258609
+          36.873934, 
+          -1.2585972
         ], 
         "type": "Point"
       }, 
       "id": "node/6445081215", 
       "properties": {
-        "osm:_timestamp": "2019-05-03", 
+        "osm:_timestamp": "2019-05-07", 
         "osm:_user": "muindre", 
         "osm:amenity": "school", 
         "osm:id": "node/6445081215", 
@@ -7752,25 +7504,6 @@
     {
       "geometry": {
         "coordinates": [
-          36.865604, 
-          -1.259635
-        ], 
-        "type": "Point"
-      }, 
-      "id": "node/6445111393", 
-      "properties": {
-        "osm:_timestamp": "2019-05-03", 
-        "osm:_user": "muindre", 
-        "osm:amenity": "school", 
-        "osm:id": "node/6445111393", 
-        "osm:location": "mathare", 
-        "osm:name": "Sancare Preparatory School"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
           36.866867, 
           -1.259647
         ], 
@@ -7943,14 +7676,14 @@
     {
       "geometry": {
         "coordinates": [
-          36.863408, 
-          -1.260912
+          36.8649957, 
+          -1.2611967
         ], 
         "type": "Point"
       }, 
       "id": "node/6445111398", 
       "properties": {
-        "osm:_timestamp": "2019-05-03", 
+        "osm:_timestamp": "2019-05-07", 
         "osm:_user": "muindre", 
         "osm:accessibility": "small_cars,foot,big_vehicles", 
         "osm:amenity": "school", 

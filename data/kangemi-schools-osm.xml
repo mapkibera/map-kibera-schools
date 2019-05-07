@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.55.7 8b86ff77">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2019-05-03T14:25:02Z"/>
+<meta osm_base="2019-05-07T15:20:02Z"/>
 
   <bounds minlat="-1.2806500" minlon="36.7116700" maxlat="-1.2096000" maxlon="36.8292600"/>
 
@@ -370,7 +370,7 @@
     <tag k="toilets:teachers" v="2"/>
     <tag k="water:source" v="tap"/>
   </node>
-  <node id="5915968852" lat="-1.2633492" lon="36.7315583" version="11" timestamp="2019-03-09T22:37:45Z" changeset="67973679" uid="118021" user="maggot27">
+  <node id="5915968852" lat="-1.2633492" lon="36.7315583" version="12" timestamp="2019-05-06T10:22:36Z" changeset="69929982" uid="261050" user="muindre">
     <tag k="accessibility" v="small_cars,big_vehicles,foot"/>
     <tag k="amenity" v="school"/>
     <tag k="building:classrooms" v="1"/>
@@ -379,7 +379,7 @@
     <tag k="education:bom_employed" v="yes"/>
     <tag k="education:bom_how_many" v="1"/>
     <tag k="education:curriculum" v="2_6_3_3_3"/>
-    <tag k="education:exam_affiliate" v="none"/>
+    <tag k="education:exam_affiliate" v="no"/>
     <tag k="education:exam_center" v="no"/>
     <tag k="education:extra_drama" v="no"/>
     <tag k="education:extra_music" v="no"/>
@@ -1171,7 +1171,7 @@
     <tag k="toilets:teachers" v="2"/>
     <tag k="water:source" v="tap"/>
   </node>
-  <node id="5924832972" lat="-1.2717229" lon="36.7505202" version="11" timestamp="2018-10-24T11:59:11Z" changeset="63829650" uid="4570042" user="Peter Agenga">
+  <node id="5924832972" lat="-1.2717229" lon="36.7505202" version="12" timestamp="2019-05-06T10:13:23Z" changeset="69929719" uid="261050" user="muindre">
     <tag k="accessibility" v="foot"/>
     <tag k="amenity" v="school"/>
     <tag k="building:levels" v="0"/>
@@ -1204,7 +1204,7 @@
     <tag k="education:operate_as" v="day_school"/>
     <tag k="education:program_counselling" v="yes"/>
     <tag k="education:program_feeding" v="yes"/>
-    <tag k="education:program_feeding_description" v="school fees"/>
+    <tag k="education:program_feeding_description" v="fees"/>
     <tag k="education:program_orphans" v="yes"/>
     <tag k="education:program_other" v="none"/>
     <tag k="education:program_sanitary_towel" v="no"/>
@@ -1296,7 +1296,7 @@
     <tag k="toilets:teachers" v="2"/>
     <tag k="water:source" v="tap"/>
   </node>
-  <node id="5924832974" lat="-1.2709188" lon="36.7505600" version="9" timestamp="2018-10-18T08:12:03Z" changeset="63635767" uid="4570042" user="Peter Agenga">
+  <node id="5924832974" lat="-1.2709188" lon="36.7505600" version="10" timestamp="2019-05-06T10:12:30Z" changeset="69929693" uid="261050" user="muindre">
     <tag k="accessibility" v="small_cars,foot"/>
     <tag k="amenity" v="school"/>
     <tag k="building:levels" v="0"/>
@@ -1307,7 +1307,7 @@
     <tag k="education:bom_employed" v="yes"/>
     <tag k="education:bom_how_many" v="4"/>
     <tag k="education:curriculum" v="8_4_4,2_6_3_3_3"/>
-    <tag k="education:exam_affiliate" v="none"/>
+    <tag k="education:exam_affiliate" v="no"/>
     <tag k="education:exam_center" v="no"/>
     <tag k="education:extra_drama" v="no"/>
     <tag k="education:extra_music" v="no"/>
@@ -1835,7 +1835,7 @@
     <tag k="toilets:teachers" v="1"/>
     <tag k="water:source" v="tap"/>
   </node>
-  <node id="5924832983" lat="-1.2704317" lon="36.7489864" version="9" timestamp="2018-10-25T10:29:30Z" changeset="63862449" uid="4570042" user="Peter Agenga">
+  <node id="5924832983" lat="-1.2704317" lon="36.7489864" version="10" timestamp="2019-05-06T10:20:37Z" changeset="69929919" uid="261050" user="muindre">
     <tag k="accessibility" v="small_cars,big_vehicles,foot"/>
     <tag k="amenity" v="school"/>
     <tag k="building:classrooms" v="2"/>
@@ -1846,7 +1846,7 @@
     <tag k="contact:phone" v="0723099757"/>
     <tag k="education:bom_employed" v="no"/>
     <tag k="education:curriculum" v="2_6_3_3_3"/>
-    <tag k="education:exam_affiliate" v="none"/>
+    <tag k="education:exam_affiliate" v="no"/>
     <tag k="education:exam_center" v="no"/>
     <tag k="education:fees" v="free_education"/>
     <tag k="education:gender_type" v="mixed"/>
@@ -1885,7 +1885,7 @@
     <tag k="toilets:teachers" v="9"/>
     <tag k="water:source" v="tap"/>
   </node>
-  <node id="5924832984" lat="-1.2707032" lon="36.7486777" version="10" timestamp="2018-10-25T10:30:33Z" changeset="63862482" uid="4570042" user="Peter Agenga">
+  <node id="5924832984" lat="-1.2707032" lon="36.7486777" version="11" timestamp="2019-05-06T10:19:26Z" changeset="69929886" uid="261050" user="muindre">
     <tag k="accessibility" v="big_vehicles,foot,small_cars"/>
     <tag k="amenity" v="school"/>
     <tag k="building:classrooms" v="5"/>
@@ -1912,7 +1912,7 @@
     <tag k="education:operate_as" v="day_school"/>
     <tag k="education:program_counselling" v="yes"/>
     <tag k="education:program_feeding" v="yes"/>
-    <tag k="education:program_feeding_description" v="school fees"/>
+    <tag k="education:program_feeding_description" v="fees"/>
     <tag k="education:program_orphans" v="yes"/>
     <tag k="education:program_other" v="girl_child_program"/>
     <tag k="education:program_sanitary_towel" v="yes"/>
@@ -2484,13 +2484,13 @@
     <tag k="toilets:teachers" v="1"/>
     <tag k="water:source" v="tap"/>
   </node>
-  <node id="5925863202" lat="-1.2754350" lon="36.7425113" version="7" timestamp="2018-11-16T12:21:53Z" changeset="64564720" uid="261050" user="muindre">
+  <node id="5925863202" lat="-1.2754350" lon="36.7425113" version="8" timestamp="2019-05-06T09:56:30Z" changeset="69929247" uid="261050" user="muindre">
     <tag k="accessibility" v="small_cars,big_vehicles,foot"/>
     <tag k="amenity" v="school"/>
     <tag k="building:classrooms" v="7"/>
     <tag k="building:levels" v="0"/>
-    <tag k="building:material" v="ironsheet"/>
-    <tag k="building:roof" v="ironsheet"/>
+    <tag k="building:material" v="iron_sheet"/>
+    <tag k="building:roof" v="iron_sheet"/>
     <tag k="contact:address" v="23408-00625"/>
     <tag k="contact:email" v="patienceschool@gmail.com"/>
     <tag k="contact:phone" v="0722854348"/>
@@ -3964,7 +3964,7 @@
     <tag k="toilets:teachers" v="1"/>
     <tag k="water:source" v="tap"/>
   </node>
-  <node id="5926218137" lat="-1.2632271" lon="36.7515242" version="9" timestamp="2018-10-18T08:07:03Z" changeset="63635661" uid="7574833" user="kamirisam">
+  <node id="5926218137" lat="-1.2632271" lon="36.7515242" version="10" timestamp="2019-05-06T10:21:41Z" changeset="69929947" uid="261050" user="muindre">
     <tag k="accessibility" v="foot"/>
     <tag k="amenity" v="school"/>
     <tag k="building:classrooms" v="2"/>
@@ -3976,7 +3976,7 @@
     <tag k="contact:phone" v="0726554067"/>
     <tag k="education:bom_employed" v="no"/>
     <tag k="education:curriculum" v="2_6_3_3_3"/>
-    <tag k="education:exam_affiliate" v="none"/>
+    <tag k="education:exam_affiliate" v="no"/>
     <tag k="education:exam_center" v="no"/>
     <tag k="education:extra_drama" v="yes"/>
     <tag k="education:extra_music" v="yes"/>
@@ -4395,7 +4395,7 @@
     <tag k="toilets:teachers" v="1"/>
     <tag k="water:source" v="tap"/>
   </node>
-  <node id="5926218249" lat="-1.2668525" lon="36.7476354" version="7" timestamp="2018-10-18T10:01:11Z" changeset="63638575" uid="4873427" user="shazomojah">
+  <node id="5926218249" lat="-1.2668525" lon="36.7476354" version="8" timestamp="2019-05-06T09:52:42Z" changeset="69929146" uid="261050" user="muindre">
     <tag k="accessibility" v="small_cars,big_vehicles,foot"/>
     <tag k="amenity" v="school"/>
     <tag k="building:classrooms" v="3"/>
@@ -4408,7 +4408,7 @@
     <tag k="education:bom_employed" v="yes"/>
     <tag k="education:bom_how_many" v="3"/>
     <tag k="education:curriculum" v="2_6_3_3_3"/>
-    <tag k="education:exam_affiliate" v="none"/>
+    <tag k="education:exam_affiliate" v="no"/>
     <tag k="education:exam_center" v="no"/>
     <tag k="education:extra_drama" v="no"/>
     <tag k="education:extra_music" v="yes"/>
@@ -4455,7 +4455,7 @@
     <tag k="toilets:teachers" v="1"/>
     <tag k="water:source" v="water_tank"/>
   </node>
-  <node id="5926218250" lat="-1.2654831" lon="36.7485165" version="13" timestamp="2018-10-24T12:00:00Z" changeset="63829680" uid="4873427" user="shazomojah">
+  <node id="5926218250" lat="-1.2654831" lon="36.7485165" version="14" timestamp="2019-05-06T09:59:18Z" changeset="69929341" uid="261050" user="muindre">
     <tag k="accessibility" v="small_cars,big_vehicles,foot"/>
     <tag k="amenity" v="school"/>
     <tag k="building:classrooms" v="4"/>
@@ -4468,7 +4468,7 @@
     <tag k="education:bom_employed" v="yes"/>
     <tag k="education:bom_how_many" v="6"/>
     <tag k="education:curriculum" v="2_6_3_3_3"/>
-    <tag k="education:exam_affiliate" v="none"/>
+    <tag k="education:exam_affiliate" v="no"/>
     <tag k="education:exam_center" v="no"/>
     <tag k="education:extra_drama" v="no"/>
     <tag k="education:extra_music" v="no"/>
@@ -5203,7 +5203,7 @@
     <tag k="toilets:teachers" v="1"/>
     <tag k="water:source" v="water_tank"/>
   </node>
-  <node id="5926218265" lat="-1.2703817" lon="36.7424925" version="5" timestamp="2018-10-19T08:48:35Z" changeset="63671220" uid="4873427" user="shazomojah">
+  <node id="5926218265" lat="-1.2703817" lon="36.7424925" version="6" timestamp="2019-05-06T09:58:18Z" changeset="69929301" uid="261050" user="muindre">
     <tag k="accessibility" v="small_cars,foot"/>
     <tag k="amenity" v="school"/>
     <tag k="building:material" v="iron_sheet"/>
@@ -5213,7 +5213,7 @@
     <tag k="contact:phone" v="0724363551"/>
     <tag k="education:bom_employed" v="no"/>
     <tag k="education:curriculum" v="8_4_4,2_6_3_3_3"/>
-    <tag k="education:exam_affiliate" v="none"/>
+    <tag k="education:exam_affiliate" v="no"/>
     <tag k="education:exam_center" v="no"/>
     <tag k="education:extra_drama" v="no"/>
     <tag k="education:extra_music" v="no"/>
@@ -5621,7 +5621,7 @@
     <tag k="toilets:teachers" v="1"/>
     <tag k="water:source" v="tap"/>
   </node>
-  <node id="5926355907" lat="-1.2685692" lon="36.7524797" version="7" timestamp="2018-11-13T11:15:49Z" changeset="64438368" uid="261050" user="muindre">
+  <node id="5926355907" lat="-1.2685692" lon="36.7524797" version="8" timestamp="2019-05-06T10:09:02Z" changeset="69929608" uid="261050" user="muindre">
     <tag k="accessibility" v="small_cars,big_vehicles,foot"/>
     <tag k="amenity" v="school"/>
     <tag k="building:classrooms" v="6"/>
@@ -5634,7 +5634,7 @@
     <tag k="education:bom_employed" v="yes"/>
     <tag k="education:bom_how_many" v="6"/>
     <tag k="education:curriculum" v="2_6_3_3_3"/>
-    <tag k="education:exam_affiliate" v="None"/>
+    <tag k="education:exam_affiliate" v="no"/>
     <tag k="education:exam_center" v="no"/>
     <tag k="education:extra_drama" v="no"/>
     <tag k="education:extra_music" v="no"/>
@@ -5813,7 +5813,7 @@
     <tag k="toilets:teachers" v="2"/>
     <tag k="water:source" v="tap"/>
   </node>
-  <node id="5926355910" lat="-1.2718450" lon="36.7474826" version="8" timestamp="2018-11-13T11:23:32Z" changeset="64438592" uid="261050" user="muindre">
+  <node id="5926355910" lat="-1.2718450" lon="36.7474826" version="9" timestamp="2019-05-06T10:18:30Z" changeset="69929864" uid="261050" user="muindre">
     <tag k="accessibility" v="big_vehicles,foot,small_cars"/>
     <tag k="amenity" v="school"/>
     <tag k="building:classrooms" v="2"/>
@@ -5825,7 +5825,7 @@
     <tag k="contact:phone" v="0715314996"/>
     <tag k="education:bom_employed" v="no"/>
     <tag k="education:curriculum" v="montessori"/>
-    <tag k="education:exam_affiliate" v="none"/>
+    <tag k="education:exam_affiliate" v="no"/>
     <tag k="education:exam_center" v="no"/>
     <tag k="education:extra_drama" v="no"/>
     <tag k="education:extra_music" v="yes"/>
@@ -6312,7 +6312,7 @@
     <tag k="toilets:teachers" v="2"/>
     <tag k="water:source" v="water_tank"/>
   </node>
-  <node id="5926387112" lat="-1.2685067" lon="36.7527039" version="9" timestamp="2018-11-13T11:48:35Z" changeset="64439229" uid="261050" user="muindre">
+  <node id="5926387112" lat="-1.2685067" lon="36.7527039" version="10" timestamp="2019-05-06T10:07:56Z" changeset="69929583" uid="261050" user="muindre">
     <tag k="accessibility" v="small_cars,big_vehicles,foot"/>
     <tag k="amenity" v="school"/>
     <tag k="building:classrooms" v="15"/>
@@ -6325,7 +6325,7 @@
     <tag k="education:bom_employed" v="no"/>
     <tag k="education:bom_how_many" v="0"/>
     <tag k="education:curriculum" v="8_4_4,2_6_3_3_3"/>
-    <tag k="education:exam_affiliate" v="none"/>
+    <tag k="education:exam_affiliate" v="no"/>
     <tag k="education:exam_center" v="yes"/>
     <tag k="education:extra_drama" v="no"/>
     <tag k="education:extra_music" v="no"/>
@@ -6675,7 +6675,7 @@
     <tag k="toilets:teachers" v="1"/>
     <tag k="water:source" v="tap"/>
   </node>
-  <node id="5926387118" lat="-1.2735749" lon="36.7383301" version="9" timestamp="2018-11-13T11:26:54Z" changeset="64438691" uid="261050" user="muindre">
+  <node id="5926387118" lat="-1.2735749" lon="36.7383301" version="10" timestamp="2019-05-06T09:53:46Z" changeset="69929173" uid="261050" user="muindre">
     <tag k="accessibility" v="small_cars,big_vehicles,foot"/>
     <tag k="amenity" v="school"/>
     <tag k="building:classrooms" v="2"/>
@@ -6687,7 +6687,7 @@
     <tag k="contact:phone" v="0729477988"/>
     <tag k="education:bom_employed" v="no"/>
     <tag k="education:curriculum" v="2_6_3_3_3"/>
-    <tag k="education:exam_affiliate" v="none"/>
+    <tag k="education:exam_affiliate" v="no"/>
     <tag k="education:exam_center" v="no"/>
     <tag k="education:extra_drama" v="no"/>
     <tag k="education:extra_music" v="yes"/>
@@ -7299,13 +7299,13 @@
     <tag k="toilets:teachers" v="2"/>
     <tag k="water:source" v="water"/>
   </node>
-  <node id="5926387129" lat="-1.2754730" lon="36.7356360" version="7" timestamp="2018-11-19T10:47:57Z" changeset="64650189" uid="261050" user="muindre">
+  <node id="5926387129" lat="-1.2754730" lon="36.7356360" version="8" timestamp="2019-05-06T09:55:24Z" changeset="69929205" uid="261050" user="muindre">
     <tag k="accessibility" v="foot"/>
     <tag k="amenity" v="school"/>
     <tag k="building:classrooms" v="8"/>
     <tag k="building:levels" v="0"/>
-    <tag k="building:material" v="ironsheet"/>
-    <tag k="building:roof" v="ironsheet"/>
+    <tag k="building:material" v="iron_sheet"/>
+    <tag k="building:roof" v="iron_sheet"/>
     <tag k="contact:email" v="jopnyantika18@gmail.com"/>
     <tag k="contact:phone" v="0724372197"/>
     <tag k="education:bom_employed" v="yes"/>
@@ -8600,7 +8600,7 @@
     <tag k="toilets:teachers" v="2"/>
     <tag k="water:source" v="tap"/>
   </node>
-  <node id="5933622810" lat="-1.2744772" lon="36.7428631" version="7" timestamp="2018-11-19T10:51:50Z" changeset="64650320" uid="261050" user="muindre">
+  <node id="5933622810" lat="-1.2744772" lon="36.7428631" version="8" timestamp="2019-05-06T09:57:17Z" changeset="69929271" uid="261050" user="muindre">
     <tag k="accessibility" v="small_cars,big_vehicles,foot"/>
     <tag k="amenity" v="school"/>
     <tag k="building:classrooms" v="6"/>
@@ -8612,7 +8612,7 @@
     <tag k="contact:phone" v="0715542061"/>
     <tag k="education:bom_employed" v="no"/>
     <tag k="education:curriculum" v="8_4_4 ,2_6_3_3_3"/>
-    <tag k="education:exam_affiliate" v="none"/>
+    <tag k="education:exam_affiliate" v="no"/>
     <tag k="education:exam_center" v="no"/>
     <tag k="education:extra_drama" v="no"/>
     <tag k="education:extra_music" v="no"/>
@@ -8788,7 +8788,7 @@
     <tag k="toilets:teachers" v="1"/>
     <tag k="water:source" v="water_tank"/>
   </node>
-  <node id="5933622813" lat="-1.2686701" lon="36.7450803" version="8" timestamp="2018-10-30T08:52:26Z" changeset="64004066" uid="7574833" user="kamirisam">
+  <node id="5933622813" lat="-1.2686701" lon="36.7450803" version="9" timestamp="2019-05-06T09:51:31Z" changeset="69929109" uid="261050" user="muindre">
     <tag k="accessibility" v="small_cars,big_vehicles,foot"/>
     <tag k="amenity" v="school"/>
     <tag k="building:classrooms" v="5"/>
@@ -8800,7 +8800,7 @@
     <tag k="education:bom_employed" v="yes"/>
     <tag k="education:bom_how_many" v="5"/>
     <tag k="education:curriculum" v="8_4_4"/>
-    <tag k="education:exam_affiliate" v="none"/>
+    <tag k="education:exam_affiliate" v="no"/>
     <tag k="education:exam_center" v="no"/>
     <tag k="education:extra_drama" v="no"/>
     <tag k="education:extra_music" v="yes"/>
@@ -10625,7 +10625,7 @@
     <tag k="toilets:teachers" v="1"/>
     <tag k="water:source" v="tap"/>
   </node>
-  <node id="5933721659" lat="-1.2683100" lon="36.7575148" version="7" timestamp="2018-10-19T10:02:26Z" changeset="63672990" uid="261050" user="muindre">
+  <node id="5933721659" lat="-1.2683100" lon="36.7575148" version="8" timestamp="2019-05-06T10:02:51Z" changeset="69929435" uid="261050" user="muindre">
     <tag k="accessibility" v="small_cars,foot"/>
     <tag k="amenity" v="school"/>
     <tag k="building:classrooms" v="3"/>
@@ -10637,7 +10637,7 @@
     <tag k="contact:phone" v="0725802574"/>
     <tag k="education:bom_employed" v="no"/>
     <tag k="education:curriculum" v="8_4_4"/>
-    <tag k="education:exam_affiliate" v="none"/>
+    <tag k="education:exam_affiliate" v="no"/>
     <tag k="education:exam_center" v="no"/>
     <tag k="education:extra_drama" v="no"/>
     <tag k="education:extra_music" v="no"/>
@@ -11076,7 +11076,7 @@
     <tag k="toilets:teachers" v="1"/>
     <tag k="water:source" v="tap"/>
   </node>
-  <node id="5933721708" lat="-1.2719350" lon="36.7567817" version="6" timestamp="2018-10-19T08:23:49Z" changeset="63670565" uid="4570042" user="Peter Agenga">
+  <node id="5933721708" lat="-1.2719350" lon="36.7567817" version="7" timestamp="2019-05-06T10:09:49Z" changeset="69929629" uid="261050" user="muindre">
     <tag k="accessibility" v="small_cars,big_vehicles,foot"/>
     <tag k="amenity" v="school"/>
     <tag k="building:classrooms" v="1"/>
@@ -11089,7 +11089,7 @@
     <tag k="education:bom_employed" v="no"/>
     <tag k="education:bom_how_many" v="0"/>
     <tag k="education:curriculum" v="8_4_4,2_6_3_3_3"/>
-    <tag k="education:exam_affiliate" v="none"/>
+    <tag k="education:exam_affiliate" v="no"/>
     <tag k="education:exam_center" v="no"/>
     <tag k="education:extra_drama" v="no"/>
     <tag k="education:extra_music" v="yes"/>
@@ -11273,7 +11273,7 @@
     <tag k="toilets:teachers" v="2"/>
     <tag k="water:source" v="tap"/>
   </node>
-  <node id="5933721711" lat="-1.2687263" lon="36.7561398" version="10" timestamp="2018-10-25T11:15:16Z" changeset="63863701" uid="4570042" user="Peter Agenga">
+  <node id="5933721711" lat="-1.2687263" lon="36.7561398" version="11" timestamp="2019-05-06T10:06:58Z" changeset="69929554" uid="261050" user="muindre">
     <tag k="accessibility" v="small_cars,big_vehicles,foot"/>
     <tag k="amenity" v="school"/>
     <tag k="building:classrooms" v="5"/>
@@ -11286,7 +11286,7 @@
     <tag k="education:bom_employed" v="no"/>
     <tag k="education:bom_how_many" v="0"/>
     <tag k="education:curriculum" v="2_6_3_3_3"/>
-    <tag k="education:exam_affiliate" v="none"/>
+    <tag k="education:exam_affiliate" v="no"/>
     <tag k="education:exam_center" v="no"/>
     <tag k="education:extra_drama" v="yes"/>
     <tag k="education:extra_music" v="yes"/>
@@ -11472,7 +11472,7 @@
     <tag k="toilets:teachers" v="8"/>
     <tag k="water:source" v="tap"/>
   </node>
-  <node id="5933721714" lat="-1.2689994" lon="36.7582787" version="9" timestamp="2018-11-19T10:24:35Z" changeset="64649386" uid="261050" user="muindre">
+  <node id="5933721714" lat="-1.2689994" lon="36.7582787" version="10" timestamp="2019-05-06T10:03:48Z" changeset="69929458" uid="261050" user="muindre">
     <tag k="accessibility" v="small_cars,big_vehicles,foot"/>
     <tag k="amenity" v="school"/>
     <tag k="building:classrooms" v="1"/>
@@ -11485,7 +11485,7 @@
     <tag k="education:bom_employed" v="no"/>
     <tag k="education:bom_how_many" v="0"/>
     <tag k="education:curriculum" v="8_4_4,2_6_3_3_3"/>
-    <tag k="education:exam_affiliate" v="none"/>
+    <tag k="education:exam_affiliate" v="no"/>
     <tag k="education:exam_center" v="no"/>
     <tag k="education:extra_drama" v="yes"/>
     <tag k="education:extra_music" v="yes"/>
@@ -11664,7 +11664,7 @@
     <tag k="toilets:teachers" v="3"/>
     <tag k="water:source" v="water_tank"/>
   </node>
-  <node id="5933721718" lat="-1.2690934" lon="36.7581760" version="12" timestamp="2018-11-19T10:24:36Z" changeset="64649386" uid="261050" user="muindre">
+  <node id="5933721718" lat="-1.2690934" lon="36.7581760" version="13" timestamp="2019-05-06T10:04:28Z" changeset="69929482" uid="261050" user="muindre">
     <tag k="accessibility" v="small_cars,big_vehicles,foot"/>
     <tag k="amenity" v="school"/>
     <tag k="building:classrooms" v="2"/>
@@ -11677,7 +11677,7 @@
     <tag k="education:bom_employed" v="no"/>
     <tag k="education:bom_how_many" v="0"/>
     <tag k="education:curriculum" v="8_4_4,2_6_3_3_3"/>
-    <tag k="education:exam_affiliate" v="none"/>
+    <tag k="education:exam_affiliate" v="no"/>
     <tag k="education:exam_center" v="no"/>
     <tag k="education:extra_drama" v="no"/>
     <tag k="education:extra_music" v="no"/>
@@ -11726,7 +11726,7 @@
     <tag k="toilets:teachers" v="1"/>
     <tag k="water:source" v="tap"/>
   </node>
-  <node id="5933721719" lat="-1.2690212" lon="36.7580829" version="10" timestamp="2018-11-19T10:24:37Z" changeset="64649386" uid="261050" user="muindre">
+  <node id="5933721719" lat="-1.2690212" lon="36.7580829" version="11" timestamp="2019-05-06T10:05:17Z" changeset="69929506" uid="261050" user="muindre">
     <tag k="accessibility" v="small_cars,big_vehicles,foot"/>
     <tag k="amenity" v="school"/>
     <tag k="building:classrooms" v="2"/>
@@ -11739,7 +11739,7 @@
     <tag k="education:bom_employed" v="yes"/>
     <tag k="education:bom_how_many" v="4"/>
     <tag k="education:curriculum" v="8_4_4,2_6_3_3_3"/>
-    <tag k="education:exam_affiliate" v="none"/>
+    <tag k="education:exam_affiliate" v="no"/>
     <tag k="education:exam_center" v="no"/>
     <tag k="education:extra_drama" v="no"/>
     <tag k="education:extra_music" v="no"/>
@@ -11791,7 +11791,7 @@
     <tag k="toilets:teachers" v="1"/>
     <tag k="water:source" v="tap"/>
   </node>
-  <node id="5933721720" lat="-1.2692557" lon="36.7572452" version="8" timestamp="2018-10-19T09:37:43Z" changeset="63672389" uid="4570042" user="Peter Agenga">
+  <node id="5933721720" lat="-1.2692557" lon="36.7572452" version="9" timestamp="2019-05-06T10:06:09Z" changeset="69929532" uid="261050" user="muindre">
     <tag k="accessibility" v="small_cars,big_vehicles,foot"/>
     <tag k="amenity" v="school"/>
     <tag k="building:classrooms" v="7"/>
@@ -11804,7 +11804,7 @@
     <tag k="education:bom_employed" v="no"/>
     <tag k="education:bom_how_many" v="0"/>
     <tag k="education:curriculum" v="8_4_4,2_6_3_3_3"/>
-    <tag k="education:exam_affiliate" v="None"/>
+    <tag k="education:exam_affiliate" v="no"/>
     <tag k="education:exam_center" v="no"/>
     <tag k="education:extra_drama" v="yes"/>
     <tag k="education:extra_music" v="yes"/>
@@ -12936,7 +12936,7 @@
     <tag k="toilets:teachers" v="1"/>
     <tag k="water:source" v="water_tank"/>
   </node>
-  <node id="5948220718" lat="-1.2659062" lon="36.7555103" version="5" timestamp="2018-10-17T11:52:13Z" changeset="63607768" uid="261050" user="muindre">
+  <node id="5948220718" lat="-1.2659062" lon="36.7555103" version="6" timestamp="2019-05-06T10:01:36Z" changeset="69929404" uid="261050" user="muindre">
     <tag k="accessibility" v="foot"/>
     <tag k="amenity" v="school"/>
     <tag k="building:classrooms" v="2"/>
@@ -12948,7 +12948,7 @@
     <tag k="contact:phone" v="0725448294"/>
     <tag k="education:bom_employed" v="no"/>
     <tag k="education:curriculum" v="2_6_3_3_3"/>
-    <tag k="education:exam_affiliate" v="none"/>
+    <tag k="education:exam_affiliate" v="no"/>
     <tag k="education:exam_center" v="no"/>
     <tag k="education:extra_drama" v="no"/>
     <tag k="education:extra_music" v="no"/>
@@ -13064,7 +13064,7 @@
     <tag k="education:type" v="pre_primary"/>
     <tag k="name" v="Seasons School"/>
   </node>
-  <node id="5948282114" lat="-1.2737347" lon="36.7526422" version="5" timestamp="2018-10-19T09:27:59Z" changeset="63672153" uid="4570042" user="Peter Agenga">
+  <node id="5948282114" lat="-1.2737347" lon="36.7526422" version="6" timestamp="2019-05-06T10:14:19Z" changeset="69929750" uid="261050" user="muindre">
     <tag k="accessibility" v="small_cars,big_vehicles,foot"/>
     <tag k="amenity" v="school"/>
     <tag k="building:classrooms" v="7"/>
@@ -13077,7 +13077,7 @@
     <tag k="education:bom_employed" v="no"/>
     <tag k="education:bom_how_many" v="0"/>
     <tag k="education:curriculum" v="8_4_4,2_6_3_3_3"/>
-    <tag k="education:exam_affiliate" v="none"/>
+    <tag k="education:exam_affiliate" v="no"/>
     <tag k="education:exam_center" v="yes"/>
     <tag k="education:extra_drama" v="no"/>
     <tag k="education:extra_music" v="no"/>
@@ -13134,7 +13134,7 @@
     <tag k="toilets:teachers" v="3"/>
     <tag k="water:source" v="water_tank"/>
   </node>
-  <node id="5948282115" lat="-1.2737017" lon="36.7527800" version="5" timestamp="2018-10-19T09:28:00Z" changeset="63672153" uid="4570042" user="Peter Agenga">
+  <node id="5948282115" lat="-1.2737017" lon="36.7527800" version="6" timestamp="2019-05-06T10:16:38Z" changeset="69929817" uid="261050" user="muindre">
     <tag k="accessibility" v="small_cars,big_vehicles,foot"/>
     <tag k="amenity" v="school"/>
     <tag k="building:classrooms" v="2"/>
@@ -13166,7 +13166,7 @@
     <tag k="education:government_grants" v="no"/>
     <tag k="education:government_registered" v="APBET"/>
     <tag k="education:management_committee" v="yes"/>
-    <tag k="education:mean_score" v="none"/>
+    <tag k="education:mean_score" v="0"/>
     <tag k="education:nemis_code" v="yes"/>
     <tag k="education:operate_as" v="day_school"/>
     <tag k="education:program_counselling" v="yes"/>
@@ -13267,7 +13267,7 @@
     <tag k="toilets:teachers" v="1"/>
     <tag k="water:source" v="water_tank"/>
   </node>
-  <node id="5948282117" lat="-1.2737696" lon="36.7528996" version="6" timestamp="2018-10-25T11:28:44Z" changeset="63864053" uid="4570042" user="Peter Agenga">
+  <node id="5948282117" lat="-1.2737696" lon="36.7528996" version="7" timestamp="2019-05-06T10:15:53Z" changeset="69929797" uid="261050" user="muindre">
     <tag k="accessibility" v="small_cars,big_vehicles,foot"/>
     <tag k="amenity" v="school"/>
     <tag k="building:classrooms" v="3"/>
@@ -13298,7 +13298,7 @@
     <tag k="education:government_grants" v="no"/>
     <tag k="education:government_registered" v="mgcsd"/>
     <tag k="education:management_committee" v="no"/>
-    <tag k="education:mean_score" v="none"/>
+    <tag k="education:mean_score" v="0"/>
     <tag k="education:nemis_code" v="yes"/>
     <tag k="education:operate_as" v="day_school"/>
     <tag k="education:program_counselling" v="yes"/>
@@ -13400,7 +13400,7 @@
     <tag k="toilets:teachers" v="2"/>
     <tag k="water:source" v="water_tank"/>
   </node>
-  <node id="5948282119" lat="-1.2746361" lon="36.7499644" version="7" timestamp="2018-11-19T10:30:06Z" changeset="64649561" uid="261050" user="muindre">
+  <node id="5948282119" lat="-1.2746361" lon="36.7499644" version="8" timestamp="2019-05-06T10:17:46Z" changeset="69929847" uid="261050" user="muindre">
     <tag k="accessibility" v="small_cars,big_vehicles,foot"/>
     <tag k="amenity" v="school"/>
     <tag k="building:classrooms" v="2"/>
@@ -13412,7 +13412,7 @@
     <tag k="education:bom_employed" v="yes"/>
     <tag k="education:bom_how_many" v="2"/>
     <tag k="education:curriculum" v="2_6_3_3_3"/>
-    <tag k="education:exam_affiliate" v="none"/>
+    <tag k="education:exam_affiliate" v="no"/>
     <tag k="education:exam_center" v="no"/>
     <tag k="education:extra_drama" v="no"/>
     <tag k="education:extra_music" v="yes"/>
@@ -13433,7 +13433,7 @@
     <tag k="education:government_grants" v="yes"/>
     <tag k="education:government_registered" v="mgcsd"/>
     <tag k="education:management_committee" v="yes"/>
-    <tag k="education:mean_score" v="none"/>
+    <tag k="education:mean_score" v="0"/>
     <tag k="education:nemis_code" v="yes"/>
     <tag k="education:operate_as" v="day_school"/>
     <tag k="education:program_counselling" v="yes"/>
@@ -13532,7 +13532,7 @@
     <tag k="toilets:teachers" v="1"/>
     <tag k="water:source" v="water_tank"/>
   </node>
-  <node id="5948282121" lat="-1.2715746" lon="36.7522757" version="6" timestamp="2018-11-19T10:31:34Z" changeset="64649612" uid="261050" user="muindre">
+  <node id="5948282121" lat="-1.2715746" lon="36.7522757" version="7" timestamp="2019-05-06T10:11:39Z" changeset="69929677" uid="261050" user="muindre">
     <tag k="accessibility" v="small_cars,big_vehicles,foot"/>
     <tag k="amenity" v="school"/>
     <tag k="building:classrooms" v="3"/>
@@ -13545,7 +13545,7 @@
     <tag k="education:bom_employed" v="no"/>
     <tag k="education:bom_how_many" v="0"/>
     <tag k="education:curriculum" v="8_4_4,2_6_3_3_3"/>
-    <tag k="education:exam_affiliate" v="none"/>
+    <tag k="education:exam_affiliate" v="no"/>
     <tag k="education:exam_center" v="no"/>
     <tag k="education:extra_drama" v="yes"/>
     <tag k="education:extra_music" v="no"/>
@@ -13662,7 +13662,7 @@
     <tag k="toilets:teachers" v="1"/>
     <tag k="water:source" v="tap"/>
   </node>
-  <node id="5948282123" lat="-1.2717333" lon="36.7534742" version="8" timestamp="2018-11-19T10:32:40Z" changeset="64649654" uid="261050" user="muindre">
+  <node id="5948282123" lat="-1.2717333" lon="36.7534742" version="9" timestamp="2019-05-06T10:10:38Z" changeset="69929651" uid="261050" user="muindre">
     <tag k="accessibility" v="small_cars,big_vehicles,foot"/>
     <tag k="amenity" v="school"/>
     <tag k="building:classrooms" v="2"/>
@@ -13675,7 +13675,7 @@
     <tag k="education:bom_employed" v="no"/>
     <tag k="education:bom_how_many" v="0"/>
     <tag k="education:curriculum" v="2_6_3_3_3"/>
-    <tag k="education:exam_affiliate" v="none"/>
+    <tag k="education:exam_affiliate" v="no"/>
     <tag k="education:exam_center" v="no"/>
     <tag k="education:extra_drama" v="yes"/>
     <tag k="education:extra_music" v="no"/>

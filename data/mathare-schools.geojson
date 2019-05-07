@@ -300,26 +300,6 @@
       "geometry": {
         "coordinates": [
           [
-            36.8754772, 
-            -1.2610279
-          ]
-        ], 
-        "type": "MultiPoint"
-      }, 
-      "properties": {
-        "osm:_timestamp": "2011-01-28", 
-        "osm:_user": "PrimusK", 
-        "osm:amenity": "school", 
-        "osm:id": "node/1038195562", 
-        "osm:location": "mathare", 
-        "osm:name": "Ndururuno Secondary School"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          [
             36.8779585, 
             -1.2577888
           ]
@@ -652,26 +632,6 @@
       "geometry": {
         "coordinates": [
           [
-            36.8744704, 
-            -1.2586748
-          ]
-        ], 
-        "type": "MultiPoint"
-      }, 
-      "properties": {
-        "osm:_timestamp": "2016-04-29", 
-        "osm:_user": "Edduta", 
-        "osm:amenity": "school", 
-        "osm:id": "node/1101737249", 
-        "osm:location": "mathare", 
-        "osm:name": "Huruma Primary School"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          [
             36.8737244, 
             -1.2573083
           ]
@@ -832,28 +792,6 @@
         "osm:toilets:male": "1", 
         "osm:toilets:teachers": "1", 
         "osm:waste:garbage_disposal": "always"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          [
-            36.8649389, 
-            -1.2613375
-          ]
-        ], 
-        "type": "MultiPoint"
-      }, 
-      "properties": {
-        "osm:OWNERS": "MINISTRY OF EDUCATION", 
-        "osm:UNESCO POI'S": "EDUCATION", 
-        "osm:_timestamp": "2017-08-21", 
-        "osm:_user": "Johnwhelan", 
-        "osm:amenity": "school", 
-        "osm:id": "node/1103092342", 
-        "osm:location": "mathare", 
-        "osm:name": "Mathare Special Training Center"
       }, 
       "type": "Feature"
     }, 
@@ -1773,26 +1711,6 @@
       "geometry": {
         "coordinates": [
           [
-            36.8680615, 
-            -1.2576567
-          ]
-        ], 
-        "type": "MultiPoint"
-      }, 
-      "properties": {
-        "osm:_timestamp": "2011-01-27", 
-        "osm:_user": "PrimusK", 
-        "osm:amenity": "school", 
-        "osm:id": "node/1123193347", 
-        "osm:location": "mathare", 
-        "osm:name": "Furaha Community Center"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          [
             36.8683188, 
             -1.258656
           ]
@@ -1826,26 +1744,6 @@
         "osm:id": "node/1123193364", 
         "osm:location": "mathare", 
         "osm:name": "Eden Annex preparatory school"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          [
-            36.8683122, 
-            -1.2585351
-          ]
-        ], 
-        "type": "MultiPoint"
-      }, 
-      "properties": {
-        "osm:_timestamp": "2011-01-27", 
-        "osm:_user": "PrimusK", 
-        "osm:amenity": "school", 
-        "osm:id": "node/1123193391", 
-        "osm:location": "mathare", 
-        "osm:name": "Elshadai Educational Centre"
       }, 
       "type": "Feature"
     }, 
@@ -1933,26 +1831,6 @@
       "geometry": {
         "coordinates": [
           [
-            36.8682894, 
-            -1.2586316
-          ]
-        ], 
-        "type": "MultiPoint"
-      }, 
-      "properties": {
-        "osm:_timestamp": "2011-01-27", 
-        "osm:_user": "hassanow", 
-        "osm:amenity": "school", 
-        "osm:id": "node/1123201131", 
-        "osm:location": "mathare", 
-        "osm:name": "Elshadai Educational Centre"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          [
             36.8726498, 
             -1.2568674
           ]
@@ -1980,12 +1858,12 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2018-12-03", 
-        "osm:_user": "Humus015", 
+        "osm:_timestamp": "2019-05-07", 
+        "osm:_user": "muindre", 
         "osm:amenity": "school", 
         "osm:id": "node/1123201169", 
         "osm:location": "mathare", 
-        "osm:name": "Genesis primary school", 
+        "osm:name": "Genesis Primary School", 
         "osm:name:it": "Genesis"
       }, 
       "type": "Feature"
@@ -2007,26 +1885,6 @@
         "osm:id": "node/1123201207", 
         "osm:location": "mathare", 
         "osm:name": "Genesis Secondary School"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          [
-            36.8778661, 
-            -1.2534198
-          ]
-        ], 
-        "type": "MultiPoint"
-      }, 
-      "properties": {
-        "osm:_timestamp": "2011-01-27", 
-        "osm:_user": "PrimusK", 
-        "osm:amenity": "school", 
-        "osm:id": "node/1123209296", 
-        "osm:location": "mathare", 
-        "osm:name": "Sun Flower Academy"
       }, 
       "type": "Feature"
     }, 
@@ -2113,46 +1971,6 @@
       "geometry": {
         "coordinates": [
           [
-            36.8664121, 
-            -1.2607992
-          ]
-        ], 
-        "type": "MultiPoint"
-      }, 
-      "properties": {
-        "osm:_timestamp": "2013-03-15", 
-        "osm:_user": "mickey mat", 
-        "osm:amenity": "school", 
-        "osm:id": "node/1124602263", 
-        "osm:location": "mathare", 
-        "osm:name": "Ngei P.A.G Education Centre"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          [
-            36.8660194, 
-            -1.2585029
-          ]
-        ], 
-        "type": "MultiPoint"
-      }, 
-      "properties": {
-        "osm:_timestamp": "2011-01-28", 
-        "osm:_user": "PrimusK", 
-        "osm:amenity": "school", 
-        "osm:id": "node/1124602268", 
-        "osm:location": "mathare", 
-        "osm:name": "Eljoy Education Centre"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          [
             36.8647596, 
             -1.2587536
           ]
@@ -2193,14 +2011,14 @@
       "geometry": {
         "coordinates": [
           [
-            36.8632328, 
-            -1.2590304
+            36.8632182, 
+            -1.2590554
           ]
         ], 
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2017-10-12", 
+        "osm:_timestamp": "2019-05-07", 
         "osm:_user": "muindre", 
         "osm:accessibility": "foot", 
         "osm:amenity": "school", 
@@ -2239,35 +2057,15 @@
       "geometry": {
         "coordinates": [
           [
-            36.865401, 
-            -1.2611822
+            36.861983, 
+            -1.2616417
           ]
         ], 
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2013-05-24", 
-        "osm:_user": "othuol", 
-        "osm:amenity": "school", 
-        "osm:id": "node/2318438875", 
-        "osm:location": "mathare", 
-        "osm:name": "MATHARE SPEACIAL SCHOOL"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          [
-            36.8618286, 
-            -1.2618831
-          ]
-        ], 
-        "type": "MultiPoint"
-      }, 
-      "properties": {
-        "osm:_timestamp": "2013-07-05", 
-        "osm:_user": "othuol", 
+        "osm:_timestamp": "2019-05-07", 
+        "osm:_user": "muindre", 
         "osm:amenity": "school", 
         "osm:id": "node/2374943971", 
         "osm:location": "mathare", 
@@ -2623,18 +2421,18 @@
       "geometry": {
         "coordinates": [
           [
-            36.8615078, 
-            -1.262763
+            36.8614925, 
+            -1.2627787
           ]
         ], 
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2019-05-02", 
+        "osm:_timestamp": "2019-05-07", 
         "osm:_user": "muindre", 
         "osm:accessibility": "foot", 
         "osm:amenity": "school", 
-        "osm:barrier": "gate", 
+        "osm:barrier:gate": "yes", 
         "osm:building:classrooms": "7", 
         "osm:building:levels": "0", 
         "osm:building:material": "ironsheets", 
@@ -3340,26 +3138,6 @@
         "osm:operator:type": "private", 
         "osm:place:village": "Thayu", 
         "osm:toilet:present": "yes"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          [
-            36.8619888, 
-            -1.2616307
-          ]
-        ], 
-        "type": "MultiPoint"
-      }, 
-      "properties": {
-        "osm:_timestamp": "2016-10-24", 
-        "osm:_user": "fondolucy", 
-        "osm:amenity": "school", 
-        "osm:id": "node/4461502029", 
-        "osm:location": "mathare", 
-        "osm:name": "Muungano Education Center"
       }, 
       "type": "Feature"
     }, 
@@ -5034,7 +4812,7 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2017-10-12", 
+        "osm:_timestamp": "2019-05-07", 
         "osm:_user": "muindre", 
         "osm:accessibility": "big_vehicles", 
         "osm:amenity": "school", 
@@ -5060,6 +4838,7 @@
         "osm:education:teachers_female": "2", 
         "osm:education:teachers_male": "0", 
         "osm:education:teachers_trained": "0", 
+        "osm:education:type": "pre_primary", 
         "osm:electricity:operational_status": "sometimes", 
         "osm:id": "node/4472311597", 
         "osm:location": "mathare", 
@@ -5574,26 +5353,6 @@
       "geometry": {
         "coordinates": [
           [
-            36.865512, 
-            -1.259711
-          ]
-        ], 
-        "type": "MultiPoint"
-      }, 
-      "properties": {
-        "osm:_timestamp": "2019-05-03", 
-        "osm:_user": "muindre", 
-        "osm:amenity": "school", 
-        "osm:id": "node/6445077902", 
-        "osm:location": "mathare", 
-        "osm:name": "Sancare Preparatory School"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          [
             36.870453, 
             -1.258249
           ]
@@ -5745,26 +5504,6 @@
         "osm:id": "node/6445077906", 
         "osm:location": "mathare", 
         "osm:name": "Mogra Star Primary And Secondary Schools"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          [
-            36.871562, 
-            -1.255753
-          ]
-        ], 
-        "type": "MultiPoint"
-      }, 
-      "properties": {
-        "osm:_timestamp": "2019-05-03", 
-        "osm:_user": "muindre", 
-        "osm:amenity": "school", 
-        "osm:id": "node/6445077907", 
-        "osm:location": "mathare", 
-        "osm:name": "Mary Rosana Academy"
       }, 
       "type": "Feature"
     }, 
@@ -6527,14 +6266,14 @@
       "geometry": {
         "coordinates": [
           [
-            36.868154, 
-            -1.257808
+            36.8680843, 
+            -1.2576873
           ]
         ], 
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2019-05-03", 
+        "osm:_timestamp": "2019-05-07", 
         "osm:_user": "muindre", 
         "osm:accessibility": "small_cars,foot,big_vehicles", 
         "osm:amenity": "school", 
@@ -6566,7 +6305,7 @@
         "osm:id": "node/6445081198", 
         "osm:internet_access": "yes", 
         "osm:location": "mathare", 
-        "osm:name": "Furaha Comminty Centre", 
+        "osm:name": "Furaha Community Centre", 
         "osm:operator:type": "ngo", 
         "osm:room:kitchen": "yes", 
         "osm:room:staff": "yes", 
@@ -7261,14 +7000,14 @@
       "geometry": {
         "coordinates": [
           [
-            36.874106, 
-            -1.258609
+            36.873934, 
+            -1.2585972
           ]
         ], 
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2019-05-03", 
+        "osm:_timestamp": "2019-05-07", 
         "osm:_user": "muindre", 
         "osm:amenity": "school", 
         "osm:id": "node/6445081215", 
@@ -7959,26 +7698,6 @@
       "geometry": {
         "coordinates": [
           [
-            36.865604, 
-            -1.259635
-          ]
-        ], 
-        "type": "MultiPoint"
-      }, 
-      "properties": {
-        "osm:_timestamp": "2019-05-03", 
-        "osm:_user": "muindre", 
-        "osm:amenity": "school", 
-        "osm:id": "node/6445111393", 
-        "osm:location": "mathare", 
-        "osm:name": "Sancare Preparatory School"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          [
             36.866867, 
             -1.259647
           ]
@@ -8155,14 +7874,14 @@
       "geometry": {
         "coordinates": [
           [
-            36.863408, 
-            -1.260912
+            36.8649957, 
+            -1.2611967
           ]
         ], 
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2019-05-03", 
+        "osm:_timestamp": "2019-05-07", 
         "osm:_user": "muindre", 
         "osm:accessibility": "small_cars,foot,big_vehicles", 
         "osm:amenity": "school", 
@@ -10689,8 +10408,8 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2019-03-09", 
-        "osm:_user": "maggot27", 
+        "osm:_timestamp": "2019-05-06", 
+        "osm:_user": "muindre", 
         "osm:accessibility": "small_cars,big_vehicles,foot", 
         "osm:amenity": "school", 
         "osm:building:classrooms": "1", 
@@ -10699,7 +10418,7 @@
         "osm:education:bom_employed": "yes", 
         "osm:education:bom_how_many": "1", 
         "osm:education:curriculum": "2_6_3_3_3", 
-        "osm:education:exam_affiliate": "none", 
+        "osm:education:exam_affiliate": "no", 
         "osm:education:exam_center": "no", 
         "osm:education:extra_drama": "no", 
         "osm:education:extra_music": "no", 
@@ -11730,8 +11449,8 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2018-10-24", 
-        "osm:_user": "Peter Agenga", 
+        "osm:_timestamp": "2019-05-06", 
+        "osm:_user": "muindre", 
         "osm:accessibility": "foot", 
         "osm:amenity": "school", 
         "osm:building:levels": "0", 
@@ -11764,7 +11483,7 @@
         "osm:education:operate_as": "day_school", 
         "osm:education:program_counselling": "yes", 
         "osm:education:program_feeding": "yes", 
-        "osm:education:program_feeding_description": "school fees", 
+        "osm:education:program_feeding_description": "fees", 
         "osm:education:program_orphans": "yes", 
         "osm:education:program_other": "none", 
         "osm:education:program_sanitary_towel": "no", 
@@ -11887,8 +11606,8 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2018-10-18", 
-        "osm:_user": "Peter Agenga", 
+        "osm:_timestamp": "2019-05-06", 
+        "osm:_user": "muindre", 
         "osm:accessibility": "small_cars,foot", 
         "osm:amenity": "school", 
         "osm:building:levels": "0", 
@@ -11899,7 +11618,7 @@
         "osm:education:bom_employed": "yes", 
         "osm:education:bom_how_many": "4", 
         "osm:education:curriculum": "8_4_4,2_6_3_3_3", 
-        "osm:education:exam_affiliate": "none", 
+        "osm:education:exam_affiliate": "no", 
         "osm:education:exam_center": "no", 
         "osm:education:extra_drama": "no", 
         "osm:education:extra_music": "no", 
@@ -12570,8 +12289,8 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2018-10-25", 
-        "osm:_user": "Peter Agenga", 
+        "osm:_timestamp": "2019-05-06", 
+        "osm:_user": "muindre", 
         "osm:accessibility": "small_cars,big_vehicles,foot", 
         "osm:amenity": "school", 
         "osm:building:classrooms": "2", 
@@ -12582,7 +12301,7 @@
         "osm:contact:phone": "0723099757", 
         "osm:education:bom_employed": "no", 
         "osm:education:curriculum": "2_6_3_3_3", 
-        "osm:education:exam_affiliate": "none", 
+        "osm:education:exam_affiliate": "no", 
         "osm:education:exam_center": "no", 
         "osm:education:fees": "free_education", 
         "osm:education:gender_type": "mixed", 
@@ -12636,8 +12355,8 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2018-10-25", 
-        "osm:_user": "Peter Agenga", 
+        "osm:_timestamp": "2019-05-06", 
+        "osm:_user": "muindre", 
         "osm:accessibility": "big_vehicles,foot,small_cars", 
         "osm:amenity": "school", 
         "osm:building:classrooms": "5", 
@@ -12664,7 +12383,7 @@
         "osm:education:operate_as": "day_school", 
         "osm:education:program_counselling": "yes", 
         "osm:education:program_feeding": "yes", 
-        "osm:education:program_feeding_description": "school fees", 
+        "osm:education:program_feeding_description": "fees", 
         "osm:education:program_orphans": "yes", 
         "osm:education:program_other": "girl_child_program", 
         "osm:education:program_sanitary_towel": "yes", 
@@ -13395,14 +13114,14 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2018-11-16", 
+        "osm:_timestamp": "2019-05-06", 
         "osm:_user": "muindre", 
         "osm:accessibility": "small_cars,big_vehicles,foot", 
         "osm:amenity": "school", 
         "osm:building:classrooms": "7", 
         "osm:building:levels": "0", 
-        "osm:building:material": "ironsheet", 
-        "osm:building:roof": "ironsheet", 
+        "osm:building:material": "iron_sheet", 
+        "osm:building:roof": "iron_sheet", 
         "osm:contact:address": "23408-00625", 
         "osm:contact:email": "patienceschool@gmail.com", 
         "osm:contact:phone": "0722854348", 
@@ -15275,8 +14994,8 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2018-10-18", 
-        "osm:_user": "kamirisam", 
+        "osm:_timestamp": "2019-05-06", 
+        "osm:_user": "muindre", 
         "osm:accessibility": "foot", 
         "osm:amenity": "school", 
         "osm:building:classrooms": "2", 
@@ -15288,7 +15007,7 @@
         "osm:contact:phone": "0726554067", 
         "osm:education:bom_employed": "no", 
         "osm:education:curriculum": "2_6_3_3_3", 
-        "osm:education:exam_affiliate": "none", 
+        "osm:education:exam_affiliate": "no", 
         "osm:education:exam_center": "no", 
         "osm:education:extra_drama": "yes", 
         "osm:education:extra_music": "yes", 
@@ -15818,8 +15537,8 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2018-10-18", 
-        "osm:_user": "shazomojah", 
+        "osm:_timestamp": "2019-05-06", 
+        "osm:_user": "muindre", 
         "osm:accessibility": "small_cars,big_vehicles,foot", 
         "osm:amenity": "school", 
         "osm:building:classrooms": "3", 
@@ -15832,7 +15551,7 @@
         "osm:education:bom_employed": "yes", 
         "osm:education:bom_how_many": "3", 
         "osm:education:curriculum": "2_6_3_3_3", 
-        "osm:education:exam_affiliate": "none", 
+        "osm:education:exam_affiliate": "no", 
         "osm:education:exam_center": "no", 
         "osm:education:extra_drama": "no", 
         "osm:education:extra_music": "yes", 
@@ -15894,8 +15613,8 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2018-10-24", 
-        "osm:_user": "shazomojah", 
+        "osm:_timestamp": "2019-05-06", 
+        "osm:_user": "muindre", 
         "osm:accessibility": "small_cars,big_vehicles,foot", 
         "osm:amenity": "school", 
         "osm:building:classrooms": "4", 
@@ -15908,7 +15627,7 @@
         "osm:education:bom_employed": "yes", 
         "osm:education:bom_how_many": "6", 
         "osm:education:curriculum": "2_6_3_3_3", 
-        "osm:education:exam_affiliate": "none", 
+        "osm:education:exam_affiliate": "no", 
         "osm:education:exam_center": "no", 
         "osm:education:extra_drama": "no", 
         "osm:education:extra_music": "no", 
@@ -16850,8 +16569,8 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2018-10-19", 
-        "osm:_user": "shazomojah", 
+        "osm:_timestamp": "2019-05-06", 
+        "osm:_user": "muindre", 
         "osm:accessibility": "small_cars,foot", 
         "osm:amenity": "school", 
         "osm:building:material": "iron_sheet", 
@@ -16861,7 +16580,7 @@
         "osm:contact:phone": "0724363551", 
         "osm:education:bom_employed": "no", 
         "osm:education:curriculum": "8_4_4,2_6_3_3_3", 
-        "osm:education:exam_affiliate": "none", 
+        "osm:education:exam_affiliate": "no", 
         "osm:education:exam_center": "no", 
         "osm:education:extra_drama": "no", 
         "osm:education:extra_music": "no", 
@@ -17380,7 +17099,7 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2018-11-13", 
+        "osm:_timestamp": "2019-05-06", 
         "osm:_user": "muindre", 
         "osm:accessibility": "small_cars,big_vehicles,foot", 
         "osm:amenity": "school", 
@@ -17394,7 +17113,7 @@
         "osm:education:bom_employed": "yes", 
         "osm:education:bom_how_many": "6", 
         "osm:education:curriculum": "2_6_3_3_3", 
-        "osm:education:exam_affiliate": "None", 
+        "osm:education:exam_affiliate": "no", 
         "osm:education:exam_center": "no", 
         "osm:education:extra_drama": "no", 
         "osm:education:extra_music": "no", 
@@ -17620,7 +17339,7 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2018-11-13", 
+        "osm:_timestamp": "2019-05-06", 
         "osm:_user": "muindre", 
         "osm:accessibility": "big_vehicles,foot,small_cars", 
         "osm:amenity": "school", 
@@ -17633,7 +17352,7 @@
         "osm:contact:phone": "0715314996", 
         "osm:education:bom_employed": "no", 
         "osm:education:curriculum": "montessori", 
-        "osm:education:exam_affiliate": "none", 
+        "osm:education:exam_affiliate": "no", 
         "osm:education:exam_center": "no", 
         "osm:education:extra_drama": "no", 
         "osm:education:extra_music": "yes", 
@@ -18263,7 +17982,7 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2018-11-13", 
+        "osm:_timestamp": "2019-05-06", 
         "osm:_user": "muindre", 
         "osm:accessibility": "small_cars,big_vehicles,foot", 
         "osm:amenity": "school", 
@@ -18277,7 +17996,7 @@
         "osm:education:bom_employed": "no", 
         "osm:education:bom_how_many": "0", 
         "osm:education:curriculum": "8_4_4,2_6_3_3_3", 
-        "osm:education:exam_affiliate": "none", 
+        "osm:education:exam_affiliate": "no", 
         "osm:education:exam_center": "yes", 
         "osm:education:extra_drama": "no", 
         "osm:education:extra_music": "no", 
@@ -18722,7 +18441,7 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2018-11-13", 
+        "osm:_timestamp": "2019-05-06", 
         "osm:_user": "muindre", 
         "osm:accessibility": "small_cars,big_vehicles,foot", 
         "osm:amenity": "school", 
@@ -18735,7 +18454,7 @@
         "osm:contact:phone": "0729477988", 
         "osm:education:bom_employed": "no", 
         "osm:education:curriculum": "2_6_3_3_3", 
-        "osm:education:exam_affiliate": "none", 
+        "osm:education:exam_affiliate": "no", 
         "osm:education:exam_center": "no", 
         "osm:education:extra_drama": "no", 
         "osm:education:extra_music": "yes", 
@@ -19522,14 +19241,14 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2018-11-19", 
+        "osm:_timestamp": "2019-05-06", 
         "osm:_user": "muindre", 
         "osm:accessibility": "foot", 
         "osm:amenity": "school", 
         "osm:building:classrooms": "8", 
         "osm:building:levels": "0", 
-        "osm:building:material": "ironsheet", 
-        "osm:building:roof": "ironsheet", 
+        "osm:building:material": "iron_sheet", 
+        "osm:building:roof": "iron_sheet", 
         "osm:contact:email": "jopnyantika18@gmail.com", 
         "osm:contact:phone": "0724372197", 
         "osm:education:bom_employed": "yes", 
@@ -21175,7 +20894,7 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2018-11-19", 
+        "osm:_timestamp": "2019-05-06", 
         "osm:_user": "muindre", 
         "osm:accessibility": "small_cars,big_vehicles,foot", 
         "osm:amenity": "school", 
@@ -21188,7 +20907,7 @@
         "osm:contact:phone": "0715542061", 
         "osm:education:bom_employed": "no", 
         "osm:education:curriculum": "8_4_4 ,2_6_3_3_3", 
-        "osm:education:exam_affiliate": "none", 
+        "osm:education:exam_affiliate": "no", 
         "osm:education:exam_center": "no", 
         "osm:education:extra_drama": "no", 
         "osm:education:extra_music": "no", 
@@ -21411,8 +21130,8 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2018-10-30", 
-        "osm:_user": "kamirisam", 
+        "osm:_timestamp": "2019-05-06", 
+        "osm:_user": "muindre", 
         "osm:accessibility": "small_cars,big_vehicles,foot", 
         "osm:amenity": "school", 
         "osm:building:classrooms": "5", 
@@ -21424,7 +21143,7 @@
         "osm:education:bom_employed": "yes", 
         "osm:education:bom_how_many": "5", 
         "osm:education:curriculum": "8_4_4", 
-        "osm:education:exam_affiliate": "none", 
+        "osm:education:exam_affiliate": "no", 
         "osm:education:exam_center": "no", 
         "osm:education:extra_drama": "no", 
         "osm:education:extra_music": "yes", 
@@ -23776,7 +23495,7 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2018-10-19", 
+        "osm:_timestamp": "2019-05-06", 
         "osm:_user": "muindre", 
         "osm:accessibility": "small_cars,foot", 
         "osm:amenity": "school", 
@@ -23789,7 +23508,7 @@
         "osm:contact:phone": "0725802574", 
         "osm:education:bom_employed": "no", 
         "osm:education:curriculum": "8_4_4", 
-        "osm:education:exam_affiliate": "none", 
+        "osm:education:exam_affiliate": "no", 
         "osm:education:exam_center": "no", 
         "osm:education:extra_drama": "no", 
         "osm:education:extra_music": "no", 
@@ -24339,8 +24058,8 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2018-10-19", 
-        "osm:_user": "Peter Agenga", 
+        "osm:_timestamp": "2019-05-06", 
+        "osm:_user": "muindre", 
         "osm:accessibility": "small_cars,big_vehicles,foot", 
         "osm:amenity": "school", 
         "osm:building:classrooms": "1", 
@@ -24353,7 +24072,7 @@
         "osm:education:bom_employed": "no", 
         "osm:education:bom_how_many": "0", 
         "osm:education:curriculum": "8_4_4,2_6_3_3_3", 
-        "osm:education:exam_affiliate": "none", 
+        "osm:education:exam_affiliate": "no", 
         "osm:education:exam_center": "no", 
         "osm:education:extra_drama": "no", 
         "osm:education:extra_music": "yes", 
@@ -24584,8 +24303,8 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2018-10-25", 
-        "osm:_user": "Peter Agenga", 
+        "osm:_timestamp": "2019-05-06", 
+        "osm:_user": "muindre", 
         "osm:accessibility": "small_cars,big_vehicles,foot", 
         "osm:amenity": "school", 
         "osm:building:classrooms": "5", 
@@ -24598,7 +24317,7 @@
         "osm:education:bom_employed": "no", 
         "osm:education:bom_how_many": "0", 
         "osm:education:curriculum": "2_6_3_3_3", 
-        "osm:education:exam_affiliate": "none", 
+        "osm:education:exam_affiliate": "no", 
         "osm:education:exam_center": "no", 
         "osm:education:extra_drama": "yes", 
         "osm:education:extra_music": "yes", 
@@ -24831,7 +24550,7 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2018-11-19", 
+        "osm:_timestamp": "2019-05-06", 
         "osm:_user": "muindre", 
         "osm:accessibility": "small_cars,big_vehicles,foot", 
         "osm:amenity": "school", 
@@ -24845,7 +24564,7 @@
         "osm:education:bom_employed": "no", 
         "osm:education:bom_how_many": "0", 
         "osm:education:curriculum": "8_4_4,2_6_3_3_3", 
-        "osm:education:exam_affiliate": "none", 
+        "osm:education:exam_affiliate": "no", 
         "osm:education:exam_center": "no", 
         "osm:education:extra_drama": "yes", 
         "osm:education:extra_music": "yes", 
@@ -25071,7 +24790,7 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2018-11-19", 
+        "osm:_timestamp": "2019-05-06", 
         "osm:_user": "muindre", 
         "osm:accessibility": "small_cars,big_vehicles,foot", 
         "osm:amenity": "school", 
@@ -25085,7 +24804,7 @@
         "osm:education:bom_employed": "no", 
         "osm:education:bom_how_many": "0", 
         "osm:education:curriculum": "8_4_4,2_6_3_3_3", 
-        "osm:education:exam_affiliate": "none", 
+        "osm:education:exam_affiliate": "no", 
         "osm:education:exam_center": "no", 
         "osm:education:extra_drama": "no", 
         "osm:education:extra_music": "no", 
@@ -25149,7 +24868,7 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2018-11-19", 
+        "osm:_timestamp": "2019-05-06", 
         "osm:_user": "muindre", 
         "osm:accessibility": "small_cars,big_vehicles,foot", 
         "osm:amenity": "school", 
@@ -25163,7 +24882,7 @@
         "osm:education:bom_employed": "yes", 
         "osm:education:bom_how_many": "4", 
         "osm:education:curriculum": "8_4_4,2_6_3_3_3", 
-        "osm:education:exam_affiliate": "none", 
+        "osm:education:exam_affiliate": "no", 
         "osm:education:exam_center": "no", 
         "osm:education:extra_drama": "no", 
         "osm:education:extra_music": "no", 
@@ -25230,8 +24949,8 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2018-10-19", 
-        "osm:_user": "Peter Agenga", 
+        "osm:_timestamp": "2019-05-06", 
+        "osm:_user": "muindre", 
         "osm:accessibility": "small_cars,big_vehicles,foot", 
         "osm:amenity": "school", 
         "osm:building:classrooms": "7", 
@@ -25244,7 +24963,7 @@
         "osm:education:bom_employed": "no", 
         "osm:education:bom_how_many": "0", 
         "osm:education:curriculum": "8_4_4,2_6_3_3_3", 
-        "osm:education:exam_affiliate": "None", 
+        "osm:education:exam_affiliate": "no", 
         "osm:education:exam_center": "no", 
         "osm:education:extra_drama": "yes", 
         "osm:education:extra_music": "yes", 
@@ -26727,7 +26446,7 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2018-10-17", 
+        "osm:_timestamp": "2019-05-06", 
         "osm:_user": "muindre", 
         "osm:accessibility": "foot", 
         "osm:amenity": "school", 
@@ -26740,7 +26459,7 @@
         "osm:contact:phone": "0725448294", 
         "osm:education:bom_employed": "no", 
         "osm:education:curriculum": "2_6_3_3_3", 
-        "osm:education:exam_affiliate": "none", 
+        "osm:education:exam_affiliate": "no", 
         "osm:education:exam_center": "no", 
         "osm:education:extra_drama": "no", 
         "osm:education:extra_music": "no", 
@@ -26903,8 +26622,8 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2018-10-19", 
-        "osm:_user": "Peter Agenga", 
+        "osm:_timestamp": "2019-05-06", 
+        "osm:_user": "muindre", 
         "osm:accessibility": "small_cars,big_vehicles,foot", 
         "osm:amenity": "school", 
         "osm:building:classrooms": "7", 
@@ -26917,7 +26636,7 @@
         "osm:education:bom_employed": "no", 
         "osm:education:bom_how_many": "0", 
         "osm:education:curriculum": "8_4_4,2_6_3_3_3", 
-        "osm:education:exam_affiliate": "none", 
+        "osm:education:exam_affiliate": "no", 
         "osm:education:exam_center": "yes", 
         "osm:education:extra_drama": "no", 
         "osm:education:extra_music": "no", 
@@ -26989,8 +26708,8 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2018-10-19", 
-        "osm:_user": "Peter Agenga", 
+        "osm:_timestamp": "2019-05-06", 
+        "osm:_user": "muindre", 
         "osm:accessibility": "small_cars,big_vehicles,foot", 
         "osm:amenity": "school", 
         "osm:building:classrooms": "2", 
@@ -27022,7 +26741,7 @@
         "osm:education:government_grants": "no", 
         "osm:education:government_registered": "APBET", 
         "osm:education:management_committee": "yes", 
-        "osm:education:mean_score": "none", 
+        "osm:education:mean_score": "0", 
         "osm:education:nemis_code": "yes", 
         "osm:education:operate_as": "day_school", 
         "osm:education:program_counselling": "yes", 
@@ -27154,8 +26873,8 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2018-10-25", 
-        "osm:_user": "Peter Agenga", 
+        "osm:_timestamp": "2019-05-06", 
+        "osm:_user": "muindre", 
         "osm:accessibility": "small_cars,big_vehicles,foot", 
         "osm:amenity": "school", 
         "osm:building:classrooms": "3", 
@@ -27186,7 +26905,7 @@
         "osm:education:government_grants": "no", 
         "osm:education:government_registered": "mgcsd", 
         "osm:education:management_committee": "no", 
-        "osm:education:mean_score": "none", 
+        "osm:education:mean_score": "0", 
         "osm:education:nemis_code": "yes", 
         "osm:education:operate_as": "day_school", 
         "osm:education:program_counselling": "yes", 
@@ -27319,7 +27038,7 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2018-11-19", 
+        "osm:_timestamp": "2019-05-06", 
         "osm:_user": "muindre", 
         "osm:accessibility": "small_cars,big_vehicles,foot", 
         "osm:amenity": "school", 
@@ -27332,7 +27051,7 @@
         "osm:education:bom_employed": "yes", 
         "osm:education:bom_how_many": "2", 
         "osm:education:curriculum": "2_6_3_3_3", 
-        "osm:education:exam_affiliate": "none", 
+        "osm:education:exam_affiliate": "no", 
         "osm:education:exam_center": "no", 
         "osm:education:extra_drama": "no", 
         "osm:education:extra_music": "yes", 
@@ -27353,7 +27072,7 @@
         "osm:education:government_grants": "yes", 
         "osm:education:government_registered": "mgcsd", 
         "osm:education:management_committee": "yes", 
-        "osm:education:mean_score": "none", 
+        "osm:education:mean_score": "0", 
         "osm:education:nemis_code": "yes", 
         "osm:education:operate_as": "day_school", 
         "osm:education:program_counselling": "yes", 
@@ -27483,7 +27202,7 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2018-11-19", 
+        "osm:_timestamp": "2019-05-06", 
         "osm:_user": "muindre", 
         "osm:accessibility": "small_cars,big_vehicles,foot", 
         "osm:amenity": "school", 
@@ -27497,7 +27216,7 @@
         "osm:education:bom_employed": "no", 
         "osm:education:bom_how_many": "0", 
         "osm:education:curriculum": "8_4_4,2_6_3_3_3", 
-        "osm:education:exam_affiliate": "none", 
+        "osm:education:exam_affiliate": "no", 
         "osm:education:exam_center": "no", 
         "osm:education:extra_drama": "yes", 
         "osm:education:extra_music": "no", 
@@ -27645,7 +27364,7 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2018-11-19", 
+        "osm:_timestamp": "2019-05-06", 
         "osm:_user": "muindre", 
         "osm:accessibility": "small_cars,big_vehicles,foot", 
         "osm:amenity": "school", 
@@ -27659,7 +27378,7 @@
         "osm:education:bom_employed": "no", 
         "osm:education:bom_how_many": "0", 
         "osm:education:curriculum": "2_6_3_3_3", 
-        "osm:education:exam_affiliate": "none", 
+        "osm:education:exam_affiliate": "no", 
         "osm:education:exam_center": "no", 
         "osm:education:extra_drama": "yes", 
         "osm:education:extra_music": "no", 
