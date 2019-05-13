@@ -347,12 +347,13 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2011-01-14", 
-        "osm:_user": "PrimusK", 
+        "osm:_timestamp": "2019-05-09", 
+        "osm:_user": "muindre", 
         "osm:amenity": "school", 
+        "osm:education:type": "primary", 
         "osm:id": "node/1038202662", 
         "osm:location": "mathare", 
-        "osm:name": "Mercy care center primary school"
+        "osm:name": "Mercy care Center Primary School"
       }, 
       "type": "Feature"
     }, 
@@ -387,12 +388,13 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2011-01-14", 
-        "osm:_user": "PrimusK", 
+        "osm:_timestamp": "2019-05-08", 
+        "osm:_user": "muindre", 
         "osm:amenity": "school", 
+        "osm:education:type": "primary", 
         "osm:id": "node/1038202671", 
         "osm:location": "mathare", 
-        "osm:name": "Caso upendo primary school"
+        "osm:name": "Caso Upendo Primary School"
       }, 
       "type": "Feature"
     }, 
@@ -427,12 +429,13 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2010-12-14", 
-        "osm:_user": "charles juma", 
+        "osm:_timestamp": "2019-05-09", 
+        "osm:_user": "muindre", 
         "osm:amenity": "school", 
+        "osm:education:type": "primary", 
         "osm:id": "node/1038202722", 
         "osm:location": "mathare", 
-        "osm:name": "StLlwanga zone nursery/primary school"
+        "osm:name": "St Lwanga zone nursery/primary school"
       }, 
       "type": "Feature"
     }, 
@@ -467,12 +470,13 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2010-12-14", 
-        "osm:_user": "charles juma", 
+        "osm:_timestamp": "2019-05-08", 
+        "osm:_user": "muindre", 
         "osm:amenity": "school", 
+        "osm:education:type": "primary", 
         "osm:id": "node/1038202744", 
         "osm:location": "mathare", 
-        "osm:name": "Ebenezar primary school"
+        "osm:name": "Ebenezar Primary School"
       }, 
       "type": "Feature"
     }, 
@@ -547,9 +551,10 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2010-12-14", 
-        "osm:_user": "PrimusK", 
+        "osm:_timestamp": "2019-05-10", 
+        "osm:_user": "muindre", 
         "osm:amenity": "school", 
+        "osm:education:type": "secondary", 
         "osm:id": "node/1038219177", 
         "osm:location": "mathare", 
         "osm:name": "Brain house high school"
@@ -901,9 +906,10 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2011-01-14", 
-        "osm:_user": "hassanow", 
+        "osm:_timestamp": "2019-05-08", 
+        "osm:_user": "muindre", 
         "osm:amenity": "school", 
+        "osm:education:type": "vocational", 
         "osm:id": "node/1103092472", 
         "osm:location": "mathare", 
         "osm:name": "Driving School"
@@ -1297,9 +1303,10 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2011-02-02", 
-        "osm:_user": "PrimusK", 
+        "osm:_timestamp": "2019-05-08", 
+        "osm:_user": "muindre", 
         "osm:amenity": "school", 
+        "osm:education:type": "pre_primary", 
         "osm:id": "node/1110239866", 
         "osm:location": "mathare", 
         "osm:name": "Edie nursery"
@@ -1317,9 +1324,10 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2017-10-12", 
+        "osm:_timestamp": "2019-05-08", 
         "osm:_user": "muindre", 
         "osm:amenity": "school", 
+        "osm:education:type": "pre_primary", 
         "osm:id": "node/1110245197", 
         "osm:location": "mathare", 
         "osm:name": "St Ann Baby care"
@@ -1357,9 +1365,10 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2011-01-20", 
-        "osm:_user": "hassanow", 
+        "osm:_timestamp": "2019-05-09", 
+        "osm:_user": "muindre", 
         "osm:amenity": "school", 
+        "osm:education:type": "vocational", 
         "osm:id": "node/1111566336", 
         "osm:location": "mathare", 
         "osm:name": "Liance Driving School"
@@ -1377,9 +1386,10 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2018-12-03", 
-        "osm:_user": "Humus015", 
+        "osm:_timestamp": "2019-05-09", 
+        "osm:_user": "muindre", 
         "osm:amenity": "school", 
+        "osm:education:type": "primary", 
         "osm:id": "node/1111566365", 
         "osm:location": "mathare", 
         "osm:name": "ARK PRIMARY SCHOOL", 
@@ -1398,12 +1408,12 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2011-01-20", 
-        "osm:_user": "xybot", 
+        "osm:_timestamp": "2019-05-09", 
+        "osm:_user": "muindre", 
         "osm:amenity": "school", 
         "osm:id": "node/1111566381", 
         "osm:location": "mathare", 
-        "osm:name": "soldier OF FAITH Educational Centre"
+        "osm:name": "Soldier OF FAITH Educational Centre"
       }, 
       "type": "Feature"
     }, 
@@ -1578,9 +1588,10 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2017-10-12", 
+        "osm:_timestamp": "2019-05-08", 
         "osm:_user": "muindre", 
         "osm:amenity": "school", 
+        "osm:education:type": "pre_primary", 
         "osm:id": "node/1112885024", 
         "osm:location": "mathare", 
         "osm:name": "Thayu kindergaten"
@@ -1598,9 +1609,10 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2011-01-27", 
-        "osm:_user": "PrimusK", 
+        "osm:_timestamp": "2019-05-09", 
+        "osm:_user": "muindre", 
         "osm:amenity": "school", 
+        "osm:education:type": "primary", 
         "osm:id": "node/1123193291", 
         "osm:location": "mathare", 
         "osm:name": "Eden Annex Primary School"
@@ -1638,9 +1650,10 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2011-01-27", 
-        "osm:_user": "PrimusK", 
+        "osm:_timestamp": "2019-05-09", 
+        "osm:_user": "muindre", 
         "osm:amenity": "school", 
+        "osm:education:type": "primary", 
         "osm:id": "node/1123193312", 
         "osm:location": "mathare", 
         "osm:name": "Ananda Manga primary school"
@@ -1778,12 +1791,13 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2011-01-27", 
-        "osm:_user": "hassanow", 
+        "osm:_timestamp": "2019-05-09", 
+        "osm:_user": "muindre", 
         "osm:amenity": "school", 
+        "osm:education:type": "primary", 
         "osm:id": "node/1123201092", 
         "osm:location": "mathare", 
-        "osm:name": "Urban view primary school"
+        "osm:name": "Urban View Primary School"
       }, 
       "type": "Feature"
     }, 
@@ -1879,9 +1893,10 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2011-01-27", 
-        "osm:_user": "hassanow", 
+        "osm:_timestamp": "2019-05-09", 
+        "osm:_user": "muindre", 
         "osm:amenity": "school", 
+        "osm:education:type": "secondary", 
         "osm:id": "node/1123201207", 
         "osm:location": "mathare", 
         "osm:name": "Genesis Secondary School"
@@ -1899,9 +1914,10 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2011-01-27", 
-        "osm:_user": "PrimusK", 
+        "osm:_timestamp": "2019-05-10", 
+        "osm:_user": "muindre", 
         "osm:amenity": "school", 
+        "osm:education:type": "pre_primary", 
         "osm:id": "node/1123209300", 
         "osm:location": "mathare", 
         "osm:name": "Sunflower Nursery School"
@@ -1958,12 +1974,13 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2011-01-28", 
-        "osm:_user": "PrimusK", 
+        "osm:_timestamp": "2019-05-08", 
+        "osm:_user": "muindre", 
         "osm:amenity": "school", 
+        "osm:education:type": "primary", 
         "osm:id": "node/1124602205", 
         "osm:location": "mathare", 
-        "osm:name": "Eastland complex primary"
+        "osm:name": "Eastland Complex Primary"
       }, 
       "type": "Feature"
     }, 
@@ -2084,12 +2101,13 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2013-08-03", 
-        "osm:_user": "PrimusK", 
+        "osm:_timestamp": "2019-05-10", 
+        "osm:_user": "muindre", 
         "osm:amenity": "school", 
+        "osm:education:type": "secondary", 
         "osm:id": "node/2405854927", 
         "osm:location": "mathare", 
-        "osm:name": "St.Joseph secondary school"
+        "osm:name": "St. Joseph Secondary School"
       }, 
       "type": "Feature"
     }, 
@@ -4954,11 +4972,12 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2019-01-30", 
-        "osm:_user": "DingoKG", 
+        "osm:_timestamp": "2019-05-08", 
+        "osm:_user": "muindre", 
         "osm:addr:city": "Nairobi", 
         "osm:addr:postcode": "P.O Box 43881, Nairobi City", 
         "osm:amenity": "school", 
+        "osm:education:type": "secondary", 
         "osm:id": "node/6247215817", 
         "osm:location": "mathare", 
         "osm:name": "Genesis Joy Secondary School"
@@ -4996,9 +5015,10 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2019-05-03", 
+        "osm:_timestamp": "2019-05-09", 
         "osm:_user": "muindre", 
         "osm:amenity": "school", 
+        "osm:education:type": "primary", 
         "osm:id": "node/6445077890", 
         "osm:location": "mathare", 
         "osm:name": "St Christopher Primary School"
@@ -7387,9 +7407,10 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2019-05-03", 
+        "osm:_timestamp": "2019-05-09", 
         "osm:_user": "muindre", 
         "osm:amenity": "school", 
+        "osm:education:type": "primary", 
         "osm:id": "node/6445081223", 
         "osm:location": "mathare", 
         "osm:name": "Aeisha Collier Primary School"
@@ -7963,12 +7984,12 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2019-05-03", 
+        "osm:_timestamp": "2019-05-09", 
         "osm:_user": "muindre", 
         "osm:amenity": "school", 
         "osm:id": "node/6445111401", 
         "osm:location": "mathare", 
-        "osm:name": "MissionOf Hope Mathare North"
+        "osm:name": "Mission Of Hope Mathare North"
       }, 
       "type": "Feature"
     }, 
@@ -8486,9 +8507,10 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2019-05-03", 
+        "osm:_timestamp": "2019-05-09", 
         "osm:_user": "muindre", 
         "osm:amenity": "school", 
+        "osm:education:type": "secondary", 
         "osm:id": "node/6445111411", 
         "osm:location": "mathare", 
         "osm:name": "Braniac High School"
@@ -8786,12 +8808,13 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2019-05-03", 
+        "osm:_timestamp": "2019-05-08", 
         "osm:_user": "muindre", 
         "osm:amenity": "school", 
+        "osm:education:type": "primary", 
         "osm:id": "node/6445111418", 
         "osm:location": "mathare", 
-        "osm:name": "Kiboro Primary"
+        "osm:name": "Kiboro Primary School"
       }, 
       "type": "Feature"
     }, 
@@ -9747,9 +9770,10 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2019-05-03", 
+        "osm:_timestamp": "2019-05-08", 
         "osm:_user": "muindre", 
         "osm:amenity": "school", 
+        "osm:education:type": "pre_primary", 
         "osm:id": "node/6445137985", 
         "osm:location": "mathare", 
         "osm:name": "Amaizing Day Care"

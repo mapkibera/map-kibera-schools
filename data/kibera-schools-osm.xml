@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.55.7 8b86ff77">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2019-05-07T15:20:02Z"/>
+<meta osm_base="2019-05-13T17:57:02Z"/>
 
   <bounds minlat="-1.3211000" minlon="36.7651000" maxlat="-1.3009000" maxlon="36.8178000"/>
 
-  <node id="478551902" lat="-1.3104681" lon="36.7988296" version="12" timestamp="2014-08-25T09:17:04Z" changeset="24998257" uid="261009" user="Blasio">
+  <node id="478551902" lat="-1.3104681" lon="36.7988296" version="13" timestamp="2019-05-13T10:03:23Z" changeset="70184531" uid="265690" user="fondolucy">
     <tag k="accessibility" v="big_vehicles"/>
     <tag k="amenity" v="school"/>
     <tag k="boundary_type:Ward_boundary" v="yes"/>
     <tag k="building:levels" v="1"/>
     <tag k="building:material" v="concrete"/>
     <tag k="building:roof" v="ironsheets"/>
-    <tag k="contact:address" v="B O Box 56979 - 00200, Nairobi"/>
+    <tag k="contact:address" v="P O Box 56979 - 00200, Nairobi"/>
     <tag k="contact:phone" v="0722699646"/>
     <tag k="education:curriculum" v="8_4_4"/>
     <tag k="education:exam_center" v="yes"/>
@@ -4963,14 +4963,14 @@
     <tag k="toilet:arranged_name" v="Public"/>
     <tag k="toilet:present" v="no"/>
   </node>
-  <node id="2115330631" lat="-1.3087658" lon="36.8014763" version="12" timestamp="2015-04-14T10:13:35Z" changeset="30207864" uid="261050" user="muindre">
+  <node id="2115330631" lat="-1.3087658" lon="36.8014763" version="13" timestamp="2019-05-13T09:41:29Z" changeset="70183834" uid="265690" user="fondolucy">
     <tag k="accessibility" v="big_vehicles"/>
     <tag k="amenity" v="school"/>
     <tag k="boundary_type:Ward_boundary" v="yes"/>
     <tag k="building:levels" v="0"/>
     <tag k="building:material" v="concrete"/>
     <tag k="building:roof" v="ironsheets"/>
-    <tag k="contact:address" v="B O Box 43687 - 00100, Nairobi"/>
+    <tag k="contact:address" v="P O Box 43687 - 00100, Nairobi"/>
     <tag k="contact:email" v="reginahmuia@gmail.com"/>
     <tag k="contact:phone" v="0721246109"/>
     <tag k="education:curriculum" v="8_4_4"/>
@@ -8876,9 +8876,9 @@
     <tag k="place:village" v="Laini Saba"/>
     <tag k="toilet:present" v="yes"/>
   </node>
-  <node id="2954147620" lat="-1.3121745" lon="36.7940357" version="6" timestamp="2015-04-16T09:26:16Z" changeset="30258966" uid="261009" user="Blasio">
+  <node id="2954147620" lat="-1.3121745" lon="36.7940357" version="7" timestamp="2019-05-13T10:16:19Z" changeset="70184967" uid="265690" user="fondolucy">
     <tag k="amenity" v="school"/>
-    <tag k="contact:address" v="P O Box3691 -00100, Nairobi"/>
+    <tag k="contact:address" v="P O Box 3691 -00100, Nairobi"/>
     <tag k="contact:phone" v="0728834222"/>
     <tag k="education:extra_drama" v="yes"/>
     <tag k="education:extra_scouts" v="yes"/>
@@ -10051,14 +10051,14 @@
     <tag k="place:village" v="Ayany"/>
     <tag k="toilet:present" v="yes"/>
   </node>
-  <node id="2979078701" lat="-1.3102908" lon="36.7986342" version="5" timestamp="2015-01-03T18:37:36Z" changeset="27893083" uid="555655" user="JamesLC">
+  <node id="2979078701" lat="-1.3102908" lon="36.7986342" version="6" timestamp="2019-05-13T10:01:30Z" changeset="70184475" uid="265690" user="fondolucy">
     <tag k="accessibility" v="big_vehicles"/>
     <tag k="amenity" v="school"/>
     <tag k="boundary_type:Ward_boundary" v="yes"/>
     <tag k="building:levels" v="2"/>
     <tag k="building:material" v="concrete"/>
     <tag k="building:roof" v="ironsheets"/>
-    <tag k="contact:address" v="B O Box 29080 - 00100, Nairobi"/>
+    <tag k="contact:address" v="P O Box 29080 - 00100, Nairobi"/>
     <tag k="contact:email" v="shadrackkimsecondaryschool@gmail.com"/>
     <tag k="contact:phone" v="0702040784"/>
     <tag k="education:curriculum" v="8_4_4"/>
