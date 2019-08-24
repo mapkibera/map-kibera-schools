@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.55.7 8b86ff77">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2019-05-13T17:58:02Z"/>
+<meta osm_base="2019-08-24T00:58:02Z"/>
 
   <bounds minlat="-1.2673000" minlon="36.8427000" maxlat="-1.2479000" maxlon="36.8792000"/>
 
@@ -61,9 +61,11 @@
     <tag k="toilets:teachers" v="1"/>
     <tag k="waste:garbage_disposal" v="sometimes"/>
   </node>
-  <node id="1038064496" lat="-1.2635399" lon="36.8580037" version="3" timestamp="2011-01-18T19:56:55Z" changeset="7014123" uid="232642" user="PrimusK">
+  <node id="1038064496" lat="-1.2635399" lon="36.8580037" version="4" timestamp="2019-05-20T12:23:19Z" changeset="70438704" uid="265690" user="fondolucy">
     <tag k="amenity" v="school"/>
-    <tag k="name" v="Undugu Mercy care"/>
+    <tag k="education:type" v="pre_primary"/>
+    <tag k="name" v="Undugu Mercy Care"/>
+    <tag k="operator:type" v="community"/>
   </node>
   <node id="1038103774" lat="-1.2654596" lon="36.8577145" version="3" timestamp="2017-10-12T19:59:58Z" changeset="52870724" uid="261050" user="muindre">
     <tag k="accessibility" v="foot"/>
@@ -95,13 +97,13 @@
     <tag k="place:village" v="Mathare 3C"/>
     <tag k="toilet:present" v="yes"/>
   </node>
-  <node id="1038103776" lat="-1.2625634" lon="36.8599028" version="6" timestamp="2017-10-12T19:59:58Z" changeset="52870724" uid="261050" user="muindre">
+  <node id="1038103776" lat="-1.2625634" lon="36.8599028" version="8" timestamp="2019-05-22T10:08:42Z" changeset="70508550" uid="265690" user="fondolucy">
     <tag k="accessibility" v="small_cars"/>
     <tag k="amenity" v="school"/>
     <tag k="building:levels" v="0"/>
     <tag k="building:material" v="ironsheets"/>
     <tag k="building:roof" v="ironsheets"/>
-    <tag k="contact:phone" v="0717968466"/>
+    <tag k="contact" v="0717968462"/>
     <tag k="education:exam_affiliate" v="muslim primary"/>
     <tag k="education:extra_drama" v="yes"/>
     <tag k="education:extra_music" v="yes"/>
@@ -132,9 +134,9 @@
     <tag k="education:tsc_employed" v="0"/>
     <tag k="education:type" v="primary"/>
     <tag k="electricity:operational_status" v="never"/>
-    <tag k="name" v="Bridge International School"/>
+    <tag k="name" v="Bridge International Academy"/>
     <tag k="operator:name" v="Bridge International Academy"/>
-    <tag k="operator:type" v="ngo"/>
+    <tag k="operator:type" v="private"/>
     <tag k="place:village" v="Gumba"/>
     <tag k="toilet:present" v="yes"/>
   </node>
@@ -227,9 +229,11 @@
     <tag k="education:type" v="primary"/>
     <tag k="name" v="Caso Upendo Primary School"/>
   </node>
-  <node id="1038202672" lat="-1.2617030" lon="36.8567439" version="2" timestamp="2017-10-12T19:59:59Z" changeset="52870724" uid="261050" user="muindre">
+  <node id="1038202672" lat="-1.2617030" lon="36.8567439" version="3" timestamp="2019-05-20T12:19:25Z" changeset="70438575" uid="265690" user="fondolucy">
     <tag k="amenity" v="school"/>
-    <tag k="name" v="Myto junior academy"/>
+    <tag k="education:type" v="pre_primary"/>
+    <tag k="name" v="Myto Junior Academy"/>
+    <tag k="operator:type" v="private"/>
   </node>
   <node id="1038202722" lat="-1.2588415" lon="36.8609719" version="2" timestamp="2019-05-09T12:25:32Z" changeset="70070866" uid="261050" user="muindre">
     <tag k="amenity" v="school"/>
@@ -425,7 +429,7 @@
     <tag k="amenity" v="school"/>
     <tag k="name" v="Mathare Family Hope Center"/>
   </node>
-  <node id="1103092451" lat="-1.2610939" lon="36.8622628" version="7" timestamp="2019-05-02T10:43:13Z" changeset="69798390" uid="261050" user="muindre">
+  <node id="1103092451" lat="-1.2610939" lon="36.8622628" version="8" timestamp="2019-05-22T08:33:00Z" changeset="70505374" uid="265690" user="fondolucy">
     <tag k="accessibility" v="foot"/>
     <tag k="amenity" v="school"/>
     <tag k="barrier:security_fence" v="yes"/>
@@ -433,7 +437,7 @@
     <tag k="building:levels" v="1"/>
     <tag k="building:material" v="wood"/>
     <tag k="building:roof" v="ironsheets"/>
-    <tag k="contact:phone" v="0729076564"/>
+    <tag k="contact:" v="0721147386"/>
     <tag k="education:committees" v="B.O.M"/>
     <tag k="education:curriculum" v="8_4_4"/>
     <tag k="education:exam_affiliate" v="Kaso Upendo Neighbouring School"/>
@@ -452,6 +456,7 @@
     <tag k="education:government_registered" v="no"/>
     <tag k="education:management_committee" v="yes"/>
     <tag k="education:operate_as" v="day_school"/>
+    <tag k="education:operator" v="community"/>
     <tag k="education:program_counselling" v="yes"/>
     <tag k="education:program_feeding" v="yes"/>
     <tag k="education:program_feeding_description" v="fees"/>
@@ -472,7 +477,7 @@
     <tag k="name" v="Why Not Academy"/>
     <tag k="operator:description" v="association"/>
     <tag k="operator:name" v="whynot"/>
-    <tag k="operator:type" v="cbo"/>
+    <tag k="operator:type" v="community"/>
     <tag k="place:village" v="Mathare Mashimoni"/>
     <tag k="playground" v="yes"/>
     <tag k="room:kitchen" v="yes"/>
@@ -617,29 +622,35 @@
     <tag k="amenity" v="school"/>
     <tag k="name" v="Harvest mission"/>
   </node>
-  <node id="1110239839" lat="-1.2658062" lon="36.8434362" version="1" timestamp="2011-01-19T11:11:24Z" changeset="7019333" uid="261848" user="hassanow">
+  <node id="1110239839" lat="-1.2658062" lon="36.8434362" version="2" timestamp="2019-05-20T09:02:01Z" changeset="70432212" uid="265690" user="fondolucy">
     <tag k="amenity" v="school"/>
-    <tag k="name" v="St.mary community center"/>
+    <tag k="education:type" v="primary"/>
+    <tag k="name" v="St.Mary Community Center"/>
   </node>
   <node id="1110239853" lat="-1.2646449" lon="36.8449385" version="1" timestamp="2011-01-19T11:11:26Z" changeset="7019333" uid="261848" user="hassanow">
     <tag k="amenity" v="school"/>
     <tag k="name" v="Loving concern Education center"/>
   </node>
-  <node id="1110239854" lat="-1.2657407" lon="36.8450669" version="2" timestamp="2011-02-02T08:55:21Z" changeset="7162548" uid="232642" user="PrimusK">
+  <node id="1110239854" lat="-1.2657407" lon="36.8450669" version="3" timestamp="2019-05-20T12:12:57Z" changeset="70438376" uid="265690" user="fondolucy">
     <tag k="amenity" v="school"/>
+    <tag k="education:type" v="pre_primary"/>
     <tag k="name" v="Funzo junior school."/>
   </node>
   <node id="1110239856" lat="-1.2653022" lon="36.8451595" version="1" timestamp="2011-01-19T11:11:26Z" changeset="7019333" uid="261848" user="hassanow">
     <tag k="amenity" v="school"/>
     <tag k="name" v="St Antonieta"/>
   </node>
-  <node id="1110239860" lat="-1.2641264" lon="36.8442474" version="1" timestamp="2011-01-19T11:11:27Z" changeset="7019333" uid="261848" user="hassanow">
+  <node id="1110239860" lat="-1.2641264" lon="36.8442474" version="3" timestamp="2019-05-20T10:15:20Z" changeset="70434326" uid="265690" user="fondolucy">
     <tag k="amenity" v="school"/>
-    <tag k="name" v="ST phillips school"/>
+    <tag k="education:type" v="primary"/>
+    <tag k="name" v="St. Phillips School"/>
+    <tag k="operator:type" v="private"/>
   </node>
-  <node id="1110239861" lat="-1.2657006" lon="36.8460009" version="2" timestamp="2011-02-02T08:55:22Z" changeset="7162548" uid="232642" user="PrimusK">
+  <node id="1110239861" lat="-1.2657006" lon="36.8460009" version="3" timestamp="2019-05-20T12:16:58Z" changeset="70438491" uid="265690" user="fondolucy">
     <tag k="amenity" v="school"/>
+    <tag k="education:type" v="primary"/>
     <tag k="name" v="ST .paul primary school"/>
+    <tag k="operator:type" v="community"/>
   </node>
   <node id="1110239866" lat="-1.2639563" lon="36.8451327" version="3" timestamp="2019-05-08T09:07:15Z" changeset="70015557" uid="261050" user="muindre">
     <tag k="amenity" v="school"/>
@@ -733,9 +744,12 @@
     <tag k="amenity" v="school"/>
     <tag k="name" v="Urban View Educational Centre"/>
   </node>
-  <node id="1123193348" lat="-1.2586560" lon="36.8683188" version="1" timestamp="2011-01-27T09:23:51Z" changeset="7101483" uid="232642" user="PrimusK">
+  <node id="1123193348" lat="-1.2586560" lon="36.8683188" version="2" timestamp="2019-05-20T11:08:38Z" changeset="70436163" uid="265690" user="fondolucy">
     <tag k="amenity" v="school"/>
-    <tag k="name" v="Ananda manga Academy"/>
+    <tag k="contact" v="0721988072"/>
+    <tag k="education:type" v="primary"/>
+    <tag k="name" v="Ananda Marga Academy"/>
+    <tag k="operator:type" v="community"/>
   </node>
   <node id="1123193364" lat="-1.2600267" lon="36.8683266" version="1" timestamp="2011-01-27T09:23:52Z" changeset="7101483" uid="232642" user="PrimusK">
     <tag k="amenity" v="school"/>
@@ -762,15 +776,15 @@
     <tag k="amenity" v="school"/>
     <tag k="name" v="Josam Academy"/>
   </node>
-  <node id="1123201169" lat="-1.2582719" lon="36.8704697" version="3" timestamp="2019-05-07T11:45:42Z" changeset="69972477" uid="261050" user="muindre">
+  <node id="1123201169" lat="-1.2582719" lon="36.8704697" version="4" timestamp="2019-08-23T09:36:21Z" changeset="73656568" uid="261050" user="muindre">
     <tag k="amenity" v="school"/>
-    <tag k="name" v="Genesis Primary School"/>
+    <tag k="name" v="Genesis Immaculate Primary School"/>
     <tag k="name:it" v="Genesis"/>
   </node>
-  <node id="1123201207" lat="-1.2581721" lon="36.8704249" version="2" timestamp="2019-05-09T12:07:16Z" changeset="70070185" uid="261050" user="muindre">
+  <node id="1123201207" lat="-1.2581721" lon="36.8704249" version="3" timestamp="2019-08-23T09:36:21Z" changeset="73656568" uid="261050" user="muindre">
     <tag k="amenity" v="school"/>
     <tag k="education:type" v="secondary"/>
-    <tag k="name" v="Genesis Secondary School"/>
+    <tag k="name" v="Genesis Immaculate Secondary School"/>
   </node>
   <node id="1123209300" lat="-1.2537093" lon="36.8777093" version="2" timestamp="2019-05-10T07:29:57Z" changeset="70098735" uid="261050" user="muindre">
     <tag k="amenity" v="school"/>
@@ -780,8 +794,9 @@
   <node id="1123209344" lat="-1.2535507" lon="36.8769419" version="4" timestamp="2013-01-30T08:43:33Z" changeset="14844243" uid="429943" user="chairman huruma">
     <tag k="amenity" v="school"/>
   </node>
-  <node id="1124602203" lat="-1.2605148" lon="36.8652117" version="1" timestamp="2011-01-28T08:24:41Z" changeset="7110704" uid="232642" user="PrimusK">
+  <node id="1124602203" lat="-1.2605148" lon="36.8652117" version="2" timestamp="2019-05-20T10:33:12Z" changeset="70434907" uid="265690" user="fondolucy">
     <tag k="amenity" v="school"/>
+    <tag k="education:type" v="primary"/>
     <tag k="name" v="Bishop Kitonga Academy"/>
   </node>
   <node id="1124602205" lat="-1.2584229" lon="36.8658781" version="2" timestamp="2019-05-08T10:39:41Z" changeset="70018535" uid="261050" user="muindre">
@@ -793,9 +808,12 @@
     <tag k="amenity" v="school"/>
     <tag k="name" v="Pilot Educational Centre"/>
   </node>
-  <node id="1124602279" lat="-1.2604843" lon="36.8652036" version="1" timestamp="2011-01-28T08:24:43Z" changeset="7110704" uid="232642" user="PrimusK">
+  <node id="1124602279" lat="-1.2604843" lon="36.8652036" version="3" timestamp="2019-05-22T07:32:12Z" changeset="70503589" uid="265690" user="fondolucy">
     <tag k="amenity" v="school"/>
-    <tag k="name" v="Alliant Academy"/>
+    <tag k="contact" v="0724940549"/>
+    <tag k="education:type" v="primary"/>
+    <tag k="name" v="Alliant Junior Academy"/>
+    <tag k="operator:type" v="community"/>
   </node>
   <node id="1244198595" lat="-1.2590554" lon="36.8632182" version="6" timestamp="2019-05-07T12:01:16Z" changeset="69973013" uid="261050" user="muindre">
     <tag k="accessibility" v="foot"/>
@@ -1290,14 +1308,14 @@
     <tag k="place:village" v="Mathare 3C"/>
     <tag k="toilet:present" v="yes"/>
   </node>
-  <node id="4461370056" lat="-1.2589705" lon="36.8630145" version="6" timestamp="2017-10-12T20:00:09Z" changeset="52870724" uid="261050" user="muindre">
+  <node id="4461370056" lat="-1.2589705" lon="36.8630145" version="7" timestamp="2019-08-06T13:49:43Z" changeset="73068276" uid="15671" user="habi">
     <tag k="accessibility" v="foot"/>
     <tag k="amenity" v="school"/>
     <tag k="building:levels" v="0"/>
     <tag k="building:material" v="wood"/>
     <tag k="building:roof" v="ironsheets"/>
     <tag k="contact:address" v="P O Box 43210-00100 NAIROBI"/>
-    <tag k="contact:email" v="jumapatrick89&quot;yahoo.com"/>
+    <tag k="contact:email" v="jumapatrick89@yahoo.com"/>
     <tag k="contact:phone" v="0704003016"/>
     <tag k="education:committees" v="Board of Management"/>
     <tag k="education:curriculum" v="8_4_4"/>
@@ -1363,7 +1381,7 @@
     <tag k="place:village" v="Mathare 3C"/>
     <tag k="toilet:present" v="yes"/>
   </node>
-  <node id="4461458486" lat="-1.2653230" lon="36.8507341" version="5" timestamp="2017-10-12T20:00:11Z" changeset="52870724" uid="261050" user="muindre">
+  <node id="4461458486" lat="-1.2653230" lon="36.8507341" version="6" timestamp="2019-05-22T08:53:44Z" changeset="70506080" uid="265690" user="fondolucy">
     <tag k="accessibility" v="big_vehicles"/>
     <tag k="amenity" v="school"/>
     <tag k="building:levels" v="0"/>
@@ -1397,7 +1415,7 @@
     <tag k="electricity:operational_status" v="never"/>
     <tag k="name" v="Neci Education Centre"/>
     <tag k="operator:name" v="Neci Education Centre"/>
-    <tag k="operator:type" v="cbo"/>
+    <tag k="operator:type" v="community"/>
     <tag k="place:village" v="Mathare Village 2"/>
     <tag k="toilet:present" v="yes"/>
   </node>
@@ -1641,15 +1659,15 @@
     <tag k="place:village" v="Mathare 3B"/>
     <tag k="toilet:present" v="yes"/>
   </node>
-  <node id="4462892677" lat="-1.2643407" lon="36.8594739" version="4" timestamp="2017-10-12T20:00:14Z" changeset="52870724" uid="261050" user="muindre">
+  <node id="4462892677" lat="-1.2643407" lon="36.8594739" version="5" timestamp="2019-05-24T10:03:07Z" changeset="70580074" uid="265690" user="fondolucy">
     <tag k="accessibility" v="big_vehicles"/>
     <tag k="amenity" v="school"/>
     <tag k="building:levels" v="1"/>
     <tag k="building:material" v="ironsheets"/>
     <tag k="building:roof" v="ironsheets"/>
+    <tag k="contact" v="0715733196"/>
     <tag k="contact:address" v="P O BOX 45603-00100, Nairobi"/>
     <tag k="contact:email" v="edwardkimuyu@gmail.com"/>
-    <tag k="contact:phone" v="0728240978"/>
     <tag k="education:curriculum" v="8_4_4"/>
     <tag k="education:exam_affiliate" v="Vision shiners"/>
     <tag k="education:extra_drama" v="yes"/>
@@ -1676,7 +1694,7 @@
     <tag k="electricity:operational_status" v="always"/>
     <tag k="name" v="Maji Mazuri Headstart Academy"/>
     <tag k="operator:description" v="Edward Sila"/>
-    <tag k="operator:type" v="cbo"/>
+    <tag k="operator:type" v="community"/>
     <tag k="place:village" v="Mathare 3c"/>
     <tag k="toilet:present" v="yes"/>
   </node>
@@ -1854,7 +1872,7 @@
     <tag k="place:village" v="Gitathuru"/>
     <tag k="toilet:present" v="yes"/>
   </node>
-  <node id="4463082226" lat="-1.2632173" lon="36.8547371" version="5" timestamp="2017-10-12T20:00:17Z" changeset="52870724" uid="261050" user="muindre">
+  <node id="4463082226" lat="-1.2632173" lon="36.8547371" version="6" timestamp="2019-05-22T09:01:51Z" changeset="70506370" uid="265690" user="fondolucy">
     <tag k="accessibility" v="big_vehicles"/>
     <tag k="amenity" v="school"/>
     <tag k="building:levels" v="1"/>
@@ -1882,9 +1900,9 @@
     <tag k="education:tsc_employed" v="0"/>
     <tag k="education:type" v="primary"/>
     <tag k="electricity:operational_status" v="sometimes"/>
-    <tag k="name" v="Mathare Kosovo Salvation Army Community School"/>
+    <tag k="name" v="Mathare Kosovo Outspot and community School"/>
     <tag k="operator:description" v="Zipporah Mutinda"/>
-    <tag k="operator:type" v="religious"/>
+    <tag k="operator:type" v="community"/>
     <tag k="place:village" v="Kosovo"/>
     <tag k="toilet:present" v="yes"/>
   </node>
@@ -2872,7 +2890,7 @@
     <tag k="toilets:male" v="4"/>
     <tag k="waste:garbage_disposal" v="Always"/>
   </node>
-  <node id="6445077892" lat="-1.2595220" lon="36.8663210" version="1" timestamp="2019-05-03T11:11:01Z" changeset="69837951" uid="261050" user="muindre">
+  <node id="6445077892" lat="-1.2595220" lon="36.8663210" version="2" timestamp="2019-05-22T09:43:25Z" changeset="70507633" uid="265690" user="fondolucy">
     <tag k="accessibility" v="small_cars,foot"/>
     <tag k="amenity" v="school"/>
     <tag k="barrier" v="gate"/>
@@ -2880,6 +2898,7 @@
     <tag k="building:classrooms" v="38"/>
     <tag k="building:library" v="yes"/>
     <tag k="building:material" v="semi_permanent"/>
+    <tag k="contact" v="0723542220"/>
     <tag k="education:board_of_management" v="yes"/>
     <tag k="education:exam_center" v="yes"/>
     <tag k="education:extra_agriculture_club" v="yes"/>
@@ -3002,7 +3021,7 @@
     <tag k="toilets:female" v="1"/>
     <tag k="toilets:male" v="2"/>
   </node>
-  <node id="6445077899" lat="-1.2588770" lon="36.8631080" version="1" timestamp="2019-05-03T11:11:21Z" changeset="69837951" uid="261050" user="muindre">
+  <node id="6445077899" lat="-1.2588770" lon="36.8631080" version="2" timestamp="2019-05-20T08:13:41Z" changeset="70430764" uid="15671" user="habi">
     <tag k="accessibility" v="small_cars"/>
     <tag k="amenity" v="school"/>
     <tag k="building:classrooms" v="15"/>
@@ -3034,7 +3053,7 @@
     <tag k="government:registered" v="APBET"/>
     <tag k="laboratory" v="computer"/>
     <tag k="name" v="Daystar Junior School"/>
-    <tag k="operator:decription" v="Patrick O Juma"/>
+    <tag k="operator:description" v="Patrick O Juma"/>
     <tag k="operator:type" v="cbo"/>
     <tag k="room:kitchen" v="yes"/>
     <tag k="room:staff" v="yes"/>
@@ -3046,19 +3065,20 @@
     <tag k="toilets:teachers" v="1"/>
     <tag k="waste:garbage_disposal" v="always"/>
   </node>
-  <node id="6445077900" lat="-1.2540260" lon="36.8686830" version="1" timestamp="2019-05-03T11:11:22Z" changeset="69837951" uid="261050" user="muindre">
+  <node id="6445077900" lat="-1.2540260" lon="36.8686830" version="2" timestamp="2019-05-20T11:15:33Z" changeset="70436421" uid="265690" user="fondolucy">
     <tag k="amenity" v="school"/>
+    <tag k="education:type" v="secondary"/>
     <tag k="name" v="Motherway Education Centre"/>
+    <tag k="operator:type" v="private"/>
   </node>
-  <node id="6445077901" lat="-1.2610880" lon="36.8632530" version="1" timestamp="2019-05-03T11:11:33Z" changeset="69837951" uid="261050" user="muindre">
+  <node id="6445077901" lat="-1.2610880" lon="36.8632530" version="2" timestamp="2019-05-20T11:30:16Z" changeset="70436961" uid="265690" user="fondolucy">
     <tag k="amenity" v="school"/>
+    <tag k="contact" v="0727242556"/>
+    <tag k="education:type" v="primary"/>
     <tag k="name" v="Mama Africa Italia Onlus"/>
+    <tag k="operator:type" v="community"/>
   </node>
-  <node id="6445077903" lat="-1.2582490" lon="36.8704530" version="1" timestamp="2019-05-03T11:11:41Z" changeset="69837951" uid="261050" user="muindre">
-    <tag k="amenity" v="school"/>
-    <tag k="name" v="Genesis Immaculate Primary And Secondary"/>
-  </node>
-  <node id="6445077904" lat="-1.2510980" lon="36.8754660" version="1" timestamp="2019-05-03T11:12:02Z" changeset="69837951" uid="261050" user="muindre">
+  <node id="6445077904" lat="-1.2510980" lon="36.8754660" version="2" timestamp="2019-05-20T08:13:41Z" changeset="70430764" uid="15671" user="habi">
     <tag k="accessibility" v="small_cars,foot,big_vehicles"/>
     <tag k="amenity" v="school"/>
     <tag k="barrier" v="gate"/>
@@ -3088,7 +3108,7 @@
     <tag k="laboratory:equipment" v="yes"/>
     <tag k="leisure" v="playground"/>
     <tag k="name" v="The Brainhouse School"/>
-    <tag k="operator:decription" v="school owner"/>
+    <tag k="operator:description" v="school owner"/>
     <tag k="operator:type" v="private"/>
     <tag k="room:kitchen" v="yes"/>
     <tag k="room:staff" v="yes"/>
@@ -3099,7 +3119,7 @@
     <tag k="toilets:male" v="12"/>
     <tag k="waste:garbage_disposal" v="often"/>
   </node>
-  <node id="6445077905" lat="-1.2602260" lon="36.8703210" version="1" timestamp="2019-05-03T11:12:03Z" changeset="69837951" uid="261050" user="muindre">
+  <node id="6445077905" lat="-1.2602260" lon="36.8703210" version="2" timestamp="2019-05-20T08:13:42Z" changeset="70430764" uid="15671" user="habi">
     <tag k="accessibility" v="small_cars,foot,big_vehicles"/>
     <tag k="amenity" v="school"/>
     <tag k="barrier" v="gate"/>
@@ -3132,7 +3152,7 @@
     <tag k="electricity:operational_status" v="always"/>
     <tag k="government:registered" v="moe"/>
     <tag k="name" v="Daima Primary School"/>
-    <tag k="operator:decription" v="Nairobi City County"/>
+    <tag k="operator:description" v="Nairobi City County"/>
     <tag k="operator:type" v="government"/>
     <tag k="playground" v="yes"/>
     <tag k="room:kitchen" v="yes"/>
@@ -3308,11 +3328,14 @@
     <tag k="amenity" v="school"/>
     <tag k="name" v="Missions Of Hope BH"/>
   </node>
-  <node id="6445077913" lat="-1.2625080" lon="36.8505790" version="1" timestamp="2019-05-03T11:12:33Z" changeset="69837951" uid="261050" user="muindre">
+  <node id="6445077913" lat="-1.2625080" lon="36.8505790" version="2" timestamp="2019-05-20T10:01:49Z" changeset="70433894" uid="265690" user="fondolucy">
     <tag k="amenity" v="school"/>
-    <tag k="name" v="Mission Of Hope School"/>
+    <tag k="education:type" v="primary"/>
+    <tag k="name" v="Mission of Hope School"/>
+    <tag k="operator:type" v="community"/>
+    <tag k="source" v="primary"/>
   </node>
-  <node id="6445077914" lat="-1.2664250" lon="36.8479140" version="1" timestamp="2019-05-03T11:12:43Z" changeset="69837951" uid="261050" user="muindre">
+  <node id="6445077914" lat="-1.2664250" lon="36.8479140" version="2" timestamp="2019-05-20T08:13:42Z" changeset="70430764" uid="15671" user="habi">
     <tag k="accessibility" v="small_cars,foot,big_vehicles"/>
     <tag k="amenity" v="school"/>
     <tag k="barrier" v="gate"/>
@@ -3344,7 +3367,7 @@
     <tag k="laboratory" v="computer"/>
     <tag k="leisure" v="playground"/>
     <tag k="name" v="St Teresas Primary School"/>
-    <tag k="operator:decription" v="public school"/>
+    <tag k="operator:description" v="public school"/>
     <tag k="operator:type" v="government"/>
     <tag k="room:kitchen" v="yes"/>
     <tag k="room:staff" v="yes"/>
@@ -3479,7 +3502,7 @@
     <tag k="toilets:teachers" v="2"/>
     <tag k="waste:garbage_disposal" v="Sometimes"/>
   </node>
-  <node id="6445081193" lat="-1.2593440" lon="36.8658100" version="1" timestamp="2019-05-03T11:10:50Z" changeset="69837951" uid="261050" user="muindre">
+  <node id="6445081193" lat="-1.2593440" lon="36.8658100" version="2" timestamp="2019-05-20T08:13:43Z" changeset="70430764" uid="15671" user="habi">
     <tag k="accessibility" v="small_cars"/>
     <tag k="amenity" v="school"/>
     <tag k="barrier" v="gate"/>
@@ -3507,7 +3530,7 @@
     <tag k="electricity:operational_status" v="never"/>
     <tag k="government:registered" v="APBET"/>
     <tag k="name" v="Millenium Academy"/>
-    <tag k="operator:decription" v="W. Onyango Ogembo"/>
+    <tag k="operator:description" v="W. Onyango Ogembo"/>
     <tag k="operator:type" v="private"/>
     <tag k="registration_date" v="2017"/>
     <tag k="start_date" v="2002"/>
@@ -3516,7 +3539,7 @@
     <tag k="toilets:male" v="1"/>
     <tag k="waste:garbage_disposal" v="never"/>
   </node>
-  <node id="6445081194" lat="-1.2549570" lon="36.8686180" version="1" timestamp="2019-05-03T11:10:52Z" changeset="69837951" uid="261050" user="muindre">
+  <node id="6445081194" lat="-1.2549570" lon="36.8686180" version="2" timestamp="2019-05-20T08:13:43Z" changeset="70430764" uid="15671" user="habi">
     <tag k="accessibility" v="small_cars,foot,big_vehicles"/>
     <tag k="amenity" v="school"/>
     <tag k="barrier" v="gate"/>
@@ -3546,7 +3569,7 @@
     <tag k="electricity:operational_status" v="always"/>
     <tag k="government:registered" v="APBET"/>
     <tag k="name" v="Change A Life Learning Centre"/>
-    <tag k="operator:decription" v="Organisation Change a Life Ministry"/>
+    <tag k="operator:description" v="Organisation Change a Life Ministry"/>
     <tag k="operator:type" v="religious"/>
     <tag k="room:kitchen" v="yes"/>
     <tag k="start_date" v="2012"/>
@@ -3556,13 +3579,14 @@
     <tag k="toilets:male" v="1"/>
     <tag k="waste:garbage_disposal" v="always"/>
   </node>
-  <node id="6445081195" lat="-1.2586051" lon="36.8659408" version="1" timestamp="2019-05-03T11:10:54Z" changeset="69837951" uid="261050" user="muindre">
+  <node id="6445081195" lat="-1.2586051" lon="36.8659408" version="2" timestamp="2019-05-22T09:50:42Z" changeset="70507857" uid="265690" user="fondolucy">
     <tag k="accessibility" v="small_cars,foot,big_vehicles"/>
     <tag k="amenity" v="school"/>
     <tag k="barrier" v="gate"/>
     <tag k="building:classrooms" v="8"/>
     <tag k="building:library" v="yes"/>
     <tag k="building:material" v="permanent"/>
+    <tag k="contact" v="0725555552"/>
     <tag k="education:board_of_management" v="yes"/>
     <tag k="education:exam_affiliate" v="Ngei PAG"/>
     <tag k="education:exam_center" v="no"/>
@@ -3584,7 +3608,7 @@
     <tag k="electricity:operational_status" v="always"/>
     <tag k="leisure" v="playground"/>
     <tag k="name" v="Eljoy Education Center"/>
-    <tag k="operator:type" v="cbo"/>
+    <tag k="operator:type" v="community"/>
     <tag k="registration_date" v="in_the_process"/>
     <tag k="room:kitchen" v="yes"/>
     <tag k="room:staff" v="yes"/>
@@ -3702,9 +3726,11 @@
     <tag k="toilets:male" v="4"/>
     <tag k="toilets:teachers" v="1"/>
   </node>
-  <node id="6445081199" lat="-1.2604790" lon="36.8628860" version="1" timestamp="2019-05-03T11:11:12Z" changeset="69837951" uid="261050" user="muindre">
+  <node id="6445081199" lat="-1.2604790" lon="36.8628860" version="2" timestamp="2019-08-23T10:08:57Z" changeset="73657938" uid="261050" user="muindre">
     <tag k="amenity" v="school"/>
+    <tag k="education:type" v="primary"/>
     <tag k="name" v="Kingdom Living Now School"/>
+    <tag k="operator:type" v="private"/>
   </node>
   <node id="6445081200" lat="-1.2612100" lon="36.8638800" version="1" timestamp="2019-05-03T11:11:15Z" changeset="69837951" uid="261050" user="muindre">
     <tag k="accessibility" v="small_cars,foot,big_vehicles"/>
@@ -3748,7 +3774,7 @@
     <tag k="toilets:teachers" v="1"/>
     <tag k="waste:garbage_disposal" v="never"/>
   </node>
-  <node id="6445081203" lat="-1.2561390" lon="36.8665140" version="1" timestamp="2019-05-03T11:11:19Z" changeset="69837951" uid="261050" user="muindre">
+  <node id="6445081203" lat="-1.2561390" lon="36.8665140" version="2" timestamp="2019-05-20T08:13:44Z" changeset="70430764" uid="15671" user="habi">
     <tag k="accessibility" v="small_cars,foot,big_vehicles"/>
     <tag k="amenity" v="school"/>
     <tag k="barrier" v="gate"/>
@@ -3786,7 +3812,7 @@
     <tag k="government:registered" v="private"/>
     <tag k="laboratory" v="computer"/>
     <tag k="name" v="Mawewa School"/>
-    <tag k="operator:decription" v="Edu Kenya"/>
+    <tag k="operator:description" v="Edu Kenya"/>
     <tag k="operator:type" v="private"/>
     <tag k="room:kitchen" v="yes"/>
     <tag k="room:staff" v="yes"/>
@@ -3796,9 +3822,12 @@
     <tag k="toilets:male" v="3"/>
     <tag k="waste:garbage_disposal" v="often"/>
   </node>
-  <node id="6445081204" lat="-1.2579330" lon="36.8669920" version="1" timestamp="2019-05-03T11:11:23Z" changeset="69837951" uid="261050" user="muindre">
+  <node id="6445081204" lat="-1.2579330" lon="36.8669920" version="2" timestamp="2019-05-20T11:02:31Z" changeset="70435959" uid="265690" user="fondolucy">
     <tag k="amenity" v="school"/>
+    <tag k="contact" v="07056971873"/>
+    <tag k="education:type" v="primary"/>
     <tag k="name" v="Samergo Glorious School"/>
+    <tag k="operator:type" v="community"/>
   </node>
   <node id="6445081205" lat="-1.2590536" lon="36.8686498" version="1" timestamp="2019-05-03T11:11:25Z" changeset="69837951" uid="261050" user="muindre">
     <tag k="accessibility" v="small_cars,foot,big_vehicles"/>
@@ -3942,7 +3971,7 @@
     <tag k="toilets:teachers" v="1"/>
     <tag k="waste:garbage_disposal" v="always"/>
   </node>
-  <node id="6445081209" lat="-1.2575710" lon="36.8637020" version="1" timestamp="2019-05-03T11:11:32Z" changeset="69837951" uid="261050" user="muindre">
+  <node id="6445081209" lat="-1.2575710" lon="36.8637020" version="2" timestamp="2019-05-20T08:13:44Z" changeset="70430764" uid="15671" user="habi">
     <tag k="accessibility" v="small_cars,foot,big_vehicles"/>
     <tag k="amenity" v="school"/>
     <tag k="barrier" v="gate"/>
@@ -3978,7 +4007,7 @@
     <tag k="government:registered" v="city_council"/>
     <tag k="leisure" v="playground"/>
     <tag k="name" v="Heidemarie Mathare 4A Primary"/>
-    <tag k="operator:decription" v="city_county"/>
+    <tag k="operator:description" v="city_county"/>
     <tag k="operator:type" v="public"/>
     <tag k="room:kitchen" v="yes"/>
     <tag k="room:staff" v="yes"/>
@@ -4067,7 +4096,7 @@
     <tag k="toilets:teachers" v="1"/>
     <tag k="waste:garbage_disposal" v="always"/>
   </node>
-  <node id="6445081212" lat="-1.2522560" lon="36.8709830" version="1" timestamp="2019-05-03T11:11:38Z" changeset="69837951" uid="261050" user="muindre">
+  <node id="6445081212" lat="-1.2522560" lon="36.8709830" version="2" timestamp="2019-05-20T08:13:45Z" changeset="70430764" uid="15671" user="habi">
     <tag k="accessibility" v="small_cars,foot,big_vehicles"/>
     <tag k="amenity" v="school"/>
     <tag k="barrier" v="gate"/>
@@ -4102,7 +4131,7 @@
     <tag k="electricity:operational_status" v="always"/>
     <tag k="government:registered" v="APBET"/>
     <tag k="name" v="Stella Marris Community Education Centre"/>
-    <tag k="operator:decription" v="private"/>
+    <tag k="operator:description" v="private"/>
     <tag k="operator:type" v="private"/>
     <tag k="room:kitchen" v="yes"/>
     <tag k="room:staff" v="yes"/>
@@ -4113,7 +4142,7 @@
     <tag k="toilets:male" v="1"/>
     <tag k="waste:garbage_disposal" v="Always"/>
   </node>
-  <node id="6445081213" lat="-1.2595060" lon="36.8729030" version="1" timestamp="2019-05-03T11:11:43Z" changeset="69837951" uid="261050" user="muindre">
+  <node id="6445081213" lat="-1.2595060" lon="36.8729030" version="2" timestamp="2019-05-20T08:13:46Z" changeset="70430764" uid="15671" user="habi">
     <tag k="accessibility" v="small_cars,foot,big_vehicles"/>
     <tag k="amenity" v="school"/>
     <tag k="barrier" v="gate"/>
@@ -4144,7 +4173,7 @@
     <tag k="laboratory:equipment" v="yes"/>
     <tag k="leisure" v="playground"/>
     <tag k="name" v="Huruma Mixed Secondary"/>
-    <tag k="operator:decription" v="Government Of Kenya"/>
+    <tag k="operator:description" v="Government Of Kenya"/>
     <tag k="operator:type" v="government"/>
     <tag k="registration_date" v="2017"/>
     <tag k="toilet:present" v="yes"/>
@@ -4153,9 +4182,12 @@
     <tag k="toilets:teachers" v="1"/>
     <tag k="waste:garbage_disposal" v="always"/>
   </node>
-  <node id="6445081214" lat="-1.2578930" lon="36.8713510" version="1" timestamp="2019-05-03T11:11:44Z" changeset="69837951" uid="261050" user="muindre">
+  <node id="6445081214" lat="-1.2578930" lon="36.8713510" version="4" timestamp="2019-08-23T09:51:02Z" changeset="73657094" uid="261050" user="muindre">
     <tag k="amenity" v="school"/>
+    <tag k="contact:phone" v="0720565138"/>
+    <tag k="education:type" v="primary"/>
     <tag k="name" v="Glory Spring Community Centre"/>
+    <tag k="operator:type" v="community"/>
   </node>
   <node id="6445081215" lat="-1.2585972" lon="36.8739340" version="2" timestamp="2019-05-07T11:53:47Z" changeset="69972741" uid="261050" user="muindre">
     <tag k="amenity" v="school"/>
@@ -4204,9 +4236,12 @@
     <tag k="toilets:male" v="2"/>
     <tag k="waste:garbage_disposal" v="always"/>
   </node>
-  <node id="6445081217" lat="-1.2563580" lon="36.8722810" version="1" timestamp="2019-05-03T11:11:53Z" changeset="69837951" uid="261050" user="muindre">
+  <node id="6445081217" lat="-1.2563580" lon="36.8722810" version="3" timestamp="2019-08-23T09:28:50Z" changeset="73656337" uid="261050" user="muindre">
     <tag k="amenity" v="school"/>
-    <tag k="name" v="Patsu Education Center"/>
+    <tag k="contact:" v="0729484319"/>
+    <tag k="education:type" v="primary"/>
+    <tag k="name" v="Patsue Care Center"/>
+    <tag k="operator:type" v="community"/>
   </node>
   <node id="6445081218" lat="-1.2498740" lon="36.8768730" version="1" timestamp="2019-05-03T11:11:54Z" changeset="69837951" uid="261050" user="muindre">
     <tag k="accessibility" v="small_cars,foot,big_vehicles"/>
@@ -4248,7 +4283,7 @@
     <tag k="toilets:male" v="1"/>
     <tag k="toilets:teachers" v="1"/>
   </node>
-  <node id="6445081219" lat="-1.2592250" lon="36.8707190" version="1" timestamp="2019-05-03T11:11:55Z" changeset="69837951" uid="261050" user="muindre">
+  <node id="6445081219" lat="-1.2592250" lon="36.8707190" version="2" timestamp="2019-05-22T09:20:24Z" changeset="70506996" uid="265690" user="fondolucy">
     <tag k="accessibility" v="foot"/>
     <tag k="amenity" v="school"/>
     <tag k="barrier" v="gate"/>
@@ -4274,8 +4309,8 @@
     <tag k="electricity:operational_status" v="always"/>
     <tag k="government:registered" v="mgcsd"/>
     <tag k="leisure" v="playground"/>
-    <tag k="name" v="Emmanuel Education Centre"/>
-    <tag k="operator:type" v="cbo"/>
+    <tag k="name" v="Emmanuel Middle School"/>
+    <tag k="operator:type" v="community"/>
     <tag k="room:kitchen" v="yes"/>
     <tag k="room:staff" v="yes"/>
     <tag k="start_date" v="2012"/>
@@ -4328,7 +4363,7 @@
     <tag k="toilets:teachers" v="1"/>
     <tag k="waste:garbage_disposal" v="Always"/>
   </node>
-  <node id="6445081221" lat="-1.2557347" lon="36.8715161" version="1" timestamp="2019-05-03T11:11:58Z" changeset="69837951" uid="261050" user="muindre">
+  <node id="6445081221" lat="-1.2557347" lon="36.8715161" version="2" timestamp="2019-05-20T08:13:46Z" changeset="70430764" uid="15671" user="habi">
     <tag k="accessibility" v="small_cars,foot,big_vehicles"/>
     <tag k="amenity" v="school"/>
     <tag k="barrier" v="gate"/>
@@ -4355,7 +4390,7 @@
     <tag k="electricity:operational_status" v="always"/>
     <tag k="government:registered" v="mgcsd"/>
     <tag k="name" v="Mary Rosana Academy"/>
-    <tag k="operator:decription" v="youth group"/>
+    <tag k="operator:description" v="youth group"/>
     <tag k="operator:type" v="youth group"/>
     <tag k="playground" v="yes"/>
     <tag k="registration_date" v="2016"/>
@@ -4365,7 +4400,7 @@
     <tag k="toilet:present" v="yes"/>
     <tag k="waste:garbage_disposal" v="always"/>
   </node>
-  <node id="6445081222" lat="-1.2556210" lon="36.8725310" version="1" timestamp="2019-05-03T11:12:00Z" changeset="69837951" uid="261050" user="muindre">
+  <node id="6445081222" lat="-1.2556210" lon="36.8725310" version="2" timestamp="2019-05-20T08:13:47Z" changeset="70430764" uid="15671" user="habi">
     <tag k="accessibility" v="small_cars,big_vehicles"/>
     <tag k="amenity" v="school"/>
     <tag k="barrier" v="gate"/>
@@ -4398,7 +4433,7 @@
     <tag k="laboratory" v="science"/>
     <tag k="laboratory:equipment" v="yes"/>
     <tag k="name" v="Golden Light Academy"/>
-    <tag k="operator:decription" v="Golden Light Chapel"/>
+    <tag k="operator:description" v="Golden Light Chapel"/>
     <tag k="operator:type" v="religion"/>
     <tag k="room:kitchen" v="yes"/>
     <tag k="room:staff" v="yes"/>
@@ -4414,7 +4449,7 @@
     <tag k="education:type" v="primary"/>
     <tag k="name" v="Aeisha Collier Primary School"/>
   </node>
-  <node id="6445081224" lat="-1.2601170" lon="36.8715150" version="1" timestamp="2019-05-03T11:12:17Z" changeset="69837951" uid="261050" user="muindre">
+  <node id="6445081224" lat="-1.2601170" lon="36.8715150" version="2" timestamp="2019-05-20T08:13:47Z" changeset="70430764" uid="15671" user="habi">
     <tag k="accessibility" v="small_cars,foot,big_vehicles"/>
     <tag k="amenity" v="school"/>
     <tag k="barrier" v="gate"/>
@@ -4445,7 +4480,7 @@
     <tag k="laboratory" v="computer"/>
     <tag k="leisure" v="playground"/>
     <tag k="name" v="Salama Primary School"/>
-    <tag k="operator:decription" v="Nairobi City County"/>
+    <tag k="operator:description" v="Nairobi City County"/>
     <tag k="operator:type" v="government"/>
     <tag k="room:kitchen" v="yes"/>
     <tag k="room:staff" v="yes"/>
@@ -4456,7 +4491,7 @@
     <tag k="toilets:teachers" v="4"/>
     <tag k="waste:garbage_disposal" v="Always"/>
   </node>
-  <node id="6445111389" lat="-1.2642180" lon="36.8600170" version="1" timestamp="2019-05-03T11:10:39Z" changeset="69837951" uid="261050" user="muindre">
+  <node id="6445111389" lat="-1.2642180" lon="36.8600170" version="2" timestamp="2019-05-20T08:13:48Z" changeset="70430764" uid="15671" user="habi">
     <tag k="accessibility" v="small_cars,foot,big_vehicles"/>
     <tag k="amenity" v="school"/>
     <tag k="barrier" v="gate"/>
@@ -4498,7 +4533,7 @@
     <tag k="laboratory:equipment" v="yes"/>
     <tag k="leisure" v="playground"/>
     <tag k="name" v="Mathare Community Outreach Joy"/>
-    <tag k="operator:decription" v="Mr Daniel Ogutu"/>
+    <tag k="operator:description" v="Mr Daniel Ogutu"/>
     <tag k="operator:type" v="private"/>
     <tag k="room:kitchen" v="yes"/>
     <tag k="room:staff" v="yes"/>
@@ -4509,7 +4544,7 @@
     <tag k="toilets:teachers" v="1"/>
     <tag k="waste:garbage_disposal" v="always"/>
   </node>
-  <node id="6445111390" lat="-1.2564720" lon="36.8653810" version="1" timestamp="2019-05-03T11:10:45Z" changeset="69837951" uid="261050" user="muindre">
+  <node id="6445111390" lat="-1.2564720" lon="36.8653810" version="2" timestamp="2019-05-20T08:13:49Z" changeset="70430764" uid="15671" user="habi">
     <tag k="accessibility" v="small_cars,foot,big_vehicles"/>
     <tag k="amenity" v="school"/>
     <tag k="barrier" v="gate"/>
@@ -4547,7 +4582,7 @@
     <tag k="laboratory:equipment" v="yes"/>
     <tag k="leisure" v="playground"/>
     <tag k="name" v="Star of Hope Primary School"/>
-    <tag k="operator:decription" v="Jimmy Muraya"/>
+    <tag k="operator:description" v="Jimmy Muraya"/>
     <tag k="operator:type" v="private"/>
     <tag k="room:kitchen" v="yes"/>
     <tag k="room:staff" v="yes"/>
@@ -4557,7 +4592,7 @@
     <tag k="toilets:female" v="6"/>
     <tag k="waste:garbage_disposal" v="always"/>
   </node>
-  <node id="6445111391" lat="-1.2590506" lon="36.8684903" version="1" timestamp="2019-05-03T11:10:47Z" changeset="69837951" uid="261050" user="muindre">
+  <node id="6445111391" lat="-1.2590506" lon="36.8684903" version="2" timestamp="2019-05-20T08:13:49Z" changeset="70430764" uid="15671" user="habi">
     <tag k="accessibility" v="small_cars,foot,big_vehicles"/>
     <tag k="amenity" v="school"/>
     <tag k="barrier" v="gate"/>
@@ -4587,7 +4622,7 @@
     <tag k="electricity:operational_status" v="always"/>
     <tag k="government:registered" v="faith_based_organisation"/>
     <tag k="name" v="Amanda Marga Academy"/>
-    <tag k="operator:decription" v="fbo"/>
+    <tag k="operator:description" v="fbo"/>
     <tag k="operator:type" v="religious"/>
     <tag k="start_date" v="1995"/>
     <tag k="toilet:present" v="yes"/>
@@ -4708,7 +4743,7 @@
     <tag k="toilets:teachers" v="1"/>
     <tag k="waste:garbage_disposal" v="always"/>
   </node>
-  <node id="6445111397" lat="-1.2605680" lon="36.8663820" version="1" timestamp="2019-05-03T11:11:07Z" changeset="69837951" uid="261050" user="muindre">
+  <node id="6445111397" lat="-1.2605680" lon="36.8663820" version="2" timestamp="2019-05-20T08:13:50Z" changeset="70430764" uid="15671" user="habi">
     <tag k="accessibility" v="small_cars,foot"/>
     <tag k="amenity" v="school"/>
     <tag k="barrier" v="gate"/>
@@ -4733,7 +4768,7 @@
     <tag k="government:registered_1" v="APBET"/>
     <tag k="leisure" v="playground"/>
     <tag k="name" v="St Ruth Academy"/>
-    <tag k="operator:decription" v="church"/>
+    <tag k="operator:description" v="church"/>
     <tag k="operator:type" v="religious"/>
     <tag k="room:kitchen" v="yes"/>
     <tag k="room:staff" v="yes"/>
@@ -4744,13 +4779,14 @@
     <tag k="toilets:teachers" v="1"/>
     <tag k="waste:garbage_disposal" v="always"/>
   </node>
-  <node id="6445111398" lat="-1.2611967" lon="36.8649957" version="2" timestamp="2019-05-07T12:05:42Z" changeset="69973277" uid="261050" user="muindre">
+  <node id="6445111398" lat="-1.2611967" lon="36.8649957" version="5" timestamp="2019-08-23T11:58:14Z" changeset="73663129" uid="265690" user="fondolucy">
     <tag k="accessibility" v="small_cars,foot,big_vehicles"/>
     <tag k="amenity" v="school"/>
     <tag k="barrier" v="gate"/>
     <tag k="barrier:security_fence" v="yes"/>
     <tag k="building:classrooms" v="13"/>
     <tag k="building:material" v="permanent"/>
+    <tag k="contact" v="0701914873"/>
     <tag k="education:board_of_management" v="yes"/>
     <tag k="education:extra_agriculture_club" v="yes"/>
     <tag k="education:extra_drama" v="yes"/>
@@ -4780,7 +4816,7 @@
     <tag k="laboratory" v="computer"/>
     <tag k="leisure" v="playground"/>
     <tag k="name" v="Mathare Special Training Centre"/>
-    <tag k="operator:decription" v="parents/ ministry_of_educaton"/>
+    <tag k="operator:description" v="parents/ ministry_of_educaton"/>
     <tag k="room:kitchen" v="yes"/>
     <tag k="room:staff" v="yes"/>
     <tag k="start_date" v="1982"/>
@@ -4788,15 +4824,21 @@
     <tag k="toilets:female" v="4"/>
     <tag k="toilets:male" v="4"/>
     <tag k="toilets:teachers" v="2"/>
+    <tag k="type" v="primary"/>
     <tag k="waste:garbage_disposal" v="Often"/>
   </node>
-  <node id="6445111399" lat="-1.2594600" lon="36.8664900" version="1" timestamp="2019-05-03T11:11:13Z" changeset="69837951" uid="261050" user="muindre">
+  <node id="6445111399" lat="-1.2594600" lon="36.8664900" version="2" timestamp="2019-05-20T10:54:41Z" changeset="70435662" uid="265690" user="fondolucy">
     <tag k="amenity" v="school"/>
+    <tag k="contact" v="0700186288"/>
+    <tag k="education:type" v="primary"/>
     <tag k="name" v="Vision Shiners Academy"/>
+    <tag k="operator:type" v="private"/>
   </node>
-  <node id="6445111401" lat="-1.2539900" lon="36.8688240" version="2" timestamp="2019-05-09T12:21:24Z" changeset="70070700" uid="261050" user="muindre">
+  <node id="6445111401" lat="-1.2539900" lon="36.8688240" version="3" timestamp="2019-05-22T07:49:55Z" changeset="70504082" uid="265690" user="fondolucy">
     <tag k="amenity" v="school"/>
+    <tag k="education:type" v="primary"/>
     <tag k="name" v="Mission Of Hope Mathare North"/>
+    <tag k="operator:type" v="community"/>
   </node>
   <node id="6445111402" lat="-1.2604250" lon="36.8656950" version="1" timestamp="2019-05-03T11:11:24Z" changeset="69837951" uid="261050" user="muindre">
     <tag k="accessibility" v="small_cars,foot,big_vehicles"/>
@@ -4829,7 +4871,7 @@
     <tag k="toilets:teachers" v="2"/>
     <tag k="waste:garbage_disposal" v="often"/>
   </node>
-  <node id="6445111403" lat="-1.2517590" lon="36.8754220" version="1" timestamp="2019-05-03T11:11:39Z" changeset="69837951" uid="261050" user="muindre">
+  <node id="6445111403" lat="-1.2517590" lon="36.8754220" version="2" timestamp="2019-05-20T08:13:51Z" changeset="70430764" uid="15671" user="habi">
     <tag k="accessibility" v="small_cars,foot"/>
     <tag k="amenity" v="school"/>
     <tag k="barrier" v="gate"/>
@@ -4857,7 +4899,7 @@
     <tag k="education:type" v="primary"/>
     <tag k="electricity:operational_status" v="often"/>
     <tag k="name" v="Kasarani Victory Academy"/>
-    <tag k="operator:decription" v="private"/>
+    <tag k="operator:description" v="private"/>
     <tag k="operator:type" v="private"/>
     <tag k="room:kitchen" v="yes"/>
     <tag k="room:staff" v="yes"/>
@@ -4900,12 +4942,13 @@
     <tag k="toilets:teachers" v="1"/>
     <tag k="waste:garbage_disposal" v="always"/>
   </node>
-  <node id="6445111405" lat="-1.2586260" lon="36.8755980" version="1" timestamp="2019-05-03T11:11:46Z" changeset="69837951" uid="261050" user="muindre">
+  <node id="6445111405" lat="-1.2586260" lon="36.8755980" version="2" timestamp="2019-05-22T09:38:12Z" changeset="70507475" uid="265690" user="fondolucy">
     <tag k="accessibility" v="small_cars,foot,big_vehicles"/>
     <tag k="amenity" v="school"/>
     <tag k="barrier" v="gate"/>
     <tag k="barrier:security_fence" v="yes"/>
     <tag k="building:material" v="permanent"/>
+    <tag k="contact" v="0718597362"/>
     <tag k="education:exam_affiliate" v="Sunflower Academy"/>
     <tag k="education:exam_center" v="no"/>
     <tag k="education:extra_drama" v="yes"/>
@@ -4943,7 +4986,7 @@
     <tag k="toilets:male" v="1"/>
     <tag k="waste:garbage_disposal" v="Always"/>
   </node>
-  <node id="6445111406" lat="-1.2580970" lon="36.8765260" version="1" timestamp="2019-05-03T11:11:48Z" changeset="69837951" uid="261050" user="muindre">
+  <node id="6445111406" lat="-1.2580970" lon="36.8765260" version="2" timestamp="2019-05-20T08:13:51Z" changeset="70430764" uid="15671" user="habi">
     <tag k="accessibility" v="small_cars,foot,big_vehicles"/>
     <tag k="amenity" v="school"/>
     <tag k="barrier" v="gate"/>
@@ -4979,7 +5022,7 @@
     <tag k="laboratory" v="computer"/>
     <tag k="leisure" v="playground"/>
     <tag k="name" v="Edden Anex Preparatory School"/>
-    <tag k="operator:decription" v="Individual"/>
+    <tag k="operator:description" v="Individual"/>
     <tag k="operator:type" v="private"/>
     <tag k="room:kitchen" v="yes"/>
     <tag k="room:staff" v="yes"/>
@@ -5032,7 +5075,7 @@
     <tag k="toilets:male" v="1"/>
     <tag k="waste:garbage_disposal" v="always"/>
   </node>
-  <node id="6445111408" lat="-1.2519460" lon="36.8738130" version="1" timestamp="2019-05-03T11:12:05Z" changeset="69837951" uid="261050" user="muindre">
+  <node id="6445111408" lat="-1.2519460" lon="36.8738130" version="2" timestamp="2019-05-20T08:13:52Z" changeset="70430764" uid="15671" user="habi">
     <tag k="accessibility" v="small_cars,foot,big_vehicles"/>
     <tag k="amenity" v="school"/>
     <tag k="barrier" v="gate"/>
@@ -5062,7 +5105,7 @@
     <tag k="laboratory:equipment" v="yes"/>
     <tag k="leisure" v="playground"/>
     <tag k="name" v="Star Of Hope Secondary School"/>
-    <tag k="operator:decription" v="Jimmy Muraya (owner)"/>
+    <tag k="operator:description" v="Jimmy Muraya (owner)"/>
     <tag k="operator:type" v="private"/>
     <tag k="room:kitchen" v="yes"/>
     <tag k="room:staff" v="yes"/>
@@ -5073,7 +5116,7 @@
     <tag k="toilets:teachers" v="5"/>
     <tag k="waste:garbage_disposal" v="always"/>
   </node>
-  <node id="6445111409" lat="-1.2512170" lon="36.8750610" version="1" timestamp="2019-05-03T11:12:10Z" changeset="69837951" uid="261050" user="muindre">
+  <node id="6445111409" lat="-1.2512170" lon="36.8750610" version="2" timestamp="2019-05-20T08:13:52Z" changeset="70430764" uid="15671" user="habi">
     <tag k="accessibility" v="small_cars,foot,big_vehicles"/>
     <tag k="amenity" v="school"/>
     <tag k="barrier" v="gate"/>
@@ -5104,7 +5147,7 @@
     <tag k="electricity:operational_status" v="often"/>
     <tag k="government:registered" v="APBET"/>
     <tag k="name" v="Miracle Junoir"/>
-    <tag k="operator:decription" v="private"/>
+    <tag k="operator:description" v="private"/>
     <tag k="operator:type" v="private"/>
     <tag k="start_date" v="2007"/>
     <tag k="toilet:present" v="yes"/>
@@ -5113,7 +5156,7 @@
     <tag k="toilets:teachers" v="1"/>
     <tag k="waste:garbage_disposal" v="Always"/>
   </node>
-  <node id="6445111410" lat="-1.2536890" lon="36.8773200" version="1" timestamp="2019-05-03T11:12:11Z" changeset="69837951" uid="261050" user="muindre">
+  <node id="6445111410" lat="-1.2536890" lon="36.8773200" version="2" timestamp="2019-05-20T08:13:53Z" changeset="70430764" uid="15671" user="habi">
     <tag k="accessibility" v="small_cars,foot,big_vehicles"/>
     <tag k="amenity" v="school"/>
     <tag k="barrier" v="gate"/>
@@ -5146,7 +5189,7 @@
     <tag k="government:registered" v="moe"/>
     <tag k="leisure" v="playground"/>
     <tag k="name" v="Valleybridge Primary School"/>
-    <tag k="operator:decription" v="Government Of Kenya"/>
+    <tag k="operator:description" v="Government Of Kenya"/>
     <tag k="operator:type" v="government"/>
     <tag k="room:kitchen" v="yes"/>
     <tag k="room:staff" v="yes"/>
@@ -5162,7 +5205,7 @@
     <tag k="education:type" v="secondary"/>
     <tag k="name" v="Braniac High School"/>
   </node>
-  <node id="6445111412" lat="-1.2619490" lon="36.8496140" version="1" timestamp="2019-05-03T11:12:27Z" changeset="69837951" uid="261050" user="muindre">
+  <node id="6445111412" lat="-1.2619490" lon="36.8496140" version="2" timestamp="2019-05-20T08:13:54Z" changeset="70430764" uid="15671" user="habi">
     <tag k="accessibility" v="small_cars,foot,big_vehicles"/>
     <tag k="amenity" v="school"/>
     <tag k="barrier" v="gate"/>
@@ -5197,7 +5240,7 @@
     <tag k="electricity:operational_status" v="always"/>
     <tag k="government:registered" v="moe"/>
     <tag k="name" v="Mathare Old Primary School"/>
-    <tag k="operator:decription" v="public school"/>
+    <tag k="operator:description" v="public school"/>
     <tag k="operator:type" v="government"/>
     <tag k="playground" v="yes"/>
     <tag k="room:kitchen" v="yes"/>
@@ -5210,11 +5253,13 @@
     <tag k="toilets:male" v="14"/>
     <tag k="waste:garbage_disposal" v="never"/>
   </node>
-  <node id="6445111413" lat="-1.2646040" lon="36.8503760" version="1" timestamp="2019-05-03T11:12:28Z" changeset="69837951" uid="261050" user="muindre">
+  <node id="6445111413" lat="-1.2646040" lon="36.8503760" version="4" timestamp="2019-05-23T13:36:46Z" changeset="70552670" uid="1468248" user="TheBlackMan">
     <tag k="amenity" v="school"/>
+    <tag k="isced:level" v="1"/>
     <tag k="name" v="Hope Nigeria"/>
+    <tag k="operator:type" v="public"/>
   </node>
-  <node id="6445111414" lat="-1.2636420" lon="36.8463240" version="1" timestamp="2019-05-03T11:12:29Z" changeset="69837951" uid="261050" user="muindre">
+  <node id="6445111414" lat="-1.2636420" lon="36.8463240" version="2" timestamp="2019-05-20T08:13:54Z" changeset="70430764" uid="15671" user="habi">
     <tag k="accessibility" v="small_cars,foot,big_vehicles"/>
     <tag k="amenity" v="school"/>
     <tag k="barrier" v="gate"/>
@@ -5254,7 +5299,7 @@
     <tag k="laboratory:equipment" v="yes"/>
     <tag k="leisure" v="playground"/>
     <tag k="name" v="St. Teresas Girls Secondary School"/>
-    <tag k="operator:decription" v="PUBLIC SCHOOL-but loreto sisters sponsors"/>
+    <tag k="operator:description" v="PUBLIC SCHOOL-but loreto sisters sponsors"/>
     <tag k="operator:type" v="government"/>
     <tag k="room:kitchen" v="yes"/>
     <tag k="room:staff" v="yes"/>
@@ -5306,7 +5351,7 @@
     <tag k="toilets:teachers" v="1"/>
     <tag k="waste:garbage_disposal" v="often"/>
   </node>
-  <node id="6445111417" lat="-1.2649060" lon="36.8457240" version="1" timestamp="2019-05-03T11:12:36Z" changeset="69837951" uid="261050" user="muindre">
+  <node id="6445111417" lat="-1.2649060" lon="36.8457240" version="2" timestamp="2019-05-20T08:13:55Z" changeset="70430764" uid="15671" user="habi">
     <tag k="accessibility" v="small_cars,foot,big_vehicles"/>
     <tag k="amenity" v="school"/>
     <tag k="barrier" v="gate"/>
@@ -5335,7 +5380,7 @@
     <tag k="electricity:operational_status" v="sometimes"/>
     <tag k="government:registered" v="mgcsd"/>
     <tag k="name" v="Blessed Junior Academy"/>
-    <tag k="operator:decription" v="Annette Moraa Ongera"/>
+    <tag k="operator:description" v="Annette Moraa Ongera"/>
     <tag k="operator:type" v="cbo"/>
     <tag k="room:kitchen" v="yes"/>
     <tag k="start_date" v="2017"/>
@@ -5394,7 +5439,7 @@
     <tag k="toilets:teachers" v="1"/>
     <tag k="waste:garbage_disposal" v="sometimes"/>
   </node>
-  <node id="6445111420" lat="-1.2645120" lon="36.8495390" version="1" timestamp="2019-05-03T11:12:40Z" changeset="69837951" uid="261050" user="muindre">
+  <node id="6445111420" lat="-1.2645120" lon="36.8495390" version="2" timestamp="2019-05-20T08:13:56Z" changeset="70430764" uid="15671" user="habi">
     <tag k="accessibility" v="small_cars,foot,big_vehicles"/>
     <tag k="amenity" v="school"/>
     <tag k="barrier" v="gate"/>
@@ -5425,7 +5470,7 @@
     <tag k="government:registered" v="attorney_general"/>
     <tag k="leisure" v="playground"/>
     <tag k="name" v="Mum's Care Academy"/>
-    <tag k="operator:decription" v="Redeemed gospel church"/>
+    <tag k="operator:description" v="Redeemed gospel church"/>
     <tag k="operator:type" v="religious"/>
     <tag k="room:kitchen" v="yes"/>
     <tag k="room:staff" v="yes"/>
@@ -5440,7 +5485,7 @@
     <tag k="amenity" v="school"/>
     <tag k="name" v="JOY COMMUNITY SCHOOL"/>
   </node>
-  <node id="6445111422" lat="-1.2650440" lon="36.8447460" version="1" timestamp="2019-05-03T11:12:44Z" changeset="69837951" uid="261050" user="muindre">
+  <node id="6445111422" lat="-1.2650440" lon="36.8447460" version="2" timestamp="2019-05-20T08:13:56Z" changeset="70430764" uid="15671" user="habi">
     <tag k="accessibility" v="small_cars,foot,big_vehicles"/>
     <tag k="amenity" v="school"/>
     <tag k="building:classrooms" v="10"/>
@@ -5472,7 +5517,7 @@
     <tag k="government:registered" v="moe"/>
     <tag k="leisure" v="playground"/>
     <tag k="name" v="Star Education Center"/>
-    <tag k="operator:decription" v="private"/>
+    <tag k="operator:description" v="private"/>
     <tag k="room:staff" v="yes"/>
     <tag k="start_date" v="2005"/>
     <tag k="toilet:present" v="yes"/>
@@ -5513,9 +5558,12 @@
     <tag k="toilets:teachers" v="1"/>
     <tag k="waste:garbage_disposal" v="sometimes"/>
   </node>
-  <node id="6445111424" lat="-1.2639560" lon="36.8451920" version="1" timestamp="2019-05-03T11:12:49Z" changeset="69837951" uid="261050" user="muindre">
+  <node id="6445111424" lat="-1.2639560" lon="36.8451920" version="3" timestamp="2019-05-21T11:59:27Z" changeset="70475614" uid="265690" user="fondolucy">
     <tag k="amenity" v="school"/>
-    <tag k="name" v="MECDC"/>
+    <tag k="contact" v="0729643795"/>
+    <tag k="education:type" v="primary"/>
+    <tag k="name" v="MECDO"/>
+    <tag k="operator:type" v="community"/>
   </node>
   <node id="6445129686" lat="-1.2591240" lon="36.8685270" version="1" timestamp="2019-05-03T11:10:41Z" changeset="69837951" uid="261050" user="muindre">
     <tag k="amenity" v="school"/>
@@ -5560,11 +5608,12 @@
     <tag k="toilets:teachers" v="1"/>
     <tag k="waste:garbage_disposal" v="always"/>
   </node>
-  <node id="6445129688" lat="-1.2615530" lon="36.8657240" version="1" timestamp="2019-05-03T11:11:14Z" changeset="69837951" uid="261050" user="muindre">
+  <node id="6445129688" lat="-1.2615530" lon="36.8657240" version="2" timestamp="2019-08-23T09:54:27Z" changeset="73657227" uid="4570042" user="Peter Agenga">
     <tag k="amenity" v="school"/>
+    <tag k="education:type" v="primary"/>
     <tag k="name" v="Bishop Gitonga Academy"/>
   </node>
-  <node id="6445129690" lat="-1.2661770" lon="36.8461750" version="1" timestamp="2019-05-03T11:12:41Z" changeset="69837951" uid="261050" user="muindre">
+  <node id="6445129690" lat="-1.2661770" lon="36.8461750" version="2" timestamp="2019-05-20T08:13:57Z" changeset="70430764" uid="15671" user="habi">
     <tag k="accessibility" v="small_cars,foot"/>
     <tag k="amenity" v="school"/>
     <tag k="barrier" v="gate"/>
@@ -5587,7 +5636,7 @@
     <tag k="electricity:operational_status" v="never"/>
     <tag k="government:registered" v="APBET"/>
     <tag k="name" v="Destiny Community School"/>
-    <tag k="operator:decription" v="Joel juma"/>
+    <tag k="operator:description" v="Joel juma"/>
     <tag k="operator:type" v="cbo"/>
     <tag k="room:kitchen" v="yes"/>
     <tag k="room:staff" v="yes"/>
@@ -5688,7 +5737,7 @@
     <tag k="toilets:teachers" v="1"/>
     <tag k="waste:garbage_disposal" v="always"/>
   </node>
-  <node id="6445132389" lat="-1.2611870" lon="36.8757010" version="1" timestamp="2019-05-03T11:12:07Z" changeset="69837951" uid="261050" user="muindre">
+  <node id="6445132389" lat="-1.2611870" lon="36.8757010" version="2" timestamp="2019-05-20T08:13:57Z" changeset="70430764" uid="15671" user="habi">
     <tag k="accessibility" v="small_cars,foot,big_vehicles"/>
     <tag k="amenity" v="school"/>
     <tag k="barrier" v="gate"/>
@@ -5721,7 +5770,7 @@
     <tag k="laboratory:equipment" v="yes"/>
     <tag k="leisure" v="playground"/>
     <tag k="name" v="Ndururuno Secondary School"/>
-    <tag k="operator:decription" v="Government Of Kenya"/>
+    <tag k="operator:description" v="Government Of Kenya"/>
     <tag k="operator:type" v="government"/>
     <tag k="room:kitchen" v="yes"/>
     <tag k="room:staff" v="yes"/>
@@ -5732,7 +5781,7 @@
     <tag k="toilets:teachers" v="1"/>
     <tag k="waste:garbage_disposal" v="sometimes"/>
   </node>
-  <node id="6445132390" lat="-1.2609390" lon="36.8766720" version="1" timestamp="2019-05-03T11:12:08Z" changeset="69837951" uid="261050" user="muindre">
+  <node id="6445132390" lat="-1.2609390" lon="36.8766720" version="2" timestamp="2019-05-20T08:13:58Z" changeset="70430764" uid="15671" user="habi">
     <tag k="accessibility" v="small_cars,foot,big_vehicles"/>
     <tag k="amenity" v="school"/>
     <tag k="barrier" v="gate"/>
@@ -5762,7 +5811,7 @@
     <tag k="laboratory" v="computer"/>
     <tag k="leisure" v="playground"/>
     <tag k="name" v="Ndururuno Primary School"/>
-    <tag k="operator:decription" v="Government Of Kenya"/>
+    <tag k="operator:description" v="Government Of Kenya"/>
     <tag k="operator:type" v="government"/>
     <tag k="room:kitchen" v="yes"/>
     <tag k="room:staff" v="yes"/>
@@ -5773,7 +5822,7 @@
     <tag k="toilets:teachers" v="1"/>
     <tag k="waste:garbage_disposal" v="often"/>
   </node>
-  <node id="6445132391" lat="-1.2591333" lon="36.8707282" version="1" timestamp="2019-05-03T11:12:18Z" changeset="69837951" uid="261050" user="muindre">
+  <node id="6445132391" lat="-1.2591333" lon="36.8707282" version="3" timestamp="2019-05-23T13:49:39Z" changeset="70553162" uid="1468248" user="TheBlackMan">
     <tag k="accessibility" v="foot"/>
     <tag k="amenity" v="school"/>
     <tag k="barrier" v="gate"/>
@@ -5792,17 +5841,17 @@
     <tag k="education:program_feeding_description" v="fees"/>
     <tag k="education:students" v="528"/>
     <tag k="education:teachers_female" v="2"/>
-    <tag k="education:type" v="primary"/>
     <tag k="electricity:operational_status" v="always"/>
     <tag k="government:registered" v="mgcsd"/>
+    <tag k="isced:level" v="1"/>
     <tag k="leisure" v="playground"/>
-    <tag k="name" v="Emmanuel Education Center"/>
-    <tag k="operator:type" v="cbo"/>
+    <tag k="name" v="Emmanuel Middle School"/>
+    <tag k="operator:type" v="private"/>
     <tag k="registration_date" v="2016"/>
     <tag k="room:kitchen" v="yes"/>
     <tag k="room:staff" v="yes"/>
     <tag k="start_date" v="2012"/>
-    <tag k="toilet:present" v="yes"/>
+    <tag k="toilets" v="yes"/>
     <tag k="toilets:female" v="1"/>
     <tag k="toilets:male" v="1"/>
     <tag k="toilets:teachers" v="1"/>
@@ -5932,9 +5981,12 @@
     <tag k="toilets:teachers" v="2"/>
     <tag k="waste:garbage_disposal" v="Always"/>
   </node>
-  <node id="6445134385" lat="-1.2591640" lon="36.8694990" version="1" timestamp="2019-05-03T11:11:59Z" changeset="69837951" uid="261050" user="muindre">
+  <node id="6445134385" lat="-1.2591640" lon="36.8694990" version="2" timestamp="2019-05-20T11:19:46Z" changeset="70436576" uid="265690" user="fondolucy">
     <tag k="amenity" v="school"/>
-    <tag k="name" v="St Ann Preparatory"/>
+    <tag k="contact" v="0723256123"/>
+    <tag k="education:type" v="primary"/>
+    <tag k="name" v="St Ann Day Care"/>
+    <tag k="operator:type" v="community"/>
   </node>
   <node id="6445137886" lat="-1.2630880" lon="36.8532380" version="1" timestamp="2019-05-03T11:12:50Z" changeset="69837951" uid="261050" user="muindre">
     <tag k="amenity" v="school"/>
@@ -5945,7 +5997,7 @@
     <tag k="education:type" v="pre_primary"/>
     <tag k="name" v="Amaizing Day Care"/>
   </node>
-  <node id="6445138085" lat="-1.2658300" lon="36.8439790" version="1" timestamp="2019-05-03T11:12:51Z" changeset="69837951" uid="261050" user="muindre">
+  <node id="6445138085" lat="-1.2658300" lon="36.8439790" version="2" timestamp="2019-05-20T08:13:58Z" changeset="70430764" uid="15671" user="habi">
     <tag k="accessibility" v="small_cars,foot"/>
     <tag k="amenity" v="school"/>
     <tag k="barrier" v="gate"/>
@@ -5969,7 +6021,7 @@
     <tag k="electricity:operational_status" v="never"/>
     <tag k="government:registered" v="city_council"/>
     <tag k="name" v="Community Care School"/>
-    <tag k="operator:decription" v="Church Of The Nazarene"/>
+    <tag k="operator:description" v="Church Of The Nazarene"/>
     <tag k="operator:type" v="religious"/>
     <tag k="playground" v="yes"/>
     <tag k="room:kitchen" v="yes"/>
@@ -5980,6 +6032,10 @@
     <tag k="toilets:male" v="1"/>
     <tag k="toilets:teachers" v="1"/>
     <tag k="waste:garbage_disposal" v="always"/>
+  </node>
+  <node id="6583228985" lat="-1.2639899" lon="36.8719796" version="1" timestamp="2019-07-02T05:08:50Z" changeset="71807148" uid="5448420" user="KEYSTO ONCHARI">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="Moi Forces Academy"/>
   </node>
 
 </osm>

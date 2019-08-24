@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.55.7 8b86ff77">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2019-05-13T17:57:02Z"/>
+<meta osm_base="2019-08-24T00:58:02Z"/>
 
   <bounds minlat="-1.3211000" minlon="36.7651000" maxlat="-1.3009000" maxlon="36.8178000"/>
 
@@ -13144,42 +13144,52 @@
     <tag k="place:village" v="Lindi"/>
     <tag k="toilet:present" v="yes"/>
   </node>
-  <node id="5400815312" lat="-1.3123243" lon="36.7794069" version="1" timestamp="2018-02-09T09:14:46Z" changeset="56210645" uid="261050" user="muindre">
-    <tag k="accessibility" v="big_vehicles"/>
+  <node id="5400815312" lat="-1.3123243" lon="36.7794069" version="3" timestamp="2019-07-07T15:29:15Z" changeset="71985082" uid="616774" user="mueschel">
+    <tag k="accessibility" v="big_vehicles,small_vehicles_and_foot"/>
     <tag k="amenity" v="school"/>
     <tag k="building:levels" v="0"/>
     <tag k="building:material" v="cement_block"/>
     <tag k="building:roof" v="asbestos"/>
     <tag k="contact:address" v="P 0 Box 22291-00100, Nairobi"/>
-    <tag k="contact:email" v="impoverishedchildren.org/ winnieanjela@gmail.com"/>
+    <tag k="contact:email" v="shineacademy@gmail.com"/>
     <tag k="contact:phone" v="0701653331"/>
-    <tag k="education:curriculum" v="8_4_4"/>
+    <tag k="education:curriculum" v="2_6_3_3_3,8_4_4"/>
+    <tag k="education:extra_drama" v="yes"/>
     <tag k="education:extra_music" v="yes"/>
     <tag k="education:extra_scouts" v="yes"/>
     <tag k="education:extra_sports" v="yes"/>
-    <tag k="education:fees_optional" v="300 for food"/>
     <tag k="education:fees_sponsored" v="yes"/>
     <tag k="education:gender_type" v="mixed"/>
-    <tag k="education:government_registered" v="mgcsd"/>
+    <tag k="education:government_registered" v="moe"/>
     <tag k="education:management_committee" v="yes"/>
+    <tag k="education:nemis_code" v="yes"/>
     <tag k="education:program_counselling" v="yes"/>
     <tag k="education:program_sanitary_towel" v="yes"/>
-    <tag k="education:program_special_needs" v="yes"/>
+    <tag k="education:program_special_needs" v="no"/>
     <tag k="education:pta" v="yes"/>
     <tag k="education:school_head" v="Winnie Anjela"/>
-    <tag k="education:students" v="107"/>
-    <tag k="education:students_female" v="48"/>
-    <tag k="education:students_male" v="59"/>
-    <tag k="education:teachers" v="9"/>
+    <tag k="education:students" v="100"/>
+    <tag k="education:students_female" v="59"/>
+    <tag k="education:students_male" v="41"/>
+    <tag k="education:teachers" v="10"/>
     <tag k="education:teachers_female" v="7"/>
-    <tag k="education:teachers_trained" v="2"/>
+    <tag k="education:teachers_male" v="3"/>
+    <tag k="education:teachers_trained" v="10"/>
     <tag k="education:type" v="primary"/>
     <tag k="electricity:operational_status" v="always"/>
+    <tag k="image:classroom" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1562054804405.jpg"/>
+    <tag k="image:compound" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1562054823019.jpg"/>
+    <tag k="image:sign_post" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1562054744589.jpg"/>
     <tag k="name" v="Shine Academy"/>
-    <tag k="operator:name" v="Impiverished Children"/>
-    <tag k="operator:type" v="cbo"/>
+    <tag k="operator:name" v="Shine Academy"/>
+    <tag k="operator:type" v="private"/>
     <tag k="place:village" v="Olympic"/>
+    <tag k="toilet:female" v="3"/>
+    <tag k="toilet:handwashing" v="yes"/>
+    <tag k="toilet:male" v="2"/>
     <tag k="toilet:present" v="yes"/>
+    <tag k="toilet:teachers" v="1"/>
+    <tag k="water:source" v="water_tank"/>
   </node>
   <node id="5400815313" lat="-1.3123096" lon="36.7794129" version="1" timestamp="2018-02-09T09:14:47Z" changeset="56210645" uid="261050" user="muindre">
     <tag k="accessibility" v="big_vehicles"/>
@@ -13217,6 +13227,64 @@
     <tag k="operator:type" v="cbo"/>
     <tag k="place:village" v="Olympic"/>
     <tag k="toilet:present" v="yes"/>
+  </node>
+  <node id="6586061435" lat="-1.3145344" lon="36.7787335" version="3" timestamp="2019-08-20T19:49:43Z" changeset="73554412" uid="616774" user="mueschel">
+    <tag k="accessibility" v="Big vehicles"/>
+    <tag k="amenity" v="school"/>
+    <tag k="building:classrooms" v="3"/>
+    <tag k="building:levels" v="1"/>
+    <tag k="building:material" v="Concrete"/>
+    <tag k="building:roof" v="Asbetos"/>
+    <tag k="contact:address" v="P O Box 44260-00100, Nairobi"/>
+    <tag k="contact:email" v="seed@thesun-flower.org"/>
+    <tag k="contact:phone" v="0725060516"/>
+    <tag k="education:bom_employed" v="No"/>
+    <tag k="education:curriculum" v="2-6-3-3-3"/>
+    <tag k="education:extra_drama" v="no"/>
+    <tag k="education:extra_music" v="School fees"/>
+    <tag k="education:extra_scouts" v="No"/>
+    <tag k="education:extra_sports" v="Yes"/>
+    <tag k="education:fees" v="Yes"/>
+    <tag k="education:fees_admission" v="300"/>
+    <tag k="education:fees_exam" v="0"/>
+    <tag k="education:fees_level1" v="13500"/>
+    <tag k="education:fees_lunch" v="0"/>
+    <tag k="education:fees_per_year" v="13500"/>
+    <tag k="education:fees_trip" v="0"/>
+    <tag k="education:gender_type" v="Mixed"/>
+    <tag k="education:government_grants" v="No"/>
+    <tag k="education:government_registered" v="Ministry of education"/>
+    <tag k="education:management_committee" v="Yes"/>
+    <tag k="education:nemis_code" v="No"/>
+    <tag k="education:operate_as" v="Day school"/>
+    <tag k="education:program_counselling" v="Yes"/>
+    <tag k="education:program_feeding" v="Yes"/>
+    <tag k="education:program_orphans" v="Yes"/>
+    <tag k="education:program_sanitary_towel" v="No"/>
+    <tag k="education:program_special_needs" v="Yes"/>
+    <tag k="education:pta" v="No"/>
+    <tag k="education:school_head" v="Rukia Sebit"/>
+    <tag k="education:students" v="40"/>
+    <tag k="education:students_female" v="15"/>
+    <tag k="education:students_male" v="25"/>
+    <tag k="education:teachers" v="3"/>
+    <tag k="education:teachers_female" v="3"/>
+    <tag k="education:teachers_male" v="0"/>
+    <tag k="education:teachers_trained" v="3"/>
+    <tag k="education:type" v="Pre-Primary"/>
+    <tag k="electricity:operational_status" v="Sometimes"/>
+    <tag k="image:classroom" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1562066741045.jpg"/>
+    <tag k="image:compound" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1562067000259.jpg"/>
+    <tag k="image:sign_post" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1562066987056.jpg"/>
+    <tag k="name" v="Sunflower Early Education Development"/>
+    <tag k="operator:description" v="County Government of Nairobi"/>
+    <tag k="operator:type" v="NGO"/>
+    <tag k="toilet:present" v="Yes"/>
+    <tag k="toilets:female" v="1"/>
+    <tag k="toilets:handwashing" v="Yes"/>
+    <tag k="toilets:male" v="1"/>
+    <tag k="toilets:teachers" v="1"/>
+    <tag k="water:source" v="water_tank"/>
   </node>
 
 </osm>

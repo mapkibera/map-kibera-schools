@@ -21831,45 +21831,57 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2018-02-09", 
-        "osm:_user": "muindre", 
-        "osm:accessibility": "big_vehicles", 
+        "osm:_timestamp": "2019-07-07", 
+        "osm:_user": "mueschel", 
+        "osm:accessibility": "big_vehicles,small_vehicles_and_foot", 
         "osm:amenity": "school", 
         "osm:building:levels": "0", 
         "osm:building:material": "cement_block", 
         "osm:building:roof": "asbestos", 
         "osm:contact:address": "P 0 Box 22291-00100, Nairobi", 
-        "osm:contact:email": "impoverishedchildren.org/ winnieanjela@gmail.com", 
+        "osm:contact:email": "shineacademy@gmail.com", 
         "osm:contact:phone": "0701653331", 
-        "osm:education:curriculum": "8_4_4", 
+        "osm:education:curriculum": "2_6_3_3_3,8_4_4", 
+        "osm:education:extra_drama": "yes", 
         "osm:education:extra_music": "yes", 
         "osm:education:extra_scouts": "yes", 
         "osm:education:extra_sports": "yes", 
-        "osm:education:fees_optional": "300 for food", 
         "osm:education:fees_sponsored": "yes", 
         "osm:education:gender_type": "mixed", 
-        "osm:education:government_registered": "mgcsd", 
+        "osm:education:government_registered": "moe", 
         "osm:education:management_committee": "yes", 
+        "osm:education:nemis_code": "yes", 
         "osm:education:program_counselling": "yes", 
         "osm:education:program_sanitary_towel": "yes", 
-        "osm:education:program_special_needs": "yes", 
+        "osm:education:program_special_needs": "no", 
         "osm:education:pta": "yes", 
         "osm:education:school_head": "Winnie Anjela", 
-        "osm:education:students": "107", 
-        "osm:education:students_female": "48", 
-        "osm:education:students_male": "59", 
-        "osm:education:teachers": "9", 
+        "osm:education:students": "100", 
+        "osm:education:students_female": "59", 
+        "osm:education:students_male": "41", 
+        "osm:education:teachers": "10", 
         "osm:education:teachers_female": "7", 
-        "osm:education:teachers_trained": "2", 
+        "osm:education:teachers_male": "3", 
+        "osm:education:teachers_trained": "10", 
         "osm:education:type": "primary", 
         "osm:electricity:operational_status": "always", 
         "osm:id": "node/5400815312", 
+        "osm:image:classroom": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1562054804405.jpg", 
+        "osm:image:compound": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1562054823019.jpg", 
+        "osm:image:sign_post": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1562054744589.jpg", 
+        "osm:images": "/data/images/cache/node/5400815312/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1562054804405jpg/med.jpg,/data/images/cache/node/5400815312/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1562054823019jpg/med.jpg", 
+        "osm:large_images": "/data/images/cache/node/5400815312/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1562054804405jpg/large.jpg,/data/images/cache/node/5400815312/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1562054823019jpg/large.jpg", 
         "osm:location": "kibera", 
         "osm:name": "Shine Academy", 
-        "osm:operator:name": "Impiverished Children", 
-        "osm:operator:type": "cbo", 
+        "osm:operator:name": "Shine Academy", 
+        "osm:operator:type": "private", 
         "osm:place:village": "Olympic", 
-        "osm:toilet:present": "yes"
+        "osm:toilet:female": "3", 
+        "osm:toilet:handwashing": "yes", 
+        "osm:toilet:male": "2", 
+        "osm:toilet:present": "yes", 
+        "osm:toilet:teachers": "1", 
+        "osm:water:source": "water_tank"
       }, 
       "type": "Feature"
     }, 
@@ -21923,6 +21935,82 @@
         "osm:operator:type": "cbo", 
         "osm:place:village": "Olympic", 
         "osm:toilet:present": "yes"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            36.7787335, 
+            -1.3145344
+          ]
+        ], 
+        "type": "MultiPoint"
+      }, 
+      "properties": {
+        "osm:_timestamp": "2019-08-20", 
+        "osm:_user": "mueschel", 
+        "osm:accessibility": "Big vehicles", 
+        "osm:amenity": "school", 
+        "osm:building:classrooms": "3", 
+        "osm:building:levels": "1", 
+        "osm:building:material": "Concrete", 
+        "osm:building:roof": "Asbetos", 
+        "osm:contact:address": "P O Box 44260-00100, Nairobi", 
+        "osm:contact:email": "seed@thesun-flower.org", 
+        "osm:contact:phone": "0725060516", 
+        "osm:education:bom_employed": "No", 
+        "osm:education:curriculum": "2-6-3-3-3", 
+        "osm:education:extra_drama": "no", 
+        "osm:education:extra_music": "School fees", 
+        "osm:education:extra_scouts": "No", 
+        "osm:education:extra_sports": "Yes", 
+        "osm:education:fees": "Yes", 
+        "osm:education:fees_admission": "300", 
+        "osm:education:fees_exam": "0", 
+        "osm:education:fees_level1": "13500", 
+        "osm:education:fees_lunch": "0", 
+        "osm:education:fees_per_year": "13500", 
+        "osm:education:fees_trip": "0", 
+        "osm:education:gender_type": "Mixed", 
+        "osm:education:government_grants": "No", 
+        "osm:education:government_registered": "Ministry of education", 
+        "osm:education:management_committee": "Yes", 
+        "osm:education:nemis_code": "No", 
+        "osm:education:operate_as": "Day school", 
+        "osm:education:program_counselling": "Yes", 
+        "osm:education:program_feeding": "Yes", 
+        "osm:education:program_orphans": "Yes", 
+        "osm:education:program_sanitary_towel": "No", 
+        "osm:education:program_special_needs": "Yes", 
+        "osm:education:pta": "No", 
+        "osm:education:school_head": "Rukia Sebit", 
+        "osm:education:students": "40", 
+        "osm:education:students_female": "15", 
+        "osm:education:students_male": "25", 
+        "osm:education:teachers": "3", 
+        "osm:education:teachers_female": "3", 
+        "osm:education:teachers_male": "0", 
+        "osm:education:teachers_trained": "3", 
+        "osm:education:type": "Pre-Primary", 
+        "osm:electricity:operational_status": "Sometimes", 
+        "osm:id": "node/6586061435", 
+        "osm:image:classroom": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1562066741045.jpg", 
+        "osm:image:compound": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1562067000259.jpg", 
+        "osm:image:sign_post": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1562066987056.jpg", 
+        "osm:images": "/data/images/cache/node/6586061435/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1562066741045jpg/med.jpg,/data/images/cache/node/6586061435/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1562067000259jpg/med.jpg", 
+        "osm:large_images": "/data/images/cache/node/6586061435/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1562066741045jpg/large.jpg,/data/images/cache/node/6586061435/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1562067000259jpg/large.jpg", 
+        "osm:location": "kibera", 
+        "osm:name": "Sunflower Early Education Development", 
+        "osm:operator:description": "County Government of Nairobi", 
+        "osm:operator:type": "NGO", 
+        "osm:toilet:present": "Yes", 
+        "osm:toilets:female": "1", 
+        "osm:toilets:handwashing": "Yes", 
+        "osm:toilets:male": "1", 
+        "osm:toilets:teachers": "1", 
+        "osm:water:source": "water_tank"
       }, 
       "type": "Feature"
     }, 
@@ -22009,12 +22097,14 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2011-01-18", 
-        "osm:_user": "PrimusK", 
+        "osm:_timestamp": "2019-05-20", 
+        "osm:_user": "fondolucy", 
         "osm:amenity": "school", 
+        "osm:education:type": "pre_primary", 
         "osm:id": "node/1038064496", 
         "osm:location": "mathare", 
-        "osm:name": "Undugu Mercy care"
+        "osm:name": "Undugu Mercy Care", 
+        "osm:operator:type": "community"
       }, 
       "type": "Feature"
     }, 
@@ -22075,14 +22165,14 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2017-10-12", 
-        "osm:_user": "muindre", 
+        "osm:_timestamp": "2019-05-22", 
+        "osm:_user": "fondolucy", 
         "osm:accessibility": "small_cars", 
         "osm:amenity": "school", 
         "osm:building:levels": "0", 
         "osm:building:material": "ironsheets", 
         "osm:building:roof": "ironsheets", 
-        "osm:contact:phone": "0717968466", 
+        "osm:contact": "0717968462", 
         "osm:education:exam_affiliate": "muslim primary", 
         "osm:education:extra_drama": "yes", 
         "osm:education:extra_music": "yes", 
@@ -22115,9 +22205,9 @@
         "osm:electricity:operational_status": "never", 
         "osm:id": "node/1038103776", 
         "osm:location": "mathare", 
-        "osm:name": "Bridge International School", 
+        "osm:name": "Bridge International Academy", 
         "osm:operator:name": "Bridge International Academy", 
-        "osm:operator:type": "ngo", 
+        "osm:operator:type": "private", 
         "osm:place:village": "Gumba", 
         "osm:toilet:present": "yes"
       }, 
@@ -22335,12 +22425,14 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2017-10-12", 
-        "osm:_user": "muindre", 
+        "osm:_timestamp": "2019-05-20", 
+        "osm:_user": "fondolucy", 
         "osm:amenity": "school", 
+        "osm:education:type": "pre_primary", 
         "osm:id": "node/1038202672", 
         "osm:location": "mathare", 
-        "osm:name": "Myto junior academy"
+        "osm:name": "Myto Junior Academy", 
+        "osm:operator:type": "private"
       }, 
       "type": "Feature"
     }, 
@@ -22757,8 +22849,8 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2019-05-02", 
-        "osm:_user": "muindre", 
+        "osm:_timestamp": "2019-05-22", 
+        "osm:_user": "fondolucy", 
         "osm:accessibility": "foot", 
         "osm:amenity": "school", 
         "osm:barrier:security_fence": "yes", 
@@ -22766,7 +22858,7 @@
         "osm:building:levels": "1", 
         "osm:building:material": "wood", 
         "osm:building:roof": "ironsheets", 
-        "osm:contact:phone": "0729076564", 
+        "osm:contact:": "0721147386", 
         "osm:education:committees": "B.O.M", 
         "osm:education:curriculum": "8_4_4", 
         "osm:education:exam_affiliate": "Kaso Upendo Neighbouring School", 
@@ -22785,6 +22877,7 @@
         "osm:education:government_registered": "no", 
         "osm:education:management_committee": "yes", 
         "osm:education:operate_as": "day_school", 
+        "osm:education:operator": "community", 
         "osm:education:program_counselling": "yes", 
         "osm:education:program_feeding": "yes", 
         "osm:education:program_feeding_description": "fees", 
@@ -22807,7 +22900,7 @@
         "osm:name": "Why Not Academy", 
         "osm:operator:description": "association", 
         "osm:operator:name": "whynot", 
-        "osm:operator:type": "cbo", 
+        "osm:operator:type": "community", 
         "osm:place:village": "Mathare Mashimoni", 
         "osm:playground": "yes", 
         "osm:room:kitchen": "yes", 
@@ -23109,12 +23202,13 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2011-01-19", 
-        "osm:_user": "hassanow", 
+        "osm:_timestamp": "2019-05-20", 
+        "osm:_user": "fondolucy", 
         "osm:amenity": "school", 
+        "osm:education:type": "primary", 
         "osm:id": "node/1110239839", 
         "osm:location": "mathare", 
-        "osm:name": "St.mary community center"
+        "osm:name": "St.Mary Community Center"
       }, 
       "type": "Feature"
     }, 
@@ -23149,9 +23243,10 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2011-02-02", 
-        "osm:_user": "PrimusK", 
+        "osm:_timestamp": "2019-05-20", 
+        "osm:_user": "fondolucy", 
         "osm:amenity": "school", 
+        "osm:education:type": "pre_primary", 
         "osm:id": "node/1110239854", 
         "osm:location": "mathare", 
         "osm:name": "Funzo junior school."
@@ -23189,12 +23284,14 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2011-01-19", 
-        "osm:_user": "hassanow", 
+        "osm:_timestamp": "2019-05-20", 
+        "osm:_user": "fondolucy", 
         "osm:amenity": "school", 
+        "osm:education:type": "primary", 
         "osm:id": "node/1110239860", 
         "osm:location": "mathare", 
-        "osm:name": "ST phillips school"
+        "osm:name": "St. Phillips School", 
+        "osm:operator:type": "private"
       }, 
       "type": "Feature"
     }, 
@@ -23209,12 +23306,14 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2011-02-02", 
-        "osm:_user": "PrimusK", 
+        "osm:_timestamp": "2019-05-20", 
+        "osm:_user": "fondolucy", 
         "osm:amenity": "school", 
+        "osm:education:type": "primary", 
         "osm:id": "node/1110239861", 
         "osm:location": "mathare", 
-        "osm:name": "ST .paul primary school"
+        "osm:name": "ST .paul primary school", 
+        "osm:operator:type": "community"
       }, 
       "type": "Feature"
     }, 
@@ -23657,12 +23756,15 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2011-01-27", 
-        "osm:_user": "PrimusK", 
+        "osm:_timestamp": "2019-05-20", 
+        "osm:_user": "fondolucy", 
         "osm:amenity": "school", 
+        "osm:contact": "0721988072", 
+        "osm:education:type": "primary", 
         "osm:id": "node/1123193348", 
         "osm:location": "mathare", 
-        "osm:name": "Ananda manga Academy"
+        "osm:name": "Ananda Marga Academy", 
+        "osm:operator:type": "community"
       }, 
       "type": "Feature"
     }, 
@@ -23798,12 +23900,12 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2019-05-07", 
+        "osm:_timestamp": "2019-08-23", 
         "osm:_user": "muindre", 
         "osm:amenity": "school", 
         "osm:id": "node/1123201169", 
         "osm:location": "mathare", 
-        "osm:name": "Genesis Primary School", 
+        "osm:name": "Genesis Immaculate Primary School", 
         "osm:name:it": "Genesis"
       }, 
       "type": "Feature"
@@ -23819,13 +23921,13 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2019-05-09", 
+        "osm:_timestamp": "2019-08-23", 
         "osm:_user": "muindre", 
         "osm:amenity": "school", 
         "osm:education:type": "secondary", 
         "osm:id": "node/1123201207", 
         "osm:location": "mathare", 
-        "osm:name": "Genesis Secondary School"
+        "osm:name": "Genesis Immaculate Secondary School"
       }, 
       "type": "Feature"
     }, 
@@ -23880,9 +23982,10 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2011-01-28", 
-        "osm:_user": "PrimusK", 
+        "osm:_timestamp": "2019-05-20", 
+        "osm:_user": "fondolucy", 
         "osm:amenity": "school", 
+        "osm:education:type": "primary", 
         "osm:id": "node/1124602203", 
         "osm:location": "mathare", 
         "osm:name": "Bishop Kitonga Academy"
@@ -23941,12 +24044,15 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2011-01-28", 
-        "osm:_user": "PrimusK", 
+        "osm:_timestamp": "2019-05-22", 
+        "osm:_user": "fondolucy", 
         "osm:amenity": "school", 
+        "osm:contact": "0724940549", 
+        "osm:education:type": "primary", 
         "osm:id": "node/1124602279", 
         "osm:location": "mathare", 
-        "osm:name": "Alliant Academy"
+        "osm:name": "Alliant Junior Academy", 
+        "osm:operator:type": "community"
       }, 
       "type": "Feature"
     }, 
@@ -24694,15 +24800,15 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2017-10-12", 
-        "osm:_user": "muindre", 
+        "osm:_timestamp": "2019-08-06", 
+        "osm:_user": "habi", 
         "osm:accessibility": "foot", 
         "osm:amenity": "school", 
         "osm:building:levels": "0", 
         "osm:building:material": "wood", 
         "osm:building:roof": "ironsheets", 
         "osm:contact:address": "P O Box 43210-00100 NAIROBI", 
-        "osm:contact:email": "jumapatrick89\"yahoo.com", 
+        "osm:contact:email": "jumapatrick89@yahoo.com", 
         "osm:contact:phone": "0704003016", 
         "osm:education:committees": "Board of Management", 
         "osm:education:curriculum": "8_4_4", 
@@ -24799,8 +24905,8 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2017-10-12", 
-        "osm:_user": "muindre", 
+        "osm:_timestamp": "2019-05-22", 
+        "osm:_user": "fondolucy", 
         "osm:accessibility": "big_vehicles", 
         "osm:amenity": "school", 
         "osm:building:levels": "0", 
@@ -24836,7 +24942,7 @@
         "osm:location": "mathare", 
         "osm:name": "Neci Education Centre", 
         "osm:operator:name": "Neci Education Centre", 
-        "osm:operator:type": "cbo", 
+        "osm:operator:type": "community", 
         "osm:place:village": "Mathare Village 2", 
         "osm:toilet:present": "yes"
       }, 
@@ -25189,16 +25295,16 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2017-10-12", 
-        "osm:_user": "muindre", 
+        "osm:_timestamp": "2019-05-24", 
+        "osm:_user": "fondolucy", 
         "osm:accessibility": "big_vehicles", 
         "osm:amenity": "school", 
         "osm:building:levels": "1", 
         "osm:building:material": "ironsheets", 
         "osm:building:roof": "ironsheets", 
+        "osm:contact": "0715733196", 
         "osm:contact:address": "P O BOX 45603-00100, Nairobi", 
         "osm:contact:email": "edwardkimuyu@gmail.com", 
-        "osm:contact:phone": "0728240978", 
         "osm:education:curriculum": "8_4_4", 
         "osm:education:exam_affiliate": "Vision shiners", 
         "osm:education:extra_drama": "yes", 
@@ -25227,7 +25333,7 @@
         "osm:location": "mathare", 
         "osm:name": "Maji Mazuri Headstart Academy", 
         "osm:operator:description": "Edward Sila", 
-        "osm:operator:type": "cbo", 
+        "osm:operator:type": "community", 
         "osm:place:village": "Mathare 3c", 
         "osm:toilet:present": "yes"
       }, 
@@ -25498,8 +25604,8 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2017-10-12", 
-        "osm:_user": "muindre", 
+        "osm:_timestamp": "2019-05-22", 
+        "osm:_user": "fondolucy", 
         "osm:accessibility": "big_vehicles", 
         "osm:amenity": "school", 
         "osm:building:levels": "1", 
@@ -25529,9 +25635,9 @@
         "osm:electricity:operational_status": "sometimes", 
         "osm:id": "node/4463082226", 
         "osm:location": "mathare", 
-        "osm:name": "Mathare Kosovo Salvation Army Community School", 
+        "osm:name": "Mathare Kosovo Outspot and community School", 
         "osm:operator:description": "Zipporah Mutinda", 
-        "osm:operator:type": "religious", 
+        "osm:operator:type": "community", 
         "osm:place:village": "Kosovo", 
         "osm:toilet:present": "yes"
       }, 
@@ -27028,8 +27134,8 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2019-05-03", 
-        "osm:_user": "muindre", 
+        "osm:_timestamp": "2019-05-22", 
+        "osm:_user": "fondolucy", 
         "osm:accessibility": "small_cars,foot", 
         "osm:amenity": "school", 
         "osm:barrier": "gate", 
@@ -27037,6 +27143,7 @@
         "osm:building:classrooms": "38", 
         "osm:building:library": "yes", 
         "osm:building:material": "semi_permanent", 
+        "osm:contact": "0723542220", 
         "osm:education:board_of_management": "yes", 
         "osm:education:exam_center": "yes", 
         "osm:education:extra_agriculture_club": "yes", 
@@ -27206,8 +27313,8 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2019-05-03", 
-        "osm:_user": "muindre", 
+        "osm:_timestamp": "2019-05-20", 
+        "osm:_user": "habi", 
         "osm:accessibility": "small_cars", 
         "osm:amenity": "school", 
         "osm:building:classrooms": "15", 
@@ -27241,7 +27348,7 @@
         "osm:laboratory": "computer", 
         "osm:location": "mathare", 
         "osm:name": "Daystar Junior School", 
-        "osm:operator:decription": "Patrick O Juma", 
+        "osm:operator:description": "Patrick O Juma", 
         "osm:operator:type": "cbo", 
         "osm:room:kitchen": "yes", 
         "osm:room:staff": "yes", 
@@ -27266,12 +27373,14 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2019-05-03", 
-        "osm:_user": "muindre", 
+        "osm:_timestamp": "2019-05-20", 
+        "osm:_user": "fondolucy", 
         "osm:amenity": "school", 
+        "osm:education:type": "secondary", 
         "osm:id": "node/6445077900", 
         "osm:location": "mathare", 
-        "osm:name": "Motherway Education Centre"
+        "osm:name": "Motherway Education Centre", 
+        "osm:operator:type": "private"
       }, 
       "type": "Feature"
     }, 
@@ -27286,32 +27395,15 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2019-05-03", 
-        "osm:_user": "muindre", 
+        "osm:_timestamp": "2019-05-20", 
+        "osm:_user": "fondolucy", 
         "osm:amenity": "school", 
+        "osm:contact": "0727242556", 
+        "osm:education:type": "primary", 
         "osm:id": "node/6445077901", 
         "osm:location": "mathare", 
-        "osm:name": "Mama Africa Italia Onlus"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          [
-            36.870453, 
-            -1.258249
-          ]
-        ], 
-        "type": "MultiPoint"
-      }, 
-      "properties": {
-        "osm:_timestamp": "2019-05-03", 
-        "osm:_user": "muindre", 
-        "osm:amenity": "school", 
-        "osm:id": "node/6445077903", 
-        "osm:location": "mathare", 
-        "osm:name": "Genesis Immaculate Primary And Secondary"
+        "osm:name": "Mama Africa Italia Onlus", 
+        "osm:operator:type": "community"
       }, 
       "type": "Feature"
     }, 
@@ -27326,8 +27418,8 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2019-05-03", 
-        "osm:_user": "muindre", 
+        "osm:_timestamp": "2019-05-20", 
+        "osm:_user": "habi", 
         "osm:accessibility": "small_cars,foot,big_vehicles", 
         "osm:amenity": "school", 
         "osm:barrier": "gate", 
@@ -27359,7 +27451,7 @@
         "osm:leisure": "playground", 
         "osm:location": "mathare", 
         "osm:name": "The Brainhouse School", 
-        "osm:operator:decription": "school owner", 
+        "osm:operator:description": "school owner", 
         "osm:operator:type": "private", 
         "osm:room:kitchen": "yes", 
         "osm:room:staff": "yes", 
@@ -27383,8 +27475,8 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2019-05-03", 
-        "osm:_user": "muindre", 
+        "osm:_timestamp": "2019-05-20", 
+        "osm:_user": "habi", 
         "osm:accessibility": "small_cars,foot,big_vehicles", 
         "osm:amenity": "school", 
         "osm:barrier": "gate", 
@@ -27419,7 +27511,7 @@
         "osm:id": "node/6445077905", 
         "osm:location": "mathare", 
         "osm:name": "Daima Primary School", 
-        "osm:operator:decription": "Nairobi City County", 
+        "osm:operator:description": "Nairobi City County", 
         "osm:operator:type": "government", 
         "osm:playground": "yes", 
         "osm:room:kitchen": "yes", 
@@ -27704,12 +27796,15 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2019-05-03", 
-        "osm:_user": "muindre", 
+        "osm:_timestamp": "2019-05-20", 
+        "osm:_user": "fondolucy", 
         "osm:amenity": "school", 
+        "osm:education:type": "primary", 
         "osm:id": "node/6445077913", 
         "osm:location": "mathare", 
-        "osm:name": "Mission Of Hope School"
+        "osm:name": "Mission of Hope School", 
+        "osm:operator:type": "community", 
+        "osm:source": "primary"
       }, 
       "type": "Feature"
     }, 
@@ -27724,8 +27819,8 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2019-05-03", 
-        "osm:_user": "muindre", 
+        "osm:_timestamp": "2019-05-20", 
+        "osm:_user": "habi", 
         "osm:accessibility": "small_cars,foot,big_vehicles", 
         "osm:amenity": "school", 
         "osm:barrier": "gate", 
@@ -27759,7 +27854,7 @@
         "osm:leisure": "playground", 
         "osm:location": "mathare", 
         "osm:name": "St Teresas Primary School", 
-        "osm:operator:decription": "public school", 
+        "osm:operator:description": "public school", 
         "osm:operator:type": "government", 
         "osm:room:kitchen": "yes", 
         "osm:room:staff": "yes", 
@@ -27955,8 +28050,8 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2019-05-03", 
-        "osm:_user": "muindre", 
+        "osm:_timestamp": "2019-05-20", 
+        "osm:_user": "habi", 
         "osm:accessibility": "small_cars", 
         "osm:amenity": "school", 
         "osm:barrier": "gate", 
@@ -27986,7 +28081,7 @@
         "osm:id": "node/6445081193", 
         "osm:location": "mathare", 
         "osm:name": "Millenium Academy", 
-        "osm:operator:decription": "W. Onyango Ogembo", 
+        "osm:operator:description": "W. Onyango Ogembo", 
         "osm:operator:type": "private", 
         "osm:registration_date": "2017", 
         "osm:start_date": "2002", 
@@ -28008,8 +28103,8 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2019-05-03", 
-        "osm:_user": "muindre", 
+        "osm:_timestamp": "2019-05-20", 
+        "osm:_user": "habi", 
         "osm:accessibility": "small_cars,foot,big_vehicles", 
         "osm:amenity": "school", 
         "osm:barrier": "gate", 
@@ -28041,7 +28136,7 @@
         "osm:id": "node/6445081194", 
         "osm:location": "mathare", 
         "osm:name": "Change A Life Learning Centre", 
-        "osm:operator:decription": "Organisation Change a Life Ministry", 
+        "osm:operator:description": "Organisation Change a Life Ministry", 
         "osm:operator:type": "religious", 
         "osm:room:kitchen": "yes", 
         "osm:start_date": "2012", 
@@ -28064,14 +28159,15 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2019-05-03", 
-        "osm:_user": "muindre", 
+        "osm:_timestamp": "2019-05-22", 
+        "osm:_user": "fondolucy", 
         "osm:accessibility": "small_cars,foot,big_vehicles", 
         "osm:amenity": "school", 
         "osm:barrier": "gate", 
         "osm:building:classrooms": "8", 
         "osm:building:library": "yes", 
         "osm:building:material": "permanent", 
+        "osm:contact": "0725555552", 
         "osm:education:board_of_management": "yes", 
         "osm:education:exam_affiliate": "Ngei PAG", 
         "osm:education:exam_center": "no", 
@@ -28095,7 +28191,7 @@
         "osm:leisure": "playground", 
         "osm:location": "mathare", 
         "osm:name": "Eljoy Education Center", 
-        "osm:operator:type": "cbo", 
+        "osm:operator:type": "community", 
         "osm:registration_date": "in_the_process", 
         "osm:room:kitchen": "yes", 
         "osm:room:staff": "yes", 
@@ -28274,12 +28370,14 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2019-05-03", 
+        "osm:_timestamp": "2019-08-23", 
         "osm:_user": "muindre", 
         "osm:amenity": "school", 
+        "osm:education:type": "primary", 
         "osm:id": "node/6445081199", 
         "osm:location": "mathare", 
-        "osm:name": "Kingdom Living Now School"
+        "osm:name": "Kingdom Living Now School", 
+        "osm:operator:type": "private"
       }, 
       "type": "Feature"
     }, 
@@ -28352,8 +28450,8 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2019-05-03", 
-        "osm:_user": "muindre", 
+        "osm:_timestamp": "2019-05-20", 
+        "osm:_user": "habi", 
         "osm:accessibility": "small_cars,foot,big_vehicles", 
         "osm:amenity": "school", 
         "osm:barrier": "gate", 
@@ -28393,7 +28491,7 @@
         "osm:laboratory": "computer", 
         "osm:location": "mathare", 
         "osm:name": "Mawewa School", 
-        "osm:operator:decription": "Edu Kenya", 
+        "osm:operator:description": "Edu Kenya", 
         "osm:operator:type": "private", 
         "osm:room:kitchen": "yes", 
         "osm:room:staff": "yes", 
@@ -28416,12 +28514,15 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2019-05-03", 
-        "osm:_user": "muindre", 
+        "osm:_timestamp": "2019-05-20", 
+        "osm:_user": "fondolucy", 
         "osm:amenity": "school", 
+        "osm:contact": "07056971873", 
+        "osm:education:type": "primary", 
         "osm:id": "node/6445081204", 
         "osm:location": "mathare", 
-        "osm:name": "Samergo Glorious School"
+        "osm:name": "Samergo Glorious School", 
+        "osm:operator:type": "community"
       }, 
       "type": "Feature"
     }, 
@@ -28642,8 +28743,8 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2019-05-03", 
-        "osm:_user": "muindre", 
+        "osm:_timestamp": "2019-05-20", 
+        "osm:_user": "habi", 
         "osm:accessibility": "small_cars,foot,big_vehicles", 
         "osm:amenity": "school", 
         "osm:barrier": "gate", 
@@ -28681,7 +28782,7 @@
         "osm:leisure": "playground", 
         "osm:location": "mathare", 
         "osm:name": "Heidemarie Mathare 4A Primary", 
-        "osm:operator:decription": "city_county", 
+        "osm:operator:description": "city_county", 
         "osm:operator:type": "public", 
         "osm:room:kitchen": "yes", 
         "osm:room:staff": "yes", 
@@ -28815,8 +28916,8 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2019-05-03", 
-        "osm:_user": "muindre", 
+        "osm:_timestamp": "2019-05-20", 
+        "osm:_user": "habi", 
         "osm:accessibility": "small_cars,foot,big_vehicles", 
         "osm:amenity": "school", 
         "osm:barrier": "gate", 
@@ -28853,7 +28954,7 @@
         "osm:id": "node/6445081212", 
         "osm:location": "mathare", 
         "osm:name": "Stella Marris Community Education Centre", 
-        "osm:operator:decription": "private", 
+        "osm:operator:description": "private", 
         "osm:operator:type": "private", 
         "osm:room:kitchen": "yes", 
         "osm:room:staff": "yes", 
@@ -28877,8 +28978,8 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2019-05-03", 
-        "osm:_user": "muindre", 
+        "osm:_timestamp": "2019-05-20", 
+        "osm:_user": "habi", 
         "osm:accessibility": "small_cars,foot,big_vehicles", 
         "osm:amenity": "school", 
         "osm:barrier": "gate", 
@@ -28911,7 +29012,7 @@
         "osm:leisure": "playground", 
         "osm:location": "mathare", 
         "osm:name": "Huruma Mixed Secondary", 
-        "osm:operator:decription": "Government Of Kenya", 
+        "osm:operator:description": "Government Of Kenya", 
         "osm:operator:type": "government", 
         "osm:registration_date": "2017", 
         "osm:toilet:present": "yes", 
@@ -28933,12 +29034,15 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2019-05-03", 
+        "osm:_timestamp": "2019-08-23", 
         "osm:_user": "muindre", 
         "osm:amenity": "school", 
+        "osm:contact:phone": "0720565138", 
+        "osm:education:type": "primary", 
         "osm:id": "node/6445081214", 
         "osm:location": "mathare", 
-        "osm:name": "Glory Spring Community Centre"
+        "osm:name": "Glory Spring Community Centre", 
+        "osm:operator:type": "community"
       }, 
       "type": "Feature"
     }, 
@@ -29032,12 +29136,15 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2019-05-03", 
+        "osm:_timestamp": "2019-08-23", 
         "osm:_user": "muindre", 
         "osm:amenity": "school", 
+        "osm:contact:": "0729484319", 
+        "osm:education:type": "primary", 
         "osm:id": "node/6445081217", 
         "osm:location": "mathare", 
-        "osm:name": "Patsu Education Center"
+        "osm:name": "Patsue Care Center", 
+        "osm:operator:type": "community"
       }, 
       "type": "Feature"
     }, 
@@ -29108,8 +29215,8 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2019-05-03", 
-        "osm:_user": "muindre", 
+        "osm:_timestamp": "2019-05-22", 
+        "osm:_user": "fondolucy", 
         "osm:accessibility": "foot", 
         "osm:amenity": "school", 
         "osm:barrier": "gate", 
@@ -29137,8 +29244,8 @@
         "osm:id": "node/6445081219", 
         "osm:leisure": "playground", 
         "osm:location": "mathare", 
-        "osm:name": "Emmanuel Education Centre", 
-        "osm:operator:type": "cbo", 
+        "osm:name": "Emmanuel Middle School", 
+        "osm:operator:type": "community", 
         "osm:room:kitchen": "yes", 
         "osm:room:staff": "yes", 
         "osm:start_date": "2012", 
@@ -29220,8 +29327,8 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2019-05-03", 
-        "osm:_user": "muindre", 
+        "osm:_timestamp": "2019-05-20", 
+        "osm:_user": "habi", 
         "osm:accessibility": "small_cars,foot,big_vehicles", 
         "osm:amenity": "school", 
         "osm:barrier": "gate", 
@@ -29250,7 +29357,7 @@
         "osm:id": "node/6445081221", 
         "osm:location": "mathare", 
         "osm:name": "Mary Rosana Academy", 
-        "osm:operator:decription": "youth group", 
+        "osm:operator:description": "youth group", 
         "osm:operator:type": "youth group", 
         "osm:playground": "yes", 
         "osm:registration_date": "2016", 
@@ -29273,8 +29380,8 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2019-05-03", 
-        "osm:_user": "muindre", 
+        "osm:_timestamp": "2019-05-20", 
+        "osm:_user": "habi", 
         "osm:accessibility": "small_cars,big_vehicles", 
         "osm:amenity": "school", 
         "osm:barrier": "gate", 
@@ -29309,7 +29416,7 @@
         "osm:laboratory:equipment": "yes", 
         "osm:location": "mathare", 
         "osm:name": "Golden Light Academy", 
-        "osm:operator:decription": "Golden Light Chapel", 
+        "osm:operator:description": "Golden Light Chapel", 
         "osm:operator:type": "religion", 
         "osm:room:kitchen": "yes", 
         "osm:room:staff": "yes", 
@@ -29354,8 +29461,8 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2019-05-03", 
-        "osm:_user": "muindre", 
+        "osm:_timestamp": "2019-05-20", 
+        "osm:_user": "habi", 
         "osm:accessibility": "small_cars,foot,big_vehicles", 
         "osm:amenity": "school", 
         "osm:barrier": "gate", 
@@ -29388,7 +29495,7 @@
         "osm:leisure": "playground", 
         "osm:location": "mathare", 
         "osm:name": "Salama Primary School", 
-        "osm:operator:decription": "Nairobi City County", 
+        "osm:operator:description": "Nairobi City County", 
         "osm:operator:type": "government", 
         "osm:room:kitchen": "yes", 
         "osm:room:staff": "yes", 
@@ -29412,8 +29519,8 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2019-05-03", 
-        "osm:_user": "muindre", 
+        "osm:_timestamp": "2019-05-20", 
+        "osm:_user": "habi", 
         "osm:accessibility": "small_cars,foot,big_vehicles", 
         "osm:amenity": "school", 
         "osm:barrier": "gate", 
@@ -29457,7 +29564,7 @@
         "osm:leisure": "playground", 
         "osm:location": "mathare", 
         "osm:name": "Mathare Community Outreach Joy", 
-        "osm:operator:decription": "Mr Daniel Ogutu", 
+        "osm:operator:description": "Mr Daniel Ogutu", 
         "osm:operator:type": "private", 
         "osm:room:kitchen": "yes", 
         "osm:room:staff": "yes", 
@@ -29481,8 +29588,8 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2019-05-03", 
-        "osm:_user": "muindre", 
+        "osm:_timestamp": "2019-05-20", 
+        "osm:_user": "habi", 
         "osm:accessibility": "small_cars,foot,big_vehicles", 
         "osm:amenity": "school", 
         "osm:barrier": "gate", 
@@ -29522,7 +29629,7 @@
         "osm:leisure": "playground", 
         "osm:location": "mathare", 
         "osm:name": "Star of Hope Primary School", 
-        "osm:operator:decription": "Jimmy Muraya", 
+        "osm:operator:description": "Jimmy Muraya", 
         "osm:operator:type": "private", 
         "osm:room:kitchen": "yes", 
         "osm:room:staff": "yes", 
@@ -29545,8 +29652,8 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2019-05-03", 
-        "osm:_user": "muindre", 
+        "osm:_timestamp": "2019-05-20", 
+        "osm:_user": "habi", 
         "osm:accessibility": "small_cars,foot,big_vehicles", 
         "osm:amenity": "school", 
         "osm:barrier": "gate", 
@@ -29578,7 +29685,7 @@
         "osm:id": "node/6445111391", 
         "osm:location": "mathare", 
         "osm:name": "Amanda Marga Academy", 
-        "osm:operator:decription": "fbo", 
+        "osm:operator:description": "fbo", 
         "osm:operator:type": "religious", 
         "osm:start_date": "1995", 
         "osm:toilet:present": "yes", 
@@ -29776,8 +29883,8 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2019-05-03", 
-        "osm:_user": "muindre", 
+        "osm:_timestamp": "2019-05-20", 
+        "osm:_user": "habi", 
         "osm:accessibility": "small_cars,foot", 
         "osm:amenity": "school", 
         "osm:barrier": "gate", 
@@ -29804,7 +29911,7 @@
         "osm:leisure": "playground", 
         "osm:location": "mathare", 
         "osm:name": "St Ruth Academy", 
-        "osm:operator:decription": "church", 
+        "osm:operator:description": "church", 
         "osm:operator:type": "religious", 
         "osm:room:kitchen": "yes", 
         "osm:room:staff": "yes", 
@@ -29828,14 +29935,15 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2019-05-07", 
-        "osm:_user": "muindre", 
+        "osm:_timestamp": "2019-08-23", 
+        "osm:_user": "fondolucy", 
         "osm:accessibility": "small_cars,foot,big_vehicles", 
         "osm:amenity": "school", 
         "osm:barrier": "gate", 
         "osm:barrier:security_fence": "yes", 
         "osm:building:classrooms": "13", 
         "osm:building:material": "permanent", 
+        "osm:contact": "0701914873", 
         "osm:education:board_of_management": "yes", 
         "osm:education:extra_agriculture_club": "yes", 
         "osm:education:extra_drama": "yes", 
@@ -29867,7 +29975,7 @@
         "osm:leisure": "playground", 
         "osm:location": "mathare", 
         "osm:name": "Mathare Special Training Centre", 
-        "osm:operator:decription": "parents/ ministry_of_educaton", 
+        "osm:operator:description": "parents/ ministry_of_educaton", 
         "osm:room:kitchen": "yes", 
         "osm:room:staff": "yes", 
         "osm:start_date": "1982", 
@@ -29875,6 +29983,7 @@
         "osm:toilets:female": "4", 
         "osm:toilets:male": "4", 
         "osm:toilets:teachers": "2", 
+        "osm:type": "primary", 
         "osm:waste:garbage_disposal": "Often"
       }, 
       "type": "Feature"
@@ -29890,12 +29999,15 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2019-05-03", 
-        "osm:_user": "muindre", 
+        "osm:_timestamp": "2019-05-20", 
+        "osm:_user": "fondolucy", 
         "osm:amenity": "school", 
+        "osm:contact": "0700186288", 
+        "osm:education:type": "primary", 
         "osm:id": "node/6445111399", 
         "osm:location": "mathare", 
-        "osm:name": "Vision Shiners Academy"
+        "osm:name": "Vision Shiners Academy", 
+        "osm:operator:type": "private"
       }, 
       "type": "Feature"
     }, 
@@ -29910,12 +30022,14 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2019-05-09", 
-        "osm:_user": "muindre", 
+        "osm:_timestamp": "2019-05-22", 
+        "osm:_user": "fondolucy", 
         "osm:amenity": "school", 
+        "osm:education:type": "primary", 
         "osm:id": "node/6445111401", 
         "osm:location": "mathare", 
-        "osm:name": "Mission Of Hope Mathare North"
+        "osm:name": "Mission Of Hope Mathare North", 
+        "osm:operator:type": "community"
       }, 
       "type": "Feature"
     }, 
@@ -29977,8 +30091,8 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2019-05-03", 
-        "osm:_user": "muindre", 
+        "osm:_timestamp": "2019-05-20", 
+        "osm:_user": "habi", 
         "osm:accessibility": "small_cars,foot", 
         "osm:amenity": "school", 
         "osm:barrier": "gate", 
@@ -30008,7 +30122,7 @@
         "osm:id": "node/6445111403", 
         "osm:location": "mathare", 
         "osm:name": "Kasarani Victory Academy", 
-        "osm:operator:decription": "private", 
+        "osm:operator:description": "private", 
         "osm:operator:type": "private", 
         "osm:room:kitchen": "yes", 
         "osm:room:staff": "yes", 
@@ -30080,13 +30194,14 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2019-05-03", 
-        "osm:_user": "muindre", 
+        "osm:_timestamp": "2019-05-22", 
+        "osm:_user": "fondolucy", 
         "osm:accessibility": "small_cars,foot,big_vehicles", 
         "osm:amenity": "school", 
         "osm:barrier": "gate", 
         "osm:barrier:security_fence": "yes", 
         "osm:building:material": "permanent", 
+        "osm:contact": "0718597362", 
         "osm:education:exam_affiliate": "Sunflower Academy", 
         "osm:education:exam_center": "no", 
         "osm:education:extra_drama": "yes", 
@@ -30139,8 +30254,8 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2019-05-03", 
-        "osm:_user": "muindre", 
+        "osm:_timestamp": "2019-05-20", 
+        "osm:_user": "habi", 
         "osm:accessibility": "small_cars,foot,big_vehicles", 
         "osm:amenity": "school", 
         "osm:barrier": "gate", 
@@ -30178,7 +30293,7 @@
         "osm:leisure": "playground", 
         "osm:location": "mathare", 
         "osm:name": "Edden Anex Preparatory School", 
-        "osm:operator:decription": "Individual", 
+        "osm:operator:description": "Individual", 
         "osm:operator:type": "private", 
         "osm:room:kitchen": "yes", 
         "osm:room:staff": "yes", 
@@ -30260,8 +30375,8 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2019-05-03", 
-        "osm:_user": "muindre", 
+        "osm:_timestamp": "2019-05-20", 
+        "osm:_user": "habi", 
         "osm:accessibility": "small_cars,foot,big_vehicles", 
         "osm:amenity": "school", 
         "osm:barrier": "gate", 
@@ -30293,7 +30408,7 @@
         "osm:leisure": "playground", 
         "osm:location": "mathare", 
         "osm:name": "Star Of Hope Secondary School", 
-        "osm:operator:decription": "Jimmy Muraya (owner)", 
+        "osm:operator:description": "Jimmy Muraya (owner)", 
         "osm:operator:type": "private", 
         "osm:room:kitchen": "yes", 
         "osm:room:staff": "yes", 
@@ -30317,8 +30432,8 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2019-05-03", 
-        "osm:_user": "muindre", 
+        "osm:_timestamp": "2019-05-20", 
+        "osm:_user": "habi", 
         "osm:accessibility": "small_cars,foot,big_vehicles", 
         "osm:amenity": "school", 
         "osm:barrier": "gate", 
@@ -30351,7 +30466,7 @@
         "osm:id": "node/6445111409", 
         "osm:location": "mathare", 
         "osm:name": "Miracle Junoir", 
-        "osm:operator:decription": "private", 
+        "osm:operator:description": "private", 
         "osm:operator:type": "private", 
         "osm:start_date": "2007", 
         "osm:toilet:present": "yes", 
@@ -30373,8 +30488,8 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2019-05-03", 
-        "osm:_user": "muindre", 
+        "osm:_timestamp": "2019-05-20", 
+        "osm:_user": "habi", 
         "osm:accessibility": "small_cars,foot,big_vehicles", 
         "osm:amenity": "school", 
         "osm:barrier": "gate", 
@@ -30409,7 +30524,7 @@
         "osm:leisure": "playground", 
         "osm:location": "mathare", 
         "osm:name": "Valleybridge Primary School", 
-        "osm:operator:decription": "Government Of Kenya", 
+        "osm:operator:description": "Government Of Kenya", 
         "osm:operator:type": "government", 
         "osm:room:kitchen": "yes", 
         "osm:room:staff": "yes", 
@@ -30454,8 +30569,8 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2019-05-03", 
-        "osm:_user": "muindre", 
+        "osm:_timestamp": "2019-05-20", 
+        "osm:_user": "habi", 
         "osm:accessibility": "small_cars,foot,big_vehicles", 
         "osm:amenity": "school", 
         "osm:barrier": "gate", 
@@ -30492,7 +30607,7 @@
         "osm:id": "node/6445111412", 
         "osm:location": "mathare", 
         "osm:name": "Mathare Old Primary School", 
-        "osm:operator:decription": "public school", 
+        "osm:operator:description": "public school", 
         "osm:operator:type": "government", 
         "osm:playground": "yes", 
         "osm:room:kitchen": "yes", 
@@ -30518,12 +30633,14 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2019-05-03", 
-        "osm:_user": "muindre", 
+        "osm:_timestamp": "2019-05-23", 
+        "osm:_user": "TheBlackMan", 
         "osm:amenity": "school", 
         "osm:id": "node/6445111413", 
+        "osm:isced:level": "1", 
         "osm:location": "mathare", 
-        "osm:name": "Hope Nigeria"
+        "osm:name": "Hope Nigeria", 
+        "osm:operator:type": "public"
       }, 
       "type": "Feature"
     }, 
@@ -30538,8 +30655,8 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2019-05-03", 
-        "osm:_user": "muindre", 
+        "osm:_timestamp": "2019-05-20", 
+        "osm:_user": "habi", 
         "osm:accessibility": "small_cars,foot,big_vehicles", 
         "osm:amenity": "school", 
         "osm:barrier": "gate", 
@@ -30581,7 +30698,7 @@
         "osm:leisure": "playground", 
         "osm:location": "mathare", 
         "osm:name": "St. Teresas Girls Secondary School", 
-        "osm:operator:decription": "PUBLIC SCHOOL-but loreto sisters sponsors", 
+        "osm:operator:description": "PUBLIC SCHOOL-but loreto sisters sponsors", 
         "osm:operator:type": "government", 
         "osm:room:kitchen": "yes", 
         "osm:room:staff": "yes", 
@@ -30678,8 +30795,8 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2019-05-03", 
-        "osm:_user": "muindre", 
+        "osm:_timestamp": "2019-05-20", 
+        "osm:_user": "habi", 
         "osm:accessibility": "small_cars,foot,big_vehicles", 
         "osm:amenity": "school", 
         "osm:barrier": "gate", 
@@ -30710,7 +30827,7 @@
         "osm:id": "node/6445111417", 
         "osm:location": "mathare", 
         "osm:name": "Blessed Junior Academy", 
-        "osm:operator:decription": "Annette Moraa Ongera", 
+        "osm:operator:description": "Annette Moraa Ongera", 
         "osm:operator:type": "cbo", 
         "osm:room:kitchen": "yes", 
         "osm:start_date": "2017", 
@@ -30814,8 +30931,8 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2019-05-03", 
-        "osm:_user": "muindre", 
+        "osm:_timestamp": "2019-05-20", 
+        "osm:_user": "habi", 
         "osm:accessibility": "small_cars,foot,big_vehicles", 
         "osm:amenity": "school", 
         "osm:barrier": "gate", 
@@ -30848,7 +30965,7 @@
         "osm:leisure": "playground", 
         "osm:location": "mathare", 
         "osm:name": "Mum's Care Academy", 
-        "osm:operator:decription": "Redeemed gospel church", 
+        "osm:operator:description": "Redeemed gospel church", 
         "osm:operator:type": "religious", 
         "osm:room:kitchen": "yes", 
         "osm:room:staff": "yes", 
@@ -30892,8 +31009,8 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2019-05-03", 
-        "osm:_user": "muindre", 
+        "osm:_timestamp": "2019-05-20", 
+        "osm:_user": "habi", 
         "osm:accessibility": "small_cars,foot,big_vehicles", 
         "osm:amenity": "school", 
         "osm:building:classrooms": "10", 
@@ -30927,7 +31044,7 @@
         "osm:leisure": "playground", 
         "osm:location": "mathare", 
         "osm:name": "Star Education Center", 
-        "osm:operator:decription": "private", 
+        "osm:operator:description": "private", 
         "osm:room:staff": "yes", 
         "osm:start_date": "2005", 
         "osm:toilet:present": "yes", 
@@ -30997,12 +31114,15 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2019-05-03", 
-        "osm:_user": "muindre", 
+        "osm:_timestamp": "2019-05-21", 
+        "osm:_user": "fondolucy", 
         "osm:amenity": "school", 
+        "osm:contact": "0729643795", 
+        "osm:education:type": "primary", 
         "osm:id": "node/6445111424", 
         "osm:location": "mathare", 
-        "osm:name": "MECDC"
+        "osm:name": "MECDO", 
+        "osm:operator:type": "community"
       }, 
       "type": "Feature"
     }, 
@@ -31092,9 +31212,10 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2019-05-03", 
-        "osm:_user": "muindre", 
+        "osm:_timestamp": "2019-08-23", 
+        "osm:_user": "Peter Agenga", 
         "osm:amenity": "school", 
+        "osm:education:type": "primary", 
         "osm:id": "node/6445129688", 
         "osm:location": "mathare", 
         "osm:name": "Bishop Gitonga Academy"
@@ -31112,8 +31233,8 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2019-05-03", 
-        "osm:_user": "muindre", 
+        "osm:_timestamp": "2019-05-20", 
+        "osm:_user": "habi", 
         "osm:accessibility": "small_cars,foot", 
         "osm:amenity": "school", 
         "osm:barrier": "gate", 
@@ -31138,7 +31259,7 @@
         "osm:id": "node/6445129690", 
         "osm:location": "mathare", 
         "osm:name": "Destiny Community School", 
-        "osm:operator:decription": "Joel juma", 
+        "osm:operator:description": "Joel juma", 
         "osm:operator:type": "cbo", 
         "osm:room:kitchen": "yes", 
         "osm:room:staff": "yes", 
@@ -31300,8 +31421,8 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2019-05-03", 
-        "osm:_user": "muindre", 
+        "osm:_timestamp": "2019-05-20", 
+        "osm:_user": "habi", 
         "osm:accessibility": "small_cars,foot,big_vehicles", 
         "osm:amenity": "school", 
         "osm:barrier": "gate", 
@@ -31336,7 +31457,7 @@
         "osm:leisure": "playground", 
         "osm:location": "mathare", 
         "osm:name": "Ndururuno Secondary School", 
-        "osm:operator:decription": "Government Of Kenya", 
+        "osm:operator:description": "Government Of Kenya", 
         "osm:operator:type": "government", 
         "osm:room:kitchen": "yes", 
         "osm:room:staff": "yes", 
@@ -31360,8 +31481,8 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2019-05-03", 
-        "osm:_user": "muindre", 
+        "osm:_timestamp": "2019-05-20", 
+        "osm:_user": "habi", 
         "osm:accessibility": "small_cars,foot,big_vehicles", 
         "osm:amenity": "school", 
         "osm:barrier": "gate", 
@@ -31393,7 +31514,7 @@
         "osm:leisure": "playground", 
         "osm:location": "mathare", 
         "osm:name": "Ndururuno Primary School", 
-        "osm:operator:decription": "Government Of Kenya", 
+        "osm:operator:description": "Government Of Kenya", 
         "osm:operator:type": "government", 
         "osm:room:kitchen": "yes", 
         "osm:room:staff": "yes", 
@@ -31417,8 +31538,8 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2019-05-03", 
-        "osm:_user": "muindre", 
+        "osm:_timestamp": "2019-05-23", 
+        "osm:_user": "TheBlackMan", 
         "osm:accessibility": "foot", 
         "osm:amenity": "school", 
         "osm:barrier": "gate", 
@@ -31437,19 +31558,19 @@
         "osm:education:program_feeding_description": "fees", 
         "osm:education:students": "528", 
         "osm:education:teachers_female": "2", 
-        "osm:education:type": "primary", 
         "osm:electricity:operational_status": "always", 
         "osm:government:registered": "mgcsd", 
         "osm:id": "node/6445132391", 
+        "osm:isced:level": "1", 
         "osm:leisure": "playground", 
         "osm:location": "mathare", 
-        "osm:name": "Emmanuel Education Center", 
-        "osm:operator:type": "cbo", 
+        "osm:name": "Emmanuel Middle School", 
+        "osm:operator:type": "private", 
         "osm:registration_date": "2016", 
         "osm:room:kitchen": "yes", 
         "osm:room:staff": "yes", 
         "osm:start_date": "2012", 
-        "osm:toilet:present": "yes", 
+        "osm:toilets": "yes", 
         "osm:toilets:female": "1", 
         "osm:toilets:male": "1", 
         "osm:toilets:teachers": "1", 
@@ -31656,12 +31777,15 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2019-05-03", 
-        "osm:_user": "muindre", 
+        "osm:_timestamp": "2019-05-20", 
+        "osm:_user": "fondolucy", 
         "osm:amenity": "school", 
+        "osm:contact": "0723256123", 
+        "osm:education:type": "primary", 
         "osm:id": "node/6445134385", 
         "osm:location": "mathare", 
-        "osm:name": "St Ann Preparatory"
+        "osm:name": "St Ann Day Care", 
+        "osm:operator:type": "community"
       }, 
       "type": "Feature"
     }, 
@@ -31717,8 +31841,8 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2019-05-03", 
-        "osm:_user": "muindre", 
+        "osm:_timestamp": "2019-05-20", 
+        "osm:_user": "habi", 
         "osm:accessibility": "small_cars,foot", 
         "osm:amenity": "school", 
         "osm:barrier": "gate", 
@@ -31744,7 +31868,7 @@
         "osm:id": "node/6445138085", 
         "osm:location": "mathare", 
         "osm:name": "Community Care School", 
-        "osm:operator:decription": "Church Of The Nazarene", 
+        "osm:operator:description": "Church Of The Nazarene", 
         "osm:operator:type": "religious", 
         "osm:playground": "yes", 
         "osm:room:kitchen": "yes", 
@@ -31755,6 +31879,26 @@
         "osm:toilets:male": "1", 
         "osm:toilets:teachers": "1", 
         "osm:waste:garbage_disposal": "always"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            36.8719796, 
+            -1.2639899
+          ]
+        ], 
+        "type": "MultiPoint"
+      }, 
+      "properties": {
+        "osm:_timestamp": "2019-07-02", 
+        "osm:_user": "KEYSTO ONCHARI", 
+        "osm:amenity": "school", 
+        "osm:id": "node/6583228985", 
+        "osm:location": "mathare", 
+        "osm:name": "Moi Forces Academy"
       }, 
       "type": "Feature"
     }, 
@@ -32289,7 +32433,7 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2019-03-05", 
+        "osm:_timestamp": "2019-07-23", 
         "osm:_user": "muindre", 
         "osm:amenity": "school", 
         "osm:building:classrooms": "4", 
@@ -32326,19 +32470,20 @@
         "osm:education:program_feeding": "yes", 
         "osm:education:program_feeding_description": "school_fees", 
         "osm:education:program_orphans": "yes", 
-        "osm:education:program_sanitary_towel": "no", 
+        "osm:education:program_sanitary_towel": "yes", 
         "osm:education:program_special_needs": "yes", 
         "osm:education:pta": "yes", 
-        "osm:education:school_head": "CS Makhanu", 
-        "osm:education:students": "95", 
-        "osm:education:students_female": "46", 
-        "osm:education:students_male": "49", 
-        "osm:education:teachers": "9", 
+        "osm:education:school_head": "BRO. JOHN BONFACE SAKWA", 
+        "osm:education:students": "100", 
+        "osm:education:students_female": "55", 
+        "osm:education:students_male": "45", 
+        "osm:education:teachers": "10", 
         "osm:education:teachers_female": "2", 
-        "osm:education:teachers_male": "7", 
-        "osm:education:teachers_trained": "9", 
+        "osm:education:teachers_male": "8", 
+        "osm:education:teachers_trained": "10", 
+        "osm:education:tsc_employ": "3", 
         "osm:education:type": "secondary", 
-        "osm:electricity:operational_status": "never", 
+        "osm:electricity:operational_status": "often", 
         "osm:id": "node/5915968851", 
         "osm:image:classroom": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1537271542068.jpg", 
         "osm:image:compound": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1537271705276.jpg", 
@@ -32346,12 +32491,12 @@
         "osm:large_images": "/data/images/cache/node/5915968851/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1537271542068jpg/large.jpg,/data/images/cache/node/5915968851/httpskchumanitarianresponseinfoattachmentoriginalmediafilemapkiberaattachments1537271705276jpg/large.jpg", 
         "osm:location": "kangemi", 
         "osm:name": "Divine Mercy School", 
-        "osm:operator:description": "Bro. John Bonface", 
-        "osm:operator:type": "cbo", 
+        "osm:operator:description": "Religious Community of Catholic Brothers", 
+        "osm:operator:type": "religious", 
         "osm:toilet:present": "yes", 
         "osm:toilets:female": "3", 
         "osm:toilets:handwashing": "yes", 
-        "osm:toilets:male": "2", 
+        "osm:toilets:male": "3", 
         "osm:toilets:teachers": "2", 
         "osm:water:source": "tap"
       }, 

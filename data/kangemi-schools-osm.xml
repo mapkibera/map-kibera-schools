@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.55.7 8b86ff77">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2019-05-13T17:57:02Z"/>
+<meta osm_base="2019-08-24T00:58:02Z"/>
 
   <bounds minlat="-1.2806500" minlon="36.7116700" maxlat="-1.2096000" maxlon="36.8292600"/>
 
@@ -309,7 +309,7 @@
     <tag k="education:type" v="pre_primary"/>
     <tag k="name" v="Alpha Kindergaten"/>
   </node>
-  <node id="5915968851" lat="-1.2630942" lon="36.7324742" version="12" timestamp="2019-03-05T09:08:44Z" changeset="67796417" uid="261050" user="muindre">
+  <node id="5915968851" lat="-1.2630942" lon="36.7324742" version="14" timestamp="2019-07-23T09:10:16Z" changeset="72546698" uid="261050" user="muindre">
     <tag k="amenity" v="school"/>
     <tag k="building:classrooms" v="4"/>
     <tag k="building:levels" v="0"/>
@@ -345,28 +345,29 @@
     <tag k="education:program_feeding" v="yes"/>
     <tag k="education:program_feeding_description" v="school_fees"/>
     <tag k="education:program_orphans" v="yes"/>
-    <tag k="education:program_sanitary_towel" v="no"/>
+    <tag k="education:program_sanitary_towel" v="yes"/>
     <tag k="education:program_special_needs" v="yes"/>
     <tag k="education:pta" v="yes"/>
-    <tag k="education:school_head" v="CS Makhanu"/>
-    <tag k="education:students" v="95"/>
-    <tag k="education:students_female" v="46"/>
-    <tag k="education:students_male" v="49"/>
-    <tag k="education:teachers" v="9"/>
+    <tag k="education:school_head" v="BRO. JOHN BONFACE SAKWA"/>
+    <tag k="education:students" v="100"/>
+    <tag k="education:students_female" v="55"/>
+    <tag k="education:students_male" v="45"/>
+    <tag k="education:teachers" v="10"/>
     <tag k="education:teachers_female" v="2"/>
-    <tag k="education:teachers_male" v="7"/>
-    <tag k="education:teachers_trained" v="9"/>
+    <tag k="education:teachers_male" v="8"/>
+    <tag k="education:teachers_trained" v="10"/>
+    <tag k="education:tsc_employ" v="3"/>
     <tag k="education:type" v="secondary"/>
-    <tag k="electricity:operational_status" v="never"/>
+    <tag k="electricity:operational_status" v="often"/>
     <tag k="image:classroom" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1537271542068.jpg"/>
     <tag k="image:compound" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1537271705276.jpg"/>
     <tag k="name" v="Divine Mercy School"/>
-    <tag k="operator:description" v="Bro. John Bonface"/>
-    <tag k="operator:type" v="cbo"/>
+    <tag k="operator:description" v="Religious Community of Catholic Brothers"/>
+    <tag k="operator:type" v="religious"/>
     <tag k="toilet:present" v="yes"/>
     <tag k="toilets:female" v="3"/>
     <tag k="toilets:handwashing" v="yes"/>
-    <tag k="toilets:male" v="2"/>
+    <tag k="toilets:male" v="3"/>
     <tag k="toilets:teachers" v="2"/>
     <tag k="water:source" v="tap"/>
   </node>
