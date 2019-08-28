@@ -479,9 +479,10 @@
       }, 
       "id": "node/1038202804", 
       "properties": {
-        "osm:_timestamp": "2011-01-14", 
-        "osm:_user": "PrimusK", 
+        "osm:_timestamp": "2019-08-28", 
+        "osm:_user": "muindre", 
         "osm:amenity": "school", 
+        "osm:education:type": "secondary", 
         "osm:id": "node/1038202804", 
         "osm:location": "mathare", 
         "osm:name": "Mercy care center secondary school"
@@ -517,12 +518,13 @@
       }, 
       "id": "node/1038219156", 
       "properties": {
-        "osm:_timestamp": "2010-12-14", 
-        "osm:_user": "PrimusK", 
+        "osm:_timestamp": "2019-08-28", 
+        "osm:_user": "muindre", 
         "osm:amenity": "school", 
+        "osm:education:type": "primary", 
         "osm:id": "node/1038219156", 
         "osm:location": "mathare", 
-        "osm:name": "Brain house academy"
+        "osm:name": "Brain House Academy"
       }, 
       "type": "Feature"
     }, 
@@ -536,13 +538,13 @@
       }, 
       "id": "node/1038219177", 
       "properties": {
-        "osm:_timestamp": "2019-05-10", 
+        "osm:_timestamp": "2019-08-28", 
         "osm:_user": "muindre", 
         "osm:amenity": "school", 
         "osm:education:type": "secondary", 
         "osm:id": "node/1038219177", 
         "osm:location": "mathare", 
-        "osm:name": "Brain house high school"
+        "osm:name": "Brain House High School"
       }, 
       "type": "Feature"
     }, 
@@ -1023,9 +1025,10 @@
       }, 
       "id": "node/1110199109", 
       "properties": {
-        "osm:_timestamp": "2017-10-12", 
+        "osm:_timestamp": "2019-08-28", 
         "osm:_user": "muindre", 
         "osm:amenity": "school", 
+        "osm:education:type": "pre_primary", 
         "osm:id": "node/1110199109", 
         "osm:location": "mathare", 
         "osm:name": "Neema worship centre"
@@ -1410,9 +1413,10 @@
       }, 
       "id": "node/1111586829", 
       "properties": {
-        "osm:_timestamp": "2011-01-20", 
-        "osm:_user": "PrimusK", 
+        "osm:_timestamp": "2019-08-28", 
+        "osm:_user": "muindre", 
         "osm:amenity": "school", 
+        "osm:education:type": "secondary", 
         "osm:id": "node/1111586829", 
         "osm:location": "mathare", 
         "osm:name": "Proposed Ruaraka Girls High School"
@@ -1467,9 +1471,10 @@
       }, 
       "id": "node/1111586949", 
       "properties": {
-        "osm:_timestamp": "2011-01-20", 
-        "osm:_user": "PrimusK", 
+        "osm:_timestamp": "2019-08-28", 
+        "osm:_user": "muindre", 
         "osm:amenity": "school", 
+        "osm:education:type": "secondary", 
         "osm:id": "node/1111586949", 
         "osm:location": "mathare", 
         "osm:name": "Alfa Riviera Secondary School"
@@ -1517,25 +1522,6 @@
     {
       "geometry": {
         "coordinates": [
-          36.8749607, 
-          -1.2513162
-        ], 
-        "type": "Point"
-      }, 
-      "id": "node/1111587145", 
-      "properties": {
-        "osm:_timestamp": "2011-01-20", 
-        "osm:_user": "PrimusK", 
-        "osm:amenity": "school", 
-        "osm:id": "node/1111587145", 
-        "osm:location": "mathare", 
-        "osm:name": "Kasarani Victory Academy"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
           36.8622156, 
           -1.2629153
         ], 
@@ -1550,26 +1536,6 @@
         "osm:id": "node/1112885024", 
         "osm:location": "mathare", 
         "osm:name": "Thayu kindergaten"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          36.8681175, 
-          -1.259195
-        ], 
-        "type": "Point"
-      }, 
-      "id": "node/1123193291", 
-      "properties": {
-        "osm:_timestamp": "2019-05-09", 
-        "osm:_user": "muindre", 
-        "osm:amenity": "school", 
-        "osm:education:type": "primary", 
-        "osm:id": "node/1123193291", 
-        "osm:location": "mathare", 
-        "osm:name": "Eden Annex Primary School"
       }, 
       "type": "Feature"
     }, 
@@ -1602,13 +1568,13 @@
       }, 
       "id": "node/1123193312", 
       "properties": {
-        "osm:_timestamp": "2019-05-09", 
+        "osm:_timestamp": "2019-08-28", 
         "osm:_user": "muindre", 
         "osm:amenity": "school", 
         "osm:education:type": "primary", 
         "osm:id": "node/1123193312", 
         "osm:location": "mathare", 
-        "osm:name": "Ananda Manga primary school"
+        "osm:name": "Ananda Marga Primary School"
       }, 
       "type": "Feature"
     }, 
@@ -1653,25 +1619,6 @@
     {
       "geometry": {
         "coordinates": [
-          36.868063, 
-          -1.258267
-        ], 
-        "type": "Point"
-      }, 
-      "id": "node/1123193346", 
-      "properties": {
-        "osm:_timestamp": "2011-01-27", 
-        "osm:_user": "PrimusK", 
-        "osm:amenity": "school", 
-        "osm:id": "node/1123193346", 
-        "osm:location": "mathare", 
-        "osm:name": "Urban View Educational Centre"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
           36.8683188, 
           -1.258656
         ], 
@@ -1688,25 +1635,6 @@
         "osm:location": "mathare", 
         "osm:name": "Ananda Marga Academy", 
         "osm:operator:type": "community"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          36.8683266, 
-          -1.2600267
-        ], 
-        "type": "Point"
-      }, 
-      "id": "node/1123193364", 
-      "properties": {
-        "osm:_timestamp": "2011-01-27", 
-        "osm:_user": "PrimusK", 
-        "osm:amenity": "school", 
-        "osm:id": "node/1123193364", 
-        "osm:location": "mathare", 
-        "osm:name": "Eden Annex preparatory school"
       }, 
       "type": "Feature"
     }, 
@@ -1816,13 +1744,13 @@
       }, 
       "id": "node/1123201169", 
       "properties": {
-        "osm:_timestamp": "2019-08-23", 
+        "osm:_timestamp": "2019-08-28", 
         "osm:_user": "muindre", 
         "osm:amenity": "school", 
+        "osm:education:type": "primary", 
         "osm:id": "node/1123201169", 
         "osm:location": "mathare", 
-        "osm:name": "Genesis Immaculate Primary School", 
-        "osm:name:it": "Genesis"
+        "osm:name": "Genesis Immaculate Primary School"
       }, 
       "type": "Feature"
     }, 
@@ -1887,26 +1815,6 @@
     {
       "geometry": {
         "coordinates": [
-          36.8652117, 
-          -1.2605148
-        ], 
-        "type": "Point"
-      }, 
-      "id": "node/1124602203", 
-      "properties": {
-        "osm:_timestamp": "2019-05-20", 
-        "osm:_user": "fondolucy", 
-        "osm:amenity": "school", 
-        "osm:education:type": "primary", 
-        "osm:id": "node/1124602203", 
-        "osm:location": "mathare", 
-        "osm:name": "Bishop Kitonga Academy"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
           36.8658781, 
           -1.2584229
         ], 
@@ -1934,9 +1842,10 @@
       }, 
       "id": "node/1124602272", 
       "properties": {
-        "osm:_timestamp": "2011-01-28", 
-        "osm:_user": "PrimusK", 
+        "osm:_timestamp": "2019-08-28", 
+        "osm:_user": "muindre", 
         "osm:amenity": "school", 
+        "osm:education:type": "primary", 
         "osm:id": "node/1124602272", 
         "osm:location": "mathare", 
         "osm:name": "Pilot Educational Centre"
@@ -2020,9 +1929,10 @@
       }, 
       "id": "node/2374943971", 
       "properties": {
-        "osm:_timestamp": "2019-05-07", 
+        "osm:_timestamp": "2019-08-28", 
         "osm:_user": "muindre", 
         "osm:amenity": "school", 
+        "osm:education:type": "vocational", 
         "osm:id": "node/2374943971", 
         "osm:location": "mathare", 
         "osm:name": "Muungano Adult Education Center"
@@ -4079,9 +3989,10 @@
       }, 
       "id": "node/4465952472", 
       "properties": {
-        "osm:_timestamp": "2016-10-27", 
-        "osm:_user": "fondolucy", 
+        "osm:_timestamp": "2019-08-28", 
+        "osm:_user": "muindre", 
         "osm:amenity": "school", 
+        "osm:education:type": "primary", 
         "osm:id": "node/4465952472", 
         "osm:location": "mathare", 
         "osm:name": "Mathare Community Outreach"
@@ -4833,11 +4744,12 @@
       }, 
       "id": "node/6224915188", 
       "properties": {
-        "osm:_timestamp": "2019-01-21", 
-        "osm:_user": "DingoKG", 
+        "osm:_timestamp": "2019-08-28", 
+        "osm:_user": "muindre", 
         "osm:addr:city": "Nairobi", 
         "osm:addr:street": "Thika Road", 
         "osm:amenity": "school", 
+        "osm:education:type": "primary", 
         "osm:id": "node/6224915188", 
         "osm:location": "mathare", 
         "osm:name": "St Benedict Primary School"
@@ -5367,16 +5279,17 @@
     {
       "geometry": {
         "coordinates": [
-          36.871042, 
-          -1.253694
+          36.871034, 
+          -1.2536886
         ], 
         "type": "Point"
       }, 
       "id": "node/6445077906", 
       "properties": {
-        "osm:_timestamp": "2019-05-03", 
+        "osm:_timestamp": "2019-08-28", 
         "osm:_user": "muindre", 
         "osm:amenity": "school", 
+        "osm:education:type": "primary", 
         "osm:id": "node/6445077906", 
         "osm:location": "mathare", 
         "osm:name": "Mogra Star Primary And Secondary Schools"
@@ -6443,14 +6356,14 @@
     {
       "geometry": {
         "coordinates": [
-          36.865349, 
-          -1.259106
+          36.8653342, 
+          -1.2591006
         ], 
         "type": "Point"
       }, 
       "id": "node/6445081207", 
       "properties": {
-        "osm:_timestamp": "2019-05-03", 
+        "osm:_timestamp": "2019-08-28", 
         "osm:_user": "muindre", 
         "osm:accessibility": "small_cars,foot,big_vehicles", 
         "osm:amenity": "school", 
@@ -6610,14 +6523,14 @@
     {
       "geometry": {
         "coordinates": [
-          36.865297, 
-          -1.258866
+          36.8652715, 
+          -1.2588727
         ], 
         "type": "Point"
       }, 
       "id": "node/6445081210", 
       "properties": {
-        "osm:_timestamp": "2019-05-03", 
+        "osm:_timestamp": "2019-08-28", 
         "osm:_user": "muindre", 
         "osm:accessibility": "small_cars,foot,big_vehicles", 
         "osm:amenity": "school", 
@@ -6643,6 +6556,7 @@
         "osm:education:teachers_female": "3", 
         "osm:education:teachers_male": "5", 
         "osm:education:teachers_trained": "8", 
+        "osm:education:type": "primary", 
         "osm:electricity:operational_status": "always", 
         "osm:id": "node/6445081210", 
         "osm:leisure": "playground", 
@@ -6864,9 +6778,10 @@
       }, 
       "id": "node/6445081215", 
       "properties": {
-        "osm:_timestamp": "2019-05-07", 
+        "osm:_timestamp": "2019-08-28", 
         "osm:_user": "muindre", 
         "osm:amenity": "school", 
+        "osm:education:type": "primary", 
         "osm:id": "node/6445081215", 
         "osm:location": "mathare", 
         "osm:name": "Huruma Primary School"
@@ -7440,15 +7355,15 @@
     {
       "geometry": {
         "coordinates": [
-          36.8684903, 
-          -1.2590506
+          36.8684896, 
+          -1.2590493
         ], 
         "type": "Point"
       }, 
       "id": "node/6445111391", 
       "properties": {
-        "osm:_timestamp": "2019-05-20", 
-        "osm:_user": "habi", 
+        "osm:_timestamp": "2019-08-28", 
+        "osm:_user": "muindre", 
         "osm:accessibility": "small_cars,foot,big_vehicles", 
         "osm:amenity": "school", 
         "osm:barrier": "gate", 
@@ -7479,7 +7394,7 @@
         "osm:government:registered": "faith_based_organisation", 
         "osm:id": "node/6445111391", 
         "osm:location": "mathare", 
-        "osm:name": "Amanda Marga Academy", 
+        "osm:name": "Ananda Marga Academy", 
         "osm:operator:description": "fbo", 
         "osm:operator:type": "religious", 
         "osm:start_date": "1995", 
@@ -7501,7 +7416,7 @@
       }, 
       "id": "node/6445111392", 
       "properties": {
-        "osm:_timestamp": "2019-05-03", 
+        "osm:_timestamp": "2019-08-28", 
         "osm:_user": "muindre", 
         "osm:accessibility": "small_cars,foot,big_vehicles", 
         "osm:amenity": "school", 
@@ -7529,7 +7444,7 @@
         "osm:id": "node/6445111392", 
         "osm:leisure": "playground", 
         "osm:location": "mathare", 
-        "osm:name": "Pilot Education Day Care Center Preschool", 
+        "osm:name": "Pilot Education Day Care Center Pre-School", 
         "osm:operator:type": "APBET", 
         "osm:registration_date": "2017", 
         "osm:room:kitchen": "yes", 
@@ -8029,15 +7944,15 @@
     {
       "geometry": {
         "coordinates": [
-          36.876526, 
-          -1.258097
+          36.8765166, 
+          -1.2580715
         ], 
         "type": "Point"
       }, 
       "id": "node/6445111406", 
       "properties": {
-        "osm:_timestamp": "2019-05-20", 
-        "osm:_user": "habi", 
+        "osm:_timestamp": "2019-08-28", 
+        "osm:_user": "muindre", 
         "osm:accessibility": "small_cars,foot,big_vehicles", 
         "osm:amenity": "school", 
         "osm:barrier": "gate", 
@@ -8893,25 +8808,6 @@
     {
       "geometry": {
         "coordinates": [
-          36.868527, 
-          -1.259124
-        ], 
-        "type": "Point"
-      }, 
-      "id": "node/6445129686", 
-      "properties": {
-        "osm:_timestamp": "2019-05-03", 
-        "osm:_user": "muindre", 
-        "osm:amenity": "school", 
-        "osm:id": "node/6445129686", 
-        "osm:location": "mathare", 
-        "osm:name": "Amanda Marga Academy"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
           36.866802, 
           -1.26106
         ], 
@@ -9292,8 +9188,8 @@
       }, 
       "id": "node/6445132391", 
       "properties": {
-        "osm:_timestamp": "2019-05-23", 
-        "osm:_user": "TheBlackMan", 
+        "osm:_timestamp": "2019-08-28", 
+        "osm:_user": "muindre", 
         "osm:accessibility": "foot", 
         "osm:amenity": "school", 
         "osm:barrier": "gate", 
@@ -9312,10 +9208,10 @@
         "osm:education:program_feeding_description": "fees", 
         "osm:education:students": "528", 
         "osm:education:teachers_female": "2", 
+        "osm:education:type": "primary", 
         "osm:electricity:operational_status": "always", 
         "osm:government:registered": "mgcsd", 
         "osm:id": "node/6445132391", 
-        "osm:isced:level": "1", 
         "osm:leisure": "playground", 
         "osm:location": "mathare", 
         "osm:name": "Emmanuel Middle School", 
@@ -9442,25 +9338,6 @@
         "osm:toilets:female": "1", 
         "osm:toilets:male": "1", 
         "osm:waste:garbage_disposal": "sometimes"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          36.873245, 
-          -1.257509
-        ], 
-        "type": "Point"
-      }, 
-      "id": "node/6445132394", 
-      "properties": {
-        "osm:_timestamp": "2019-05-03", 
-        "osm:_user": "muindre", 
-        "osm:amenity": "school", 
-        "osm:id": "node/6445132394", 
-        "osm:location": "mathare", 
-        "osm:name": "Tumaini School"
       }, 
       "type": "Feature"
     }, 
