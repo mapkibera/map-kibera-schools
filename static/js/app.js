@@ -14,7 +14,7 @@
   // misc config and constants
   app.config = {
     map: {
-      tiles: 'https://{s}.tile.openstreetmap.fr/hot/{z}/{x}/{y}.png',
+      tiles: 'http://{s}.tile.openstreetmap.fr/hot/{z}/{x}/{y}.png',
       centre: [-1.293, 36.817],
       zoom: 13 + zoomAdjust,
       localZoom: 17

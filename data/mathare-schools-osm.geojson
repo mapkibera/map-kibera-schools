@@ -360,12 +360,11 @@
       }, 
       "id": "node/1038202665", 
       "properties": {
-        "osm:_timestamp": "2017-10-12", 
-        "osm:_user": "muindre", 
+        "osm:_timestamp": "2019-09-24", 
+        "osm:_user": "iTax27", 
         "osm:amenity": "school", 
         "osm:id": "node/1038202665", 
-        "osm:location": "mathare", 
-        "osm:name": "School"
+        "osm:location": "mathare"
       }, 
       "type": "Feature"
     }, 
@@ -5008,8 +5007,8 @@
       }, 
       "id": "node/6445077894", 
       "properties": {
-        "osm:_timestamp": "2019-05-03", 
-        "osm:_user": "muindre", 
+        "osm:_timestamp": "2020-01-05", 
+        "osm:_user": "mueschel", 
         "osm:accessibility": "small_cars,foot,big_vehicles", 
         "osm:amenity": "school", 
         "osm:barrier": "gate", 
@@ -5035,9 +5034,7 @@
         "osm:education:program_feeding_description_1": "2000", 
         "osm:education:students": "163", 
         "osm:education:teachers_female": "3", 
-        "osm:education:teachers_female_1": "3", 
         "osm:education:teachers_male": "5", 
-        "osm:education:teachers_male_1": "5", 
         "osm:education:teachers_trained": "4", 
         "osm:education:type": "primary", 
         "osm:electricity:operational_status": "always", 
@@ -8260,8 +8257,8 @@
       }, 
       "id": "node/6445111412", 
       "properties": {
-        "osm:_timestamp": "2019-05-20", 
-        "osm:_user": "habi", 
+        "osm:_timestamp": "2020-01-05", 
+        "osm:_user": "mueschel", 
         "osm:accessibility": "small_cars,foot,big_vehicles", 
         "osm:amenity": "school", 
         "osm:barrier": "gate", 
@@ -8277,7 +8274,6 @@
         "osm:education:fees_level2": "500", 
         "osm:education:fees_level3": "500", 
         "osm:education:fees_lunch": "500", 
-        "osm:education:funding_3": "y", 
         "osm:education:gender_type": "mixed", 
         "osm:education:management_committee": "yes", 
         "osm:education:operate_as": "day_school", 
@@ -8287,9 +8283,7 @@
         "osm:education:students_female": "464", 
         "osm:education:students_male": "428", 
         "osm:education:teachers_female": "14", 
-        "osm:education:teachers_female_1": "14", 
         "osm:education:teachers_male": "5", 
-        "osm:education:teachers_male_1": "5", 
         "osm:education:teachers_trained": "19", 
         "osm:education:tsc_employed": "19", 
         "osm:education:type": "primary", 
@@ -9521,6 +9515,30 @@
         "osm:id": "node/6583228985", 
         "osm:location": "mathare", 
         "osm:name": "Moi Forces Academy"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          36.8524983, 
+          -1.2632748
+        ], 
+        "type": "Point"
+      }, 
+      "id": "node/7098406185", 
+      "properties": {
+        "osm:_timestamp": "2019-12-31", 
+        "osm:_user": "Arbonerin", 
+        "osm:addr:street": "Mathare", 
+        "osm:amenity": "school", 
+        "osm:email": "danielosabinyi@gmail.com", 
+        "osm:id": "node/7098406185", 
+        "osm:location": "mathare", 
+        "osm:name": "Roots Institute Centre", 
+        "osm:operator": "", 
+        "osm:phone": "+254707636104", 
+        "osm:website": "http://www.facebook/Roots-Institute-Centre-1222523637898135/"
       }, 
       "type": "Feature"
     }

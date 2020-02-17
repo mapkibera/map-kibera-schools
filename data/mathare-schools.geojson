@@ -370,12 +370,11 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2017-10-12", 
-        "osm:_user": "muindre", 
+        "osm:_timestamp": "2019-09-24", 
+        "osm:_user": "iTax27", 
         "osm:amenity": "school", 
         "osm:id": "node/1038202665", 
-        "osm:location": "mathare", 
-        "osm:name": "School"
+        "osm:location": "mathare"
       }, 
       "type": "Feature"
     }, 
@@ -5145,8 +5144,8 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2019-05-03", 
-        "osm:_user": "muindre", 
+        "osm:_timestamp": "2020-01-05", 
+        "osm:_user": "mueschel", 
         "osm:accessibility": "small_cars,foot,big_vehicles", 
         "osm:amenity": "school", 
         "osm:barrier": "gate", 
@@ -5172,9 +5171,7 @@
         "osm:education:program_feeding_description_1": "2000", 
         "osm:education:students": "163", 
         "osm:education:teachers_female": "3", 
-        "osm:education:teachers_female_1": "3", 
         "osm:education:teachers_male": "5", 
-        "osm:education:teachers_male_1": "5", 
         "osm:education:teachers_trained": "4", 
         "osm:education:type": "primary", 
         "osm:electricity:operational_status": "always", 
@@ -8465,8 +8462,8 @@
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2019-05-20", 
-        "osm:_user": "habi", 
+        "osm:_timestamp": "2020-01-05", 
+        "osm:_user": "mueschel", 
         "osm:accessibility": "small_cars,foot,big_vehicles", 
         "osm:amenity": "school", 
         "osm:barrier": "gate", 
@@ -8482,7 +8479,6 @@
         "osm:education:fees_level2": "500", 
         "osm:education:fees_level3": "500", 
         "osm:education:fees_lunch": "500", 
-        "osm:education:funding_3": "y", 
         "osm:education:gender_type": "mixed", 
         "osm:education:management_committee": "yes", 
         "osm:education:operate_as": "day_school", 
@@ -8492,9 +8488,7 @@
         "osm:education:students_female": "464", 
         "osm:education:students_male": "428", 
         "osm:education:teachers_female": "14", 
-        "osm:education:teachers_female_1": "14", 
         "osm:education:teachers_male": "5", 
-        "osm:education:teachers_male_1": "5", 
         "osm:education:teachers_trained": "19", 
         "osm:education:tsc_employed": "19", 
         "osm:education:type": "primary", 
@@ -9762,6 +9756,31 @@
       "geometry": {
         "coordinates": [
           [
+            36.8524983, 
+            -1.2632748
+          ]
+        ], 
+        "type": "MultiPoint"
+      }, 
+      "properties": {
+        "osm:_timestamp": "2019-12-31", 
+        "osm:_user": "Arbonerin", 
+        "osm:addr:street": "Mathare", 
+        "osm:amenity": "school", 
+        "osm:email": "danielosabinyi@gmail.com", 
+        "osm:id": "node/7098406185", 
+        "osm:location": "mathare", 
+        "osm:name": "Roots Institute Centre", 
+        "osm:operator": "", 
+        "osm:phone": "+254707636104", 
+        "osm:website": "http://www.facebook/Roots-Institute-Centre-1222523637898135/"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          [
             36.8149215, 
             -1.2721676
           ]
@@ -9784,21 +9803,19 @@
       "geometry": {
         "coordinates": [
           [
-            36.8153261, 
-            -1.2409526
+            36.8103358, 
+            -1.2762364
           ]
         ], 
         "type": "MultiPoint"
       }, 
       "properties": {
-        "osm:_timestamp": "2019-02-04", 
-        "osm:_user": "DingoKG", 
-        "osm:addr:city": "Nairobi", 
-        "osm:addr:street": "Limuru Road", 
+        "osm:_timestamp": "2019-11-12", 
+        "osm:_user": "James Magige", 
         "osm:amenity": "school", 
-        "osm:id": "node/863195382", 
+        "osm:id": "node/30406053", 
         "osm:location": "kangemi", 
-        "osm:name": "Kenya Technical Teachers College KTTC"
+        "osm:name": "State House Girls High School"
       }, 
       "type": "Feature"
     }, 
@@ -28199,6 +28216,87 @@
         "osm:toilets:male": "5", 
         "osm:toilets:teachers": "2", 
         "osm:water:source": "water_tank"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            36.8186045, 
+            -1.256068
+          ]
+        ], 
+        "type": "MultiPoint"
+      }, 
+      "properties": {
+        "osm:_timestamp": "2019-12-26", 
+        "osm:_user": "mueschel", 
+        "osm:accessibility": "small_cars,big_vehicles,foot", 
+        "osm:amenity": "school", 
+        "osm:building:material": "concrete cement_block", 
+        "osm:building:roof": "ironsheet", 
+        "osm:contact:address": "33079-00600", 
+        "osm:contact:email": "highridgegirlssecseh@yahoo.com", 
+        "osm:contact:phone": "0722788714", 
+        "osm:education:admission_fee": "0", 
+        "osm:education:bom_employed": "yes", 
+        "osm:education:bom_how_many": "11", 
+        "osm:education:curriculum": "8_4_4", 
+        "osm:education:exam_center": "yes", 
+        "osm:education:exam_fee": "0", 
+        "osm:education:extra_drama": "yes", 
+        "osm:education:extra_music": "yes", 
+        "osm:education:extra_other": "Debate,Journalism,Cu,Ycs,Muslim Club", 
+        "osm:education:extra_scouts": "yes", 
+        "osm:education:extra_sports": "yes", 
+        "osm:education:fees": "yes", 
+        "osm:education:fees_per_year": "40535", 
+        "osm:education:gender_type": "girls", 
+        "osm:education:government_grants": "yes", 
+        "osm:education:government_registered": "yes", 
+        "osm:education:how_many": "0", 
+        "osm:education:lunch_fee": "0", 
+        "osm:education:management_committee": "yes", 
+        "osm:education:mean_score": "4.3", 
+        "osm:education:nemis_code": "yes", 
+        "osm:education:ntsa_approved_teachers": "0", 
+        "osm:education:operate_as": "boarding_school", 
+        "osm:education:parents_teachers_association": "yes", 
+        "osm:education:program_counselling": "yes", 
+        "osm:education:program_feeding": "yes", 
+        "osm:education:program_feeding_description": "school_fees", 
+        "osm:education:program_orphans": "yes", 
+        "osm:education:sanitary_towel_distribution": "no", 
+        "osm:education:school_head": "Grace Otom", 
+        "osm:education:special_needs": "yes", 
+        "osm:education:students": "506", 
+        "osm:education:students_female": "506", 
+        "osm:education:students_male": "0", 
+        "osm:education:teachers": "23", 
+        "osm:education:teachers_female": "13", 
+        "osm:education:teachers_male": "10", 
+        "osm:education:teachers_trained": "23", 
+        "osm:education:trip_fee": "0", 
+        "osm:education:tsc_employed": "yes", 
+        "osm:education:tsc_how_many": "12", 
+        "osm:education:type": "secondary", 
+        "osm:education:which_ministry": "ministry_of_education", 
+        "osm:electricity:operational_status": "always", 
+        "osm:id": "node/5953237484", 
+        "osm:image:classroom": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1538554911316.jpg", 
+        "osm:image:compound": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1538554803156.jpg", 
+        "osm:image:sign_post": "https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1538555163142.jpg", 
+        "osm:location": "kangemi", 
+        "osm:name": "Highridge Girls Secondary School", 
+        "osm:operator:description": "government", 
+        "osm:operator:type": "government", 
+        "osm:toilet:boys_toilet": "0", 
+        "osm:toilet:girls_toilet": "16", 
+        "osm:toilet:present": "yes", 
+        "osm:toilet:teachers": "2", 
+        "osm:water:hand_wash_facility": "yes", 
+        "osm:water:source_of_water": "tap"
       }, 
       "type": "Feature"
     }, 

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="Overpass API 0.7.55.7 8b86ff77">
+<osm version="0.6" generator="Overpass API 0.7.55.1011 6c2efc30">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2019-08-28T20:08:02Z"/>
+<meta osm_base="2020-02-14T22:05:02Z"/>
 
   <bounds minlat="-1.2806500" minlon="36.7116700" maxlat="-1.2096000" maxlon="36.8292600"/>
 
@@ -11,11 +11,9 @@
     <tag k="amenity" v="school"/>
     <tag k="name" v="Aga Khan Nursery"/>
   </node>
-  <node id="863195382" lat="-1.2409526" lon="36.8153261" version="2" timestamp="2019-02-04T10:44:49Z" changeset="66899129" uid="6318104" user="DingoKG">
-    <tag k="addr:city" v="Nairobi"/>
-    <tag k="addr:street" v="Limuru Road"/>
+  <node id="30406053" lat="-1.2762364" lon="36.8103358" version="3" timestamp="2019-11-12T07:12:59Z" changeset="76943232" uid="6481264" user="James Magige">
     <tag k="amenity" v="school"/>
-    <tag k="name" v="Kenya Technical Teachers College KTTC"/>
+    <tag k="name" v="State House Girls High School"/>
   </node>
   <node id="4793984521" lat="-1.2654866" lon="36.8226230" version="3" timestamp="2019-02-04T08:51:30Z" changeset="66896649" uid="6318104" user="DingoKG">
     <tag k="addr:city" v="Nairobi"/>
@@ -14368,6 +14366,71 @@
     <tag k="toilets:male" v="5"/>
     <tag k="toilets:teachers" v="2"/>
     <tag k="water:source" v="water_tank"/>
+  </node>
+  <node id="5953237484" lat="-1.2560680" lon="36.8186045" version="3" timestamp="2019-12-26T18:01:09Z" changeset="78893126" uid="616774" user="mueschel">
+    <tag k="accessibility" v="small_cars,big_vehicles,foot"/>
+    <tag k="amenity" v="school"/>
+    <tag k="building:material" v="concrete cement_block"/>
+    <tag k="building:roof" v="ironsheet"/>
+    <tag k="contact:address" v="33079-00600"/>
+    <tag k="contact:email" v="highridgegirlssecseh@yahoo.com"/>
+    <tag k="contact:phone" v="0722788714"/>
+    <tag k="education:admission_fee" v="0"/>
+    <tag k="education:bom_employed" v="yes"/>
+    <tag k="education:bom_how_many" v="11"/>
+    <tag k="education:curriculum" v="8_4_4"/>
+    <tag k="education:exam_center" v="yes"/>
+    <tag k="education:exam_fee" v="0"/>
+    <tag k="education:extra_drama" v="yes"/>
+    <tag k="education:extra_music" v="yes"/>
+    <tag k="education:extra_other" v="Debate,Journalism,Cu,Ycs,Muslim Club"/>
+    <tag k="education:extra_scouts" v="yes"/>
+    <tag k="education:extra_sports" v="yes"/>
+    <tag k="education:fees" v="yes"/>
+    <tag k="education:fees_per_year" v="40535"/>
+    <tag k="education:gender_type" v="girls"/>
+    <tag k="education:government_grants" v="yes"/>
+    <tag k="education:government_registered" v="yes"/>
+    <tag k="education:how_many" v="0"/>
+    <tag k="education:lunch_fee" v="0"/>
+    <tag k="education:management_committee" v="yes"/>
+    <tag k="education:mean_score" v="4.3"/>
+    <tag k="education:nemis_code" v="yes"/>
+    <tag k="education:ntsa_approved_teachers" v="0"/>
+    <tag k="education:operate_as" v="boarding_school"/>
+    <tag k="education:parents_teachers_association" v="yes"/>
+    <tag k="education:program_counselling" v="yes"/>
+    <tag k="education:program_feeding" v="yes"/>
+    <tag k="education:program_feeding_description" v="school_fees"/>
+    <tag k="education:program_orphans" v="yes"/>
+    <tag k="education:sanitary_towel_distribution" v="no"/>
+    <tag k="education:school_head" v="Grace Otom"/>
+    <tag k="education:special_needs" v="yes"/>
+    <tag k="education:students" v="506"/>
+    <tag k="education:students_female" v="506"/>
+    <tag k="education:students_male" v="0"/>
+    <tag k="education:teachers" v="23"/>
+    <tag k="education:teachers_female" v="13"/>
+    <tag k="education:teachers_male" v="10"/>
+    <tag k="education:teachers_trained" v="23"/>
+    <tag k="education:trip_fee" v="0"/>
+    <tag k="education:tsc_employed" v="yes"/>
+    <tag k="education:tsc_how_many" v="12"/>
+    <tag k="education:type" v="secondary"/>
+    <tag k="education:which_ministry" v="ministry_of_education"/>
+    <tag k="electricity:operational_status" v="always"/>
+    <tag k="image:classroom" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1538554911316.jpg"/>
+    <tag k="image:compound" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1538554803156.jpg"/>
+    <tag k="image:sign_post" v="https://kc.humanitarianresponse.info/attachment/original?media_file=mapkibera/attachments/1538555163142.jpg"/>
+    <tag k="name" v="Highridge Girls Secondary School"/>
+    <tag k="operator:description" v="government"/>
+    <tag k="operator:type" v="government"/>
+    <tag k="toilet:boys_toilet" v="0"/>
+    <tag k="toilet:girls_toilet" v="16"/>
+    <tag k="toilet:present" v="yes"/>
+    <tag k="toilet:teachers" v="2"/>
+    <tag k="water:hand_wash_facility" v="yes"/>
+    <tag k="water:source_of_water" v="tap"/>
   </node>
   <node id="5953268876" lat="-1.2559906" lon="36.8166937" version="7" timestamp="2019-03-28T08:25:26Z" changeset="68616245" uid="9225265" user="Oltrarno">
     <tag k="accessibility" v="small_cars,big_vehicles,foot"/>
