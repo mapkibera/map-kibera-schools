@@ -1,5 +1,5 @@
 #/usr/bin/python
-import urllib, urllib2
+import requests
 import csv
 import os
 import geojson
@@ -8,6 +8,7 @@ from datetime import datetime
 import string
 from PIL import Image
 from copy import deepcopy
+import shutil
 
 north = -1.3000
 south = -1.3232
@@ -25,17 +26,33 @@ def writefile(file_name, buf):
   myFile.write(buf)
   myFile.close()
 
-def url2file(url,file_name):
+def cookies_from_file(filename):
+  with open(filename) as file:
+    cookies_data = file.read().replace('\n','').split(';')
+    cookies_dic = {}
+    for x in cookies_data:
+      key = x.split('=')[0]
+      value = x.split('=')[1]
+      cookies_dic[key]=value
+    return cookies_dic
+
+def url2file(url,file_name,raw=False):
   try:
-    req = urllib2.Request(url)
-    rsp = urllib2.urlopen(req)
+    print (url)
+    cookies = cookies_from_file('cookies.txt')
+    rsp = requests.get(url,cookies=cookies,stream=raw)
   except ValueError:
     return
-  except urllib2.HTTPError, err:
-    print str(err.code) + " " + url
+  except requests.HTTPError as err:
+    print (str(rsp.reason) + " " + url)
     return
-  myFile = open(file_name, 'w')
-  myFile.write(rsp.read())
+  if raw:
+    myFile = open(file_name, 'wb')
+    rsp.raw.decode_content = True
+    shutil.copyfileobj(rsp.raw, myFile)
+  else:
+    myFile = open(file_name, 'w')
+    myFile.write(rsp.text)
   myFile.close()
 
 def sync_osm():
@@ -131,9 +148,9 @@ def clean_osm(file):
     properties[ "osm:location" ] = os.path.splitext(os.path.basename(file))[0].split('-')[0]
 
     feature.properties = properties
-    for prop in feature.properties.keys():
-        if prop.startswith('osm:polling_station:'):
-            feature.properties.pop(prop, None)
+    for key in properties.keys():
+        if not key.startswith('osm:polling_station:'):
+            feature.properties[key] = properties[key]
 
   dump = geojson.dumps(osm, sort_keys=True, indent=2)
   writefile(file,dump)
@@ -163,7 +180,7 @@ def compare_osm_kenyaopendata():
               feature.properties[ "kenyaopendata:" + kod_property] = kod_feature.properties[ kod_property ]
 
       if found_match == False:
-        print "WARN: OSM official_name has no match: " + feature.properties['osm:name'] + ", " + feature.properties['osm:official_name'] + ", " + feature['id']
+        print ("WARN: OSM official_name has no match: " + feature.properties['osm:name'] + ", " + feature.properties['osm:official_name'] + ", " + feature['id'])
 
     geom = MultiPoint(points)
     result['features'].append( { "type": "Feature", "properties": feature.properties, "geometry": geom })
@@ -184,7 +201,7 @@ def slug_image(img_url):
   slug = ''.join(c for c in img_url if c in valid_chars)
   return slug
 
-def cache_image(osm_id, osm_name, img_type, img_url):
+def cache_image(osm_id, osm_name, img_type, img_url, retry=True):
   slug = slug_image(img_url)
   cache_dir = "../content/images/cache/" + osm_id + '/' + slug + '/'
   if not os.path.exists(cache_dir):
@@ -193,15 +210,22 @@ def cache_image(osm_id, osm_name, img_type, img_url):
   fileName, fileExtension = os.path.splitext(img_url)
   if not fileExtension:
       fileExtension = ".png"
+
+  if os.path.exists(cache_dir + 'large' + fileExtension) and os.path.exists(cache_dir + 'med' + fileExtension):
+  #cache is already built
+      return
+
   if not os.path.exists(cache_dir + 'orig' + fileExtension):
-    url2file(img_url, cache_dir + 'orig' + fileExtension)
+    url2file(img_url, cache_dir + 'orig' + fileExtension, True)
 
   if os.path.exists(cache_dir + 'orig' + fileExtension):
     try:
       im = Image.open(cache_dir + 'orig' + fileExtension)
     except IOError:
-      print "IMAGE ERROR,can't open image," + osm_name + ",http://www.osm.org/" + osm_id + "," + img_type + "," + img_url
-      #print "orig image error " + cache_dir + 'orig' + fileExtension
+      print ("IMAGE ERROR,can't open image," + osm_name + ",http://www.osm.org/" + osm_id + "," + img_type + "," + img_url)
+      if retry:
+        os.remove(cache_dir + 'orig' + fileExtension)
+        cache_image(osm_id, osm_name, img_type, img_url, False)
       return
 
     size = 1200, 900
@@ -210,7 +234,7 @@ def cache_image(osm_id, osm_name, img_type, img_url):
         im.thumbnail(size)
         im.save(cache_dir + 'large' + fileExtension)
       except KeyError:
-        print "IMAGE ERROR,unknown extension," + osm_name + ",http://www.osm.org/" + osm_id + "," + img_type + "," + img_url
+        print ("IMAGE ERROR,unknown extension," + osm_name + ",http://www.osm.org/" + osm_id + "," + img_type + "," + img_url)
         #print "unknown extension error " + cache_dir + 'med' + fileExtension
         return
 
@@ -220,12 +244,12 @@ def cache_image(osm_id, osm_name, img_type, img_url):
         im.thumbnail(size)
         im.save(cache_dir + 'med' + fileExtension)
       except KeyError:
-        print "IMAGE ERROR,unknown extension," + osm_name + ",http://www.osm.org/" + osm_id + "," + img_type + "," + img_url
+        print ("IMAGE ERROR,unknown extension," + osm_name + ",http://www.osm.org/" + osm_id + "," + img_type + "," + img_url)
         #print "unknown extension error " + cache_dir + 'med' + fileExtension
         return
 
   else:
-    print "IMAGE ERROR,orig missing," + osm_name + ",http://www.osm.org/" + osm_id + "," + img_type + "," + img_url
+    print ("IMAGE ERROR,orig missing," + osm_name + ",http://www.osm.org/" + osm_id + "," + img_type + "," + img_url)
     #print "orig image missing " + cache_dir + 'orig' + fileExtension
 
 def get_image_cache(osm_id, img_type, img_url, cache_size):
@@ -265,6 +289,7 @@ def deploy():
 #TODO make command line configurable .. Fabric?
 #kenyaopendata()
 #filter_kenyaopendata()
+
 sync_osm()
 convert2geojson()
 compare_osm_kenyaopendata()
